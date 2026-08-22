@@ -9,8 +9,8 @@ gzip -k Packages
 
 # ========== Release 文件内容，自行修改下面信息 ==========
 cat > Release << EOF
-Origin: Tony
-Label: 个人源
+Origin: 清野
+Label: 清野
 Suite: stable
 Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm
