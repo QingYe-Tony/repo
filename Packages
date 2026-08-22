@@ -310,6 +310,23 @@ Icon: https://axs66.github.io/pro/icon/snapvision.png
 Name: SnapVision长截图
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapvision/js.json
 
+Package: com.dao.appstoretroller
+Version: 0.1.2
+Architecture: iphoneos-arm64e
+Maintainer: Mineek
+Installed-Size: 524
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: dev.mineek.appstoretroller
+Filename: debs/com.dao.appstoretroller_0.1.2_iphoneos-arm64e.deb
+Size: 20270
+MD5sum: 61dc35659d2222ee4a54a6e2bc034011
+SHA1: f057380b9e2b59cf2fdf57d99f4c3fdcbe04eaf3
+SHA256: 824f91323d753feaf50e131bfdf6b08851090f2d20be7835f50731e4a68507c7
+Section: 嗨-工具
+Description: 伪装成合适的iOS版本，并获取需高iOS版本的应用。
+Author: Mineek
+Name: AppStoreTroller(RootHide)
+
 Package: com.dao.ccless
 Version: 2.1.0.1
 Architecture: iphoneos-arm64
