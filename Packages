@@ -1,0 +1,515 @@
+Package: com.25mao.leftpan.rootless
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.4)
+Filename: debs/左滑返回-2.0.deb
+Size: 32548
+MD5sum: 319da982768fb515598f0232e39663ce
+SHA1: dc8d745b1f4272f23fbe0c3d6571c759d312ea73
+SHA256: 3abadaa0417d110444698c50ca2643338894cfa37ad3845a2e15a9026014db5f
+Section: Tweaks
+Priority: optional
+Description: 左滑返回上一页面
+Author: Mao
+Icon: https://axs66.github.io/pro/icon/zuohua.png
+Name: 左滑返回
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+
+Package: com.Axs.afn
+Version: 3.5.9
+Architecture: iphoneos-arm64
+Maintainer: AFN Team
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/afn_3.5.9_无根.deb
+Size: 2692272
+MD5sum: f78c27f9e02d46e7cfea779611067507
+SHA1: 84c2a92593ddd4663df0fdf5c72e434f26181086
+SHA256: a4e3573d3d22603c2c791a5a04ebcbffd3d5b4596a927268323dcd600fbe895b
+Section: 微信插件
+Description: AFN是一个微信插件
+Author: AFN Team
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: AFN
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/afn/js.json
+
+Package: com.Axs.ccweathermodule
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 356
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/控制中心天气-1.0.4.deb
+Size: 92732
+MD5sum: 09e4c1533416a2636626b2ff6d8eaa0a
+SHA1: 2b2429cbc3cc0aa84479a6193fdd973840bbb290
+SHA256: 7c927994f103e4bfd8b9285d20e6bc5e60b593b85c9230deaf834bf5892a7e7e
+Section: 控制中心
+Description: 控制中心的天气模块。 显示当前天气、温度和每小时预报。
+Author: simon
+Icon: https://axs66.github.io/pro/icon/ccweathermodule.png
+Name: 控制中心天气
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+
+Package: com.Axs.floating-view
+Version: 1.6.0-6
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 2700
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/Fv分屏破解版-1.6.0-6.deb
+Size: 652884
+MD5sum: 8b189bdfd446b1daf9e1faeaa2c9973b
+SHA1: 3f6981bfb23facfabba513b1d913dfb85a2a825c
+SHA256: f5b61f406f02a3769a8d25ce500ebccc9408a7730979047b17c6a711b2ceed4c
+Section: 分屏插件
+Description: 温馨提示:
+  * 1、仅供个人备份与学习研究使用。
+  * 2、本插件未经过大量设备测试，仅在 iPhone 14 Pro iOS 16.2、iPhone 14 Pro Max iOS 16.5 无根越狱环境下测试正常可用。
+  * 3、本版本仅处理授权验证逻辑，插件其他原有逻辑未作修改。若安装后无效、冲突或导致设备/应用异常，请自行卸载。
+  * 4、免责声明：安装和使用本插件所产生的一切风险由使用者自行承担。如因插件本身兼容性、原始代码逻辑或其他未知问题导致设备、系统、应用出现异常，请联系原插件作者处理。本人不承担因此产生的任何责任。
+  * 5、安全预警：鉴于越狱圈内部分特定人员（如Fv作者、苏苏、Wkk等）存在发布恶意格机代码、恶意抹黑及录制栽赃嫁祸视频的前科，需要用户自行甄别，从正确渠道下载插件。
+Author: be-huge
+Icon: https://axs66.github.io/pro/icon/svp.png
+Name: Fv分屏破解版
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/floating-view/js.json
+
+Package: com.Axs.fvicon
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: icon
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/FV分屏-工具图标美化-1.0.0.deb
+Size: 7448
+MD5sum: ec5ef3f4db1a63e64a42658aca98c3ea
+SHA1: 05d6550a128b230ba6355be6e6593541d5596aa9
+SHA256: f3ba8f61c5d755c20f30af76dbda6144bb2111341b3d525609a51617d14489ef
+Section: 分屏插件
+Description: 这款插件的作用是:工具栏图标映射
+  * 无根: /var/jb/var/mobile/Library/FloatingViewInfo/
+  * 隐根:[jbroot]/var/mobile/Library/FloatingViewInfo/
+  * 命名规则：与FV设置界面arc工具栏排序界面的名字为准。如：锁屏.png、截图.png、录屏.png
+Author: icon
+Icon: https://axs66.github.io/pro/icon/svp.png
+Name: FV分屏-工具图标美化
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/fvicon/js.json
+
+Package: com.Axs.kongzhidiy
+Version: 2.3.3-end
+Architecture: iphoneos-arm64
+Maintainer: binglan
+Installed-Size: 3028
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/控制中心美化-2.3.3-end.deb
+Size: 674492
+MD5sum: b45e8be240fcbb02074a08dc0d4971bb
+SHA1: aab8f698c1207223ff4d31d07380c4692cb57d33
+SHA256: 9e36ba4a548d9ed02142560755077e51f32a5cd54a84cfe1e9020300f2488704
+Section: 控制中心
+Description: 这是一个简单的控制中心美化插件。
+Author: binglan
+Icon: https://axs66.github.io/pro/icon/kongzhidiy.png
+Name: 控制中心美化
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/kongzhidiy/js.json
+
+Package: com.Axs.snapper3
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: Jonathan Winger-lang
+Installed-Size: 4148
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Filename: debs/snapper3破解版_1.2.1_无根.deb
+Size: 1233188
+MD5sum: 69dc6658ccf0ca6890a808fa2b00ad33
+SHA1: 6c72de8662aab0ddca937f38737d67301cb5c1c4
+SHA256: b2251c13fffed5f77dfaaa353d6a76e8c358b6b6a0ba1b4863d3e66a9cb22c2c
+Section: Tweaks
+Description: 将截图钉在屏幕上，此为破解版，内置透光图标。
+Author: Jonathan Winger-lang
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper 3
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper/js.json
+
+Package: com.HBWechatHelper.ailun
+Version: 2.1.5
+Architecture: iphoneos-arm64
+Maintainer: HuangBai
+Depends: mobilesubstrate
+Filename: debs/黄白助手_2.1.5_无根.deb
+Size: 6881744
+MD5sum: cd78a4d2cbdfe14009da71b707081986
+SHA1: 9c27e1ec746508b5c178879ce8a61017a8c11cf0
+SHA256: 16261084bc0699ff958635901540be1cf585e11ec2394d8958ab5d1b45a98a5b
+Section: 微信插件
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 黄白助手
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/HBWechat/js.json
+
+Package: com.axs.ios16dao
+Version: 5.2.0-244
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 704
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: debs/DynamicIsland.deb
+Size: 87668
+MD5sum: ba6f5f44cccec52158526634ab14cf65
+SHA1: 589a5038d6dcd02a4e5b446c2fe347ad43257791
+SHA256: c85e0fbc9325049bc1d1e2125a1ad44961cb8cf5322196a0bc6329b84506a1d3
+Section: 灵动岛
+Description: 一款市面上最优秀、功能最完整、最稳定的灵动岛插件。集成授权校验联系:VCR66T
+ * 1. 动态岛自定义背景，支持 PNG/JPG/GIF/MP4。
+ * 2. 录屏的时候，可以隐藏原生岛黑色区域，让效果更美观。
+ * 3. 内置纯代码灵动光圈（如彩虹环、彩虹流星、舞台灯、跑马灯、纯色线框）、漂亮的七彩随机光圈阴影等特效。
+ * 4. 灵动岛左右两侧自定义png图片帧率动画（如写轮眼、跳舞等玩法）。
+ * 5. 本插件无需任何依赖、支持手势录屏触发，已经达到极致水平。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/dynamicnotland.png
+Name: ios16~17动态岛
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ios16dao/js.json
+
+Package: com.axs.screenshellpro
+Version: 5.2.0-61
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 540
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/ScreenShellPro.deb
+Size: 51728
+MD5sum: 6ae4d8266a96dcd5264efc6d33c813a6
+SHA1: 629fc1fee0fc7288ad0d2beec4b3ba4c88e5f7ea
+SHA256: feceb46e0afeb5672dcebcedaa44fe2dcc0373b93f8a5ef02b8f6e13089580c4
+Section: Tweaks
+Description: 专业的 iOS 全局水印&套壳『截屏.录屏』增强工具。插件需要授权才能使用。授权请联系微信：VCR66T
+ * 1. 录屏套壳渲染极快。
+ * 2. 渲染过程中手机不发烫。
+ * 3. 插件不需要任何依赖。
+ * 4. 本插件是目前市面上最好的录屏套壳渲染工具。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/screenshellpro.png
+Name: ScreenShell Pro
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/screenshellpro/js.json
+
+Package: com.axs.snapper3tag
+Version: 5.2.0-237
+Architecture: iphoneos-arm64e
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 884
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/snapper3_fixed.deb
+Size: 482188
+MD5sum: 5077f530d3d742578c66f834701e8354
+SHA1: 728c8c0c94c68110ea915fc9ccdc371168dea019
+SHA256: 4f9b92fbfa81764a419cf4e16a066dd136f7871b2dcee1462783bfc59c1605e0
+Section: Axs-Tweaks
+Description: Snapper3 功能扩展，目前包含：截图标记 + 长截图 + OCR识别 + 翻译 + AI互译 + AI问答 + Sileo长按翻译，修复了原snapper3主体插件第7个图标遮挡一半的bug；将菜单工具栏最后一个“关闭”图标进行固定，增加滑动视觉效果。
+ * 一、【截图标记】
+ * 颜色选择：红/黄/蓝/绿/白/黑等6种颜色；
+ * 箭头标记：手指拖拽绘制方向箭头；
+ * 自由画线：手指跟随绘制任意曲线；
+ * 矩形图标：矩形框选+矩形填充；
+ * 圆形图标：圆形框选+圆形填充；
+ * 撤回操作：一键撤销上一步标注；
+ * 删除操作：一键删除所有标注；
+ * 保存相册：渲染并写入系统相册；
+ * 复制剪贴板：一键复制标注后截图；
+ * 二、【长截图 Pro】
+ * 点击长截图图标一键截长图；
+ * 智能帧匹配，自动拼接；
+ * 支持保存到相册、复制到剪贴板；
+ * 三、【OCR识别】
+ * 使用 PaddleOCR模型识别截图文字；
+ * 半屏浮层展示，支持涂抹选择、一键复制；
+ * 需自备API Token。
+ * 四、【翻译】
+ * 百度翻译 API，自动检测语言双向翻译；
+ * 支持图片翻译和文本翻译两种通道；
+ * 半屏浮层展示，支持涂抹选择、一键复制；
+ * 需自备百度开发者信息中的 AppID 和 密钥。
+ * 五、【Ai互译+问答】
+ * 支持中英文互译和中文问答；
+ * 半屏浮层展示，支持涂抹选择、一键复制；
+ * 需自备阿里云 API Key。
+ * 六、【自定义图标】
+ * 创建 "/var/mobile/Axs/Snapper3图标/自定义文件夹" ，放入以下对应素材，即可替换默认图标：
+ *   截图标记：tag.png / tag_menu.png
+ *   长截图  ：long.png / long_menu.png
+ *   ocr识别 ：ocr.png / ocr_menu.png
+ *   翻译    ：trans.png / trans_menu.png
+ *   Ai互译  ：huyi.png / huyi_menu.png
+ *   Ai回答  ：wenda.png / wenda_menu.png
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper3 Expand
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper3expand/js.json
+
+Package: com.axs.switchicon
+Version: 5.2.0-131
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 836
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/Switch Icon.deb
+Size: 122528
+MD5sum: ab68e821f2630db3ae297f49732e978a
+SHA1: 54b7b2d01ec634d93b465c5f5b565030f11b8f76
+SHA256: 35de138df50dae2c4c160bfbd63bd0189d31d2cda2ca8f14836cca8962f53dc4
+Section: Tweaks
+Description: 一个强大的全局 UISwitch 开关控件，让原生开关显示更有个性；付费插件，需要请联系微信：VCR66T
+ * 一、纯代码开关组
+ * 1. 动态组：昼夜开关、血瞳开关、液态开关，支持流畅的过渡动画与动态视觉效果；
+ * 2. 静态组：日月开关、水滴开关、立体开关、温度开关、星月开关，覆盖多种精致静态样式；
+ * 3. 液态开关：复刻 iOS 26 风格，并支持开启状态颜色自定义；
+ * 4. 日月开关：支持太阳、云朵、月亮、星星颜色自定义，一个开关也能千变万化。
+ * 二、素材开关组
+ * 1. 素材开关：在指定路径放置 on.png/off.png 开关素材；
+ * 2. 支持创建多套，在插件面板自由切换。
+ * 三、温馨提示
+ * 1. 早买早享受，后续免费更新；
+ * 2. 后续增加新样式，新用户可能面临涨价。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/switchicon.png
+Name: Switch Icon
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/switchicon/js.json
+
+Package: com.be-huge.insulation
+Version: 0.1.38.1
+Architecture: iphoneos-arm64e
+Maintainer: doimty
+Installed-Size: 780
+Depends: firmware (>= 15.0)
+Filename: debs/insulation-0.1.38.1-iphoneos-arm64e.deb
+Size: 57024
+MD5sum: 548758f431fed3ae2df216bb491d6c62
+SHA1: fd40899f9d37489c30a01a79d245d80c20af9f45
+SHA256: 75d9920232145bae39c8a3217091e8cb3dec60d0074df265fbfa86a7d44e19c9
+Section: Tweaks
+Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
+Author: be-huge & doimty
+Name: insulation
+
+Package: com.charlieleung.snapvision
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Charlie Leung
+Installed-Size: 1032
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/SnapVision-0.0.1-iphoneos-arm64e.deb
+Size: 175484
+MD5sum: 2bda58cf001eb1907de9c4cbd567f428
+SHA1: 70ffda39993fe73ace005be9b3b60a59bf0dadcf
+SHA256: c6f620a908d223d83841ad5c0d9708c8dc82ded425d6e35fee47bc4dca671e1f
+Section: Tweaks
+Description: 这是一款长截图插件，支持鱿鱼手势，支持openjb分屏手势。快捷url：Prefs:root=long-screenshot
+Author: Charlie Leung
+Icon: https://axs66.github.io/pro/icon/snapvision.png
+Name: SnapVision长截图
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapvision/js.json
+
+Package: com.dao.ccless
+Version: 2.1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules, com.zqbb.ccpay, com.zqbb.qszqb, com.netskao.ccbadgeclear, com.kingpuffdaddi.control-center.ccvpn, com.netskao.cclifttowake, com.kdt.caperfhudmodule, com.kingpuffdaddi.control-center.ccvibration, com.hk.rootless.cc
+Filename: debs/CCLess++(rootless)-2.1.0.1.deb
+Size: 513012
+MD5sum: d79a1c1ef425d5221859681609aeea5d
+SHA1: 8a9790302ba73548d44b54e9df68d7661f386605
+SHA256: a3e88331a41022ba0d64c554f89b3aae32aebb2c8d0b40bc4af5ca0517b30d72
+Section: 嗨-工具
+Description: 超级控制中心模块集合！
+Author: 妖刀
+Name: CCLess++(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccless/js.json
+
+Package: com.dao.pulloverx
+Version: 2.2.1
+Architecture: iphoneos-arm64e
+Maintainer: daodao
+Installed-Size: 796
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: debs/com.dao.pulloverx_2.2.1_beta3-arm64e.deb
+Size: 176130
+MD5sum: 0165b4481c9f669698c98c557a9d5363
+SHA1: ac246417077d8cae4e4a460823113023534bec33
+SHA256: ae82fbcdafae3b870d65c95a2ef7b24b2ed07cca900ea29213a43005106e799a
+Section: 嗨-工具
+Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
+Author: mlgm
+Name: PullOverX(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
+
+Package: com.flex2areo.apptools15roothide
+Version: 2.8.1
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 4152
+Depends: mobilesubstrate
+Filename: debs/com.flex2areo.apptools15roothide_2.8.1_iphoneos-arm64e.deb
+Size: 1315502
+MD5sum: edff120ca9ec35e9c04bd7d5133a1687
+SHA1: 7c0f14ab1ec3c935a90a88419924ab9a60115fe8
+SHA256: 9a35cd513667be397e4735c978483fa4b0e0dc38cfa7ca75d710be7799c49c5f
+Section: Tweaks
+Description: AppTools for iOS15-17 Roothide
+Author: aReo
+Name: AppTools15-17(Roothide)
+
+Package: com.flex2areo.apptools15rootless
+Version: 2.8.1
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 4248
+Depends: mobilesubstrate
+Filename: debs/com.flex2areo.apptools15rootless_2.8.1_iphoneos-arm64.deb
+Size: 1328560
+MD5sum: 188da6bfc3794acefa9ca4ed5a48cdc3
+SHA1: 389a8e5081cb157fa8efeae7a2a527496766c3ca
+SHA256: ebd9a80d5a96883ef392f7dab1e2113e41fe4f1f5854554208ed2380f6a8c1de
+Section: Tweaks
+Description: AppTools for iOS15-17 Rootless
+Author: aReo
+Name: AppTools15-17(Rootless)
+
+Package: com.huami.WCPulse
+Version: 1.6-6
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/WCPulse_1.6-6_隐根.deb
+Size: 6113976
+MD5sum: 89cef91057ff910bae5a07c49ee1fb18
+SHA1: a3dd4d4261406a34608515c2a8ed228ce62cb674
+SHA256: 85dfa6c7998e0586c8cdc4c87bc399085fb9672e64169a9acc9a18a357396f95
+Section: Tweaks
+Description: WCPulse
+Author: huami
+Name: WCPulse
+
+Package: com.opa334.trollstorelite
+Version: 2.1.1+zh1.relaxin29
+Architecture: iphoneos-arm64e
+Maintainer: Fluoxetine氟西汀 (QQ: 1103945342)
+Installed-Size: 1121
+Depends: ldid, ellekit
+Filename: debs/TrollStoreR.deb
+Size: 512356
+MD5sum: 799546e335c4d1b31fe3c05fbf80873b
+SHA1: 988c4461315b4e05f5f555012e789a11f5e64b03
+SHA256: c8a345f548d16a8affae9f8fb7a9e624ab14c76816a4bae757864281841e0809
+Section: Applications
+Description: 由 Fluoxetine氟西汀 修改巨魔 Lite，使其支持 Relaxin/RootHide arm64e 无根越狱环境。App Store 加密应用使用 ElleKit 运行时注入且不修改原签名，解密/巨魔应用保留轻量 Mach-O 注入，并支持 Dylib/DEB 插件注入与卸载。QQ：1103945342
+Author: opa334; Relaxin adaptation by Fluoxetine氟西汀
+Name: 巨魔Lite（Relaxin 兼容版）
+
+Package: com.qimiao.WCRefine
+Version: 2.1-1
+Architecture: iphoneos-arm64
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: debs/WCRefine_2.1-1_无根.deb
+Size: 9772400
+MD5sum: fd9ecc7cf8d3a399e05f8150b717be30
+SHA1: b54a7fb555a960eb80497fe7295bf51cf4a1b86b
+SHA256: dd96799980492761049fb8a392afaca28b46323e83e3619dea89434895ed2d47
+Section: Tweaks
+Priority: optional
+Description: 微信优化的重制版，基于微信8.0.64+版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/eb/b5/a8/ebb5a892-c161-c79f-ba51-2089219fb833/source/512x512bb.jpg
+Name: WCRefine
+
+Package: com.rain.raindyn
+Version: 1.2.0-9+debug
+Architecture: iphoneos-arm64
+Maintainer: Rain
+Installed-Size: 780
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
+Filename: debs/RainIsland.deb
+Size: 67440
+MD5sum: 9580ea483c4b9f51bd3ad3084fb4206f
+SHA1: 573e2c05911a764e1dd45259a993b84a848e82d2
+SHA256: 13e0b6ec5c8d23d2dfee4374e9e63c9ac5e1b77eca509f70b4b24c87277c8403
+Section: Tweaks
+Description: Rain的灵动卡片 - 自定义通知卡片动画效果，支持自定义背景、粒子特效、宠物、天气显示等丰富功能。
+Author: Rain
+Name: Rain的灵动卡片
+
+Package: com.roothide.patcher
+Version: 2.1.5
+Architecture: iphoneos-arm64e
+Maintainer: roothide
+Installed-Size: 2476
+Depends: firmware (>= 15.0), libxar1, ldid, file, dpkg, gawk, plutil(>= 0.2.2-1), uikittools(>= 2.1.6-4)
+Filename: debs/com.roothide.patcher_2.1.5-arm64e.deb
+Size: 894874
+MD5sum: 94043779e90a495735707f5836be7f6a
+SHA1: 583feba8a9b2d2774d06f68c3b0e84e850bc8191
+SHA256: 24540dcc01db6cbe8692660f546e842055f14e5ab6467c0b6d7221a7d098cab8
+Section: Utilities
+Description: patch rootless package to roothide, not work for all packages.
+Author: roothide
+Depiction: https://github.com/roothide/RootHidePatcher
+Icon: https://github.com/roothide/RootHidePatcher/blob/master/derootifier-2-modified.png?raw=true
+Name: RootHide Patcher
+Support: https://github.com/roothide/RootHidePatcher
+
+Package: com.tencent.themebox
+Version: 3.0.3
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/主题盒子_3.0.3_无根.deb
+Size: 9178508
+MD5sum: 7c33ccc23efec6895695ce662dd0adc1
+SHA1: 2e77b99dee3ff46110021498b273e9887f957706
+SHA256: 402d5656316d30faa725aab5ecd4297461759495cdf409cc9be4e7eba08e7c6e
+Section: 微信插件
+Description: 微信主题盒子
+Author: Mao
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 主题盒子
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/themebox/js.json
+
+Package: com.zqbb.savephotos
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs/Hello Snapper3-1.1-1-iphoneos-arm64e.deb
+Size: 3296
+MD5sum: 1751150cd474aa50ff0f747272d0a6d8
+SHA1: d40c1bc63b1cb61cb3fd2dd18b5ea39ab9f606be
+SHA256: 42f539dc5c21251f0b5cdfd22d65496d73e1db34ee676f7f567c20f353199490
+Section: Tweaks
+Description: 全屏截图按钮增加(保存至相册)功能,超过7个按钮时UI补全至7个,强迫症福音~!!!
+Author: zqbb
+Name: Hello Snapper3
+Sileodepiction: https://rootless.002599.xyz/web/com.zqbb.savephotos
+
+Package: org.coolstar.sileo
+Version: 2.5.1-13
+Architecture: iphoneos-arm64e
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: debs/sileo_2.5.1-13_0807-arm64e.deb
+Size: 3013516
+MD5sum: 5375007b436e9dadecd3973c9d437c1d
+SHA1: ccb0a3e226a295356f444b87df4fbf2bec5cca4d
+SHA256: 934545aa21967b0c575899d8ceb87c8e54c7e9c35275a3e31923b420e06d2f2d
+Section: Packaging
+Description: A modern APT package manager frontend
+Author: Amy While <me@anamy.gay>
+Icon: https://getsileo.app/img/icon.png
+Name: Sileo
+Sileodepiction: https://featuredpage.getsileo.app/depiction.json
+
