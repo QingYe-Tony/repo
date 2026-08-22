@@ -417,7 +417,7 @@ Maintainer: iosdump
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
 Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
-Filename: debs/com.iosdump.appdata_2.6.9_iphoneos-arm64e.deb
+Filename: debs/AppData-2.6.9-iphoneos-arm64e.deb
 Size: 3931882
 MD5sum: 6605d86eda61c917bdbf4e39c96db711
 SHA1: cb1193b5b65890a3d5bd638aac7f23a43ad30fd2
