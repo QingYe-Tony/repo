@@ -194,17 +194,16 @@ Name: ScreenShell Pro
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/screenshellpro/js.json
 
 Package: com.axs.snapper3tag
-Version: 5.2.0-237
-Architecture: iphoneos-arm64e
+Version: 5.2.0-242
+Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhini000@163.com>
-Installed-Size: 884
-Pre-Depends: rootless-compat(>= 0.9)
+Installed-Size: 916
 Depends: mobilesubstrate
-Filename: debs/snapper3_fixed.deb
-Size: 482188
-MD5sum: 5077f530d3d742578c66f834701e8354
-SHA1: 728c8c0c94c68110ea915fc9ccdc371168dea019
-SHA256: 4f9b92fbfa81764a419cf4e16a066dd136f7871b2dcee1462783bfc59c1605e0
+Filename: debs/com.axs.snapper3tag_5.2.0-242_iphoneos-arm64.deb
+Size: 141050
+MD5sum: f678d09f8c1ffc30b874b7599db6e187
+SHA1: 612ec127a29e946248f71d976a3af21fc75f0d98
+SHA256: f44cd8c6f543eeac96d88b8785f40ef08f913c2b3f9a2d73570ca5f975bd58fd
 Section: Axs-Tweaks
 Description: Snapper3 功能扩展，目前包含：截图标记 + 长截图 + OCR识别 + 翻译 + AI互译 + AI问答 + Sileo长按翻译，修复了原snapper3主体插件第7个图标遮挡一半的bug；将菜单工具栏最后一个“关闭”图标进行固定，增加滑动视觉效果。
  * 一、【截图标记】
