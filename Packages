@@ -825,6 +825,54 @@ Author: iosdump
 Name: NeoFont
 
 Package: com.iosdump.shellx
+Version: 1.2.1
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 852
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.shellx_1.2.1_iphoneos-arm64e.deb
+Size: 144108
+MD5sum: ec39646ee902cf8597382dd66b40132b
+SHA1: 2c2481099fedc079555054fc0b151e71a9ede103
+SHA256: 76bd1022a9ace73c1ab8257b1032b9f956437424885c324c0861a3b3c9936a4a
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 868
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.shellx_1.2.1_iphoneos-arm64.deb
+Size: 146196
+MD5sum: e4f393ac64d068544e5970f1b8c66c6f
+SHA1: 24a23c1551fd8fbee9ada34d9bd10bd4b7e484fe
+SHA256: b5edf35494da94a1a60b14e9ee50e7743e42b06050f64bcf50e9479505ec799b
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 868
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.shellx_1.2.1_iphoneos-arm.deb
+Size: 146132
+MD5sum: a6387a53914389f743fa487b5f69c1d3
+SHA1: 4c5bcbbe6e369223093baaf002dc70fdea015798
+SHA256: 6fe0f6881cb4077f20a66167ac851aa226f37b3b696799e058830701f1f7f2da
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
 Version: 2.4.1
 Architecture: iphoneos-arm64e
 Maintainer: iosdump
