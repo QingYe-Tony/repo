@@ -148,6 +148,70 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 黄白助手
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/HBWechat/js.json
 
+Package: com.apptools.lite.roothide
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 2428
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.apptools.lite.roothide_1.0.2_iphoneos-arm64e.deb
+Size: 622010
+MD5sum: 33ca90734a988c36b6fe67df8ed650f9
+SHA1: 1ba317c7682cfcf04ca87cabb0961a61a7b0ac3f
+SHA256: a8b7cc6e528257ff9ca9ff0a3bc8d00cad1bbe1a53787431219f6b0f96f04f1c
+Section: Tweaks
+Description: AppTools Lite for iOS15-17 Roothide
+Author: aReo
+Name: AppTools_Lite
+
+Package: com.apptools.lite.roothide
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 2316
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.apptools.lite.roothide_1.0.3_iphoneos-arm64e.deb
+Size: 582054
+MD5sum: 4b9a18ab6e8a367430c2e70ba7ce2c63
+SHA1: d8063d66061b8295ae21cde46895a42cfe0a6e8d
+SHA256: cbcbc39bd796e0e92734ab66fd550876e515ad9d65d036c6f637c844b9de20b2
+Section: Tweaks
+Description: AppTools Lite for iOS15-17 Roothide
+Author: aReo
+Name: AppTools_Lite
+
+Package: com.apptools.lite.rootless
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 2508
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.apptools.lite.rootless_1.0.2_iphoneos-arm64.deb
+Size: 650718
+MD5sum: 8fa2af781b0933f7fd925716479fe9e1
+SHA1: 5c004560139f9747da8bbf23d13c6b29682ec883
+SHA256: db4ef1af08bf51ab89fcae22d3245890716558c3aa6f3f3fb9dcb9e61df61ac2
+Section: Tweaks
+Description: AppTools Lite for iOS15-17 Rootless
+Author: aReo
+Name: AppTools_Lite
+
+Package: com.apptools.lite.rootless
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 2380
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.apptools.lite.rootless_1.0.3_iphoneos-arm64.deb
+Size: 608238
+MD5sum: be82a6287eac1f483c04655edb49a676
+SHA1: 91ec50c4bb84ecc72e5a64e16ffe6d4b8652d48c
+SHA256: 828ce8db74141001cae9278d8e9f76eed62f7ac0568952bd5ac3f70785c6b751
+Section: Tweaks
+Description: AppTools Lite for iOS15-17 Rootless
+Author: aReo
+Name: AppTools_Lite
+
 Package: com.axs.ios16dao
 Version: 5.2.0-244
 Architecture: iphoneos-arm64
