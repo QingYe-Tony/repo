@@ -903,7 +903,8 @@ SHA1: 446325501b1a179828a0d390129d0863fc778e4
 SHA256: a39c394d57b3ef1b7bfb575b5d990071e3c9de7a4c09bfd4fc0dda9993a04b1f
 Section: Tweaks
 Description: 在主屏幕查看应用数据与管理应用
-Pre‑Depends: rootless‑compat(>= 0.9Package: com.iosdump.appdata
+Pre‑Depends: rootless‑compat(>= 0.9）
+Package: com.iosdump.appdata
 Name: AppData
 Version: 2.6.8
 Architecture: iphoneos-arm64e
@@ -911,10 +912,10 @@ Maintainer: iosdump
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
 Conflicts: com.netskao.appdatas,com.netskao.appdata,cn.zqbb.appdata,com.fouadraheb.appdata
 Filename: debs/com.iosdump.appdata_2.6.8_iphoneos-arm64e.deb
-Size: 2077008
-MD5sum: f04c6aa46701aacf9f75cf63f37020bc
-SHA1: 446325501b1a179828a0d390129d0863fc778e4
-SHA256: a39c394d57b3ef1b7bfb575b5d990071e3c9de7a4c09bfd4fc0dda9993a04b1f
+Size: 4142956
+MD5sum: c03cf8ed900224084ba325fe814500d1
+SHA1: 486651d77f3931bff84db876a451225310e5a77f
+SHA256: 90ae0f64ae2ee1291044d68b4c3826016a7f37285b1df778e99f4368441c6a45
 Section: Tweaks
 Description: 在主屏幕查看应用数据与管理应用
 Pre‑Depends: rootless‑compat(>= 0.9)
