@@ -856,6 +856,38 @@ Author: zqbb
 Name: Hello Snapper3
 Sileodepiction: https://rootless.002599.xyz/web/com.zqbb.savephotos
 
+Package: dev.mineek.appstoretroller
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 212
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/dev.mineek.appstoretroller_0.0.2-1+debug_iphoneos-arm64.deb
+Size: 14670
+MD5sum: 56d7f6c79b5dec6e85b3a8e5bc9c25c3
+SHA1: 4aaad3ccf81d51409a176c2c22cec0b01a8c216d
+SHA256: 14aa46347c06b0b984174b8f0cce978acc10f7d13f7e92ebbdc3c9c07035a1db
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak! 将设置移至桌面AppStore长按快捷菜单
+Author: Mineek
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.2-2+debug
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/dev.mineek.appstoretroller_0.0.2-2+debug_iphoneos-arm64e.deb
+Size: 13348
+MD5sum: cb20af0d715be02fcd4230587f7b9944
+SHA1: 7c811ca235ae2cbc3b5cbc2bbfd290a4d52b706e
+SHA256: dae191e72a68987c8e7c6ec2069d1cd118418e33af20563a6d2f539b881f65d1
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak! 将设置移至桌面AppStore长按快捷菜单
+Author: Mineek
+Name: appstoretroller
+
 Package: org.coolstar.sileo
 Version: 2.5.1-13
 Architecture: iphoneos-arm64e
