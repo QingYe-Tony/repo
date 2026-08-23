@@ -345,22 +345,22 @@ Name: CCLess++(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccless/js.json
 
 Package: com.dao.pulloverx
-Version: 2.2.1
-Architecture: iphoneos-arm64e
+Version: 2.2.2
+Architecture: iphoneos-arm
 Maintainer: daodao
 Installed-Size: 796
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
 Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
-Filename: debs/com.dao.pulloverx_2.2.1_beta3-arm64e.deb
-Size: 176130
-MD5sum: 0165b4481c9f669698c98c557a9d5363
-SHA1: ac246417077d8cae4e4a460823113023534bec33
-SHA256: ae82fbcdafae3b870d65c95a2ef7b24b2ed07cca900ea29213a43005106e799a
+Filename: debs/com.dao.pulloverx_2.2.2_iphoneos-arm.deb
+Size: 176026
+MD5sum: 80f80ce5f294ae030fd8f92a0e3ea2ed
+SHA1: a1ec1ef8d1278f21bb9d8832a1a3b138e6c26396
+SHA256: c2cb88db46a40172daef40e20b69a85881dbfb921c5a312ade39b587233a74fd
 Section: 嗨-工具
-Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
+Description: 悬浮多任务窗口工具，基于 mlgm 的 PullOver X 打造的客制化版本。
 Author: mlgm
-Name: PullOverX(RootHide)
+Name: PullOverX
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
 
 Package: com.flex2areo.apptools15roothide
