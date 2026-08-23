@@ -1,3 +1,24 @@
+Package: ai.akemi.appsyncunified
+Version: 116.0
+Architecture: iphoneos-arm64e
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 700
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified, ellekit (<< 1.1)
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Provides: appsync, net.angelxwind.appsyncunified
+Filename: debs/AppSync Unified-116.0-iphoneos-arm64e.deb
+Size: 53712
+MD5sum: e4ad9d1627719b92a94cc74c4d35bf04
+SHA1: a59027d8089cca6cb9366cfdf784e772b95b7c9e
+SHA256: a6359a79568471da3ff101e0cb71b28b028e8a134e0074d01ef7c7ef46a33656
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Name: AppSync Unified
+
 Package: com.25mao.leftpan.rootless
 Version: 2.0
 Architecture: iphoneos-arm64
@@ -15,6 +36,54 @@ Author: Mao
 Icon: https://axs66.github.io/pro/icon/zuohua.png
 Name: 左滑返回
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+
+Package: com.82flex.unseen
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: 82flex
+Installed-Size: 492
+Depends: firmware (>= 14.0), preferenceloader
+Filename: debs/Unseen-0.0.5-iphoneos-arm.deb
+Size: 49816
+MD5sum: 3e726f31ca67f0571b341612e7ae9137
+SHA1: 7dc48057c5a0b445727a56f5f77aa86f13698f4c
+SHA256: 6c4aa0ca5a6f44a5ccc1c41d303f604edee80e1bf860abd8a06e95049a10c57d
+Section: Tweaks
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Author: 82flex
+Name: Unseen
+
+Package: com.82flex.unseen
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: 82flex
+Installed-Size: 492
+Depends: firmware (>= 14.0), preferenceloader
+Filename: debs/Unseen-0.0.5-iphoneos-arm64.deb
+Size: 49876
+MD5sum: 2905eaa7b25d9dbad0fd7b4b6e301405
+SHA1: ded053762c6d76ce461ca87f448620faa8c65587
+SHA256: 74f8a1df69bf25ef3a733d4b783ceeb657b61aed9872790f5e2af72f17139ebb
+Section: Tweaks
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Author: 82flex
+Name: Unseen
+
+Package: com.82flex.unseen
+Version: 0.0.5
+Architecture: iphoneos-arm64e
+Maintainer: 82flex
+Installed-Size: 492
+Depends: firmware (>= 14.0), preferenceloader
+Filename: debs/Unseen-0.0.5-iphoneos-arm64e.deb
+Size: 49798
+MD5sum: 616faaf2cc2b4e60939ffc5d0e67a569
+SHA1: 576b6c576a4e795aa6b4d8705588d2cfa8f5461c
+SHA256: 883d4605ea041bc20a0770c0ed20575991cdc57cd25a38143720ba270167d28c
+Section: Tweaks
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Author: 82flex
+Name: Unseen
 
 Package: com.Axs.afn
 Version: 3.5.9
@@ -576,6 +645,25 @@ Author: mlgm
 Name: PullOverX(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
 
+Package: com.developlab.appbadges
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: developlab
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.developlab.appbadge
+Filename: debs/AppBadge 应用胶囊-1.0-iphoneos-arm64e.deb
+Size: 9252
+MD5sum: 2d7a934d3a5a008b0df2919c1c93077b
+SHA1: 0e9592fd669cef65b9fbded404f58c03514be8d6
+SHA256: 926928383a0dca3ed80ea3530cfc8c0809b38c327a7ce9793089103092da5c38
+Section: 插件
+Description: 在刘海或灵动岛下显示应用的「图标、名称、版本」
+Author: developlab
+Icon: https://TrollStoreX.Github.io/sileodepiction/AppBadge/icon.png
+Name: AppBadge 应用胶囊
+
 Package: com.flex2areo.apptools15roothide
 Version: 2.8.1
 Architecture: iphoneos-arm64e
@@ -653,6 +741,54 @@ Section: Tweaks
 Description: WCPulse
 Author: huami
 Name: WCPulse
+
+Package: com.iosdump.airdrop
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/AirDrop-0.0.1-iphoneos-arm64.deb
+Size: 3390
+MD5sum: 79a93b17f1202f6eb669f751a330b80f
+SHA1: f44e503f79593bf7c02ec944fc40ec6caa88ffc0
+SHA256: 776531c56354321c14153dde55b950fd8974275476ea4649dc162c3e099ee038
+Section: Tweaks
+Description: 解除隔空十分钟限制iOS16+
+Author: iosdump
+Name: AirDrop
+
+Package: com.iosdump.airdrop
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: debs/AirDrop-0.0.2-iphoneos-arm64.deb
+Size: 7478
+MD5sum: 96d50d9108878a2574fca9da775bd5ff
+SHA1: 5d81f954877fc96e7ae621d370564cf9dbec9a67
+SHA256: 7610e7532d76f78476598ed4dbf0942e24ad64bc09b72b27ff3d0ca1a3e2edc8
+Section: Tweaks
+Description: 解除隔空投送十分钟限制，支持设置自定义关闭时间，4秒内控制中心隔空投送连续点击两次所有人即可触发设置弹窗，支持iOS16.1.1+
+Author: iosdump
+Name: AirDrop
+
+Package: com.iosdump.airdrop
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: debs/AirDrop-0.0.2-iphoneos-arm64e.deb
+Size: 7432
+MD5sum: 3a9c44a88731f309908dafb3a90e6461
+SHA1: a583b2814d184c922cc58aea09159f9bc3721dc1
+SHA256: a1229d3c7e5d7bb4cb6c3de8d589013dfd6b52336e6947b351bd67ee35c0ab52
+Section: Tweaks
+Description: 解除隔空投送十分钟限制，支持设置自定义关闭时间，4秒内控制中心隔空投送连续点击两次所有人即可触发设置弹窗，支持iOS16.1.1+
+Author: iosdump
+Name: AirDrop
 
 Package: com.iosdump.appdata
 Version: 2.6.8
@@ -922,6 +1058,24 @@ Section: Tweaks
 Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
 Author: iosdump
 Name: SHELLX
+
+Package: com.opa334.crane
+Version: 1.3.17-2
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Installed-Size: 3252
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy (>=1.1.6), com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: debs/Crane-1.3.17-2-iphoneos-arm64e.deb
+Size: 1560700
+MD5sum: da5bc6bc3e9a4e6a2bbcc9a1d9e1410c
+SHA1: 0f185c6a5acefbaeb12978b688a247f98bd5e026
+SHA256: e618d72344a765b1650b43ed6086a95b9000bae746bcb5820dd4ecdd38dad4b8
+Section: Tweaks
+Description: Multiple containers for your applications!
+Author: opa334
+Name: Crane
 
 Package: com.opa334.trollstorelite
 Version: 2.1.1+zh1.relaxin29
