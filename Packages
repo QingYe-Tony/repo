@@ -1234,6 +1234,23 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 主题盒子
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/themebox/js.json
 
+Package: com.yourepo.axs.snapper
+Version: 5.2.0-269
+Architecture: iphoneos-arm64e
+Maintainer: Axs <qiaozhini000@163.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.yourepo.axs.snapper_5.2.0-269_iphoneos-arm64e.deb
+Size: 217478
+MD5sum: daeb81e1859775169bd55ec8c4f09197
+SHA1: 606d6935cc683fd9e71149f2cdc2e24ef4166aae
+SHA256: 2fcffc721a289c2b05901eb442916ed1c2d249d89a3e2963482880d69bebb19e
+Section: System (Axs-Tweaks)
+Description: Snapper3 功能扩展，目前包含：截图标记 + 长截图 + OCR识别 + 翻译 + AI互译 + AI问答 + Sileo长按翻译；修复了原snapper3主体插件第7个图标遮挡一半的bug；将菜单工具栏最后一个“关闭”图标进行固定，增加滑动视觉效果。
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper3 Expand
+
 Package: com.zqbb.savephotos
 Version: 1.1-1
 Architecture: iphoneos-arm64e
