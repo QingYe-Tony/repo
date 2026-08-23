@@ -636,6 +636,54 @@ Author: iosdump
 Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
 Name: AppData
 
+Package: com.iosdump.neofont
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 396
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.neofont_0.0.1_iphoneos-arm.deb
+Size: 34022
+MD5sum: 25b50095700f35d366b5273f58163c8c
+SHA1: 0a9ae2a9d542c4ce3ce4db6693e3422769370f43
+SHA256: ebcb54ea6aa7b5ff1143590f01a66758b80419d7fb436083ed40c8c49347bb4b
+Section: Tweaks
+Description: iOS 14-17+ 免挂载修改系统字体
+Author: iosdump
+Name: NeoFont
+
+Package: com.iosdump.neofont
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 396
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.neofont_0.0.1_iphoneos-arm64.deb
+Size: 33948
+MD5sum: 8b56c4edc049a5bbdd851e0b75848092
+SHA1: b9d8ebeee91d57aab603b19b1416b23684dd2a53
+SHA256: aa96b94a6c504ac8f7c9d24cd2d5e3dc84d5a19160e7ca6bff7c44db95b6a291
+Section: Tweaks
+Description: iOS 14-17+ 免挂载修改系统字体
+Author: iosdump
+Name: NeoFont
+
+Package: com.iosdump.neofont
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 396
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.neofont_0.0.1_iphoneos-arm64e.deb
+Size: 32080
+MD5sum: 1a82b3bc74ee00d42927e5076f2ce941
+SHA1: bb858535a6ecbf0c6f82e6d9465767f2610e135c
+SHA256: efa38f1d0cc41370d4e060a7baa26d040c80a4b9187e1e1c016a28fed3311bb7
+Section: Tweaks
+Description: iOS 14-17+ 免挂载修改系统字体
+Author: iosdump
+Name: NeoFont
+
 Package: com.iosdump.shellx
 Version: 2.4.1
 Architecture: iphoneos-arm64e
