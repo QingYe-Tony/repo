@@ -3,7 +3,7 @@
 rm -f Packages Packages.bz2 Packages.gz
 
 # 递归扫描整个debs文件夹，开启多版本，支持同一个包多个版本
-dpkg-scanpackages --multiversion debs /dev/null > Packages
+dpkg-scanpackages debs /dev/null 2>/dev/null > ./Packages
 
 # 生成压缩索引 (Cydia/Sileo必需)
 bzip2 -k Packages
