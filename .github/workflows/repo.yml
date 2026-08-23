@@ -16,7 +16,7 @@ jobs:
 
       - name: Generate Packages
         run: |
-          dpkg-scanpackages --multiversion debs /dev/null > Packages
+          dpkg-scanpackages --multiversion debs /dev/null 2>/dev/null > Packages
           gzip -k -f Packages
           bzip2 -k -f Packages
 
