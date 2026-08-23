@@ -889,4 +889,18 @@ Depiction: https://chariz.com/get/newterm-beta
 Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
 Name: NewTerm 3 Beta
 Support: https://hashbang.productions/support/
-
+Package: com.iosdump.appdata
+Name: AppData
+Version: 2.6.9
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas,com.netskao.appdata,cn.zqbb.appdata,com.fouadraheb.appdata
+Filename: debs/com.iosdump.appdata_2.6.9_iphoneos-arm64e.deb
+Size: 2077008
+MD5sum: f04c6aa46701aacf9f75cf63f37020bc
+SHA1: 446325501b1a179828a0d390129d0863fc778e4
+SHA256: a39c394d57b3ef1b7bfb575b5d990071e3c9de7a4c09bfd4fc0dda9993a04b1f
+Section: Tweaks
+Description: 在主屏幕查看应用数据与管理应用
+Pre‑Depends: rootless‑compat(>= 0.9)
