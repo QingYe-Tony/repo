@@ -1,4 +1,4 @@
-name: Build Cydia Repo
+name: Auto Build Cydia Repo
 on:
   push:
       branches: [ master ]
