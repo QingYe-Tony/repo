@@ -53,6 +53,38 @@ Description: Neutralizes CALayer disableUpdateMask in the render server
 Author: 82flex
 Name: Unseen
 
+Package: com.82flex.unseen
+Version: 0.0.5
+Architecture: iphoneos-arm64e
+Maintainer: 82flex
+Installed-Size: 492
+Depends: firmware (>= 14.0), preferenceloader
+Filename: debs/Unseen-0.0.5-iphoneos-arm64e.deb
+Size: 49798
+MD5sum: 616faaf2cc2b4e60939ffc5d0e67a569
+SHA1: 576b6c576a4e795aa6b4d8705588d2cfa8f5461c
+SHA256: 883d4605ea041bc20a0770c0ed20575991cdc57cd25a38143720ba270167d28c
+Section: Tweaks
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Author: 82flex
+Name: Unseen
+
+Package: com.82flex.unseen
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: 82flex
+Installed-Size: 492
+Depends: firmware (>= 14.0), preferenceloader
+Filename: debs/Unseen-0.0.5-iphoneos-arm64.deb
+Size: 49876
+MD5sum: 2905eaa7b25d9dbad0fd7b4b6e301405
+SHA1: ded053762c6d76ce461ca87f448620faa8c65587
+SHA256: 74f8a1df69bf25ef3a733d4b783ceeb657b61aed9872790f5e2af72f17139ebb
+Section: Tweaks
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Author: 82flex
+Name: Unseen
+
 Package: com.Axs.CCMusicPlayer
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -239,6 +271,22 @@ Name: 黄白助手
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/HBWechat/js.json
 
 Package: com.apptools.lite.roothide
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 2428
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.apptools.lite.roothide_1.0.2_iphoneos-arm64e.deb
+Size: 622010
+MD5sum: 33ca90734a988c36b6fe67df8ed650f9
+SHA1: 1ba317c7682cfcf04ca87cabb0961a61a7b0ac3f
+SHA256: a8b7cc6e528257ff9ca9ff0a3bc8d00cad1bbe1a53787431219f6b0f96f04f1c
+Section: Tweaks
+Description: AppTools Lite for iOS15-17 Roothide
+Author: aReo
+Name: AppTools_Lite
+
+Package: com.apptools.lite.roothide
 Version: 1.0.3
 Architecture: iphoneos-arm64e
 Maintainer: aReo
@@ -251,6 +299,22 @@ SHA1: d8063d66061b8295ae21cde46895a42cfe0a6e8d
 SHA256: cbcbc39bd796e0e92734ab66fd550876e515ad9d65d036c6f637c844b9de20b2
 Section: Tweaks
 Description: AppTools Lite for iOS15-17 Roothide
+Author: aReo
+Name: AppTools_Lite
+
+Package: com.apptools.lite.rootless
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 2508
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.apptools.lite.rootless_1.0.2_iphoneos-arm64.deb
+Size: 650718
+MD5sum: 8fa2af781b0933f7fd925716479fe9e1
+SHA1: 5c004560139f9747da8bbf23d13c6b29682ec883
+SHA256: db4ef1af08bf51ab89fcae22d3245890716558c3aa6f3f3fb9dcb9e61df61ac2
+Section: Tweaks
+Description: AppTools Lite for iOS15-17 Rootless
 Author: aReo
 Name: AppTools_Lite
 
@@ -289,6 +353,112 @@ Name: AppData
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/appdata/js.json
 
 Package: com.axs.clipboard
+Version: 5.2.0-110
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 944
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: debs/Clipboard_5.2.0-110.deb
+Size: 109824
+MD5sum: 6d05650d78376806c57210223f01a08a
+SHA1: b501c0f68efa0b95faeaa545a53004dfae4e6f2e
+SHA256: 841fdd339dc8cf91bf7d2d1ba712810f22244ed6dc9cb95975b3c5d891c3e749
+Section: Axs-Tweaks
+Description: 剪贴板管理器，支持自动保存文本和图片记录。
+ 1. 支持自动粘贴，面板内一键复制/粘贴；
+ 2. 支持长按分词，独立复制；
+ 3. 支持历史条数与显示行数设置；
+ 4. 支持多种激活方式：键盘预测栏、听写键、第三方手势插件；
+ 5. 支持一键清空剪贴板；
+ 6. 支持显示保存时间；收藏内容可以自定义排序；
+ 7. 支持屏蔽iOS16+"粘贴自"横幅提示。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/clipboard.png
+Name: Clipboard
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/clipboard/js.json
+
+Package: com.axs.clipboard
+Version: 5.2.0-172
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1136
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: debs/Clipboard_5.2.0-172.deb
+Size: 144198
+MD5sum: 03dd68b5f32bef85e0d0be2e69d159d5
+SHA1: 440a67f55ce7e273dcc90aa55e9282f3411f7337
+SHA256: f09ea0d8d1dfb39a2edf6549afc02cc9ed168d68285469faa8ead44afd71da4c
+Section: Axs-Tweaks
+Description: 剪贴板管理器，支持自动保存文本和图片记录。
+ 1. 支持自动粘贴与自动提升模式，面板内一键复制/粘贴；
+ 2. 支持长按文字条目分词选取，独立复制选中词块；
+ 3. 支持复制/粘贴音效反馈与触感反馈（可分别控制开关）；
+ 4. 支持历史条数与内容预览行数设置；
+ 5. 支持 4 种激活方式：听写键、编辑菜单、长按地球键、系统键盘上滑；
+ 6. 支持内容过滤（全部/文本/链接/图片）、收藏夹拖拽排序、面板内容快捷搜索；
+ 7. 支持显示保存时间和来源 App 图标，图片条目展示缩略图；
+ 8. 支持深色/浅色模式自适应、全屏/抽屉切换、横屏全屏适配；
+ 9. 支持屏蔽 iOS 16+ 粘贴横幅提示。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/clipboard.png
+Name: Clipboard
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/clipboard/js.json
+
+Package: com.axs.clipboard
+Version: 5.2.0-175
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1136
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: debs/Clipboard_5.2.0-175.deb
+Size: 144470
+MD5sum: c9d3053d3cf746c39b5ba467bb0496e9
+SHA1: c8abe9dda627836a4793aec269d59ff91b832203
+SHA256: b56ad5ac080b936ef2c0fbe8bb023287cc49c4bc718a8bcc142855f9457fff2b
+Section: Axs-Tweaks
+Description: 剪贴板管理器，支持自动保存文本和图片记录。
+ 1. 支持自动粘贴与自动提升模式，面板内一键复制/粘贴；
+ 2. 支持长按文字条目分词选取，独立复制选中词块；
+ 3. 支持复制/粘贴音效反馈与触感反馈（可分别控制开关）；
+ 4. 支持历史条数与内容预览行数设置；
+ 5. 支持 4 种激活方式：听写键、编辑菜单、长按地球键、系统键盘上滑；
+ 6. 支持内容过滤（全部/文本/链接/图片）、收藏夹拖拽排序、面板内容快捷搜索；
+ 7. 支持显示保存时间和来源 App 图标，图片条目展示缩略图；
+ 8. 支持深色/浅色模式自适应、全屏/抽屉切换、横屏全屏适配；
+ 9. 支持屏蔽 iOS 16+ 粘贴横幅提示。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/clipboard.png
+Name: Clipboard
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/clipboard/js.json
+
+Package: com.axs.clipboard
+Version: 5.2.0-178
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1136
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: debs/Clipboard_5.2.0-178.deb
+Size: 145096
+MD5sum: 6d3fd5a19530b532daa41e3d6873d563
+SHA1: 68544d35ad3942fbde1ed723b2bc1d75c779644c
+SHA256: 9dce9c27a60506e200f4beac1c57fe61f5f444b577bdc6de4ada608de3ea7479
+Section: Axs-Tweaks
+Description: 剪贴板管理器，支持自动保存文本和图片记录。
+ 1. 支持自动粘贴与自动提升模式，面板内一键复制/粘贴；
+ 2. 支持长按文字条目分词选取，独立复制选中词块；
+ 3. 支持复制/粘贴音效反馈与触感反馈（可分别控制开关）；
+ 4. 支持历史条数与内容预览行数设置；
+ 5. 支持 4 种激活方式：听写键、编辑菜单、长按地球键、系统键盘上滑；
+ 6. 支持内容过滤（全部/文本/链接/图片）、收藏夹拖拽排序、面板内容快捷搜索；
+ 7. 支持显示保存时间和来源 App 图标，图片条目展示缩略图；
+ 8. 支持深色/浅色模式自适应、全屏/抽屉切换、横屏全屏适配；
+ 9. 支持屏蔽 iOS 16+ 粘贴横幅提示。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/clipboard.png
+Name: Clipboard
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/clipboard/js.json
+
+Package: com.axs.clipboard
 Version: 5.2.0-179
 Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhani000@163.com>
@@ -310,6 +480,30 @@ Description: 剪贴板管理器，支持自动保存文本和图片记录。
  7. 支持显示保存时间和来源 App 图标，图片条目展示缩略图；
  8. 支持深色/浅色模式自适应、全屏/抽屉切换、横屏全屏适配；
  9. 支持屏蔽 iOS 16+ 粘贴横幅提示。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/clipboard.png
+Name: Clipboard
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/clipboard/js.json
+
+Package: com.axs.clipboard
+Version: 5.2.0-98
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 824
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: debs/Clipboard_5.2.0-98.deb
+Size: 90976
+MD5sum: ae195181012eb57fd13299243b91d219
+SHA1: 5005e0f956ab84c5ff2c07a071bc029f95b7978b
+SHA256: cc6422f43d6d9187e265199ffcb41fc28f9579c89320eae4704c37e0fedf723a
+Section: Axs-Tweaks
+Description: 剪贴板管理器，支持自动保存文本和图片记录。
+ 1. 支持自动粘贴，面板内一键复制/粘贴；
+ 2. 支持多种激活方式：键盘预测栏、听写键、第三方手势插件；
+ 3. 支持一键清空剪贴板；
+ 4. 支持显示保存时间；
+ 5. 支持收藏内容可以自定义排序；
+ 6. 支持屏蔽iOS16+"粘贴自"横幅提示。
 Author: Axs <qiaozhani000@163.com>
 Icon: https://axs66.github.io/pro/icon/clipboard.png
 Name: Clipboard
@@ -465,6 +659,96 @@ Author: Mineek
 Name: AppStoreTroller(RootHide)
 
 Package: com.dao.axon
+Version: 2.3.1
+Architecture: iphoneos-arm64
+Maintainer: 刀刀
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: debs/Axon(rootless)_2.3.1.deb
+Size: 153948
+MD5sum: a05a1a89b23da2da9cc261234842756d
+SHA1: 764ec6cf7f904f6f72d681cf88cd241b0d1c2d0b
+SHA256: 1ef5480e56adfc1a405d5effa5e610f333e312cfe1f11524d33f14b546f00c80
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，刀刀中文优化版。
+Author: Nepeta & daodao
+Name: Axon 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.axon
+Version: 2.3.1
+Architecture: iphoneos-arm64e
+Maintainer: 刀刀
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: debs/Axon 中文版(RootHide)_2.3.1.deb
+Size: 153846
+MD5sum: f59e4c8f233d4f59909eb9d32a5201ee
+SHA1: 73043c15802c73e68418cf3ff40b6b897544c02f
+SHA256: 0d4a9b75305152774ed38ee019dd86867c7ecaf620489b2927808fa16e2cfa67
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，刀刀中文优化版。
+Author: Nepeta & daodao
+Name: Axon 中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.axon
+Version: 2.3.1
+Architecture: iphoneos-arm
+Maintainer: 刀刀
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: debs/Axon_ZH_2.3.1.deb
+Size: 154074
+MD5sum: 5dc411f2b6e7906d3ea7169bea3f74be
+SHA1: d78087b907904ccaaa4fa757c98fb01977318c15
+SHA256: c393604b72645c995c0237917ed6f7be00d450e65b612c1579521595b0fa07e9
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，刀刀中文优化版。
+Author: Nepeta & daodao
+Name: Axon 中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.axon
+Version: 2.3.1
+Architecture: iphoneos-arm64e
+Maintainer: 刀刀
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: debs/Axon(RootHide)_2.3.1.deb
+Size: 153846
+MD5sum: f59e4c8f233d4f59909eb9d32a5201ee
+SHA1: 73043c15802c73e68418cf3ff40b6b897544c02f
+SHA256: 0d4a9b75305152774ed38ee019dd86867c7ecaf620489b2927808fa16e2cfa67
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，刀刀中文优化版。
+Author: Nepeta & daodao
+Name: Axon 中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.axon
+Version: 2.3.1
+Architecture: iphoneos-arm64
+Maintainer: 刀刀
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: debs/Axon 中文版(rootless)_2.3.1.deb
+Size: 153948
+MD5sum: a05a1a89b23da2da9cc261234842756d
+SHA1: 764ec6cf7f904f6f72d681cf88cd241b0d1c2d0b
+SHA256: 1ef5480e56adfc1a405d5effa5e610f333e312cfe1f11524d33f14b546f00c80
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，刀刀中文优化版。
+Author: Nepeta & daodao
+Name: Axon 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.axon
 Version: 2.5.3
 Architecture: iphoneos-arm64e
 Maintainer: 刀刀
@@ -472,6 +756,78 @@ Installed-Size: 688
 Depends: mobilesubstrate, firmware (>= 14.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
 Filename: debs/Axon 中文版(RootHide)_2.5.3.deb
+Size: 155810
+MD5sum: 8135611aa15cbd17d87bfcd2f0c83b14
+SHA1: c73b0ff93d24259d74b7dc35c7844b2b430de560
+SHA256: 3362db0fd7b666bf54eda7bec88562d8b562e0520d1cfc943588c95901ccc105
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
+Author: Nepeta & daodao
+Name: Axon 中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.axon
+Version: 2.5.3
+Architecture: iphoneos-arm64
+Maintainer: 刀刀
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: debs/Axon(rootless)_2.5.3.deb
+Size: 156134
+MD5sum: 454b33c58da5a9ec028f8e3c48875190
+SHA1: f264bd3ecf0ad8f740a82fb9c0abf879c5301337
+SHA256: c80c2814d4f79025d77415ca95717eadf4a62fce50cdccb08076aa09659c0ab9
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
+Author: Nepeta & daodao
+Name: Axon 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.axon
+Version: 2.5.3
+Architecture: iphoneos-arm
+Maintainer: 刀刀
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: debs/Axon_2.5.3.deb
+Size: 155816
+MD5sum: b5099d69c2e50ac4c936556f9526f1d5
+SHA1: 1c54b806d64d8915a6ae382430061a14f91f8a2b
+SHA256: f82353059dcea6f0579f9c3ec9fc4296d9096b554780d5dcccb6e56c650597c6
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
+Author: Nepeta & daodao
+Name: Axon 中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.axon
+Version: 2.5.3
+Architecture: iphoneos-arm64
+Maintainer: 刀刀
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: debs/Axon 中文版(rootless)_2.5.3.deb
+Size: 156134
+MD5sum: 454b33c58da5a9ec028f8e3c48875190
+SHA1: f264bd3ecf0ad8f740a82fb9c0abf879c5301337
+SHA256: c80c2814d4f79025d77415ca95717eadf4a62fce50cdccb08076aa09659c0ab9
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
+Author: Nepeta & daodao
+Name: Axon 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.axon
+Version: 2.5.3
+Architecture: iphoneos-arm64e
+Maintainer: 刀刀
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: debs/Axon(RootHide)_2.5.3.deb
 Size: 155810
 MD5sum: 8135611aa15cbd17d87bfcd2f0c83b14
 SHA1: c73b0ff93d24259d74b7dc35c7844b2b430de560
@@ -500,6 +856,60 @@ Name: CCLess++(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccless/js.json
 
 Package: com.dao.picobanner
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: daodao
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.liddell, dev.traurige.liddell
+Filename: debs/PicoBanner(rootless)_1.1.deb
+Size: 126836
+MD5sum: 50cb3e6abbdfd1325fd45cda73946337
+SHA1: f1b3493fd2533f732b1ca687fe217168ec8bc1e2
+SHA256: e921afec1db835606312e19a1402420706cf6eb30af08efabc536c9a466b5137
+Section: 嗨-工具
+Description: 样式丰富多彩的小巧通知横幅。
+Author: daodao
+Name: PicoBanner(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
+
+Package: com.dao.picobanner
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: daodao
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.liddell, dev.traurige.liddell
+Filename: debs/PicoBanner(RootHide)_1.1.deb
+Size: 126010
+MD5sum: add85d125355ce5f98f40b55ea93f664
+SHA1: f5028f7cf556a6c52467c9830a57a9b06ba4ed19
+SHA256: 610dcda3d54c32e3b4cd27dc1b5cd5e5397b54078693340b91548d4d22ab08f9
+Section: 嗨-工具
+Description: 样式丰富多彩的小巧通知横幅。
+Author: daodao
+Name: PicoBanner(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
+
+Package: com.dao.picobanner
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: daodao
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.liddell, dev.traurige.liddell
+Filename: debs/PicoBanner_1.1.deb
+Size: 126402
+MD5sum: 080477a007e954874be1283b4a3b586f
+SHA1: 0f68519e9e9c8394e62c3ef4348b11a7d7b0deda
+SHA256: 0e44431a851ddd642d4839508ef8ef36a2218d96e30578dab177bc5644dd3fce
+Section: 嗨-工具
+Description: 样式丰富多彩的小巧通知横幅。
+Author: daodao
+Name: PicoBanner
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
+
+Package: com.dao.picobanner
 Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: daodao
@@ -516,6 +926,156 @@ Description: 样式丰富多彩的小巧通知横幅。
 Author: daodao
 Name: PicoBanner(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
+
+Package: com.dao.picobanner
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: daodao
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.liddell, dev.traurige.liddell
+Filename: debs/PicoBanner(RootHide)_1.2.deb
+Size: 126230
+MD5sum: aefa99f05f6a478d2381db8fae1a3b44
+SHA1: 1afc7ce932bba43ca1c2d2a907ca14ac5947e941
+SHA256: f1c13e26fcc23b540126ad6e177c03e2f63dbc48e1206c55e9672e7fe1e0d625
+Section: 嗨-工具
+Description: 样式丰富多彩的小巧通知横幅。
+Author: daodao
+Name: PicoBanner(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
+
+Package: com.dao.picobanner
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: daodao
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.liddell, dev.traurige.liddell
+Filename: debs/PicoBanner_1.2.deb
+Size: 127200
+MD5sum: d1b641562a5e34cd67bee8ab24693112
+SHA1: f856ca6e89bf002b1b6b97352602bcb1613195e1
+SHA256: cff97b5bd40c592cf6f1f6fd1f2961038c8db7bd7986ac55da0df663bbd819ae
+Section: 嗨-工具
+Description: 样式丰富多彩的小巧通知横幅。
+Author: daodao
+Name: PicoBanner
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
+
+Package: com.dao.pulloverx
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: daodao
+Installed-Size: 796
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: debs/com.dao.pulloverx_2.2.1_beta3-arm.deb
+Size: 175676
+MD5sum: 3917d1c1f797507c2abd29af31383656
+SHA1: ae7928a0cffee45530fb83b71113d0902d2b841d
+SHA256: 449ce696dfa4e94683030dc7e7d07d5c8872bf2752a3e335c8aad99b59860de9
+Section: 嗨-工具
+Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
+Author: mlgm
+Name: PullOverX
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
+
+Package: com.dao.pulloverx
+Version: 2.2.1
+Architecture: iphoneos-arm64e
+Maintainer: daodao
+Installed-Size: 796
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: debs/com.dao.pulloverx_2.2.1_beta3-arm64e.deb
+Size: 176130
+MD5sum: 0165b4481c9f669698c98c557a9d5363
+SHA1: ac246417077d8cae4e4a460823113023534bec33
+SHA256: ae82fbcdafae3b870d65c95a2ef7b24b2ed07cca900ea29213a43005106e799a
+Section: 嗨-工具
+Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
+Author: mlgm
+Name: PullOverX(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
+
+Package: com.dao.pulloverx
+Version: 2.2.1
+Architecture: iphoneos-arm64
+Maintainer: daodao
+Installed-Size: 796
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: debs/com.dao.pulloverx_2.2.1_beta3-arm64.deb
+Size: 175946
+MD5sum: dc5ec92b8f8ee7f500e7776790bd1c97
+SHA1: a6c6a69034e20e58dbd7c968b70ac8d3b3d4054e
+SHA256: b3a48a78c792cdd54628135387850b6e5f7144c7fd2038f2a016734d627a10de
+Section: 嗨-工具
+Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
+Author: mlgm
+Name: PullOverX(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
+
+Package: com.dao.pulloverx
+Version: 2.2.2
+Architecture: iphoneos-arm
+Maintainer: daodao
+Installed-Size: 796
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: debs/com.dao.pulloverx_2.2.2_iphoneos-arm.deb
+Size: 176026
+MD5sum: 80f80ce5f294ae030fd8f92a0e3ea2ed
+SHA1: a1ec1ef8d1278f21bb9d8832a1a3b138e6c26396
+SHA256: c2cb88db46a40172daef40e20b69a85881dbfb921c5a312ade39b587233a74fd
+Section: 嗨-工具
+Description: 悬浮多任务窗口工具，基于 mlgm 的 PullOver X 打造的客制化版本。
+Author: mlgm
+Name: PullOverX
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
+
+Package: com.dao.pulloverx
+Version: 2.2.2
+Architecture: iphoneos-arm64
+Maintainer: daodao
+Installed-Size: 796
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: debs/com.dao.pulloverx_2.2.2_iphoneos-arm64.deb
+Size: 176280
+MD5sum: 304cb74cba7802467b47a8d28c8d9a90
+SHA1: f99e30be0167d0ba4d28d96e624def7994649f7c
+SHA256: 26e6f89a2f0c0f49fdc2754c936765510251de77c7531f775f42ffce1b8ae12c
+Section: 嗨-工具
+Description: 悬浮多任务窗口工具，基于 mlgm 的 PullOver X 打造的客制化版本。
+Author: mlgm
+Name: PullOverX(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
+
+Package: com.dao.pulloverx
+Version: 2.2.2
+Architecture: iphoneos-arm64e
+Maintainer: daodao
+Installed-Size: 796
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: debs/com.dao.pulloverx_2.2.2_iphoneos-arm64e.deb
+Size: 176312
+MD5sum: 92292ac8b5a35e9c92e808bdc431703d
+SHA1: f9c9c4d2b408dcb274409efc9bf35fdccd327fbd
+SHA256: da686f3af342eaacf4b738ea8058a36489e65d0a31072ceb4a38a3491cd7556d
+Section: 嗨-工具
+Description: 悬浮多任务窗口工具，基于 mlgm 的 PullOver X 打造的客制化版本。
+Author: mlgm
+Name: PullOverX(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
 
 Package: com.dao.pulloverx
 Version: 2.2.4
@@ -536,6 +1096,95 @@ Author: mlgm
 Name: PullOverX(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
 
+Package: com.dao.pulloverx
+Version: 2.2.4
+Architecture: iphoneos-arm
+Maintainer: daodao
+Installed-Size: 812
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: debs/com.dao.pulloverx_2.2.4_iphoneos-arm.deb
+Size: 181018
+MD5sum: 2574daaf374d869643832a91d0801a3d
+SHA1: c09338b8bdfca0fbfb20cfeb157f8f922257c89b
+SHA256: 6d35a60b496d710e30f1c3b3916a70bb588d564d738e2971fea93b4770436a9c
+Section: 嗨-工具
+Description: 悬浮多任务窗口工具，基于 mlgm 的 PullOver X 打造的客制化版本。
+Author: mlgm
+Name: PullOverX
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
+
+Package: com.dao.pulloverx
+Version: 2.2.4
+Architecture: iphoneos-arm64e
+Maintainer: daodao
+Installed-Size: 812
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: debs/com.dao.pulloverx_2.2.4_iphoneos-arm64e.deb
+Size: 179634
+MD5sum: 1c3fc1ccab0d5e69f68a6189d8bd97f9
+SHA1: fea131969c10648f9d516f33333242a77a7b9e58
+SHA256: 364eb86899a7d7124a12a68c64d276fc16ff6eb9864419806f93bc55f6737438
+Section: 嗨-工具
+Description: 悬浮多任务窗口工具，基于 mlgm 的 PullOver X 打造的客制化版本。
+Author: mlgm
+Name: PullOverX(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
+
+Package: com.dao.trollstore.cn
+Version: 2.0.15
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 184
+Depends: mobilesubstrate
+Conflicts: com.qms.trollstore.cn, com.hk.trollstore.cn, com.hk.trollstore.cn.rl
+Filename: debs/TrollStore_CN_2.0.15.deb
+Size: 14196
+MD5sum: 8d156923d0839231349f2f174f60fbef
+SHA1: 6fe32532a48cd3229b059dcbf2037fbe418457b6
+SHA256: 8ee14f656cfbbcc1c4291be79c5d6c5e61f4ab79b1f6283853d5558c23868bfc
+Section: 嗨-汉化
+Description: TrollStore 简体中文包。
+Author: 妖刀
+Name: TrollStore 简体中文包
+
+Package: com.dao.trollstore.cn
+Version: 2.0.15
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 184
+Depends: mobilesubstrate
+Conflicts: com.qms.trollstore.cn, com.hk.trollstore.cn, com.hk.trollstore.cn.rl
+Filename: debs/TrollStore 简体中文包(RootHide)_2.0.15.deb
+Size: 14226
+MD5sum: 24f75b8a3486558bb3243a93d1e19222
+SHA1: 8a767c62d0782af069163d9f63ff0dc83768537a
+SHA256: a67ef00eb29da5272045e4ce030ef1653e63aeb0b3d8848124a8563596041922
+Section: 嗨-汉化
+Description: TrollStore 简体中文包(RootHide)。
+Author: 妖刀
+Name: TrollStore 简体中文包(RootHide)
+
+Package: com.dao.trollstore.cn
+Version: 2.0.15
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 184
+Depends: mobilesubstrate
+Conflicts: com.qms.trollstore.cn, com.hk.trollstore.cn, com.hk.trollstore.cn.rl
+Filename: debs/TrollStore 简体中文包(rootless)_2.0.15.deb
+Size: 14326
+MD5sum: 0b23298b80c481152a7c1d5f92da860b
+SHA1: 56a27ce6a01fe762464c9ac30d19046a4bec1486
+SHA256: 7804f35bb03c2507009214d1894542dfb15dc5e89701b14d013ec0d1f9ccd018
+Section: 嗨-汉化
+Description: TrollStore 简体中文包(rootless)。
+Author: 妖刀
+Name: TrollStore 简体中文包(rootless)
+
 Package: com.dao.trollstore.cn
 Version: 2.1
 Architecture: iphoneos-arm
@@ -552,6 +1201,40 @@ Section: 嗨-汉化
 Description: TrollStore 和 TrollStore Lite 的简体中文包。
 Author: 妖刀
 Name: TrollStore 简体中文包
+
+Package: com.dao.trollstore.cn
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 184
+Depends: mobilesubstrate
+Conflicts: com.qms.trollstore.cn, com.hk.trollstore.cn, com.hk.trollstore.cn.rl
+Filename: debs/TrollStore 简体中文包(RootHide).deb
+Size: 15226
+MD5sum: 4cc786580a046f43c3d05a1cbd7a1b79
+SHA1: ad7d3f25481963f4835ac137d27aa5bdea69b936
+SHA256: 6ace754a292d0b870ffe18a994aab4ae5c0082b01306bae9b866ac0399e8fa2c
+Section: 嗨-汉化
+Description: TrollStore 和 TrollStore Lite 的简体中文包。
+Author: 妖刀
+Name: TrollStore 简体中文包(RootHide)
+
+Package: com.dao.trollstore.cn
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 184
+Depends: mobilesubstrate
+Conflicts: com.qms.trollstore.cn, com.hk.trollstore.cn, com.hk.trollstore.cn.rl
+Filename: debs/TrollStore 简体中文包(rootless).deb
+Size: 15224
+MD5sum: 8ebcd17154cdc08e0ac7a1c323399d1a
+SHA1: 03c6a708d44c5e8a3b29d0516e62dfe192735690
+SHA256: eeb487365ec29494f46e4ae3adabfea64edbb431117eece8e5faded175220c44
+Section: 嗨-汉化
+Description: TrollStore 和 TrollStore Lite 的简体中文包。
+Author: 妖刀
+Name: TrollStore 简体中文包(rootless)
 
 Package: com.developlab.appbadges
 Version: 1.0
@@ -655,6 +1338,37 @@ Description: WCPulse
 Author: huami
 Name: WCPulse
 
+Package: com.huami.WCPulse
+Version: 1.6-6
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/WCPulse_1.6-6_隐根.deb
+Size: 6113976
+MD5sum: 89cef91057ff910bae5a07c49ee1fb18
+SHA1: a3dd4d4261406a34608515c2a8ed228ce62cb674
+SHA256: 85dfa6c7998e0586c8cdc4c87bc399085fb9672e64169a9acc9a18a357396f95
+Section: Tweaks
+Description: WCPulse
+Author: huami
+Name: WCPulse
+
+Package: com.iosdump.airdrop
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/AirDrop-0.0.1-iphoneos-arm64.deb
+Size: 3390
+MD5sum: 79a93b17f1202f6eb669f751a330b80f
+SHA1: f44e503f79593bf7c02ec944fc40ec6caa88ffc0
+SHA256: 776531c56354321c14153dde55b950fd8974275476ea4649dc162c3e099ee038
+Section: Tweaks
+Description: 解除隔空十分钟限制iOS16+
+Author: iosdump
+Name: AirDrop
+
 Package: com.iosdump.airdrop
 Version: 0.0.2
 Architecture: iphoneos-arm64
@@ -671,6 +1385,56 @@ Description: 解除隔空投送十分钟限制，支持设置自定义关闭时�
 Author: iosdump
 Name: AirDrop
 
+Package: com.iosdump.airdrop
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: debs/AirDrop-0.0.2-iphoneos-arm64e.deb
+Size: 7432
+MD5sum: 3a9c44a88731f309908dafb3a90e6461
+SHA1: a583b2814d184c922cc58aea09159f9bc3721dc1
+SHA256: a1229d3c7e5d7bb4cb6c3de8d589013dfd6b52336e6947b351bd67ee35c0ab52
+Section: Tweaks
+Description: 解除隔空投送十分钟限制，支持设置自定义关闭时间，4秒内控制中心隔空投送连续点击两次所有人即可触发设置弹窗，支持iOS16.1.1+
+Author: iosdump
+Name: AirDrop
+
+Package: com.iosdump.appdata
+Version: 2.6.8
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: debs/com.iosdump.appdata_2.6.8_iphoneos-arm64.deb
+Size: 2076958
+MD5sum: 66a94bfb884012ca467b4ba089e9cfd1
+SHA1: 401d4b5983d5ade5f6e390eab117b4991cf09948
+SHA256: 13f43239489f5c76192984de34a7b74ef47e13b9859af7e27022e3b3ec92c468
+Section: Tweaks
+Description: 在主屏幕查看应用数据与管理应用
+Author: iosdump
+Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+Name: AppData
+
+Package: com.iosdump.appdata
+Version: 2.6.8
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: debs/com.iosdump.appdata_2.6.8_iphoneos-arm.deb
+Size: 2076910
+MD5sum: 83431b4b3ed6a1faa7ac6eed1d16cd3d
+SHA1: 742e3e8641c407fab1d7c12211e699f56cec514f
+SHA256: 389a9eba4e8a439682dd87f41bd85b0c9dcf964d002fe42614e929f5c5f6e0e8
+Section: Tweaks
+Description: 在主屏幕查看应用数据与管理应用
+Author: iosdump
+Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+Name: AppData
+
 Package: com.iosdump.appdata
 Version: 2.6.9
 Architecture: iphoneos-arm
@@ -682,6 +1446,23 @@ Size: 2077008
 MD5sum: f04c6aa646057413fee7ad328db38520
 SHA1: 446325501b1a179828a0d3907129d0863fc778e4
 SHA256: 27f95b667b8da1ad547920fb8c54a66d8440c83ac381013634459477a9735201
+Section: Tweaks
+Description: 在主屏幕查看应用数据与管理应用
+Author: iosdump
+Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+Name: AppData
+
+Package: com.iosdump.appdata
+Version: 2.6.9
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: debs/com.iosdump.appdata_2.6.9_iphoneos-arm64.deb
+Size: 2077012
+MD5sum: 9f5529b945767855cd84b2c50db368c7
+SHA1: 25aec48697b0a21bd000a252311838ff88c5fd83
+SHA256: 06314a02cd6a04fa7c1f24d3b7a8a0c1154c6834795971741e42fc669e8e27cb
 Section: Tweaks
 Description: 在主屏幕查看应用数据与管理应用
 Author: iosdump
@@ -704,6 +1485,86 @@ Description: iOS 14-17+ 免挂载修改系统字体
 Author: iosdump
 Name: NeoFont
 
+Package: com.iosdump.neofont
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 396
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.neofont_0.0.1_iphoneos-arm64.deb
+Size: 33948
+MD5sum: 8b56c4edc049a5bbdd851e0b75848092
+SHA1: b9d8ebeee91d57aab603b19b1416b23684dd2a53
+SHA256: aa96b94a6c504ac8f7c9d24cd2d5e3dc84d5a19160e7ca6bff7c44db95b6a291
+Section: Tweaks
+Description: iOS 14-17+ 免挂载修改系统字体
+Author: iosdump
+Name: NeoFont
+
+Package: com.iosdump.neofont
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 396
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.neofont_0.0.1_iphoneos-arm64e.deb
+Size: 32080
+MD5sum: 1a82b3bc74ee00d42927e5076f2ce941
+SHA1: bb858535a6ecbf0c6f82e6d9465767f2610e135c
+SHA256: efa38f1d0cc41370d4e060a7baa26d040c80a4b9187e1e1c016a28fed3311bb7
+Section: Tweaks
+Description: iOS 14-17+ 免挂载修改系统字体
+Author: iosdump
+Name: NeoFont
+
+Package: com.iosdump.shellx
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 868
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.shellx_1.2.1_iphoneos-arm64.deb
+Size: 146196
+MD5sum: e4f393ac64d068544e5970f1b8c66c6f
+SHA1: 24a23c1551fd8fbee9ada34d9bd10bd4b7e484fe
+SHA256: b5edf35494da94a1a60b14e9ee50e7743e42b06050f64bcf50e9479505ec799b
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 868
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.shellx_1.2.1_iphoneos-arm.deb
+Size: 146132
+MD5sum: a6387a53914389f743fa487b5f69c1d3
+SHA1: 4c5bcbbe6e369223093baaf002dc70fdea015798
+SHA256: 6fe0f6881cb4077f20a66167ac851aa226f37b3b696799e058830701f1f7f2da
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 1.2.1
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 852
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.shellx_1.2.1_iphoneos-arm64e.deb
+Size: 144108
+MD5sum: ec39646ee902cf8597382dd66b40132b
+SHA1: 2c2481099fedc079555054fc0b151e71a9ede103
+SHA256: 76bd1022a9ace73c1ab8257b1032b9f956437424885c324c0861a3b3c9936a4a
+Section: Tweaks
+Description: 录屏/截图，自动套壳、水印工具，支持iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
 Package: com.iosdump.shellx
 Version: 2.4.1
 Architecture: iphoneos-arm
@@ -721,6 +1582,328 @@ Description: 支持录屏/截图套壳，水印以及区域截图、长截图等
 Author: iosdump
 Name: SHELLX
 
+Package: com.iosdump.shellx
+Version: 2.4.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 6588
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: debs/com.iosdump.shellx_2.4.1_iphoneos-arm64.deb
+Size: 2864034
+MD5sum: db4d15adf86cacc9f5b3ddf560853299
+SHA1: 8e9f64913354d3992cc6d00dd94e4a75a922eabc
+SHA256: da9dc31089a4ac1e70344e50a0c0048c9f891e83c2fda36aeed02fa8aafed0b4
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 2.4.1
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 6572
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: debs/com.iosdump.shellx_2.4.1_iphoneos-arm64e.deb
+Size: 2862880
+MD5sum: caa446da885348a39494dba1a57a683a
+SHA1: e3003c539f6e25897bd1da1e93269e1f357d26ca
+SHA256: 2c9cb725e7f7aa86b617482a7fac52ec7f211b6c519875ea92dbe9bbe2b72ec9
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.zone
+Version: 0.0.8
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 664
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.zone_0.0.8_iphoneos-arm64.deb
+Size: 129782
+MD5sum: e2c15180f0f0ecd27a8ac01a67d700af
+SHA1: 10e103cbccead6a9c0a0693584c59ef111f8d100
+SHA256: e185d85a6919e6a2efdc7cfd300204a1420bfc5819d8b50ddee4e05629e5459d
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Name: Zone
+
+Package: com.iosdump.zone
+Version: 0.0.8
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 648
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.zone_0.0.8_iphoneos-arm64e.deb
+Size: 129230
+MD5sum: 280450961fb44da6980a3154d1370504
+SHA1: b28fe6c85e7c4a02eb2b1129611ed000ea6a0bb4
+SHA256: b79a8fca79d3a51516dc6fa35d011a863c0a711edd79b4eb3ee6e73d17974b8b
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Name: Zone
+
+Package: com.iosdump.zone
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 664
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.zone_0.0.8_iphoneos-arm.deb
+Size: 129766
+MD5sum: 958193c3bc4b87f9de5c6e865822c944
+SHA1: d75ebb06b3c23d33439164d616e168534ba434e7
+SHA256: a1759b2feb9dea11dd072e4c4766ac30782cda34a252277cd7056a03bc7d836c
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Name: Zone
+
+Package: com.iosdump.zone
+Version: 0.0.9
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 668
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.zone_0.0.9_iphoneos-arm64e.deb
+Size: 134454
+MD5sum: 308962ef8b5f6a3306a341c6d7c15cdf
+SHA1: ccf826011e119fe6351827ecb924a434dcd7217e
+SHA256: dae8a47919a390c198cf315feaffeec5bdb030e47c7465d9ed99ac0e87d39a88
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Name: Zone
+
+Package: com.iosdump.zone
+Version: 0.0.9
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 672
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.zone_0.0.9_iphoneos-arm.deb
+Size: 135450
+MD5sum: 8d97f489f1e16e06ad2daf40c2de6882
+SHA1: b10e46e7a5d0d017160267adb1ecd0aa771f96b2
+SHA256: e40f8878fa4886f962db4ac7ce23b73d483c1b1550d508d8a16d7ffe29ecc037
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Name: Zone
+
+Package: com.iosdump.zone
+Version: 0.0.9
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 672
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.zone_0.0.9_iphoneos-arm64.deb
+Size: 135606
+MD5sum: 9b1f80358cafa99bc984057607aaa9ef
+SHA1: 7033d5e835402ec673e02c3d26e102445e2ec23a
+SHA256: e8a0abe14175123743d3a1c38332bb1bdaaf06c66733e3fd855d1ad4f682c484
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Name: Zone
+
+Package: com.iosdump.zone
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 932
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.iosdump.zone_1.0.1_iphoneos-arm.deb
+Size: 153836
+MD5sum: c2ef4c0a64b4c23724718edb47bd58fb
+SHA1: b54f6078d39566cea5ffffb3592142789afe139b
+SHA256: 175e7bb760b0c051abcebbca7864f61cc970930a25dc1eb560ee814697f22f7f
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Name: Zone
+
+Package: com.iosdump.zone
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 912
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.iosdump.zone_1.0.1_iphoneos-arm64e.deb
+Size: 153056
+MD5sum: caff9c5ba0b4a1e23cbd8f8eb8fdbbbc
+SHA1: 3de43120349c7d13007b279fa5817717e1565695
+SHA256: 1faef345fc582c2b84f1d9e911d66b3073cafeb05b565917cb3794684a567114
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Name: Zone
+
+Package: com.iosdump.zone
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 932
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.iosdump.zone_1.0.1_iphoneos-arm64.deb
+Size: 153564
+MD5sum: 4df6e3c26c010e20b543667024dc9f74
+SHA1: 8079fbf05e32a15fd82ec0697514bae74e983298
+SHA256: 4b2af141184d5d3db913831282c653bed5c7b36284cbbe4712d6aaea04aa10c5
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Name: Zone
+
+Package: com.iosdump.zone
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 984
+Depends: mobilesubstrate, preferenceloader, unzip, com.opa334.ccsupport
+Filename: debs/com.iosdump.zone_1.1.0_iphoneos-arm64.deb
+Size: 168588
+MD5sum: 54c5b9e4ac9c21d9d95cbff1fe8435b5
+SHA1: 44ad74f2a82786d0a29a99f8307ed6f6a9233eae
+SHA256: f21c95a24998241366667d196bfab7cd4bc9f04bd9f33db5ff47f8f89d4204b5
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Name: Zone
+
+Package: com.iosdump.zone
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 984
+Depends: mobilesubstrate, preferenceloader, unzip, com.opa334.ccsupport
+Filename: debs/com.iosdump.zone_1.1.0_iphoneos-arm.deb
+Size: 169258
+MD5sum: c91f42614283b34ae30fdef6924a8962
+SHA1: 4cf6301501c05a376f64745a77cf870c6fd64645
+SHA256: 262b767a35c8cae768c6b4404acc2cf3ba54aafeae083662b9087f295268efe4
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Name: Zone
+
+Package: com.iosdump.zone
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 980
+Depends: mobilesubstrate, preferenceloader, unzip, com.opa334.ccsupport
+Filename: debs/com.iosdump.zone_1.1.0_iphoneos-arm64e.deb
+Size: 167718
+MD5sum: 7b10b912db9f774a347f36fd03853a46
+SHA1: 8de6faca25a9038341edea4b090b4f73a94b7f9a
+SHA256: 4e0e968486c8f631971bd636df162f579078ab3683d15a84c965f164a66437eb
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Name: Zone
+
+Package: com.iosdump.zone
+Version: 1.3.0
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 984
+Depends: mobilesubstrate, preferenceloader, unzip, com.opa334.ccsupport
+Filename: debs/com.iosdump.zone_1.3.0_iphoneos-arm.deb
+Size: 169402
+MD5sum: 579c83dd3640767015b4ab4f21d2297b
+SHA1: 95b7e32e66e6a4befc1197b3655a6e8097e703f4
+SHA256: ad569b15a3f5577b0509b7ae12ac46887a409d7d7c751abff5da5d26f735d6cb
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Name: Zone
+
+Package: com.iosdump.zone
+Version: 1.3.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 976
+Depends: mobilesubstrate, preferenceloader, unzip, com.opa334.ccsupport
+Filename: debs/com.iosdump.zone_1.3.0_iphoneos-arm64e.deb
+Size: 166790
+MD5sum: f2f1959e9b56a48b9dc888697305cbfb
+SHA1: 0a4d4875b6b9c92b21d2a83ee6ab4d5bcd1bbb4b
+SHA256: 9308d9f3ed371702d4493f2114f4badf0c1a157aac30e693a3ac1997c8f17130
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Name: Zone
+
+Package: com.iosdump.zone
+Version: 1.3.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 984
+Depends: mobilesubstrate, preferenceloader, unzip, com.opa334.ccsupport
+Filename: debs/com.iosdump.zone_1.3.0_iphoneos-arm64.deb
+Size: 169006
+MD5sum: ecf5c5d0934064dc2a77946de2ff9773
+SHA1: abd1c3b6227a41c3ebf4ccd6f1556d8abec52a0a
+SHA256: e8f1e361377849a9de0af74a5dad6531c01b6c8ba0f8754ca81761545e81bb93
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Name: Zone
+
+Package: com.iosdump.zone
+Version: 2.0.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 1144
+Depends: mobilesubstrate, preferenceloader, unzip, com.opa334.ccsupport
+Filename: debs/com.iosdump.zone_2.0.0_iphoneos-arm64e.deb
+Size: 206022
+MD5sum: 25a7523ede8066dfb3a933faf88b1261
+SHA1: 54f65875274b9d24b4c1dff2d406ea2154d8be0c
+SHA256: 4d138dee32ff1ddc0052c01d159db01391f52de9aca480ebfaabcf8393fadbe4
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Name: Zone
+
+Package: com.iosdump.zone
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 1148
+Depends: mobilesubstrate, preferenceloader, unzip, com.opa334.ccsupport
+Filename: debs/com.iosdump.zone_2.0.0_iphoneos-arm64.deb
+Size: 208194
+MD5sum: 94e4201e679b08a626a9c1d8611c7804
+SHA1: 7382bdd032f26a95ebbb338611105b6c5a2bc792
+SHA256: f49936dc51e4645fdbcc25ba2acfb3bbbda933c3bb52389cc62c05d944a0ff52
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Name: Zone
+
+Package: com.iosdump.zone
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 1148
+Depends: mobilesubstrate, preferenceloader, unzip, com.opa334.ccsupport
+Filename: debs/com.iosdump.zone_2.0.0_iphoneos-arm.deb
+Size: 208092
+MD5sum: 2f5d5fb423ee060ff423eacf1cfaa533
+SHA1: d517ab61be13f8aa756300a5378894cd183086ff
+SHA256: 48febdd135dcbafc6e34cb1ae10838b10096e82bf1846aa96a1181b7c03115f4
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Name: Zone
+
 Package: com.iosdump.zone
 Version: 2.1.0
 Architecture: iphoneos-arm64
@@ -732,6 +1915,38 @@ Size: 210892
 MD5sum: 2aca1f5da7d0a2683f7aeef8a6eef85c
 SHA1: f387eec2fe6121cfcd3183542523ee5e6a56d4c0
 SHA256: 7b35aa49d09be6361ed5db8b064e7178a7a1ca2d2f273ee2a6d54f833d441cca
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Name: Zone
+
+Package: com.iosdump.zone
+Version: 2.1.0
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 1164
+Depends: mobilesubstrate, preferenceloader, unzip, com.opa334.ccsupport
+Filename: debs/com.iosdump.zone_2.1.0_iphoneos-arm.deb
+Size: 209734
+MD5sum: f8add5210d65fdf7bf913d3e12390e9f
+SHA1: c67518deaa05e3fa4d765561146efca2e38372f5
+SHA256: 6dad62d084329004a26e5369313d0d790156706d26da2059a46a0a77b373c935
+Section: Tweaks
+Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
+Author: iosdump
+Name: Zone
+
+Package: com.iosdump.zone
+Version: 2.1.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 1160
+Depends: mobilesubstrate, preferenceloader, unzip, com.opa334.ccsupport
+Filename: debs/com.iosdump.zone_2.1.0_iphoneos-arm64e.deb
+Size: 208714
+MD5sum: ef8cc2f3daaef415363ecb13cace1914
+SHA1: 400cc7b2de8dc9cb32ef5f3316be66fbd5142e11
+SHA256: 302f45ef43a09aadf0fb14ea055dbfd8008908c5d8bc7692e4df2cd39765cc5d
 Section: Tweaks
 Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS14-17
 Author: iosdump
@@ -781,6 +1996,24 @@ Size: 9772400
 MD5sum: fd9ecc7cf8d3a399e05f8150b717be30
 SHA1: b54a7fb555a960eb80497fe7295bf51cf4a1b86b
 SHA256: dd96799980492761049fb8a392afaca28b46323e83e3619dea89434895ed2d47
+Section: Tweaks
+Priority: optional
+Description: 微信优化的重制版，基于微信8.0.64+版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/eb/b5/a8/ebb5a892-c161-c79f-ba51-2089219fb833/source/512x512bb.jpg
+Name: WCRefine
+
+Package: com.qimiao.WCRefine
+Version: 2.1-1
+Architecture: iphoneos-arm
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: debs/WCRefine_2.1-1_有根.deb
+Size: 9771116
+MD5sum: e331adc21d1376a919b8677462664a7c
+SHA1: 6b2e02d307434a8e09e79685408cc4ac780294c7
+SHA256: 3eeeff28767e5e7900f07c3b75723746b8fa1ba68bf7a3ec82bacb9a5432b604
 Section: Tweaks
 Priority: optional
 Description: 微信优化的重制版，基于微信8.0.64+版本制作。
@@ -950,6 +2183,22 @@ Description: 全屏截图按钮增加(保存至相册)功能,超过7个按钮时
 Author: zqbb
 Name: Hello Snapper3
 Sileodepiction: https://rootless.002599.xyz/web/com.zqbb.savephotos
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 212
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/dev.mineek.appstoretroller_0.0.2-1+debug_iphoneos-arm64.deb
+Size: 14670
+MD5sum: 56d7f6c79b5dec6e85b3a8e5bc9c25c3
+SHA1: 4aaad3ccf81d51409a176c2c22cec0b01a8c216d
+SHA256: 14aa46347c06b0b984174b8f0cce978acc10f7d13f7e92ebbdc3c9c07035a1db
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak! 将设置移至桌面AppStore长按快捷菜单
+Author: Mineek
+Name: appstoretroller
 
 Package: dev.mineek.appstoretroller
 Version: 0.0.2-2+debug
