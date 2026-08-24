@@ -352,6 +352,163 @@ Icon: https://axs66.github.io/pro/icon/appdata.png
 Name: AppData
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/appdata/js.json
 
+Package: com.axs.clipboard
+Version: 5.2.0-110
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 944
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: debs/Clipboard_5.2.0-110.deb
+Size: 109824
+MD5sum: 6d05650d78376806c57210223f01a08a
+SHA1: b501c0f68efa0b95faeaa545a53004dfae4e6f2e
+SHA256: 841fdd339dc8cf91bf7d2d1ba712810f22244ed6dc9cb95975b3c5d891c3e749
+Section: Axs-Tweaks
+Description: 剪贴板管理器，支持自动保存文本和图片记录。
+ 1. 支持自动粘贴，面板内一键复制/粘贴；
+ 2. 支持长按分词，独立复制；
+ 3. 支持历史条数与显示行数设置；
+ 4. 支持多种激活方式：键盘预测栏、听写键、第三方手势插件；
+ 5. 支持一键清空剪贴板；
+ 6. 支持显示保存时间；收藏内容可以自定义排序；
+ 7. 支持屏蔽iOS16+"粘贴自"横幅提示。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/clipboard.png
+Name: Clipboard
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/clipboard/js.json
+
+Package: com.axs.clipboard
+Version: 5.2.0-172
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1136
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: debs/Clipboard_5.2.0-172.deb
+Size: 144198
+MD5sum: 03dd68b5f32bef85e0d0be2e69d159d5
+SHA1: 440a67f55ce7e273dcc90aa55e9282f3411f7337
+SHA256: f09ea0d8d1dfb39a2edf6549afc02cc9ed168d68285469faa8ead44afd71da4c
+Section: Axs-Tweaks
+Description: 剪贴板管理器，支持自动保存文本和图片记录。
+ 1. 支持自动粘贴与自动提升模式，面板内一键复制/粘贴；
+ 2. 支持长按文字条目分词选取，独立复制选中词块；
+ 3. 支持复制/粘贴音效反馈与触感反馈（可分别控制开关）；
+ 4. 支持历史条数与内容预览行数设置；
+ 5. 支持 4 种激活方式：听写键、编辑菜单、长按地球键、系统键盘上滑；
+ 6. 支持内容过滤（全部/文本/链接/图片）、收藏夹拖拽排序、面板内容快捷搜索；
+ 7. 支持显示保存时间和来源 App 图标，图片条目展示缩略图；
+ 8. 支持深色/浅色模式自适应、全屏/抽屉切换、横屏全屏适配；
+ 9. 支持屏蔽 iOS 16+ 粘贴横幅提示。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/clipboard.png
+Name: Clipboard
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/clipboard/js.json
+
+Package: com.axs.clipboard
+Version: 5.2.0-175
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1136
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: debs/Clipboard_5.2.0-175.deb
+Size: 144470
+MD5sum: c9d3053d3cf746c39b5ba467bb0496e9
+SHA1: c8abe9dda627836a4793aec269d59ff91b832203
+SHA256: b56ad5ac080b936ef2c0fbe8bb023287cc49c4bc718a8bcc142855f9457fff2b
+Section: Axs-Tweaks
+Description: 剪贴板管理器，支持自动保存文本和图片记录。
+ 1. 支持自动粘贴与自动提升模式，面板内一键复制/粘贴；
+ 2. 支持长按文字条目分词选取，独立复制选中词块；
+ 3. 支持复制/粘贴音效反馈与触感反馈（可分别控制开关）；
+ 4. 支持历史条数与内容预览行数设置；
+ 5. 支持 4 种激活方式：听写键、编辑菜单、长按地球键、系统键盘上滑；
+ 6. 支持内容过滤（全部/文本/链接/图片）、收藏夹拖拽排序、面板内容快捷搜索；
+ 7. 支持显示保存时间和来源 App 图标，图片条目展示缩略图；
+ 8. 支持深色/浅色模式自适应、全屏/抽屉切换、横屏全屏适配；
+ 9. 支持屏蔽 iOS 16+ 粘贴横幅提示。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/clipboard.png
+Name: Clipboard
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/clipboard/js.json
+
+Package: com.axs.clipboard
+Version: 5.2.0-178
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1136
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: debs/Clipboard_5.2.0-178.deb
+Size: 145096
+MD5sum: 6d3fd5a19530b532daa41e3d6873d563
+SHA1: 68544d35ad3942fbde1ed723b2bc1d75c779644c
+SHA256: 9dce9c27a60506e200f4beac1c57fe61f5f444b577bdc6de4ada608de3ea7479
+Section: Axs-Tweaks
+Description: 剪贴板管理器，支持自动保存文本和图片记录。
+ 1. 支持自动粘贴与自动提升模式，面板内一键复制/粘贴；
+ 2. 支持长按文字条目分词选取，独立复制选中词块；
+ 3. 支持复制/粘贴音效反馈与触感反馈（可分别控制开关）；
+ 4. 支持历史条数与内容预览行数设置；
+ 5. 支持 4 种激活方式：听写键、编辑菜单、长按地球键、系统键盘上滑；
+ 6. 支持内容过滤（全部/文本/链接/图片）、收藏夹拖拽排序、面板内容快捷搜索；
+ 7. 支持显示保存时间和来源 App 图标，图片条目展示缩略图；
+ 8. 支持深色/浅色模式自适应、全屏/抽屉切换、横屏全屏适配；
+ 9. 支持屏蔽 iOS 16+ 粘贴横幅提示。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/clipboard.png
+Name: Clipboard
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/clipboard/js.json
+
+Package: com.axs.clipboard
+Version: 5.2.0-179
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1136
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: debs/Clipboard_5.2.0-179.deb
+Size: 145812
+MD5sum: f8fbe5a15a707b9121e3c7a3be6d497d
+SHA1: 371da53de385671025955ac98aa25201729c347b
+SHA256: 33869ecbbf8788f04ad30517a983c394c57b5cfc23fed3e2e318874357d5b1cf
+Section: Axs-Tweaks
+Description: 剪贴板管理器，支持自动保存文本和图片记录。
+ 1. 支持自动粘贴与自动提升模式，面板内一键复制/粘贴；
+ 2. 支持长按文字条目分词选取，独立复制选中词块；
+ 3. 支持复制/粘贴音效反馈与触感反馈（可分别控制开关）；
+ 4. 支持历史条数与内容预览行数设置；
+ 5. 支持 4 种激活方式：听写键、编辑菜单、长按地球键、系统键盘上滑；
+ 6. 支持内容过滤（全部/文本/链接/图片）、收藏夹拖拽排序、面板内容快捷搜索；
+ 7. 支持显示保存时间和来源 App 图标，图片条目展示缩略图；
+ 8. 支持深色/浅色模式自适应、全屏/抽屉切换、横屏全屏适配；
+ 9. 支持屏蔽 iOS 16+ 粘贴横幅提示。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/clipboard.png
+Name: Clipboard
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/clipboard/js.json
+
+Package: com.axs.clipboard
+Version: 5.2.0-98
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 824
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: debs/Clipboard_5.2.0-98.deb
+Size: 90976
+MD5sum: ae195181012eb57fd13299243b91d219
+SHA1: 5005e0f956ab84c5ff2c07a071bc029f95b7978b
+SHA256: cc6422f43d6d9187e265199ffcb41fc28f9579c89320eae4704c37e0fedf723a
+Section: Axs-Tweaks
+Description: 剪贴板管理器，支持自动保存文本和图片记录。
+ 1. 支持自动粘贴，面板内一键复制/粘贴；
+ 2. 支持多种激活方式：键盘预测栏、听写键、第三方手势插件；
+ 3. 支持一键清空剪贴板；
+ 4. 支持显示保存时间；
+ 5. 支持收藏内容可以自定义排序；
+ 6. 支持屏蔽iOS16+"粘贴自"横幅提示。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/clipboard.png
+Name: Clipboard
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/clipboard/js.json
+
 Package: com.axs.ios16dao
 Version: 5.2.0-244
 Architecture: iphoneos-arm64
