@@ -839,6 +839,114 @@ Author: 妖刀
 Name: CCLess++(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccless/js.json
 
+Package: com.dao.picobanner
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: daodao
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.liddell, dev.traurige.liddell
+Filename: debs/PicoBanner(rootless)_1.1.deb
+Size: 126836
+MD5sum: 50cb3e6abbdfd1325fd45cda73946337
+SHA1: f1b3493fd2533f732b1ca687fe217168ec8bc1e2
+SHA256: e921afec1db835606312e19a1402420706cf6eb30af08efabc536c9a466b5137
+Section: 嗨-工具
+Description: 样式丰富多彩的小巧通知横幅。
+Author: daodao
+Name: PicoBanner(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
+
+Package: com.dao.picobanner
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: daodao
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.liddell, dev.traurige.liddell
+Filename: debs/PicoBanner(RootHide)_1.1.deb
+Size: 126010
+MD5sum: add85d125355ce5f98f40b55ea93f664
+SHA1: f5028f7cf556a6c52467c9830a57a9b06ba4ed19
+SHA256: 610dcda3d54c32e3b4cd27dc1b5cd5e5397b54078693340b91548d4d22ab08f9
+Section: 嗨-工具
+Description: 样式丰富多彩的小巧通知横幅。
+Author: daodao
+Name: PicoBanner(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
+
+Package: com.dao.picobanner
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: daodao
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.liddell, dev.traurige.liddell
+Filename: debs/PicoBanner_1.1.deb
+Size: 126402
+MD5sum: 080477a007e954874be1283b4a3b586f
+SHA1: 0f68519e9e9c8394e62c3ef4348b11a7d7b0deda
+SHA256: 0e44431a851ddd642d4839508ef8ef36a2218d96e30578dab177bc5644dd3fce
+Section: 嗨-工具
+Description: 样式丰富多彩的小巧通知横幅。
+Author: daodao
+Name: PicoBanner
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
+
+Package: com.dao.picobanner
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: daodao
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.liddell, dev.traurige.liddell
+Filename: debs/PicoBanner(RootHide)_1.2.deb
+Size: 126230
+MD5sum: aefa99f05f6a478d2381db8fae1a3b44
+SHA1: 1afc7ce932bba43ca1c2d2a907ca14ac5947e941
+SHA256: f1c13e26fcc23b540126ad6e177c03e2f63dbc48e1206c55e9672e7fe1e0d625
+Section: 嗨-工具
+Description: 样式丰富多彩的小巧通知横幅。
+Author: daodao
+Name: PicoBanner(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
+
+Package: com.dao.picobanner
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: daodao
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.liddell, dev.traurige.liddell
+Filename: debs/PicoBanner_1.2.deb
+Size: 127200
+MD5sum: d1b641562a5e34cd67bee8ab24693112
+SHA1: f856ca6e89bf002b1b6b97352602bcb1613195e1
+SHA256: cff97b5bd40c592cf6f1f6fd1f2961038c8db7bd7986ac55da0df663bbd819ae
+Section: 嗨-工具
+Description: 样式丰富多彩的小巧通知横幅。
+Author: daodao
+Name: PicoBanner
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
+
+Package: com.dao.picobanner
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: daodao
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.liddell, dev.traurige.liddell
+Filename: debs/PicoBanner(rootless)_1.2.deb
+Size: 128082
+MD5sum: 217f2e1dbecb230364733e5cceaaddec
+SHA1: 1b2c17c2efb5d2d65c19a802a334f5c78948f436
+SHA256: c70167c6616d5876a3f01e285875ce55cdfa8300a26878937db1de88c6a6c73c
+Section: 嗨-工具
+Description: 样式丰富多彩的小巧通知横幅。
+Author: daodao
+Name: PicoBanner(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
+
 Package: com.dao.pulloverx
 Version: 2.2.1
 Architecture: iphoneos-arm64e
