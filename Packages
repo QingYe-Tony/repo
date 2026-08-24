@@ -646,6 +646,63 @@ Author: mlgm
 Name: PullOverX(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
 
+Package: com.dao.pulloverx
+Version: 2.2.4
+Architecture: iphoneos-arm64e
+Maintainer: daodao
+Installed-Size: 812
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: debs/com.dao.pulloverx_2.2.4_iphoneos-arm64e.deb
+Size: 179634
+MD5sum: 1c3fc1ccab0d5e69f68a6189d8bd97f9
+SHA1: fea131969c10648f9d516f33333242a77a7b9e58
+SHA256: 364eb86899a7d7124a12a68c64d276fc16ff6eb9864419806f93bc55f6737438
+Section: 嗨-工具
+Description: 悬浮多任务窗口工具，基于 mlgm 的 PullOver X 打造的客制化版本。
+Author: mlgm
+Name: PullOverX(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
+
+Package: com.dao.pulloverx
+Version: 2.2.4
+Architecture: iphoneos-arm64
+Maintainer: daodao
+Installed-Size: 812
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: debs/com.dao.pulloverx_2.2.4_iphoneos-arm64.deb
+Size: 180426
+MD5sum: 9ec48eb814fda6cd873ae3d632b29781
+SHA1: 067e61a691ec88ee477f39c1b38bc60ffbd2dc12
+SHA256: 531fccc7af57fc57eb8c417e043c5c1db864addfaf2388740d22e2dd1217444f
+Section: 嗨-工具
+Description: 悬浮多任务窗口工具，基于 mlgm 的 PullOver X 打造的客制化版本。
+Author: mlgm
+Name: PullOverX(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
+
+Package: com.dao.pulloverx
+Version: 2.2.4
+Architecture: iphoneos-arm
+Maintainer: daodao
+Installed-Size: 812
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: debs/com.dao.pulloverx_2.2.4_iphoneos-arm.deb
+Size: 181018
+MD5sum: 2574daaf374d869643832a91d0801a3d
+SHA1: c09338b8bdfca0fbfb20cfeb157f8f922257c89b
+SHA256: 6d35a60b496d710e30f1c3b3916a70bb588d564d738e2971fea93b4770436a9c
+Section: 嗨-工具
+Description: 悬浮多任务窗口工具，基于 mlgm 的 PullOver X 打造的客制化版本。
+Author: mlgm
+Name: PullOverX
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
+
 Package: com.developlab.appbadges
 Version: 1.0
 Architecture: iphoneos-arm64e
