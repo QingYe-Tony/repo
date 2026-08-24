@@ -85,6 +85,24 @@ Description: Neutralizes CALayer disableUpdateMask in the render server
 Author: 82flex
 Name: Unseen
 
+Package: com.Axs.CCMusicPlayer
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 628
+Depends: com.opa334.ccsupport,oldabi
+Filename: debs/com.Axs.CCMusicPlayer_1.0.1.deb
+Size: 86836
+MD5sum: d801055115bb1190d9dbafb397026b70
+SHA1: 393eac1e0312f08c69e2d28fed90a456c33bdd79
+SHA256: 7043f1a5ce92f4181fed096ff5b59c6ab8db73f0f3435a3f360252f431720a25
+Section: 控制中心
+Description: 控制中心音乐播放器，在手机设置控制中心添加模块后，点击模块名称右侧进入插件设置项。
+Author: A
+Icon: https://axs66.github.io/pro/icon/CCMusicPlayer.png
+Name: CCMusicPlayer
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/CCMusicPlayer/js.json
+
 Package: com.Axs.afn
 Version: 3.5.9
 Architecture: iphoneos-arm64
@@ -119,6 +137,24 @@ Author: simon
 Icon: https://axs66.github.io/pro/icon/ccweathermodule.png
 Name: 控制中心天气
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+
+Package: com.Axs.filzaswipeselect
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.Axs.filzaswipeselect_0.0.2.deb
+Size: 8680
+MD5sum: 08c0fb954591d22031208f0b2d9975b3
+SHA1: 2572d732bd5edc5fb950a6da5b39f95397d4c7e4
+SHA256: 9db85b70f62236844c1d2b6589865f4424a303382f04c898eaa0e40f0e5293ab
+Section: 应用程序
+Description: Filza 支持滑动多选文件，告别逐个点击
+Author: korboy
+Icon: https://axs66.github.io/pro/icon/filza.png
+Name: Filza滑动多选
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/filzaswipeselect/js.json
 
 Package: com.Axs.floating-view
 Version: 1.6.0-6
@@ -200,6 +236,23 @@ Icon: https://axs66.github.io/pro/icon/snapper.png
 Name: Snapper 3
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper/js.json
 
+Package: com.Axs.touchvis
+Version: 2.8-1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.Axs.touchvis_2.8-1.deb
+Size: 708640
+MD5sum: 3f9da7789cfc6c543d7ac5593fb87b0e
+SHA1: d05940b05cbba364efd5a2e54877550b8ab7e6a6
+SHA256: e144835f3588f6e758d377b4bc2892f7e7b50c5223473f63af0c8504863d2b74
+Section: 录屏轨迹
+Description: Displays your touch interactions! 显示触摸屏幕的轨迹；很酷炫，很丝滑的一个插件，并附带拖尾效果。主要作用:做教程时候让别人知道你点的哪里。
+Author: Lessica
+Icon: https://axs66.github.io/pro/icon/TVZ.png
+Name: Touch-Viz触摸轨迹
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/touchvis/js.json
+
 Package: com.HBWechatHelper.ailun
 Version: 2.1.5
 Architecture: iphoneos-arm64
@@ -280,6 +333,24 @@ Section: Tweaks
 Description: AppTools Lite for iOS15-17 Rootless
 Author: aReo
 Name: AppTools_Lite
+
+Package: com.axs.appdata
+Version: 5.2.0-104
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1072
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: debs/com.axs.appdata_5.2.0-104.deb
+Size: 173174
+MD5sum: 01db1410ac5e5496dc54ab75693a1ae1
+SHA1: 64c3a1691a7f0a0e07922d70d1c1bb6400ac1d1c
+SHA256: 773c4ccaf10be8a5744bb34caeea8c582488b559b78ef04611a65a9ff32e1fbc
+Section: Axs-Tweaks
+Description: 从主屏幕查看和管理应用数据，持续扩展附加功能中，目前包含：应用静音、120Hz、真后台、CPU、FPS等。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/appdata.png
+Name: AppData
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/appdata/js.json
 
 Package: com.axs.ios16dao
 Version: 5.2.0-244
@@ -721,6 +792,26 @@ Description: 在刘海或灵动岛下显示应用的「图标、名称、版本�
 Author: developlab
 Icon: https://TrollStoreX.Github.io/sileodepiction/AppBadge/icon.png
 Name: AppBadge 应用胶囊
+
+Package: com.exile90.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64
+Maintainer: Ivano Bilenchi
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: debs/com.exile90.icleanerpro_7.10.0.deb
+Size: 977908
+MD5sum: 2152aa3075aa8da63b2916856eed43b6
+SHA1: f4f336406c354aedf5ae947134901e52f9b8e9be
+SHA256: 745264c2e1c4fc9c00cca37bd75f921199d88bd198519625bd82254c5b1cecc5
+Section: 应用程序
+Homepage: https://axs66.github.io/pro
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi
+Icon: https://axs66.github.io/pro/icon/iCleanerPro.png
+Name: iCleaner Pro 小扫把
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/icleanerpro/js.json
 
 Package: com.flex2areo.apptools15roothide
 Version: 2.8.1
@@ -1222,6 +1313,80 @@ Icon: https://github.com/roothide/RootHidePatcher/blob/master/derootifier-2-modi
 Name: RootHide Patcher
 Support: https://github.com/roothide/RootHidePatcher
 
+Package: com.spark.snowboard
+Version: 1.5.37-Beta4-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 3268
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: debs/com.spark.snowboard_1.5.37-Beta4-rootless.deb
+Size: 1124208
+MD5sum: 004c95e0e3fb2807b292cd5dfc5328d9
+SHA1: dfba2ac4089aae4e473724e138d8897c5d9a5fb8
+SHA256: 63364e3f87f059dfbf457f3396ec6d2a45939571f3ec4ddeb7fcddd678012a22
+Section: 滑雪板
+Description: Snowboard theming engine
+Author: Spark & Dennis D. Bednarz
+Icon: https://axs66.github.io/pro/icon/snowboard.png
+Name: SnowBoard
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+
+Package: com.spark.snowboard.dock
+Version: 1.1.3~Beta4-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 440
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: debs/com.spark.snowboard.dock_1.1.3~Beta4-rootless.deb
+Size: 32216
+MD5sum: 21afc4cb2c1eedd980f0c902e80555c2
+SHA1: bd27b75686f846b08b2aca52aecf18c25e2dd352
+SHA256: 7b63ff09c06ba7fdc095810f2ba9f2374f29a9e2e5b9db176b6bc7b6dbad853e
+Section: 滑雪板
+Description: Dock for SnowBoard
+Author: Spark
+Icon: https://axs66.github.io/pro/icon/snowboard.png
+Name: SnowBoard Dock Extension
+
+Package: com.spark.snowboard.effects
+Version: 1.2.2-Beta2-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 412
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: debs/com.spark.snowboard.effects_1.2.2-Beta2-rootless.deb
+Size: 33220
+MD5sum: 4b1b19a0ee82d627d61813bd1560be3a
+SHA1: 1bfcbb566deab07ad96b6d8c2804e5f5de515975
+SHA256: 8ff624b00d3ef731c76a0c6e3eca440fafd221ce1722237640ba3a6ab41bd5ef
+Section: 滑雪板
+Description: Icon Effects for SnowBoard
+Author: Spark
+Icon: https://axs66.github.io/pro/icon/snowboard.png
+Name: SnowBoard Icon Effects Extension
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+
+Package: com.spark.snowboard.masks
+Version: 1.2.2-Beta2-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 340
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: debs/com.spark.snowboard.masks_1.2.2-Beta2-rootless.deb
+Size: 18852
+MD5sum: 05223aed6a3eee516be3f65bf30b8064
+SHA1: 37eee0dc8a09ea2e014e1c000bc5c6ec254a124a
+SHA256: ef73bde7dc516399dd942533f87ee31c1793fa07e688cf6837f1fe8d3bab521b
+Section: 滑雪板
+Description: Icon masks for SnowBoard
+Author: Spark
+Icon: https://axs66.github.io/pro/icon/snowboard.png
+Name: SnowBoard Icon Masks Extension
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+
 Package: com.tencent.themebox
 Version: 3.0.3
 Architecture: iphoneos-arm64
@@ -1238,6 +1403,25 @@ Author: Mao
 Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 主题盒子
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/themebox/js.json
+
+Package: com.tigisoftware.filza64bit
+Version: 4.0.1-4
+Architecture: iphoneos-arm64
+Maintainer: TIGI Software
+Installed-Size: 23200
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: debs/com.tigisoftware.filza64bit_4.0.1-4.deb
+Size: 6974364
+MD5sum: fe3849b5b297b4943d77dc7d9e115d02
+SHA1: 64ff7613baf6c952e4eb2bb7a3997ff5aca6f36a
+SHA256: 8276f5d832340790caf7942595b2b0a58d82e0e286b5f5fad6de0ac5f443d024
+Section: 应用程序
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
+Author: TIGI Software
+Icon: https://axs66.github.io/pro/icon/filza.png
+Name: Filza File Manager 64-bit
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
 Package: com.zqbb.savephotos
 Version: 1.1-1
