@@ -11589,46 +11589,6 @@ Description: Zone 插件用于设置.tendies交互壁纸/视频壁纸 支持iOS1
 Author: iosdump
 Name: Zone
 
-Package: com.iosdump.zones
-Version: 2.1.0
-Architecture: iphoneos-arm64
-Maintainer: iosdump
-Installed-Size: 1164
-Depends: mobilesubstrate, preferenceloader, unzip, com.opa334.ccsupport
-Conflicts: com.iosdump.zone
-Filename: debs/com.iosdump.zones_2.1.0_iphoneos-arm64.deb
-Size: 210884
-MD5sum: 991d24a042357fe85e18f97527bd4705
-SHA1: 3b6c9212475022fd22ecd762f1f92e49b73d8f81
-SHA256: 23f4ca531f1442e5f04beb6e2d8967fc7707888283392f56c08183db54c797cd
-Section: 壁纸
-Description: Zone 支持旧系统使用 .tendies 格式的交互壁纸/视频
- * 支持 iOS 14 - iOS 17
-Author: iosdump
-Icon: https://TrollStoreX.Github.io/sileodepiction/Zone/icon.png
-Name: Zone 交互壁纸
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Zone/js.json
-
-Package: com.iosdump.zones
-Version: 2.1.0
-Architecture: iphoneos-arm64e
-Maintainer: iosdump
-Installed-Size: 1164
-Depends: mobilesubstrate, preferenceloader, unzip, com.opa334.ccsupport
-Conflicts: com.iosdump.zone
-Filename: debs/com.iosdump.zones_2.1.0_iphoneos-arm64e.deb
-Size: 208804
-MD5sum: 5841c69074bd285d75499ed5338fbe06
-SHA1: 15848659297d65ee0acf5637d0a3f9bb92decc79
-SHA256: af85e8edcc4c2ad0351bc91f828bba06cf468870eaccf3454bb27722574d01e7
-Section: 壁纸
-Description: Zone 支持旧系统使用 .tendies 格式的交互壁纸/视频
- * 支持 iOS 14 - iOS 17
-Author: iosdump
-Icon: https://TrollStoreX.Github.io/sileodepiction/Zone/icon.png
-Name: Zone 交互壁纸
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Zone/js.json
-
 Package: com.iosign.camera
 Version: 0.1-2
 Architecture: iphoneos-arm64
