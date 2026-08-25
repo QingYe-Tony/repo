@@ -1,0 +1,97 @@
+Package: com.huami.WCPulse
+Version: 1.6-6
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/WCPulse_1.6-6_无根.deb
+Size: 6114036
+MD5sum: 809b3d5428220c2c9ae7a55674915654
+SHA1: 2e5c6e8ea52745e98d4019529f83376278cc2dbb
+SHA256: 4eb1a119d9f6c16e72c7e74f9f8608b7db5ae262e9edbb4d8377e8f8349e2072
+Section: Tweaks
+Description: WCPulse
+Author: huami
+Name: WCPulse
+
+Package: com.huami.WCPulse
+Version: 1.6-6
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/WCPulse_1.6-6_隐根.deb
+Size: 6113976
+MD5sum: 89cef91057ff910bae5a07c49ee1fb18
+SHA1: a3dd4d4261406a34608515c2a8ed228ce62cb674
+SHA256: 85dfa6c7998e0586c8cdc4c87bc399085fb9672e64169a9acc9a18a357396f95
+Section: Tweaks
+Description: WCPulse
+Author: huami
+Name: WCPulse
+
+Package: ws.hbang.newterm3
+Version: 3.0~beta1
+Architecture: iphoneos-arm
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 14891
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Conflicts: ws.hbang.newterm, ws.hbang.newterm2
+Replaces: ws.hbang.newterm, ws.hbang.newterm2
+Filename: debs/ws.hbang.newterm3_3.0~beta1_iphoneos-arm.deb
+Size: 3833846
+MD5sum: adc326ee5d441247dc761046930f4c82
+SHA1: df6f8413fb57223021ba387e10f65b72cd842257
+SHA256: ca11f5cce4b152d5917d6db1b23ad3ba52bf8f91ec300738e0860415c9809f1b
+Section: Terminal Support
+Description: Powerful terminal app for iOS
+Tag: compatible_min::ios14.0
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/newterm-beta
+Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
+Name: NewTerm 3 Beta
+Support: https://hashbang.productions/support/
+
+Package: ws.hbang.newterm3
+Version: 3.0~beta1
+Architecture: iphoneos-arm64
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 14899
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Conflicts: ws.hbang.newterm, ws.hbang.newterm2
+Replaces: ws.hbang.newterm, ws.hbang.newterm2
+Filename: debs/ws.hbang.newterm3_3.0~beta1_iphoneos-arm64.deb
+Size: 3836904
+MD5sum: fed66db963cb17131b239dc6deb7058c
+SHA1: 4c9327fb9cd3ccdade8247bab90bcf12338b6be2
+SHA256: cbd965fbdc25634e4e447ba4609598a67a0f354a63fce2dbf9e0dce99042b055
+Section: Terminal Support
+Description: Powerful terminal app for iOS
+Tag: compatible_min::ios14.0
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/newterm-beta
+Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
+Name: NewTerm 3 Beta
+Support: https://hashbang.productions/support/
+
+Package: ws.hbang.newterm3
+Version: 3.0~beta1-670+debug
+Architecture: iphoneos-arm64e
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 24128
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Recommends: gettext-localizations, iterm2-shell-integration, zsh-autosuggestions, zsh-syntax-highlighting
+Conflicts: ws.hbang.newterm, ws.hbang.newterm2
+Replaces: ws.hbang.newterm, ws.hbang.newterm2
+Filename: debs/ws.hbang.newterm3_3.0~beta1_iphoneos-arm64e.deb
+Size: 4738394
+MD5sum: fcdb774634eb41e936b949ab70bebe47
+SHA1: 7555f45ba3e9883fa147914aeeca0b9401465aec
+SHA256: a39c394d57b3ef1b7bfb575b5d990071e3c9de7a4c09bfd4fc0dda9993a04b1f
+Section: Terminal Support
+Description: Powerful terminal app for iOS
+Tag: compatible_min::ios14.0
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/newterm-beta
+Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
+Name: NewTerm 3 Beta
+Support: https://hashbang.productions/support/
+
