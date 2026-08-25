@@ -1,0 +1,41 @@
+name: Build Repo
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 安装dpkg工具
+        run: sudo apt update && sudo apt install -y dpkg-dev
+
+      - name: 生成索引（遇到zstd坏包自动跳过，不中断任务）
+        run: |
+          rm -f Packages Packages.gz
+          dpkg-scanpackages debs /dev/null > Packages || true
+          gzip -kf Packages
+
+      - name: 上传源全部文件用于Pages部署
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 部署到GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
