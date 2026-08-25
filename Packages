@@ -2488,22 +2488,6 @@ Author: MrGcGamer
 Name: LibGcUniversal(RootHide)
 
 Package: com.opa334.trollstorelite
-Version: 2.1.1+zh1.relaxin29
-Architecture: iphoneos-arm64e
-Maintainer: Fluoxetine氟西汀 (QQ: 1103945342)
-Installed-Size: 1121
-Depends: ldid, ellekit
-Filename: debs/TrollStoreR.deb
-Size: 512356
-MD5sum: 799546e335c4d1b31fe3c05fbf80873b
-SHA1: 988c4461315b4e05f5f555012e789a11f5e64b03
-SHA256: c8a345f548d16a8affae9f8fb7a9e624ab14c76816a4bae757864281841e0809
-Section: Applications
-Description: 由 Fluoxetine氟西汀 修改巨魔 Lite，使其支持 Relaxin/RootHide arm64e 无根越狱环境。App Store 加密应用使用 ElleKit 运行时注入且不修改原签名，解密/巨魔应用保留轻量 Mach-O 注入，并支持 Dylib/DEB 插件注入与卸载。QQ：1103945342
-Author: opa334; Relaxin adaptation by Fluoxetine氟西汀
-Name: 巨魔Lite（Relaxin 兼容版）
-
-Package: com.opa334.trollstorelite
 Version: 2.1.1-1
 Architecture: iphoneos-arm64e
 Maintainer: opa334
