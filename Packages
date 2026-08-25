@@ -792,6 +792,62 @@ Icon: https://axs66.github.io/pro/icon/snapper.png
 Name: Snapper3 Expand
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper3expand/js.json
 
+Package: com.axs.snapper3tag
+Version: 5.2.0-295
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 1000
+Depends: mobilesubstrate
+Filename: debs/com.axs.snapper3tag_5.2.0-295_iphoneos-arm64.deb
+Size: 164734
+MD5sum: d31f3fbf8afea1bd9dd029ac4148b6cb
+SHA1: a6f48177adaae7b16218b55bddd858024850dff5
+SHA256: 3e33239ca2508bab9c333b2303ba2e9db9c893642e45dff59d3db506a274972d
+Section: Axs-Tweaks
+Description: Snapper3 功能扩展，目前包含：截图标记 + 长截图 + OCR识别 + 翻译 + AI互译 + AI问答 + Sileo长按翻译，修复了原snapper3主体插件第7个图标遮挡一半的bug；将菜单工具栏最后一个“关闭”图标进行固定，增加滑动视觉效果。
+ * 一、【截图标记】
+ * 颜色选择：红/黄/蓝/绿/白/黑等6种颜色；
+ * 箭头标记：手指拖拽绘制方向箭头；
+ * 自由画线：手指跟随绘制任意曲线；
+ * 文字标注：点击图片任意位置弹出输入框与键盘，输入文字落点标注，支持字号滑条实时调节；
+ * 矩形图标：点击1次是矩形框选+点击2次是矩形填充；
+ * 圆形图标：点击1次是圆形框选+点击2次是圆形填充；
+ * 高亮图标：点击1次是高亮框选+点击2次是半透明填充；
+ * 马赛克图标：网格分块打码，颗粒固定细腻；
+ * 撤回操作：一键撤销上一步标注；
+ * 删除操作：一键删除所有标注；
+ * 保存相册：渲染并写入系统相册；
+ * 复制剪贴板：一键复制标注后截图；
+ * 二、【长截图 Pro】
+ * 两种模式可选：滚动拼接/ 一键到底；
+ * 智能帧匹配，自动拼接；
+ * 支持保存到相册、复制到剪贴板；
+ * 三、【OCR识别】
+ * 使用 PaddleOCR模型识别截图文字；
+ * 半屏浮层展示，支持涂抹选择、一键复制；
+ * 需自备API Token。
+ * 四、【翻译】
+ * 百度翻译 API，自动检测语言双向翻译；
+ * 支持图片翻译和文本翻译两种通道；
+ * 半屏浮层展示，支持涂抹选择、一键复制；
+ * 需自备百度开发者信息中的 AppID 和 密钥。
+ * 五、【Ai互译+问答】
+ * 支持中英文互译和中文问答；
+ * 半屏浮层展示，支持涂抹选择、一键复制；
+ * 需自备阿里云 API Key。
+ * 六、【自定义图标】
+ * 创建 "/var/mobile/Axs/Snapper3图标/自定义文件夹" ，放入以下对应素材，即可替换默认图标：
+ *   截图标记：tag.png / tag_menu.png
+ *   长截图  ：long.png / long_menu.png
+ *   ocr识别 ：ocr.png / ocr_menu.png
+ *   翻译    ：trans.png / trans_menu.png
+ *   Ai互译  ：huyi.png / huyi_menu.png
+ *   Ai回答  ：wenda.png / wenda_menu.png
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper3 Expand
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper3expand/js.json
+
 Package: com.axs.switchicon
 Version: 5.2.0-131
 Architecture: iphoneos-arm64
@@ -1348,6 +1404,63 @@ Author: mlgm
 Name: PullOverX(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
 
+Package: com.dao.pulloverx
+Version: 2.2.8
+Architecture: iphoneos-arm64
+Maintainer: daodao
+Installed-Size: 812
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: debs/com.dao.pulloverx_2.2.8_beta-arm64.deb
+Size: 180956
+MD5sum: a3c0ceb272542a991a5a1f7a9d780ada
+SHA1: e69f46a2a260834432d90da927e367176922003e
+SHA256: f8d72f8eeb57935df38e680d16d93a3be85c97dbb0bbb78cb3a56ec737b0ab72
+Section: 嗨-工具
+Description: 悬浮多任务窗口工具，基于 mlgm 的 PullOver X 打造的客制化版本。
+Author: mlgm
+Name: PullOverX(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
+
+Package: com.dao.pulloverx
+Version: 2.2.8
+Architecture: iphoneos-arm
+Maintainer: daodao
+Installed-Size: 812
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: debs/com.dao.pulloverx_2.2.8_beta-arm.deb
+Size: 180888
+MD5sum: a3ce8ce2ca4d7cd3ee67d45ad0b93194
+SHA1: 0cf27d6c6571678de1058be67c58610d0948a308
+SHA256: 81a93d9be3c3e9d937a2e100a03b65943aa4e279c55ad6f2f97346928f5fa7f4
+Section: 嗨-工具
+Description: 悬浮多任务窗口工具，基于 mlgm 的 PullOver X 打造的客制化版本。
+Author: mlgm
+Name: PullOverX
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
+
+Package: com.dao.pulloverx
+Version: 2.2.8
+Architecture: iphoneos-arm64e
+Maintainer: daodao
+Installed-Size: 796
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: debs/com.dao.pulloverx_2.2.8_beta-arm64e.deb
+Size: 178016
+MD5sum: cc413074df1012298c259ae6c752602b
+SHA1: 2216765ec6c4263f869332e0019bf011be36ab26
+SHA256: 0c8499f1b672fe90cb3d493facd78921b25411358dbb98f342627d1f876a2c8b
+Section: 嗨-工具
+Description: 悬浮多任务窗口工具，基于 mlgm 的 PullOver X 打造的客制化版本。
+Author: mlgm
+Name: PullOverX(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
+
 Package: com.dao.trollstore.cn
 Version: 2.0.15
 Architecture: iphoneos-arm
@@ -1825,6 +1938,57 @@ Size: 2862880
 MD5sum: caa446da885348a39494dba1a57a683a
 SHA1: e3003c539f6e25897bd1da1e93269e1f357d26ca
 SHA256: 2c9cb725e7f7aa86b617482a7fac52ec7f211b6c519875ea92dbe9bbe2b72ec9
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 2.4.6
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 6652
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: debs/com.iosdump.shellx_2.4.6_iphoneos-arm64.deb
+Size: 2885438
+MD5sum: f451bc24b1c7a4c6d73b6281cd3ffd06
+SHA1: 9fbda3ab6d9f90ced370ba7ae68aebbfbc93a337
+SHA256: 0697b2fd6b6b45b13ff64da71d2b7c448a3758a1371e2d57c6b46b5322a3201e
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 2.4.6
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 6652
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: debs/com.iosdump.shellx_2.4.6_iphoneos-arm64e.deb
+Size: 2885428
+MD5sum: 675148d3ab1402f7d62e7b1039fed21a
+SHA1: c34b46364648f8b90e99432dd5f20b0377e53854
+SHA256: 7047ec9184286d7e244a3fd7cf04cc6fb17871b75d1c2575ee4c8a94a64cf8c1
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 2.4.6
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 6656
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: debs/com.iosdump.shellx_2.4.6_iphoneos-arm.deb
+Size: 2886830
+MD5sum: 2651f807a452145b3852c41c68193810
+SHA1: e2f1d524b7d340e8863273eb7f57d46980e97d7b
+SHA256: a138deeb8b4becf09b6dffe41b49b4eeff40376573698b82e85c35fc19e40cc9
 Section: Tweaks
 Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
 Author: iosdump
