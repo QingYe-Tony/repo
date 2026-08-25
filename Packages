@@ -951,6 +951,87 @@ Description: 解除温控，一切从简即可。支持命令行切换模式：i
 Author: be-huge & doimty
 Name: insulation
 
+Package: com.bvn.airaw-r2
+Version: 1.7.0k
+Architecture: iphoneos-arm64e
+Maintainer: BVN Repo
+Installed-Size: 12000
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), ws.hbang.common,com.opa334.ccsupport
+Replaces: jp.dcsyhi.airaw
+Filename: debs/Airaw VH(Roothide)-1.7.0k.deb
+Size: 8472812
+MD5sum: 493b126bd9ecab18f0731529ad64d44c
+SHA1: 171e7d8f9bde1ed6bc4e70ede25a0e73a6f8ee7c
+SHA256: 0e6e9ca159483ca1f7a9bfff1cb41df71c3b889657bfa007ce6ad9a208c9566e
+Section: Tweaks
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Depiction: https://bvnrepo999.github.io/infodeb/Html/Airaw.html
+Icon: https://bvnrepo999.github.io/icon/tinhchinh.png
+Name: Airaw VH(Roothide)
+Sileodepiction: https://bvnrepo999.github.io/sileodepictions/Airaw.json
+
+Package: com.bvn.carcast.r2
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: BVN Repo
+Installed-Size: 2374
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>=16.0), com.bvn.airaw-r2 (>=1.7.0)
+Conflicts: com.leftyfl1p.carbridge13
+Replaces: jp.dcsyhi.carcast
+Filename: debs/CarCast VH(Roothide)-1.0.deb
+Size: 1516772
+MD5sum: 1843b89fdd0b884e0009bbc1e6a915a6
+SHA1: 6041af63b8b082ceb70f4fe38363bea06a1f20fa
+SHA256: 3aec7a83ce404801c232b2bc65c3cc45ee7dfc470c5f4ac83a90114952c7301b
+Section: Tweaks
+Description: Ghim các ứng dụng không phải CarPlay vào bảng điều khiển CarPlay. Yêu cầu Airaw. Đã thử nghiệm trên iOS 17 và iOS 26. iOS 17+.
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Icon: https://bvnrepo999.github.io/icon/tinhchinh.png
+Name: CarCast VH(Roothide)
+Sileodepiction: https://bvnrepo999.github.io/sileodepictions/CarCast.json
+
+Package: com.bvn.splitnative.r2
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: BVN
+Installed-Size: 442
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>=16.0), com.bvn.airaw-r2 (>=1.7.0)
+Replaces: jp.dcsyhi.airaw.splitnative
+Filename: debs/Airaw Split View Native (Roothide)-1.0.deb
+Size: 29732
+MD5sum: c3236d2e8fb98248871e90398dc375d1
+SHA1: 1a79e366010c22fdf9a3b276ed8257c9e73d0a51
+SHA256: c1f551f7631acd977d3c8eb8cd49d25897efd94b4ef871ff03548dfcf7ad4cf9
+Section: Tweaks
+Description: Split View cho các ứng dụng CarPlay gốc (Bản đồ, Âm nhạc, ...). Yêu cầu Airaw và iOS 16+. Cài đặt chỉ mở từ Airaw.
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Icon: https://bvnrepo999.github.io/icon/tinhchinh.png
+Name: Airaw Split View Native (Roothide)
+Sileodepiction: https://bvnrepo999.github.io/sileodepictions/AirawSplit.json
+
+Package: com.bvn.splitstandard.r2
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: BVN Repo
+Installed-Size: 408
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>=16.0), com.bvn.airaw-r2 (>=1.7.0)
+Replaces: jp.dcsyhi.airaw.splitstandard
+Filename: debs/Airaw Split View Standard (Roothide)-1.0.deb
+Size: 20888
+MD5sum: de1516dd7984bd083cd41f2aad95a214
+SHA1: b057d22a6f60264da51658f2723f7a36322c8db3
+SHA256: 263ca846ab579d2eef7d9b2aa9b077439e354158707d391296453c8240b4e320
+Section: Tweaks
+Description: Split View cho các ứng dụng CarPlay không gốc (CarCast / CarBridge). Yêu cầu Airaw và iOS 16+. Cài đặt chỉ mở từ Airaw.
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Icon: https://bvnrepo999.github.io/icon/tinhchinh.png
+Name: Airaw Split View Standard (Roothide)
+Sileodepiction: https://bvnrepo999.github.io/sileodepictions/splitstandard.json
+
 Package: com.charlieleung.snapvision
 Version: 0.0.1
 Architecture: iphoneos-arm64e
