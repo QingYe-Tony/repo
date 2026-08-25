@@ -2503,6 +2503,21 @@ Description: 由 Fluoxetine氟西汀 修改巨魔 Lite，使其支持 Relaxin/Ro
 Author: opa334; Relaxin adaptation by Fluoxetine氟西汀
 Name: 巨魔Lite（Relaxin 兼容版）
 
+Package: com.opa334.trollstorelite
+Version: 2.1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Installed-Size: 3844
+Filename: debs/com.opa334.trollstorelite_2.1.1-1_iphoneos-arm64e.deb
+Size: 1739500
+MD5sum: d47682640599305df16c5a29e17bcd08
+SHA1: f01bfd3128120b9bf254b520e5458b639f13d263
+SHA256: a606e0576be5d508ff92a4d842b49698088889b85fb3ceeee43f4269ee03e376
+Section: Applications
+Description: TrollStore for RootHide jailbroken iOS
+Author: opa334
+Name: TrollStore Lite (RootHide)
+
 Package: com.qimiao.WCRefine
 Version: 2.1-1
 Architecture: iphoneos-arm64
@@ -2554,25 +2569,6 @@ Section: Tweaks
 Description: Rain的灵动卡片 - 自定义通知卡片动画效果，支持自定义背景、粒子特效、宠物、天气显示等丰富功能。
 Author: Rain
 Name: Rain的灵动卡片
-
-Package: com.roothide.patcher
-Version: 2.1.5
-Architecture: iphoneos-arm64e
-Maintainer: roothide
-Installed-Size: 2476
-Depends: firmware (>= 15.0), libxar1, ldid, file, dpkg, gawk, plutil(>= 0.2.2-1), uikittools(>= 2.1.6-4)
-Filename: debs/com.roothide.patcher_2.1.5-arm64e.deb
-Size: 894874
-MD5sum: 94043779e90a495735707f5836be7f6a
-SHA1: 583feba8a9b2d2774d06f68c3b0e84e850bc8191
-SHA256: 24540dcc01db6cbe8692660f546e842055f14e5ab6467c0b6d7221a7d098cab8
-Section: Utilities
-Description: patch rootless package to roothide, not work for all packages.
-Author: roothide
-Depiction: https://github.com/roothide/RootHidePatcher
-Icon: https://github.com/roothide/RootHidePatcher/blob/master/derootifier-2-modified.png?raw=true
-Name: RootHide Patcher
-Support: https://github.com/roothide/RootHidePatcher
 
 Package: com.spark.snowboard
 Version: 1.5.37-Beta4-rootless
