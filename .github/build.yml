@@ -1,0 +1,19 @@
+name: Build Repo
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install dpkg
+        run: sudo apt update && sudo apt install -y dpkg
+      - name: Generate Packages index
+        run: |
+          dpkg-scanpackages debs /dev/null > Packages
+          gzip -k Packages
+      - name: Upload files for Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
