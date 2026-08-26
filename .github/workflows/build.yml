@@ -1,10 +1,15 @@
-name: Build Repo
+name: Auto Build Cydia Repo
+
 on:
   push:
     branches: [ master ]
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
-  build:
+  build_repo:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
