@@ -11,16 +11,28 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Generate Packages index (keep all versions)
+      - name: Generate Packages index
         run: |
           cd debs
           dpkg-scanpackages . ../Packages
           gzip -k -f ../Packages
 
+      - name: Generate Release file
+        run: |
+          cat > Release <<'EOF'
+Origin: MyRepo
+Label: My Cydia Repo
+Suite: stable
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: My custom repo
+EOF
+
       - name: Commit generated files
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add Packages Packages.gz
-          git commit -m "auto update repo index" || true
+          git add Packages Packages.gz Release
+          git commit -m "auto update repo index+release" || true
           git push
