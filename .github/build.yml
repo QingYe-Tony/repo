@@ -11,13 +11,16 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Generate Packages index
-        run: |
-          cd debs
-          dpkg-scanpackages . ../Packages
-          gzip -k -f ../Packages
+      - name: Install dpkg-dev
+        run: apt-get update && apt-get install -y dpkg-dev
 
-      - name: Generate Release file
+      - name: Generate Packages with ALL versions (-m)
+        run: dpkg-scanpackages -m debs /dev/null > Packages
+
+      - name: Compress Packages
+        run: gzip -k -f Packages
+
+      - name: Generate Release
         run: |
           cat > Release <<'EOF'
 Origin: MyRepo
@@ -29,10 +32,10 @@ Components: main
 Description: My custom repo
 EOF
 
-      - name: Commit generated files
+      - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add Packages Packages.gz Release
-          git commit -m "auto update repo index+release" || true
+          git commit -m "auto build repo index" || true
           git push
