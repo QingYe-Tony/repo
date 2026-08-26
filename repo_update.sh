@@ -1,46 +1,27 @@
 #!/bin/zsh
-set -euo pipefail
-setopt nullglob
+echo "=== 清野源 更新索引开始 ==="
 
-WORKDIR=$(pwd)
-DEBS_DIR="${WORKDIR}/debs"
-OUT_DIR="${DEBS_DIR}/fixed"
-TMP_DIR="${DEBS_DIR}/_tmp"
+# 扫描debs文件夹生成Packages
+dpkg-scanpackages -m debs /dev/null > Packages
 
-echo "===== 1.开始转换zstd格式deb ====="
-mkdir -p "${OUT_DIR}"
-mkdir -p "${TMP_DIR}"
-
-for deb in "${DEBS_DIR}"/*.deb; do
-  [[ -f "$deb" ]] || continue
-  echo "Processing: $(basename "$deb")"
-  rm -rf "${TMP_DIR:?}"/*
-  cd "${TMP_DIR}"
-  ar x "$deb"
-
-  if [[ -f control.tar.zst ]]; then
-    echo "  → Detect zstd control.tar.zst, converting to gzip"
-    zstd -d control.tar.zst
-    gzip control.tar
-  fi
-
-  cp "${deb}" "${OUT_DIR}/"
-done
-
-echo "===== 2.复制处理后的deb回debs目录 ====="
-rsync -av "${OUT_DIR}/" "${DEBS_DIR}/"
-rm -rf "${OUT_DIR}" "${TMP_DIR}"
-
-echo "===== 3.清理临时目录 ====="
-
-echo "===== 4.生成源索引 Packages / Packages.gz ====="
-dpkg-scanpackages debs /dev/null > Packages
+# 生成压缩包
 gzip -k -f Packages
 
-echo "===== 5.git提交推送 ====="
-#git add .
-#git commit -m "repo update $(date '+%Y‑%m‑%d %H:%M')"
-#git push
+# 生成Release文件
+cat > Release <<ENDREL
+Origin: 清野
+Label: 清野
+Suite: stable
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: 清野软件源
+ENDREL
 
-echo "✅全部完成"
-/opt/local/bin/dpkg-scanpackages debs /dev/null > Packages
+# git提交推送
+git add debs Packages Packages.gz Release
+git commit -m "自动脚本：更新软件源索引"
+git push
+
+echo "=== 推送完成！等待GitHub Pages 2‑5分钟生效 ==="
+echo "源地址：https://qingye-tony.github.io/repo/"
