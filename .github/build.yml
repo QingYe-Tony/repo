@@ -1,19 +1,26 @@
 name: Build Repo
-on: push
+on:
+  push:
+    branches: [ master ]
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Install dpkg
-        run: sudo apt update && sudo apt install -y dpkg
-      - name: Generate Packages index
-        run: |
-          dpkg-scanpackages debs /dev/null > Packages
-          gzip -k Packages
-      - name: Upload files for Pages
-        uses: actions/upload-pages-artifact@v3
         with:
-          path: ./
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
+          fetch-depth: 0
+
+      - name: Generate Packages index (keep all versions)
+        run: |
+          cd debs
+          dpkg-scanpackages . ../Packages
+          gzip -k -f ../Packages
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add Packages Packages.gz
+          git commit -m "auto update repo index" || true
+          git push
