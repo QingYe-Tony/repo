@@ -15,9 +15,7 @@ for deb in *.deb; do
   if [[ -f control.tar.zst ]]; then
     echo "  → Detect zstd control.tar.zst, converting to gzip..."
     zstd -d control.tar.zst
-    rm -f control.tar.zst
     gzip control.tar
-    # 重新打包，顺序必须：debian‑binary 放第一位
     ar rc "../$OUT_DIR/$deb" debian-binary control.tar.gz data.tar.*
   else
     echo "  → skip, no zstd"
@@ -30,4 +28,7 @@ done
 
 echo ""
 echo "✅全部处理完成，修复后的deb输出目录：$OUT_DIR"
-echo "👉把 fixed/* 的deb复制回 debs，再执行 ./upload.sh"
+echo "👉执行 cp -r fixed/* . 复制回debs目录"
+
+#取消下面注释，处理完自动删除fixed，防止git误提交
+#rm -rf "$OUT_DIR"
