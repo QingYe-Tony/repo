@@ -8518,28 +8518,6 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/AutoScroll/icon.png
 Name: AutoScroll 自动滑动
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AutoScroll/js.json
 
-Package: com.awej
-Version: 1.2.0
-Architecture: iphoneos-arm64
-Maintainer: siwenjiajia
-Installed-Size: 360
-Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
-Conflicts: awej
-Replaces: com.siwenjiajia.awemeloginrepair
-Filename: debs/com.awej_1.2.0_iphoneos-arm64.deb
-Size: 109408
-MD5sum: f6ab2fa18ea014cf6d57c427791397bd
-SHA1: ec4250ebb914ab60b4839931390a19d58f72c2b0
-SHA256: 7c7258dc68b75f77fcbdde7b7c56d885db3680b19bbcac0381fe178e5c4644f1
-Section: 抖音插件
-Description: aweJ 独立版抖⁺功能插件
- * 插件位于抖音设置-通用选项下方
- * 跳小程序广告、加速滑动动画
-Author: siwenjiajia
-Icon: https://TrollStoreX.Github.io/sileodepiction/AweJ/icon.png
-Name: 抖音+ aweJ
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AweJ/js.json
-
 Package: com.axs.appdata
 Version: 5.2.0-104
 Architecture: iphoneos-arm64
@@ -13889,46 +13867,6 @@ Section: Tweaks
 Description: cool
 Author: 🐶
 Name: SystemX
-
-Package: com.gtoks
-Version: 1.7
-Architecture: iphoneos-arm64
-Maintainer: g_tweaks
-Depends: firmware (>= 14.0), mobilesubstrate | substitute | libhooker | ellekit
-Conflicts: com.gtokcom.gtok
-Filename: debs/com.gtoks_1.7_iphoneos-arm64.deb
-Size: 904526
-MD5sum: 11cd8d2d69bb07d23042bd497a943963
-SHA1: 93412e94f29dce98afc14f7f81d7444453055ed3
-SHA256: b34de36d5dc780652f49735a83464e6297993292ac38b2194ff01de20693af42
-Section: TikTok
-Description: TikTok 增强插件
- * 支持中文，需要在插件设置内手动云端翻译
- * GTok for TikTok by t.me/g_tweaks
-Author: g_tweaks
-Icon: https://TrollStoreX.Github.io/sileodepiction/GTok/icon.png
-Name: GTok TikTok 增强
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/GTok/js.json
-
-Package: com.gtoks
-Version: 1.7-1
-Architecture: iphoneos-arm64
-Maintainer: g_tweaks
-Depends: firmware (>= 14.0), mobilesubstrate | substitute | libhooker | ellekit
-Conflicts: com.gtokcom.gtok
-Filename: debs/com.gtoks_1.7-1_iphoneos-arm64.deb
-Size: 904494
-MD5sum: b66edfd28e11e2349f8340e032f942c7
-SHA1: a2f3b1832f1c1dd6eeba96d90bc01ec76e5f966f
-SHA256: 7954962f3103b4b7456b48a78172aefdab487c0aa809b799fb8bc6394edd93fa
-Section: TikTok
-Description: TikTok 增强插件
- * 支持中文，需要在插件设置内手动云端翻译
- * GTok for TikTok by t.me/g_tweaks
-Author: g_tweaks
-Icon: https://TrollStoreX.Github.io/sileodepiction/GTok/icon.png
-Name: GTok TikTok 增强
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/GTok/js.json
 
 Package: com.hang.squidgesturepro-ios17fix
 Version: 1.0.10
@@ -20850,46 +20788,6 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
 Name: AppData
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/js.json
 
-Package: com.netskao.awemealwaysshowtimes
-Version: 1.1-1
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 56
-Depends: mobilesubstrate, firmware (>= 12.0)
-Conflicts: com.netskao.awemealwaysshowtime
-Filename: debs/com.netskao.awemealwaysshowtimes_1.1-1_iphoneos-arm64.deb
-Size: 2348
-MD5sum: 8cfd8a0152494e90db0361fa4114f1ac
-SHA1: 3f0749bb3efdf9ca5fc56414323863389acf3ee0
-SHA256: 9061569eeab5cc64b6c043acd66d3fefb3220e4d2bc6ca1c0eaa90663fe8c783
-Section: 抖音插件
-Description: 抖音视频始终显示视频发布时间
-Author: Netskao
-Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeAlwaysShowTime/icon.png
-Name: 抖音发布时间 AwemeAlwaysShowTime
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeAlwaysShowTime/js.json
-
-Package: com.netskao.awemedisablebars
-Version: 1.1-6
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 172
-Depends: firmware (>= 15.0), mobilesubstrate
-Conflicts: com.netskao.awemedisablebar, byg.iosios.net.awemedisablebars
-Filename: debs/com.netskao.awemedisablebars_1.1-6_iphoneos-arm64.deb
-Size: 304816
-MD5sum: 80f75e64e2f757b7673f8ddbd8ae6f9c
-SHA1: ae427e4f3e24add232401a50685836fb60d959c2
-SHA256: e7cf8f1dce6de38eb32137d23d03365cd643515fc71b6c26b92087dca118d126
-Section: 抖音插件
-Description: 抖音禁用按钮菜单
- * 禁用「顶部｜底部｜右侧」选项按钮
- * 仅在 30.3.0 及更高版本上进行测试
-Author: Netskao
-Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeDisableBar/icon.png
-Name: 抖音禁用 AwemeDisableBar
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeDisableBar/js.json
-
 Package: com.netskao.awemedownloadmedias
 Version: 1.1-8
 Architecture: iphoneos-arm64
@@ -20911,29 +20809,6 @@ Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeDownloadMedia/icon.png
 Name: 抖音下载 AwemeDownloadMedia
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeDownloadMedia/js.json
-
-Package: com.netskao.awemefullscreens
-Version: 1.3-7
-Architecture: iphoneos-arm64
-Maintainer: Netskao
-Installed-Size: 448
-Depends: firmware (>= 15.0), mobilesubstrate
-Conflicts: com.netskao.awemefullscreen, byg.iosios.net.awemefullscreen
-Filename: debs/com.netskao.awemefullscreens_1.3-7_iphoneos-arm64.deb
-Size: 191464
-MD5sum: bdb7eca52e4f81dfbd6dad2a339f97c7
-SHA1: cda50359ec343947a93633f8057923b0337adcdb
-SHA256: dd4fa791752a8bbc1407c28f677f1d7a7de5fe76b3f1e37489dfa6f13fadceb4
-Section: 抖音插件
-Description: 抖音主页全屏显示
- * 支持抖音极速版
- * 插件开关位于抖音设置内
- * 仅支持抖音 34.7.0 及以上版本
- * 放大视频达到全屏显示，视频区域会部分丢失
-Author: Netskao
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
-Name: 抖音全屏 AwemeFullScreen
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeFullScreen/js.json
 
 Package: com.netskao.awemenoads
 Version: 1.1-3
@@ -21577,80 +21452,6 @@ Author: 巨魔商店 Telegram
 Icon: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/icon.png
 Name: NotificationsGroupCount 简体中文
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/js1.json
-
-Package: com.nwzj.hooktcs
-Version: 0.2
-Architecture: iphoneos-arm64
-Maintainer: nwzj
-Installed-Size: 123
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.nwzj.hooktcs_0.2_iphoneos-arm64.deb
-Size: 163508
-MD5sum: 542d467b9e8c8b496b91880101d7bc2b
-SHA1: 8afd837d0de507044572a4eb9fc987e30f5c9c42
-SHA256: 527a5c23bbb47c75c237a67756fd3fd0fc304c6ad5fd82e0b98e12f519172426
-Section: 应用破解
-Description: 删除图层时间限制
-Author: nwzj
-Icon: https://TrollStoreX.Github.io/sileodepiction/1aa2/icon.png
-Name: 逆无止境图层 1aa2
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/1aa2/js.json
-
-Package: com.nwzj.hooktcs
-Version: 0.3
-Architecture: iphoneos-arm64
-Maintainer: 逆无止境
-Installed-Size: 123
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.nwzj.hooktcs_0.3_iphoneos-arm64.deb
-Size: 95768
-MD5sum: 9d57c74396486ad043bb89910edca058
-SHA1: 6a58aa11eeaf7f01f70ef6883e5d077825f3c47c
-SHA256: aa8fb2efcac520cbed2d03fb2b9a9ed102fa43055e799db31f19c23c20495ed1
-Section: 应用破解
-Description: 删除图层时间限制，屏蔽服务器闪退
-Author: 逆无止境
-Icon: https://TrollStoreX.Github.io/sileodepiction/1aa2/icon.png
-Name: 逆无止境图层 1aaa3
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/1aa2/js.json
-
-Package: com.nwzj.hooktcs
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 逆无止境
-Installed-Size: 123
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.1aaa1.1aaa3, com.yourepo.huayuarc.1aaa3, byg.iosios.net.tucengpojie
-Filename: debs/com.nwzj.hooktcs_1.0_iphoneos-arm64.deb
-Size: 90432
-MD5sum: 02c2d7fdc71551a3b2833002afaaa203
-SHA1: eb8f391a0ff210343a590f259ebcdeb109bdaf36
-SHA256: 1c11daf86ec31498fd3f7d6df2b10b1696510aa48bba88a0cce4909c6b79adfb
-Section: 抖音插件
-Description: 删除图层时间限制，屏蔽服务器远程闪退
-Author: 逆无止境
-Icon: https://TrollStoreX.Github.io/sileodepiction/1aa2/icon.png
-Name: 逆无止境图层 1aaa3
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/1aa2/js.json
-
-Package: com.nwzj.hooktcs
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 逆无止境
-Installed-Size: 123
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.1aaa1.1aaa3, com.yourepo.huayuarc.1aaa3, byg.iosios.net.tucengpojie
-Filename: debs/com.nwzj.hooktcs_1.0_iphoneos-arm.deb
-Size: 92424
-MD5sum: dc6ed546106c90c9eef3a94bfdabfb73
-SHA1: 3c27a85a5626f04b8842d48c18444be0129ab6d9
-SHA256: 41766e252ed29c93a1876de1887b351c9d7199b19aa99aea974978e551549477
-Section: 抖音插件
-Description: 删除图层时间限制，屏蔽服务器远程闪退
-Author: 逆无止境
-Icon: https://TrollStoreX.Github.io/sileodepiction/1aa2/icon.png
-Name: 逆无止境图层 1aaa3
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/1aa2/js.json
 
 Package: com.nx.accode
 Version: 1.0
@@ -24341,44 +24142,6 @@ Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vedette
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vedette/icon/icon.png
 Name: Vedette
 
-Package: com.vita.awemespeedxs
-Version: 0.1-1
-Architecture: iphoneos-arm64
-Maintainer: vita
-Installed-Size: 272
-Depends: firmware (>= 5.0), mobilesubstrate
-Conflicts: com.vita.awemespeedx
-Filename: debs/com.vita.awemespeedxs_0.1-1_iphoneos-arm64.deb
-Size: 32496
-MD5sum: 534d8e7cf5df82b726dba5b711bfcf31
-SHA1: b7ec1c449307f1dba15826cd0a41f572286b5e96
-SHA256: 2722effe24d45f9e1c279cda9d652794135c6aa200905ba51b8b0db608ec02a6
-Section: 抖音插件
-Description: 为抖音添加一个倍数播放按钮，长按可自定义倍数
-Author: vita
-Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeSpeedX/icon.png
-Name: 抖音倍数播放 AwemeSpeedX
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeSpeedX/js.json
-
-Package: com.vita.awemespeedxs
-Version: 0.1-1
-Architecture: iphoneos-arm64e
-Maintainer: vita
-Installed-Size: 272
-Depends: firmware (>= 5.0), mobilesubstrate
-Conflicts: com.vita.awemespeedx
-Filename: debs/com.vita.awemespeedxs_0.1-1_iphoneos-arm64e.deb
-Size: 32500
-MD5sum: fbb19068aeb05ccf8c70e2747157603f
-SHA1: 7a76ff78a926b35ffde94ab57e97a573b679ac67
-SHA256: e75b88d3eb168b73fbcbae742b80bdc56267d37bb74b6f9955ccbbdcf0d6856e
-Section: 抖音插件
-Description: 为抖音添加一个倍数播放按钮，长按可自定义倍数
-Author: vita
-Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeSpeedX/icon.png
-Name: 抖音倍数播放 AwemeSpeedX
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeSpeedX/js.json
-
 Package: com.vita.wchook
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -24430,60 +24193,6 @@ Priority: optional
 Description: 重构简化代码，微信聊天左滑引用消息，无设置页，安装默认生效
 Author: vita
 Name: WCHook (微信左滑引用)
-
-Package: com.vita.yukis
-Version: 0.1-0
-Architecture: iphoneos-arm64
-Maintainer: vita
-Installed-Size: 172
-Depends: firmware (>= 5.0), mobilesubstrate
-Conflicts: com.vita.yuki
-Filename: debs/com.vita.yukis_0.1-0_iphoneos-arm64.deb
-Size: 132248
-MD5sum: 7e5158ad0569a33a5b46c36e0099e5f5
-SHA1: 1ee75826eea167e9f08c0276a406e0e495d84aa8
-SHA256: 0ad203339b769ad246302f1154be6b01899ecb810e50387f7eeea83f22cf67c7
-Section: 抖音插件
-Priority: optional
-Description: 抖音消息防撤回
- * 猜拳骰子作弊
- * 语音转发
- * 自定义语音秒数
- * 屏蔽输入状态
- * 无限看闪照
- * 好友交换作弊
- * 插件位于抖音设置内
-Author: vita
-Icon: https://TrollStoreX.Github.io/sileodepiction/Yuki/icon.png
-Name: 抖音防撤回 Yuki
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuki/js.json
-
-Package: com.vita.yukis
-Version: 0.1-0
-Architecture: iphoneos-arm64e
-Maintainer: vita
-Installed-Size: 172
-Depends: firmware (>= 5.0), mobilesubstrate
-Conflicts: com.vita.yuki
-Filename: debs/com.vita.yukis_0.1-0_iphoneos-arm64e.deb
-Size: 131724
-MD5sum: 791b41f4d0a7e7ac74bdcfba466c3a87
-SHA1: d5330374d3ac9f76d22b4f54538aec2c34d182a4
-SHA256: 06101ae266f22e158902e49953c1b6394bf4374420b158f41dc21d77d010f82e
-Section: 抖音插件
-Priority: optional
-Description: 抖音消息防撤回
- * 猜拳骰子作弊
- * 语音转发
- * 自定义语音秒数
- * 屏蔽输入状态
- * 无限看闪照
- * 好友交换作弊
- * 插件位于抖音设置内
-Author: vita
-Icon: https://TrollStoreX.Github.io/sileodepiction/Yuki/icon.png
-Name: 抖音防撤回 Yuki
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuki/js.json
 
 Package: com.wechat.enhance
 Version: 1.1.9
@@ -25031,26 +24740,6 @@ Author: 𝙓
 Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
 Name: 抖音图层
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
-
-Package: com.xx.dyhooks.old
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 224
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.xx.dyhooks.old_1.0.3_iphoneos-arm64.deb
-Size: 41732
-MD5sum: 849d2d26d00b50de0259320984e73f9f
-SHA1: ba5b3d9fed737e834f22fe047059c4b8e159c53d
-SHA256: 9e9b27775cb2f5501da58eec79b9682a4e36428be2b20971a99bc669228d9cb9
-Section: 抖音插件
-Description: 旧版本，功能较少
- * 无限制使用
- * 隐藏部分图层元素
-Author: x✨
-Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
-Name: 抖音图层旧版
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js1.json
 
 Package: com.xx.kshooks
 Version: 1.0.6-3
