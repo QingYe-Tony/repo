@@ -124,116 +124,54 @@ MD5sum: d1a14e8425c8058e8f26b0b8e4772ccd
 SHA1: 7fe4394931521c7d2482ff9a80c2dae1b391756e
 SHA256: 9f9ba000f2042d90bab6840a854058cc18629ab020d0f53d3653fbe68d220ad5
 
- 1. 支持自动粘贴，面板内一键复制/粘贴；
- 2. 支持长按分词，独立复制；
- 3. 支持历史条数与显示行数设置；
- 4. 支持多种激活方式：键盘预测栏、听写键、第三方手势插件；
- 5. 支持一键清空剪贴板；
- 6. 支持显示保存时间；收藏内容可以自定义排序；
- 7. 支持屏蔽iOS16+"粘贴自"横幅提示。
 Filename: debs/Clipboard_5.2.0-110.deb
 Size: 109824
 MD5sum: 6d05650d78376806c57210223f01a08a
 SHA1: b501c0f68efa0b95faeaa545a53004dfae4e6f2e
 SHA256: 841fdd339dc8cf91bf7d2d1ba712810f22244ed6dc9cb95975b3c5d891c3e749
 
- 1. 支持自动粘贴与自动提升模式，面板内一键复制/粘贴；
- 2. 支持长按文字条目分词选取，独立复制选中词块；
- 3. 支持复制/粘贴音效反馈与触感反馈（可分别控制开关）；
- 4. 支持历史条数与内容预览行数设置；
- 5. 支持 4 种激活方式：听写键、编辑菜单、长按地球键、系统键盘上滑；
- 6. 支持内容过滤（全部/文本/链接/图片）、收藏夹拖拽排序、面板内容快捷搜索；
- 7. 支持显示保存时间和来源 App 图标，图片条目展示缩略图；
- 8. 支持深色/浅色模式自适应、全屏/抽屉切换、横屏全屏适配；
- 9. 支持屏蔽 iOS 16+ 粘贴横幅提示。
 Filename: debs/Clipboard_5.2.0-172.deb
 Size: 144198
 MD5sum: 03dd68b5f32bef85e0d0be2e69d159d5
 SHA1: 440a67f55ce7e273dcc90aa55e9282f3411f7337
 SHA256: f09ea0d8d1dfb39a2edf6549afc02cc9ed168d68285469faa8ead44afd71da4c
 
- 1. 支持自动粘贴与自动提升模式，面板内一键复制/粘贴；
- 2. 支持长按文字条目分词选取，独立复制选中词块；
- 3. 支持复制/粘贴音效反馈与触感反馈（可分别控制开关）；
- 4. 支持历史条数与内容预览行数设置；
- 5. 支持 4 种激活方式：听写键、编辑菜单、长按地球键、系统键盘上滑；
- 6. 支持内容过滤（全部/文本/链接/图片）、收藏夹拖拽排序、面板内容快捷搜索；
- 7. 支持显示保存时间和来源 App 图标，图片条目展示缩略图；
- 8. 支持深色/浅色模式自适应、全屏/抽屉切换、横屏全屏适配；
- 9. 支持屏蔽 iOS 16+ 粘贴横幅提示。
 Filename: debs/Clipboard_5.2.0-175.deb
 Size: 144470
 MD5sum: c9d3053d3cf746c39b5ba467bb0496e9
 SHA1: c8abe9dda627836a4793aec269d59ff91b832203
 SHA256: b56ad5ac080b936ef2c0fbe8bb023287cc49c4bc718a8bcc142855f9457fff2b
 
- 1. 支持自动粘贴与自动提升模式，面板内一键复制/粘贴；
- 2. 支持长按文字条目分词选取，独立复制选中词块；
- 3. 支持复制/粘贴音效反馈与触感反馈（可分别控制开关）；
- 4. 支持历史条数与内容预览行数设置；
- 5. 支持 4 种激活方式：听写键、编辑菜单、长按地球键、系统键盘上滑；
- 6. 支持内容过滤（全部/文本/链接/图片）、收藏夹拖拽排序、面板内容快捷搜索；
- 7. 支持显示保存时间和来源 App 图标，图片条目展示缩略图；
- 8. 支持深色/浅色模式自适应、全屏/抽屉切换、横屏全屏适配；
- 9. 支持屏蔽 iOS 16+ 粘贴横幅提示。
 Filename: debs/Clipboard_5.2.0-178.deb
 Size: 145096
 MD5sum: 6d3fd5a19530b532daa41e3d6873d563
 SHA1: 68544d35ad3942fbde1ed723b2bc1d75c779644c
 SHA256: 9dce9c27a60506e200f4beac1c57fe61f5f444b577bdc6de4ada608de3ea7479
 
- 1. 支持自动粘贴与自动提升模式，面板内一键复制/粘贴；
- 2. 支持长按文字条目分词选取，独立复制选中词块；
- 3. 支持复制/粘贴音效反馈与触感反馈（可分别控制开关）；
- 4. 支持历史条数与内容预览行数设置；
- 5. 支持 4 种激活方式：听写键、编辑菜单、长按地球键、系统键盘上滑；
- 6. 支持内容过滤（全部/文本/链接/图片）、收藏夹拖拽排序、面板内容快捷搜索；
- 7. 支持显示保存时间和来源 App 图标，图片条目展示缩略图；
- 8. 支持深色/浅色模式自适应、全屏/抽屉切换、横屏全屏适配；
- 9. 支持屏蔽 iOS 16+ 粘贴横幅提示。
 Filename: debs/Clipboard_5.2.0-179.deb
 Size: 145812
 MD5sum: f8fbe5a15a707b9121e3c7a3be6d497d
 SHA1: 371da53de385671025955ac98aa25201729c347b
 SHA256: 33869ecbbf8788f04ad30517a983c394c57b5cfc23fed3e2e318874357d5b1cf
 
- 1. 支持自动粘贴，面板内一键复制/粘贴；
- 2. 支持多种激活方式：键盘预测栏、听写键、第三方手势插件；
- 3. 支持一键清空剪贴板；
- 4. 支持显示保存时间；
- 5. 支持收藏内容可以自定义排序；
- 6. 支持屏蔽iOS16+"粘贴自"横幅提示。
 Filename: debs/Clipboard_5.2.0-98.deb
 Size: 90976
 MD5sum: ae195181012eb57fd13299243b91d219
 SHA1: 5005e0f956ab84c5ff2c07a071bc029f95b7978b
 SHA256: cc6422f43d6d9187e265199ffcb41fc28f9579c89320eae4704c37e0fedf723a
 
- * 1. 动态岛自定义背景，支持 PNG/JPG/GIF/MP4。
- * 2. 录屏的时候，可以隐藏原生岛黑色区域，让效果更美观。
- * 3. 内置纯代码灵动光圈（如彩虹环、彩虹流星、舞台灯、跑马灯、纯色线框）、漂亮的七彩随机光圈阴影等特效。
- * 4. 灵动岛左右两侧自定义png图片帧率动画（如写轮眼、跳舞等玩法）。
- * 5. 本插件无需任何依赖、支持手势录屏触发，已经达到极致水平。
 Filename: debs/DynamicIsland.deb
 Size: 87668
 MD5sum: ba6f5f44cccec52158526634ab14cf65
 SHA1: 589a5038d6dcd02a4e5b446c2fe347ad43257791
 SHA256: c85e0fbc9325049bc1d1e2125a1ad44961cb8cf5322196a0bc6329b84506a1d3
 
-  * 无根: /var/jb/var/mobile/Library/FloatingViewInfo/
-  * 隐根:[jbroot]/var/mobile/Library/FloatingViewInfo/
-  * 命名规则：与FV设置界面arc工具栏排序界面的名字为准。如：锁屏.png、截图.png、录屏.png
 Filename: debs/FV分屏-工具图标美化-1.0.0.deb
 Size: 7448
 MD5sum: ec5ef3f4db1a63e64a42658aca98c3ea
 SHA1: 05d6550a128b230ba6355be6e6593541d5596aa9
 SHA256: f3ba8f61c5d755c20f30af76dbda6144bb2111341b3d525609a51617d14489ef
 
-  * 1、仅供个人备份与学习研究使用。
-  * 2、本插件未经过大量设备测试，仅在 iPhone 14 Pro iOS 16.2、iPhone 14 Pro Max iOS 16.5 无根越狱环境下测试正常可用。
-  * 3、本版本仅处理授权验证逻辑，插件其他原有逻辑未作修改。若安装后无效、冲突或导致设备/应用异常，请自行卸载。
-  * 4、免责声明：安装和使用本插件所产生的一切风险由使用者自行承担。如因插件本身兼容性、原始代码逻辑或其他未知问题导致设备、系统、应用出现异常，请联系原插件作者处理。本人不承担因此产生的任何责任。
-  * 5、安全预警：鉴于越狱圈内部分特定人员（如Fv作者、苏苏、Wkk等）存在发布恶意格机代码、恶意抹黑及录制栽赃嫁祸视频的前科，需要用户自行甄别，从正确渠道下载插件。
 Filename: debs/Fv分屏破解版-1.6.0-6.deb
 Size: 652884
 MD5sum: 8b189bdfd446b1daf9e1faeaa2c9973b
@@ -264,16 +202,12 @@ MD5sum: d97aa19cc32176f6a82f5b6cc791a48b
 SHA1: e6b202e8c0314d089c47dad3b815ae19c8195dda
 SHA256: 656c8afaef93243beff999291a9c9060d9f40abb85296b1d480f69898c54aabc
 
- * END最终版本
-  * 作者已停止更新。
 Filename: debs/MisakaHelpers_2.1-0_iphoneos-arm64.deb
 Size: 13127104
 MD5sum: 8df9c714d9919eefd75cb983b3234e7d
 SHA1: b724e0f62df5f40ec38bcbb5911796374762b9dd
 SHA256: f212341e862e63480218d3e17a06e262b2dc4502b5e963fa62d814c40a95efe1
 
- * END最终版本
-  * 作者已停止更新
 Filename: debs/MisakaHelpers_2.1-0_iphoneos-arm64e.deb
 Size: 13149628
 MD5sum: 239f239a967bb1db4edccb5d9bfcf870
@@ -316,9 +250,6 @@ MD5sum: d1b641562a5e34cd67bee8ab24693112
 SHA1: f856ca6e89bf002b1b6b97352602bcb1613195e1
 SHA256: cff97b5bd40c592cf6f1f6fd1f2961038c8db7bd7986ac55da0df663bbd819ae
 
- * 支持 Rootless、RootHide 越狱
- * 支持 NathanLR、BootStrap 半越狱
- * 支持 iPhone 13 Pro 及以上 ProMotion 设备
 Filename: debs/Promotion120hz_1.0.0-76+debug_无根.deb
 Size: 12616
 MD5sum: 299fe2c73eca4cf37bdbc8eeccd2171e
@@ -331,10 +262,6 @@ MD5sum: 9580ea483c4b9f51bd3ad3084fb4206f
 SHA1: 573e2c05911a764e1dd45259a993b84a848e82d2
 SHA256: 13e0b6ec5c8d23d2dfee4374e9e63c9ac5e1b77eca509f70b4b24c87277c8403
 
- * 1. 录屏套壳渲染极快。
- * 2. 渲染过程中手机不发烫。
- * 3. 插件不需要任何依赖。
- * 4. 本插件是目前市面上最好的录屏套壳渲染工具。
 Filename: debs/ScreenShellPro.deb
 Size: 51728
 MD5sum: 6ae4d8266a96dcd5264efc6d33c813a6
@@ -347,17 +274,6 @@ MD5sum: 2bda58cf001eb1907de9c4cbd567f428
 SHA1: 70ffda39993fe73ace005be9b3b60a59bf0dadcf
 SHA256: c6f620a908d223d83841ad5c0d9708c8dc82ded425d6e35fee47bc4dca671e1f
 
- * 一、纯代码开关组
- * 1. 动态组：昼夜开关、血瞳开关、液态开关，支持流畅的过渡动画与动态视觉效果；
- * 2. 静态组：日月开关、水滴开关、立体开关、温度开关、星月开关，覆盖多种精致静态样式；
- * 3. 液态开关：复刻 iOS 26 风格，并支持开启状态颜色自定义；
- * 4. 日月开关：支持太阳、云朵、月亮、星星颜色自定义，一个开关也能千变万化。
- * 二、素材开关组
- * 1. 素材开关：在指定路径放置 on.png/off.png 开关素材；
- * 2. 支持创建多套，在插件面板自由切换。
- * 三、温馨提示
- * 1. 早买早享受，后续免费更新；
- * 2. 后续增加新样式，新用户可能面临涨价。
 Filename: debs/Switch Icon.deb
 Size: 122528
 MD5sum: ab68e821f2630db3ae297f49732e978a
@@ -466,8 +382,6 @@ MD5sum: b848e46fb6f45431a6850bda57403130
 SHA1: 8c9218a24e398e131d1a8ec8f15688f44219f27b
 SHA256: da9d1ade8fca1d73429b20b8c3a463b686f99c86cd162a2bd23a555420a2e3f5
 
- * 这是一个面向越狱 iOS（15及以上）的轻量级安全工具，用来替代系统的 Lockdown Mode。它通过关闭 WebKit 的 JavaScript JIT 编译来降低被漏洞（如 Coruna、DarkSword）利用的风险，从而提升浏览器及应用的整体安全性
- * Lightweight Lockdown Mode alternative for WebKit.
 Filename: debs/cc.forcequit.lightshields_1.0.0_iphoneos-arm64.deb
 Size: 21592
 MD5sum: fed4cf8c404bfe1864a872cf704c1c19
@@ -516,16 +430,12 @@ MD5sum: d3dc35ed562c67587ed75200ebc14030
 SHA1: eedf6970fa6857d2d69bb383c35db6a68c12cfc7
 SHA256: 8aea0683cd851b6c0827d09b4e94096809d939065dd88a6c9e831399dc607d40
 
- * 插件的其他功能目前仍然不完美，具体自测
- * Fix Apple watch connection issues
 Filename: debs/cn.fkj233.watchfixs_2.0.2_iphoneos-arm64.deb
 Size: 609096
 MD5sum: 1d7c6711c7cea85694dd9468661d9c47
 SHA1: ede76ccf0ad4261259702828c1bf2348eb318911
 SHA256: 75a5e222850ce900f23ead2e25088d77cb0fedeb3d7e86393e59951171bb6e46
 
- * 插件的其他功能目前仍然不完美，具体自测
- * Fix Apple watch connection issues
 Filename: debs/cn.fkj233.watchfixs_2.0.2_iphoneos-arm64e.deb
 Size: 612028
 MD5sum: 1f4df71925ddee12dd1a60ae1442724e
@@ -676,58 +586,48 @@ MD5sum: 0b583ce38645d0ee3de60813f8e87788
 SHA1: a563dd62aca980d04ffb4e0d0f6547b59248c6c7
 SHA256: 7b6420599f6bfacae7ef338f910cdf5bb4c4d69cb979ffaab7520befde5ca761
 
- * 支持将 dylib 注入到应用内
 Filename: debs/cn.zqbb.jailfoolss_5.0-2_iphoneos-arm64e.deb
 Size: 5098364
 MD5sum: 5f55c8071488c582ffed08a8417fae2d
 SHA1: dceb0fbcb7a24f105bababa6fbaa8b553ddcd2a8
 SHA256: db833eb669592742506ad18ea86a7260ae5fe807202c517358475751a98bbab4
 
- * 支持将 dylib 注入到应用内
 Filename: debs/cn.zqbb.jailfoolss_5.0-3_iphoneos-arm64e.deb
 Size: 5033492
 MD5sum: a1b55f28655e8c077a95b651d3a826ee
 SHA1: f3da36ed0d6709f57967d38f6dbd337afe0010ea
 SHA256: b09f913e8951f87b7b8aa5af9eea957037e9103752e42e2c4107497ef43a5d6b
 
- * 支持将 dylib 注入到应用内
 Filename: debs/cn.zqbb.jailfoolss_5.1.1_iphoneos-arm64e.deb
 Size: 5098288
 MD5sum: b3394dea779ee408d8b2e784dca7d79a
 SHA1: 4c3db42b7c95706e07c3cabb7794fa94ae749c18
 SHA256: 45511408eb2bb1d6c560ba2a0f190c1b7d6e777fb1ba387d29ddc89352d8df1f
 
- * 支持将 dylib 注入到应用内
 Filename: debs/cn.zqbb.jailfoolss_5.2.1_iphoneos-arm64e.deb
 Size: 5100232
 MD5sum: 060b0a16d5de114b7444c70e3afc486c
 SHA1: e0828fa406d4be34705e7db417154e3233ba27ff
 SHA256: 3e5a3b0b49eab48a682a2e29affef7cc83ec1913aed3326a91c6acb913132423
 
- * 仅测试 14pro 改 14pm 分辦率，其他自行测试
 Filename: debs/cn.zqbb.phonekey.resets_1.0.3_iphoneos-arm64.deb
 Size: 28676
 MD5sum: 227f77d196c509873605d171dfb5243e
 SHA1: d388b45e9f3291006ea232d6af34902e136de7ee
 SHA256: b12b07b37549ee7332611397c44fe2958999f2e0669083af2b316de3eae03361
 
- * 仅测试 14pro 改 14pm 分辦率，其他自行测试
 Filename: debs/cn.zqbb.phonekey.resets_1.0.3_iphoneos-arm64e.deb
 Size: 28704
 MD5sum: 08a2161d17c80cb4e905294568c37ac8
 SHA1: be076f9b664eb69b2f73f7712b3c6a12bd2478b1
 SHA256: cea6b3768f638a32f8810560748f26970542d9b203b1b797700750f82aef78fb
 
- - 优点:节约内存,少杀后台. 
- - 玄学:减少重启概率
 Filename: debs/cn.zqbb.stopautolaunchapps_1.1_iphoneos-arm64.deb
 Size: 30450
 MD5sum: 283685c116141193860286828aa57f8d
 SHA1: d3be3c89b619f3cadd58e57ffcdaa5206b58179f
 SHA256: a1249978de9ec62675080668ff34aa863ae5e74dfd729836c5386ffe8cd59ea1
 
- - 优点:节约内存,少杀后台. 
- - 玄学:减少重启概率
 Filename: debs/cn.zqbb.stopautolaunchapps_1.1_iphoneos-arm64e.deb
 Size: 26504
 MD5sum: 39e5898a054ffe614005486a04f93f54
@@ -776,47 +676,36 @@ MD5sum: e0d8d6de8d27056f903d917b56534cb6
 SHA1: 2c637097db2525c1b527723c15562b1ffb41534e
 SHA256: c2541bbc9b23469c9b388420ee2731573462f45735423baf92d3d945a172afbe
 
- * Clipboard manager for iOS
- * 基于「乌龙工作室」版本进行修改
 Filename: debs/codes.aurora.kayokos_4.6_iphoneos-arm64e.deb
 Size: 670708
 MD5sum: 926613a2d4c571848fc764bcdec19599
 SHA1: 58313edc6355db44b3947517a4f353b67f62f84e
 SHA256: 28de3cb3813b2d3f12f71991d6c752ff3dacc1880205dca0cd97e7757645379f
 
- * Clipboard manager for iOS
- * 基于「乌龙工作室」版本进行修改
 Filename: debs/codes.aurora.kayokos_4.7.2_iphoneos-arm64.deb
 Size: 674660
 MD5sum: 58f8df6a1664407c2c7ccc8ede5e7416
 SHA1: dcee206ec05df047b9bcb8a3ed507dff08af3ac1
 SHA256: cc492202a49ce7cf1d57d38bbd85c251944ce9f08905a73b3421619bf5e9f682
 
- * Clipboard manager for iOS
- * 基于「乌龙工作室」版本进行修改
 Filename: debs/codes.aurora.kayokos_4.7.2_iphoneos-arm64e.deb
 Size: 672556
 MD5sum: 7a8139c8f89c242c34b040e086f9331a
 SHA1: de0064f5b880a1822ec13c0a1be92a1f1b6ca89e
 SHA256: 3177f6ef14c640c7015712e0f8ac470a80349692767a8fab03e233c324bbe9af
 
- * 功能丰富的剪切板管理器
- * 基于「乌龙工作室」版本进行修改
 Filename: debs/codes.aurora.kayokos_4.8.1_iphoneos-arm64.deb
 Size: 690392
 MD5sum: 603bc1db45c04ba1fa7e21d411a81a06
 SHA1: 634647e74b28e02a59d61c385a5119ce1861e819
 SHA256: d7ebbdb69de4ff9cabb3f567737943a2c0a9691fb75a7a9dfeaeb3936ee77198
 
- * 功能丰富的剪切板管理器
- * 基于「乌龙工作室」版本进行修改
 Filename: debs/codes.aurora.kayokos_4.8.1_iphoneos-arm64e.deb
 Size: 684276
 MD5sum: 6842bf2074e52e20835ac646e4773ad7
 SHA1: 0e5ee220475253e296f26b61c4212fe29680b670
 SHA256: 03029ba9e46dee14589c404d4a4e7ca327893790edaf117b75c8672a6a7bd9c8
 
- * Count those notifications inside Apple notifications grouping!
 Filename: debs/com.0xkuj.notificationsgroupcounts_1.0.7_iphoneos-arm64.deb
 Size: 80124
 MD5sum: a58d7a1089799788ee8c1738ef5f6d49
@@ -841,8 +730,6 @@ MD5sum: fd0b7fa106034405a62a074058519f5f
 SHA1: f4bc6763f4dcadbe89bb9b562bb16e10e1fcbf28
 SHA256: f8df9a38ac3e3e6da79c5e1095e8e834f1f842b48c513a2995333397b8d4345c
 
- * 发送文字自动转换为表情
- * 需要同时安装微信助手和微信插件管理
 Filename: debs/com.25mao.KuaiDou_0.1-1_iphoneos-arm64.deb
 Size: 14208
 MD5sum: 64677598d5c90bdb3ebe44287ed3cb8d
@@ -933,46 +820,30 @@ MD5sum: 9df33c5fad4a457377ac7c368c908269
 SHA1: 235dd332e2b9ee66d0a3fd08fafe3945166c87d6
 SHA256: 17ee882775a6af80dffbef53512285654853e36994f596be835dc876116fc370
 
- * 收纳第三方微信插件
- * 位于微信右下角“我”-“插件”
- * 部分微信插件不支持收纳
 Filename: debs/com.25mao.wcplugins.rootless_0.1-iphoneos-arm64.deb
 Size: 19780
 MD5sum: dec55d88a2eaf90002de5c2782eb579f
 SHA1: 0b32d15819e1ca0778ea0a18991ca0ada3a1fff6
 SHA256: 27be294859561ca45cd8c153dcc92b4d5ef84feac227853426fe2413b2ca48f2
 
- * 收纳第三方微信插件
- * 位于微信右下角“我”-“插件”
- * 部分微信插件不支持收纳
- * 0.1-6 修复热更新收纳失效问题
- * 最后更新日期 2026.03.21
 Filename: debs/com.25mao.wcplugins.rootlesss_0.1-6_iphoneos-arm64.deb
 Size: 13668
 MD5sum: 1499b77f2cb061b69ce95e395e0fa75a
 SHA1: 81154e578ddf6059a36ca4a442ca0dbddfdacabb
 SHA256: 4ae902cf2d2a1563eee03b69eab0e3bda5879cfe0e48be3b845bbf2f47477d99
 
- * 先关闭重量锁定，向左、向右、上下旋转你的 iPhone，支持屏幕上下颠倒，实现“真全面屏”
- * Rotate left, right, up side down your iPhone. I take the code from TrollPad by @TranKha50277352
 Filename: debs/com.34306.upsidedowneds_1.1-6+debug_iphoneos-arm64e.deb
 Size: 4808
 MD5sum: f6fe7b0b98fcd3b26b9be1a4d18e806b
 SHA1: 3203c8b4c5612ff01da230b9ec8c59dc5e7e50d0
 SHA256: 3052cb7dd7c4e00c932560fc7415b92a34936f5c35467787cd4d432fdb56dfef
 
- * 让你能将运行着比 iPhone iOS 官方支持版本更新的 watchOS 的 Apple Watch 配对
- * Pair your Apple Watch on a newer watchOS than this iOS support
- * 安装后，重启 iPhone 和 Apple Watch，然后重新配，具体自测
 Filename: debs/com.34306.watcheds_2.0_iphoneos-arm64.deb
 Size: 12814
 MD5sum: 46e61ddd99153c1cd97f25a5a0d5aae4
 SHA1: 0aeda9b32823f275741e1ffb2c5324addbe631cc
 SHA256: cd31c51920052b67aa4bc9b9ef604ae9402223dad9929a60f7db1cefada48887
 
- * 让你能将运行着比 iPhone iOS 官方支持版本更新的 watchOS 的 Apple Watch 配对
- * Pair your Apple Watch on a newer watchOS than this iOS support
- * 安装后，重启 iPhone 和 Apple Watch，然后重新配，具体自测
 Filename: debs/com.34306.watcheds_2.0_iphoneos-arm64e.deb
 Size: 12684
 MD5sum: cf7f072ff2a8673464fb88e62a7a5d66
@@ -991,14 +862,12 @@ MD5sum: 4daa486df34aa10c2615a1f52db961a9
 SHA1: 7ca4f9f692b85f72922a3be05b964fdae25b530e
 SHA256: e87a15b810749dcc62e7cdb99018fa8898f72c35b653a393397b24da1c6fc0c5
 
- * 建议将此插件与“N95”插件一起使用
 Filename: debs/com.82flex.artworkspinners_1.6_iphoneos-arm64.deb
 Size: 39172
 MD5sum: 6591615c9dbc223bd4733e0f6d9a13fa
 SHA1: 355d989ffe8eaf513326f2853932f29dfd640dc2
 SHA256: d9de5e3d73441e33c9c27017c7993eb6fc714d9f85068f5f38ec8322588ba72c
 
- * 建议将此插件与“N95”插件一起使用
 Filename: debs/com.82flex.artworkspinners_1.6_iphoneos-arm64e.deb
 Size: 39120
 MD5sum: 3cb6b88a296d75c45b7018623f1b2a81
@@ -1023,22 +892,18 @@ MD5sum: fbb7e8b331e8a295d2dd5fcfb9550b33
 SHA1: 9fa9b65692a978a7cccf70e5ee26969a178f30f6
 SHA256: 99fcd01eb6c91aea0703bf60cddc50926dfed4cc97e697894a9e410f89f6f8ab
 
- * Stop specified apps from redirecting to App Store, Safari or other apps.
 Filename: debs/com.82flex.noredirects_1.3_iphoneos-arm64.deb
 Size: 44248
 MD5sum: 7decf0db8b5b7e3650e88092ed6e65bd
 SHA1: 1abcee55cafe31a48817237835392bcf464ffbef
 SHA256: fb8590c8b57e1a66e8960c7a3f78429ed35135e267b24c98b6f2556af919d6aa
 
- 控制中心模块五列显示
-  * Control Center module five-column layout
 Filename: debs/com.82flex.ohmyinsetss_1.2_iphoneos-arm64.deb
 Size: 209964
 MD5sum: b624a73ce966e859e073f281282287d2
 SHA1: 714358745be4b093b42b2d2b797e4d5b8f37fa9d
 SHA256: 6468c16749537e64d3655642b7694918a7ca9443cab6e472252c19ce418bfcb6
 
- * Control Center module five-column layout
 Filename: debs/com.82flex.ohmyinsetss_1.2_iphoneos-arm64e.deb
 Size: 209616
 MD5sum: dfbdef9d475d7e3d7eaea02a3ac730be
@@ -1051,21 +916,18 @@ MD5sum: 6ac9f7f607e572a1147e801567274eee
 SHA1: 409f87e4571c1964933e25a63facaed6a8498d5c
 SHA256: c0efe0f0975ec801628045625621952ec40f0fee0d7160baf55ea4d89d7e65d2
 
- * Remove the background of the widgets on the home screen.
 Filename: debs/com.82flex.removewidgetbgs_1.7_iphoneos-arm64.deb
 Size: 29828
 MD5sum: 22c96ca5bc058e0085024146148cb468
 SHA1: a4e816474eda40becc815517bf2b19d8c16f63e6
 SHA256: 80b4fb049b1c97c3d80388b16323ea921957da53b787ff2b998faccf319f02f4
 
- * Just a single mute icon on the status bar of iOS
 Filename: debs/com.82flex.singlemutes_1.7_iphoneos-arm64.deb
 Size: 27784
 MD5sum: 18e2d1667d920f7d97856b7ef0c4a3b3
 SHA1: e1ff88ba25d8b475b74cf15009f01b24392dd704
 SHA256: 7e78d28442e7f08e9cacd3c61bb66a7377aa0200ced93374314d1ad654290ed4
 
- * Just a single mute icon on the status bar of iOS
 Filename: debs/com.82flex.singlemutes_1.7_iphoneos-arm64e.deb
 Size: 27724
 MD5sum: 2f04c2e18c146fa9e7f9da79e6283489
@@ -1078,28 +940,24 @@ MD5sum: 73d7a6f7698c0cbf1f8240b1e8804946
 SHA1: 9979997f4e4a447efe76043ce30c06e4fdd1994a
 SHA256: 496c3adfe52f138ac7e6b5e9f9c09efb707c0c0a689558900911dfb965dd6680
 
- * Combine VPN state and wireless state into one icon
 Filename: debs/com.82flex.singlevpns_2.0_iphoneos-arm64.deb
 Size: 32660
 MD5sum: c4ad9ca3408d222070fc4b6370220358
 SHA1: 355bc45d2ad5c7953a4923c80e5c5ead4ebf43a3
 SHA256: 717d1a6f60d5f39fcff28e8e2a590bde6b33f874795b57f8f819de83c7d4452b
 
- * Combine VPN state and wireless state into one icon
 Filename: debs/com.82flex.singlevpns_2.0_iphoneos-arm64e.deb
 Size: 32612
 MD5sum: d596b13fd990e06f2d4b74167fe292d0
 SHA1: 42f4c3f60f03499c560bb00b8066dc06800b126f
 SHA256: c70607e8edd6b21a8d5a7a4915e8007d15539894c9bad407262408f26cb19d9b
 
- * Combine VPN state and wireless state into one icon
 Filename: debs/com.82flex.singlevpns_2.1-2_iphoneos-arm64.deb
 Size: 35456
 MD5sum: e145de3d11a0a21b3f540018d595166b
 SHA1: 2e527c093ac145c43a08394dda51e1cad2362b19
 SHA256: 6592cad062c78bf71715ebcab067853b543eee274d293be4299145be9858cf88
 
- * Combine VPN state and wireless state into one icon
 Filename: debs/com.82flex.singlevpns_2.1-2_iphoneos-arm64e.deb
 Size: 35340
 MD5sum: 6cfa0963f0d1aac199ec86cb9a75e698
@@ -1196,48 +1054,30 @@ MD5sum: 616faaf2cc2b4e60939ffc5d0e67a569
 SHA1: 576b6c576a4e795aa6b4d8705588d2cfa8f5461c
 SHA256: 883d4605ea041bc20a0770c0ed20575991cdc57cd25a38143720ba270167d28c
 
- * 有些应用会检测截屏事件、监控屏幕录制或镜像状态，或利用私有图层行为在截图中隐藏普通界面内容。Unseen 能减少这类应用侧的干扰，让截屏和录制重新更接近用户可控的系统功能。
- * 揭示应用中从截屏或录制中隐藏的普通内容
- * 降低应用对系统截屏事件的感知
- * 对普通应用隐藏屏幕录制和镜像状态
- * 在“设置”中分别控制各项保护
- * 如果插件不生效，可从插件设置重启渲染服务
 Filename: debs/com.82flex.unseens_0.0.3_iphoneos-arm64.deb
 Size: 44760
 MD5sum: f2c7793bac6de68365f3baae1a50fc83
 SHA1: b0f02276d274f5855b0f73063efdc4fc9c7a795e
 SHA256: a6129ac228fc1db6a7a51f5cdee0cbb3d7a5ef2b14d1315854b135b80eff8e61
 
- * 有些应用会检测截屏事件、监控屏幕录制或镜像状态，或利用私有图层行为在截图中隐藏普通界面内容。Unseen 能减少这类应用侧的干扰，让截屏和录制重新更接近用户可控的系统功能。
- * 揭示应用中从截屏或录制中隐藏的普通内容
- * 降低应用对系统截屏事件的感知
- * 对普通应用隐藏屏幕录制和镜像状态
- * 在“设置”中分别控制各项保护
- * 如果插件不生效，可从插件设置重启渲染服务
 Filename: debs/com.82flex.unseens_0.0.3_iphoneos-arm64e.deb
 Size: 44712
 MD5sum: b2f7b7432fc90e15431405a09e083c77
 SHA1: b18e2e286c300cecad6abed0adbe4b2118474d3f
 SHA256: 45381682821c24f53543ae6229b6bb3139a08f15bd8bfc6927b75b5fd3779c25
 
- * 无设置选项，安装并注销后立即生效。
- * 支持的输入法：微信、百度、搜狗、讯飞
 Filename: debs/com.82flex.wtvrbglaunchers_1.1_iphoneos-arm64.deb
 Size: 23208
 MD5sum: e58a25ebca40691067469689b1611591
 SHA1: 2c3ff38cf042d9ca898e7678a27c6cd9ab4d6188
 SHA256: 8eeaeb5b937d6a8658938012fa9dfd2033d1b96dee8e220e92f4ea98d4cd7bbe
 
- * 无设置选项，安装并注销后立即生效。
- * 支持的输入法：微信、百度、搜狗、讯飞、豆包
 Filename: debs/com.82flex.wtvrbglaunchers_1.2_iphoneos-arm64.deb
 Size: 23344
 MD5sum: b1539a8ac786d6fbf78f097edb3d37b6
 SHA1: 1df5b4866f3d9d98a748c9d5cfb8b187951a16a8
 SHA256: 3bd6fa9366107b2d1117d4406f6cfc021d4deba8904298931897896eecdb254a
 
- * 无设置选项，安装并注销后立即生效。
- * 支持的输入法：微信、百度、搜狗、讯飞、豆包
 Filename: debs/com.82flex.wtvrbglaunchers_1.2_iphoneos-arm64e.deb
 Size: 23288
 MD5sum: daf54fb9bb6f8bf4370da046920754bf
@@ -1364,12 +1204,6 @@ MD5sum: 1f101e7d499298a60e6ab059639f055c
 SHA1: 141f63e2cb237b54cb28309b6597119af114a69c
 SHA256: 00c7ddc7dd842a37b19801202a00eb266282113b9133bf13a97a32ae4f34d04c
 
- 快速更改应用的名字、图标、机型、角标、版本号等。
-   快速更改应用的名字、图标、机型、角标、版本号等。
-  -随心所欲地更改系统应用和三方应用的名字
-  -从系统相册任意选择图片剪切为应用的图标
-  -手动选择软件内置机型和自定义需要的机型
-  -只需要点击一次就永久生效的清空角标功能
 Filename: debs/com.Axs.afhook_3.5.0_iphoneos-arm64.deb
 Size: 158012
 MD5sum: f72fdcce625cf246bd1c798a61705787
@@ -1562,8 +1396,6 @@ MD5sum: a33798a7fbe0c7658de434eb6fc82b22
 SHA1: 9ef3754520213c0345cfd15cb5b085f0d2412df7
 SHA256: dedfe4226c4e59f952ebe84d0ab91e7c23c931d3efd199e94918d24cba6561a6
 
- iOS 18 圆角控制中心
-  * Round CC modules replication, like in iOS 18
 Filename: debs/com.Axs.cc18s_0.0.3_iphoneos-arm64.deb
 Size: 4616
 MD5sum: 3dd137ab1b4bfb5695850b2567f5991b
@@ -1714,9 +1546,6 @@ MD5sum: 0400f316d3efbf70db36d5648d445696
 SHA1: 6aa3fee0d7e1cf817f1a3f242daa1941bcb5abc2
 SHA256: ccb6705ff803aeea5ce777ae5009f4f15037b7eff68bc38d45ed13e041f2ba9d
 
- - 1.长按图标的插件针对APP更友好
- - 2.此app更适合屏蔽进程类的注入
- - 3.laileld要加的copy给加上(如果是/开头,使用filza打开)
 Filename: debs/com.Axs.cocoatop_3.1.2_iphoneos-arm64.deb
 Size: 183772
 MD5sum: 53f927338363699e23981bfb1d22350d
@@ -1945,11 +1774,6 @@ MD5sum: fdc5f9ad0959f1c19674ec8a7535c3a8
 SHA1: 5c6e24243d25ad88777d4f91186570413d935d4a
 SHA256: 68c38ebcafd95942cf81b3ce4c3164427b2bed0990dba66d2d920eef09b53130
 
-  * 1、仅供个人备份与学习研究使用。
-  * 2、本插件未经过大量设备测试，仅在 iPhone 14 Pro iOS 16.2、iPhone 14 Pro Max iOS 16.5 无根越狱环境下测试正常可用。
-  * 3、本版本仅处理授权验证逻辑，插件其他原有逻辑未作修改。若安装后无效、冲突或导致设备/应用异常，请自行卸载。
-  * 4、免责声明：安装和使用本插件所产生的一切风险由使用者自行承担。如因插件本身兼容性、原始代码逻辑或其他未知问题导致设备、系统、应用出现异常，请联系原插件作者处理。本人不承担因此产生的任何责任。
-  * 5、安全预警：鉴于越狱圈内部分特定人员（如Fv作者、苏苏、Wkk等）存在发布恶意格机代码、恶意抹黑及录制栽赃嫁祸视频的前科，需要用户自行甄别，从正确渠道下载插件。
 Filename: debs/com.Axs.floating-view_1.6.0-6_iphoneos-arm64.deb
 Size: 652884
 MD5sum: 8b189bdfd446b1daf9e1faeaa2c9973b
@@ -1968,9 +1792,6 @@ MD5sum: 03cb8b4996683c4b5a28f3b582276bec
 SHA1: 07a6998541e8e2a9f70767f08bfb19d6ddf5b87b
 SHA256: 1a055eac36793d618ae590a0b2c0aa7cd98f2cf7b52bb78535759aef354f3409
 
-  * 无根: /var/jb/var/mobile/Library/FloatingViewInfo/
-  * 隐根:[jbroot]/var/mobile/Library/FloatingViewInfo/
-  * 命名规则：与FV设置界面arc工具栏排序界面的名字为准。如：锁屏.png、截图.png、录屏.png
 Filename: debs/com.Axs.fvicon_1.0.0_iphoneos-arm64.deb
 Size: 7448
 MD5sum: ec5ef3f4db1a63e64a42658aca98c3ea
@@ -2049,13 +1870,6 @@ MD5sum: 7160ac9118002fafa691f9195f4a0e96
 SHA1: 9999aa876a31b7acee9d43f155758241977ed3fa
 SHA256: 4c65f3f838996a97e0910188cf19a958c64bfab3ba8100ad2e56f8dd17155c38
 
- InjectIPA Tool。
-   * 1.添加资源至根目录支持多个。
-   * 2.注入WeChat时支持-t开启WeChat插件加载库, 使用后可在微信设置页面（禁用插件中查看）动态禁用插件。
-   * 3.修改标识符功能优化支持同时修改组件中对应标识。
-   * 4.支持高级注入, 例如注入HBB无后台推送。例如-j "/path/libMMHBBackPush_8.1.dylib:ProtobufLite.framework"。
-   * 5.需要使用双引号包裹, 冒号分割 前部分为需要注入的dylib路径 后部分为需要注入进的框架名称。
-   * 6.对于需要多个-d -j参数的话 直接写多个-d -j参数即可。
 Filename: debs/com.Axs.injectipa_1.5-2_iphoneos-arm64.deb
 Size: 318612
 MD5sum: 8f6ac43c422d75e5b85f6e0a2d15d0aa
@@ -2086,20 +1900,12 @@ MD5sum: 024e9ca73d62dcd6b86233d3bac24568
 SHA1: 9f1902ec623659e9c3420cecfc4b18c4ca2c2c43
 SHA256: 70011dd73351bbbfb3cccd70efe845d76b955254c5fe3602a1d23f01984cea88
 
- 功能介绍：在锁定屏幕上显示全额充电的估计时间。
-    * 修复了原代码中的安全问题。
-    * Axs源中1.0.1是英文版本，1.0.2是汉化版本。
-    * 无设置项，安装即生效
 Filename: debs/com.Axs.jikan_1.0-1_iphoneos-arm64.deb
 Size: 19428
 MD5sum: 9c5c0c9e3312604a2bbf72b0529691cf
 SHA1: 688cb56f685cb9831e58298d8e73968d8f092670
 SHA256: 80d01c83bdb6aae8c7314128b1474c046baf3a001be36dba992d935bf5c2e80e
 
- 功能介绍：在锁定屏幕上显示全额充电的估计时间。
-    * 修复了原代码中的安全问题。
-    * Axs源中1.0.1是英文版本，1.0.2是汉化版本。
-    * 无设置项，安装即生效
 Filename: debs/com.Axs.jikan_1.0-2_iphoneos-arm64.deb
 Size: 20428
 MD5sum: ef1eaeadbe3db10da5a20f1c95babb05
@@ -2112,9 +1918,6 @@ MD5sum: 3a1458bdde31e1525889804ded2df5e8
 SHA1: d7f89474cb2cad88b5384a32586ddd682ec79797
 SHA256: 7729dd2bf4d75b001f3aef558e336ebd867efc8c22b2924c315f21f89981792f
 
- 更改键盘文字。
-   * 键盘字路径：/System/Library/TextInput/TextInput_zh.bundle
-   * 注意：先挂载路径再下载此插件，Dopamine里重启Springboard，再重启用户空间即可。
 Filename: debs/com.Axs.jptext_1.0_iphoneos-arm64.deb
 Size: 15412
 MD5sum: 7554b3e85bb4c57bc386018f31fb0717
@@ -2463,7 +2266,6 @@ MD5sum: 20e7f0fc341960d4272ae57236a185ee
 SHA1: 7116cc62bf143bfa2c9e4ffcba3607b513855c6b
 SHA256: a5b46362a63ed2203f1a6fc39f37e5b1110d929d148b489e6a74180b0c7748e6
 
- * Tweak for better AirPods compatibility on old devices
 Filename: debs/com.Axs.pogr_0.5.2_iphoneos-arm64.deb
 Size: 75004
 MD5sum: fbf18b0ccf618191028ae1e83113a889
@@ -2506,9 +2308,6 @@ MD5sum: b00e2583dc83074bd508c4c3d992f244
 SHA1: 905b8f9c9fe2945ae2428abdaec20c1cacd6196e
 SHA256: 4329cac701a851eaca46b07edf4cbaea5413ffa4db14be69b6cf1c73b7a5c33e
 
- * 支持 Rootless、RootHide 越狱
- * 支持 NathanLR、BootStrap 半越狱
- * 支持 iPhone 13 Pro 及以上 ProMotion 设备
 Filename: debs/com.Axs.promotion120hz_1.0.0-76_iphoneos-arm64.deb
 Size: 12564
 MD5sum: dfc05ae6c90f066118f6b1daf36280c4
@@ -2803,24 +2602,12 @@ MD5sum: 3a527d6c4e7622ac6790160494720ef9
 SHA1: 7f850c35e4352784df65301918f1051e61758e54
 SHA256: 4acf2e70b0fb51eac7a8d89ffafe935edbed36f3283e3353962dec9660ddd0d0
 
- Telegram 增强插件
-  * 去除广告
-  * 隐藏一些输入状态
-  * 允许保存频道限制下载的文件
-  * 点击左上角编辑，然后三指长按打开插件
-  * 支持 Telegram、Turrit 等第三方客户端
 Filename: debs/com.Axs.tgextra_0.0.1-1_iphoneos-arm64.deb
 Size: 2298780
 MD5sum: fd0125fafacc3505f6b5a684d911a95d
 SHA1: 2d73ecadd3b4927155ffadf067e765018179e5d8
 SHA256: 05624156707b3f8f167f5c8af15537212df39e8ed8126e653a2812db890d25b5
 
- Telegram 增强插件
-   * 去除广告
-   * 隐藏一些输入状态
-   * 允许保存频道限制下载的文件
-   * 仅在Telegram 11.9.0版本测试。
-   * 打开设置，然后长按「我有疑問」或者「Ask a Question」
 Filename: debs/com.Axs.tgextra_1.2_iphoneos-arm64.deb
 Size: 1060892
 MD5sum: 797dde65f4f8949b77482ffae13e6672
@@ -2899,10 +2686,6 @@ MD5sum: e4980a296715304f0dd20458c97ceb40
 SHA1: fb4ce4d90874d1c6ffc6e77d029c65501b8d95f6
 SHA256: a72d40e3637931cd7f31fe84b3ff19259c33f4bff9f7464d8141e34d8c34cab5
 
- 如果启用后遇到异常导致无法卸载，可手动修改
- /var/jb/var/mobile/Library/Preferences/com.charlieleung.trollopenextensionprefs.plist，
- 将 enable = NO，再注销一次即可正常卸载。
-  让小日子的Aerial分屏插件结合Trollopen软件，可以达到用arc手势呼出的效果。
 Filename: debs/com.Axs.trollopenextension_0.4.0-1+debug_iphoneos-arm64.deb
 Size: 66988
 MD5sum: c84ac69703208a8be7fa0fc5b58ec502
@@ -3023,9 +2806,6 @@ MD5sum: 658888054c1994ea456dd936c285bf0e
 SHA1: 027b03942a44b1890bc09cade47b7852473a3c65
 SHA256: 18f5508a888bda93506319a45846064ced16784e4a826d22599df4bc81f51d6f
 
- 功能介绍：
-     *   顶栏低栏样式调整(全透明、半透明、毛玻璃)。
-     *   呼出方式：长按任意顶部导航栏。
 Filename: debs/com.Axs.wcsimplify_1.5.5_iphoneos-arm64.deb
 Size: 23348
 MD5sum: a7e1967aba936beaec04c141be8fd501
@@ -3242,10 +3022,6 @@ MD5sum: 616827e8e81aa013fb2b09abfd6c207a
 SHA1: 65845af7037873b842eb6c6f85adacab8f3ab2c6
 SHA256: 5032c04f66ab0969af8993f55ad00a91f306e8111c734d86db0799982aa972cb
 
- * 无水印保存视频、图片、音频
- * 双击打开评论区
- * 隐藏菜单按钮
- * 插件位于抖音设置内
 Filename: debs/com.BeanbunsHelpers.DBs_1.0-4_iphoneos-arm64.deb
 Size: 639684
 MD5sum: f153018812d5934d761199488b4f0457
@@ -3318,14 +3094,12 @@ MD5sum: 6883e5fc210d6579e737d0c0b1a87622
 SHA1: 39faa44386e2ed31ffd539878994adc9142e8f24
 SHA256: 2e88f0abf10ebf25771e17aa0b8518ad74600b5eb6d97dcb780fb6b79c2ce374
 
- * Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!
 Filename: debs/com.anthopak.appaze3s_1.0.1_iphoneos-arm64.deb
 Size: 865128
 MD5sum: 4ec4546c01d5e5002fa4ba2defb82053
 SHA1: b3121747399bfa8774f0d98c6e90c94b617915dd
 SHA256: 272e3c99b667886392cd573470e4dd26f9597c6550f8dc4395ba1d7f9c797148
 
- * Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!
 Filename: debs/com.anthopak.appaze3s_1.0_iphoneos-arm64.deb
 Size: 864180
 MD5sum: 0bf77fa853898a5d0cc262fcbe316729
@@ -3350,8 +3124,6 @@ MD5sum: 48056a0b8dd2523bacb856be205a4602
 SHA1: 9c5cd545edea428b030393b7a9b564d02b928ca4
 SHA256: 047e91c6cd2f87dfa2d93dab8476a6468a881572c832f0bcdb1733c47d584e7a
 
- * 开关位于微信设置内，聊天窗口发送 ys 打开菜单
- * 官网 www.apibug.com
 Filename: debs/com.apibugtexttovoice_1.0.5_iphoneos-arm64.deb
 Size: 169464
 MD5sum: 0958f7f636c3a670b6a57ac851ad63a8
@@ -3400,16 +3172,12 @@ MD5sum: 796cb293683559bee3b2ca7cd9e14eff
 SHA1: e6753d8c03dae66cc697d5aa6a100e71dafcde4c
 SHA256: 64ed6a2f8d9bfc7e720c0bc47cbb3e8c6b026da88219ae9028336083ededd250
 
- * 安装生效无设置选项
- * 跟随你的手指滑动幅度，页面始终自动滑动，直到你触摸屏幕才停止
 Filename: debs/com.autoscroll.jb_1.0.0_iphoneos-arm64.deb
 Size: 5408
 MD5sum: 8f6c2e9751c57d4fd5c9bce6774ec660
 SHA1: 57c9c8f79d5fec9128d43bfb65e9fea152a4de09
 SHA256: 9ef9d7fb5f92e6d664cd6f9872d25f4699c14ce680e6de47a5036128fced6b5f
 
- * 插件位于抖音设置-通用选项下方
- * 跳小程序广告、加速滑动动画
 Filename: debs/com.awej_1.2.0_iphoneos-arm64.deb
 Size: 109408
 MD5sum: f6ab2fa18ea014cf6d57c427791397bd
@@ -3476,11 +3244,6 @@ MD5sum: 13bd65659da6e4633c94a121d6b09f3e
 SHA1: 49f29478d0f5d11bc764fcf381d2b27298fc6dc9
 SHA256: e65f13289cb1ce60a0ef48e8cf83219257bca874a7078149e9813eec0aeca936
 
- * 1.按应用分组管理通知，一目了然
- * 2.支持水平/垂直布局、多种图标样式
- * 3.触觉反馈、深色模式、角标数量显示
- * 4.按时间/应用名/通知数量排序
- * 5.自定义间距、对齐方式、位置
 Filename: debs/com.axs.axon_5.2.0-55_iphoneos-arm64.deb
 Size: 65554
 MD5sum: 27f3f4317ae065545f8e5468a9efac01
@@ -3493,96 +3256,42 @@ MD5sum: 5327f3495ce5e6e7b4e3a955303822fc
 SHA1: 5d82f9edc7c7c58b8a4d768be0367b3a82a16633
 SHA256: 9b0b262a52630f6d04e555cf9d11377d9ac2eee5257f4e90e44c3ba15c8c321b
 
- * 1.锁屏大字时钟玻璃效果;
- * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
- * 3.支持玻璃边缘、模糊、厚度、折射、高光和壁纸采样质量调节;
- * 4.支持浅色/深色染色强度与深浅模式覆盖;
- * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
 Filename: debs/com.axs.bigtime_5.2.0-34_iphoneos-arm64.deb
 Size: 195188
 MD5sum: b72e7980e25f48309688068a148bf197
 SHA1: 75606e2383187f23bfec4874ba61b12411f21c80
 SHA256: cd934c76bdf780d908b3cb60dbbe28376fd245361e17f7a606eae7c62eb4ad0b
 
- 1. 支持自动粘贴，面板内一键复制/粘贴；
- 2. 支持长按分词，独立复制；
- 3. 支持历史条数与显示行数设置；
- 4. 支持多种激活方式：键盘预测栏、听写键、第三方手势插件；
- 5. 支持一键清空剪贴板；
- 6. 支持显示保存时间；收藏内容可以自定义排序；
- 7. 支持屏蔽iOS16+"粘贴自"横幅提示。
 Filename: debs/com.axs.clipboard_5.2.0-110_iphoneos-arm64.deb
 Size: 109824
 MD5sum: 6d05650d78376806c57210223f01a08a
 SHA1: b501c0f68efa0b95faeaa545a53004dfae4e6f2e
 SHA256: 841fdd339dc8cf91bf7d2d1ba712810f22244ed6dc9cb95975b3c5d891c3e749
 
- 1. 支持自动粘贴与自动提升模式，面板内一键复制/粘贴；
- 2. 支持长按文字条目分词选取，独立复制选中词块；
- 3. 支持复制/粘贴音效反馈与触感反馈（可分别控制开关）；
- 4. 支持历史条数与内容预览行数设置；
- 5. 支持 4 种激活方式：听写键、编辑菜单、长按地球键、系统键盘上滑；
- 6. 支持内容过滤（全部/文本/链接/图片）、收藏夹拖拽排序、面板内容快捷搜索；
- 7. 支持显示保存时间和来源 App 图标，图片条目展示缩略图；
- 8. 支持深色/浅色模式自适应、全屏/抽屉切换、横屏全屏适配；
- 9. 支持屏蔽 iOS 16+ 粘贴横幅提示。
 Filename: debs/com.axs.clipboard_5.2.0-172_iphoneos-arm64.deb
 Size: 144198
 MD5sum: 03dd68b5f32bef85e0d0be2e69d159d5
 SHA1: 440a67f55ce7e273dcc90aa55e9282f3411f7337
 SHA256: f09ea0d8d1dfb39a2edf6549afc02cc9ed168d68285469faa8ead44afd71da4c
 
- 1. 支持自动粘贴与自动提升模式，面板内一键复制/粘贴；
- 2. 支持长按文字条目分词选取，独立复制选中词块；
- 3. 支持复制/粘贴音效反馈与触感反馈（可分别控制开关）；
- 4. 支持历史条数与内容预览行数设置；
- 5. 支持 4 种激活方式：听写键、编辑菜单、长按地球键、系统键盘上滑；
- 6. 支持内容过滤（全部/文本/链接/图片）、收藏夹拖拽排序、面板内容快捷搜索；
- 7. 支持显示保存时间和来源 App 图标，图片条目展示缩略图；
- 8. 支持深色/浅色模式自适应、全屏/抽屉切换、横屏全屏适配；
- 9. 支持屏蔽 iOS 16+ 粘贴横幅提示。
 Filename: debs/com.axs.clipboard_5.2.0-175_iphoneos-arm64.deb
 Size: 144470
 MD5sum: c9d3053d3cf746c39b5ba467bb0496e9
 SHA1: c8abe9dda627836a4793aec269d59ff91b832203
 SHA256: b56ad5ac080b936ef2c0fbe8bb023287cc49c4bc718a8bcc142855f9457fff2b
 
- 1. 支持自动粘贴与自动提升模式，面板内一键复制/粘贴；
- 2. 支持长按文字条目分词选取，独立复制选中词块；
- 3. 支持复制/粘贴音效反馈与触感反馈（可分别控制开关）；
- 4. 支持历史条数与内容预览行数设置；
- 5. 支持 4 种激活方式：听写键、编辑菜单、长按地球键、系统键盘上滑；
- 6. 支持内容过滤（全部/文本/链接/图片）、收藏夹拖拽排序、面板内容快捷搜索；
- 7. 支持显示保存时间和来源 App 图标，图片条目展示缩略图；
- 8. 支持深色/浅色模式自适应、全屏/抽屉切换、横屏全屏适配；
- 9. 支持屏蔽 iOS 16+ 粘贴横幅提示。
 Filename: debs/com.axs.clipboard_5.2.0-178_iphoneos-arm64.deb
 Size: 145096
 MD5sum: 6d3fd5a19530b532daa41e3d6873d563
 SHA1: 68544d35ad3942fbde1ed723b2bc1d75c779644c
 SHA256: 9dce9c27a60506e200f4beac1c57fe61f5f444b577bdc6de4ada608de3ea7479
 
- 1. 支持自动粘贴与自动提升模式，面板内一键复制/粘贴；
- 2. 支持长按文字条目分词选取，独立复制选中词块；
- 3. 支持复制/粘贴音效反馈与触感反馈（可分别控制开关）；
- 4. 支持历史条数与内容预览行数设置；
- 5. 支持 4 种激活方式：听写键、编辑菜单、长按地球键、系统键盘上滑；
- 6. 支持内容过滤（全部/文本/链接/图片）、收藏夹拖拽排序、面板内容快捷搜索；
- 7. 支持显示保存时间和来源 App 图标，图片条目展示缩略图；
- 8. 支持深色/浅色模式自适应、全屏/抽屉切换、横屏全屏适配；
- 9. 支持屏蔽 iOS 16+ 粘贴横幅提示。
 Filename: debs/com.axs.clipboard_5.2.0-179_iphoneos-arm64.deb
 Size: 145812
 MD5sum: f8fbe5a15a707b9121e3c7a3be6d497d
 SHA1: 371da53de385671025955ac98aa25201729c347b
 SHA256: 33869ecbbf8788f04ad30517a983c394c57b5cfc23fed3e2e318874357d5b1cf
 
- 1. 支持自动粘贴，面板内一键复制/粘贴；
- 2. 支持多种激活方式：键盘预测栏、听写键、第三方手势插件；
- 3. 支持一键清空剪贴板；
- 4. 支持显示保存时间；
- 5. 支持收藏内容可以自定义排序；
- 6. 支持屏蔽iOS16+"粘贴自"横幅提示。
 Filename: debs/com.axs.clipboard_5.2.0-98_iphoneos-arm64.deb
 Size: 90976
 MD5sum: ae195181012eb57fd13299243b91d219
@@ -3613,155 +3322,60 @@ MD5sum: b3c891571509daf7d043f09402c4b3ab
 SHA1: 8479afae57ca0c738585a0662c30402f5fc1fb1b
 SHA256: faded307a2786b88f26edbe004400ca70aa87dde9a34dac3d025a2fd5e998e5c
 
- * 1. 动态岛自定义背景，支持 PNG/JPG/GIF/MP4。
- * 2. 录屏的时候，可以隐藏原生岛黑色区域，让效果更美观。
- * 3. 内置纯代码灵动光圈（如彩虹环、彩虹流星、舞台灯、跑马灯、纯色线框）、漂亮的七彩随机光圈阴影等特效。
- * 4. 灵动岛左右两侧自定义png图片帧率动画（如写轮眼、跳舞等玩法）。
- * 5. 本插件无需任何依赖、支持手势录屏触发，已经达到极致水平。
 Filename: debs/com.axs.ios16dao_5.2.0-244_iphoneos-arm64.deb
 Size: 123892
 MD5sum: 17f0b87eff49517833396f2fa10a1903
 SHA1: 04ede7ffbe6875dbbd209f92d49fd696b0437170
 SHA256: b72db26bc9e0820c48ee1be58482759adfb163b9c5655089e506e7d5a88acf71
 
- lockplayer锁屏播放器，功能介绍：
- 	  *  1.点击专辑封面：跳转到当前播放 App。
- 	  *  2.背景中部点击：播放/暂停。
- 	  *  3.向左滑：上一曲；向右滑：下一曲。
- 	  *  4.安装本插件后：原生锁屏播放器自动隐藏，仅显示 LockPlayer 面板。
- 	  *  5.进度条：支持拖动定位，松手后自动更新播放进度。
 Filename: debs/com.axs.lockplayer_3.22_iphoneos-arm64.deb
 Size: 464012
 MD5sum: 8d393219e8bc21a7a6e52758c852a507
 SHA1: 48b158d4c0f081d4835960b92bf6ecf49bcfd715
 SHA256: 7800971793d9f2832222428ff1f7eb460e3837a67dace9a1007c34dedbbb1ed1
 
- lockplayer锁屏播放器，功能介绍：
- 	  *  1.点击专辑封面：跳转到当前播放 App。
- 	  *  2.背景中部点击：播放/暂停。
- 	  *  3.向左滑：上一曲；向右滑：下一曲。
- 	  *  4.安装本插件后：原生锁屏播放器自动隐藏，仅显示 LockPlayer 面板。
- 	  *  5.进度条：支持拖动定位，松手后自动更新播放进度。
 Filename: debs/com.axs.lockplayer_3.22_iphoneos-arm64e.deb
 Size: 463868
 MD5sum: 68d979f053adae3e403eff50f4d221d7
 SHA1: 6c225b74ee7bec0d35708458a7c19ccdcd538e34
 SHA256: aa8c9f69ffb57ad24968af9f90c6cc402c17978342787222c85a10a43e91cb43
 
- * 1. 单击：播放/暂停
- * 2. 左滑：上一首
- * 3. 右滑：下一首
- * 4. 上滑：音量调整
- * 5. 下滑：封面旋转速度调整
- * 6. 长按：拖动悬浮球位置
- * 7. 双击：隐藏悬浮球，隐藏之后需要重启音乐app才会再次出现。
 Filename: debs/com.axs.mediafloater_5.2.0-7_iphoneos-arm64.deb
 Size: 23656
 MD5sum: edc6a6f48eacd2f6c30490f1eccd7f0d
 SHA1: 0775bee9ac4eb601932529af5a14acafd3ce03e1
 SHA256: 03fc928223ea07cb48a41fea9047d569a1a3cd733eb9eefaf248837e0a3ab306
 
-    1. 越狱安装每个app打开都会有一个悬浮图标,点击打开功能菜单,长按会隐藏,三指双击可恢复显示。
-    2. 巨魔注入或者自签安装,即可实现独立app启用该悬浮文件管理。
-    3. 操作指南：点击悬浮图标打开功能菜单,长按会隐藏,三指双击可恢复显示
 Filename: debs/com.axs.minifilza_1.0.0-31_iphoneos-arm64.deb
 Size: 66900
 MD5sum: f53ef804277a7f22fd2d3c05cf7ee84b
 SHA1: 5b07a88b59fd41afde3af80f3821cc734b36ad39
 SHA256: 73805126d3e9d72469ae3446ea8f3ddce6025e701016a702a6ad804335a5cdde
 
- * 1.账号信息：用户信息、应用信息、签名信息。
- * 2.内测功能：微信各版本灰度功能提前享用。
- * 3.输入窗口：聊天界面输入框美化及增强功能。
- * 4.实用功能：抢红包、游戏作弊、步数修改、虚拟定位、消息防撤回、消息屏蔽、消息引用、引用消息点击跳转、全屏三击截图、全屏返回手势、后台保活、首页列表长按预览、隐藏微信号、朋友圈显示详细时间。
- * 5.附件布局：聊天功能面板 2x5布局(可自定义排序)。
- * 6.文件管理：支持文件管理、上传、分享、复制、移动、压缩、删除、重命名；数据存档及恢复、清理数据等。
- * 7.美化功能(Svip群享受)：
-    7.1 微信头像-自定义位置，状态，特效。
-    7.2 微信铭牌-群聊昵称铭牌。
-    7.3 首页背景、菜单背景等支持多媒体。
-    7.4 底栏背景：隐藏图标文字、特效等。
-    7.5 时间背景、SVG图标随机颜色。
- * 8.其他功能：输入法隐藏Logo、图片边缘点击关闭、图片信息扩展、微信去广告、绕过越狱检测、自动登录、朋友圈消息尾巴、动态背景。
 Filename: debs/com.axs.newfeature.core_5.2.0-406_iphoneos-arm64.deb
 Size: 197826
 MD5sum: 444225ff8ac0fad318c1fc710e544094
 SHA1: 93aef7755665bd60518bf872eb0a218775848130
 SHA256: b23bb7e41c10a7aab18bc0e23d33e9365c603322a53bd699c93b92693c52c6b2
 
- * 1.账号信息：用户信息、应用信息、签名信息。
- * 2.内测功能：微信各版本灰度功能提前享用。
- * 3.输入窗口：聊天界面输入框美化及增强功能。
- * 4.实用功能：抢红包、游戏作弊、步数修改、虚拟定位、消息防撤回、消息屏蔽、消息引用、引用消息点击跳转、全屏三击截图、全屏返回手势、后台保活、首页列表长按预览、隐藏微信号、朋友圈显示详细时间。
- * 5.附件布局：聊天功能面板 2x5布局(可自定义排序)。
- * 6.信息时间：聊天界面消息时间自定义。
- * 7.触摸轨迹：微信内置触摸轨迹自定义。
- * 8.头像设置：微信头像的圆角、个人页头像旋转、聊天界面隐藏头像等功能。
- * 9.字体加载：在微信内置字体，支持ttf或otf格式。
- * 10.文件管理：支持文件管理、上传、分享、复制、移动、压缩、删除、重命名；数据存档及恢复、清理数据等。
- * 11.美化功能(Svip群享受)：
-    11.1 微信头像-自定义位置，状态，特效。
-    11.2 微信铭牌-群聊昵称铭牌。
-    11.3 首页背景、菜单背景等支持多媒体。
-    11.4 底栏背景：隐藏图标文字、特效等。
-    11.5 时间背景、SVG图标随机颜色。
- * 12.其他功能：输入法隐藏Logo、图片边缘点击关闭、图片信息扩展、微信去广告、绕过越狱检测、自动登录、朋友圈消息尾巴、动态背景。
 Filename: debs/com.axs.newfeature.core_5.2.0-469_iphoneos-arm64.deb
 Size: 213794
 MD5sum: e89a35f059216995a0663cebcb3e76b1
 SHA1: a589880585b1559385bbc7ca4f05f170d87f0814
 SHA256: 69f9a156622155d6069d8bad8f3fc6e72bb20c154f3664257996c01b6737a084
 
- * 1.账号信息：用户信息、应用信息、签名信息。
- * 2.内测功能：微信各版本灰度功能提前享用。
- * 3.输入窗口：聊天界面输入框美化及增强功能。
- * 4.实用功能：抢红包、游戏作弊、步数修改、虚拟定位、消息防撤回、消息屏蔽、消息引用、引用消息点击跳转、全屏三击截图、全屏返回手势、后台保活、首页列表长按预览、隐藏微信号、朋友圈显示详细时间。
- * 5.附件布局：聊天功能面板 2x5布局(可自定义排序)。
- * 6.信息时间：聊天界面消息时间自定义。
- * 7.触摸轨迹：微信内置触摸轨迹自定义。
- * 8.头像设置：微信头像的圆角、个人页头像旋转、聊天界面隐藏头像等功能。
- * 9.字体加载：在微信内置字体，支持ttf或otf格式。
- * 10.文件管理：支持文件管理、上传、分享、复制、移动、压缩、删除、重命名；数据存档及恢复、清理数据等。
- * 11.美化功能(Svip群享受)：
-    11.1 微信头像-自定义位置，状态，特效。
-    11.2 微信铭牌-群聊昵称铭牌。
-    11.3 首页背景、菜单背景等支持多媒体。
-    11.4 底栏背景：隐藏图标文字、特效等。
-    11.5 时间背景、SVG图标随机颜色。
- * 12.其他功能：输入法隐藏Logo、图片边缘点击关闭、图片信息扩展、微信去广告、绕过越狱检测、自动登录、朋友圈消息尾巴、动态背景。
 Filename: debs/com.axs.newfeature.core_5.2.0-495_iphoneos-arm64.deb
 Size: 213720
 MD5sum: 67a7546d30636e279b42a7b6a3c2a951
 SHA1: 7ed3a3d980ff897b920d68232a0ab45e3abc762b
 SHA256: be17c979d3afaf9c4798559ce52cafed15c5de5c358a49964c35e70be9faed47
 
- * 1.账号信息：用户信息、应用信息、签名信息。
- * 2.内测功能：微信各版本灰度功能提前享用。
- * 3.输入窗口：聊天界面输入框美化及增强功能。
- * 4.实用功能：抢红包、游戏作弊、步数修改、虚拟定位、消息防撤回、消息屏蔽、消息引用、引用消息点击跳转、全屏三击截图、全屏返回手势、后台保活、首页列表长按预览、隐藏微信号、朋友圈显示详细时间。
- * 5.附件布局：聊天功能面板 2x5布局(可自定义排序)。
- * 6.信息时间：聊天界面消息时间自定义。
- * 7.触摸轨迹：微信内置触摸轨迹自定义。
- * 8.头像设置：微信头像的圆角、个人页头像旋转、聊天界面隐藏头像等功能。
- * 9.字体加载：在微信内置字体，支持ttf或otf格式。
- * 10.文件管理：支持文件管理、上传、分享、复制、移动、压缩、删除、重命名；数据存档及恢复、清理数据等。
- * 11.美化功能(Svip群享受)：
-    11.1 微信头像-自定义位置，状态，特效。
-    11.2 微信铭牌-群聊昵称铭牌。
-    11.3 首页背景、菜单背景等支持多媒体。
-    11.4 底栏背景：隐藏图标文字、特效等。
-    11.5 时间背景、SVG图标随机颜色。
- * 12.其他功能：输入法隐藏Logo、图片边缘点击关闭、图片信息扩展、微信去广告、绕过越狱检测、自动登录、朋友圈消息尾巴、动态背景。
 Filename: debs/com.axs.newfeature.core_5.2.0-661_iphoneos-arm64.deb
 Size: 256204
 MD5sum: 88ebca795db33f811d74b63b54c4bf18
 SHA1: 24ea79b4b915671f50867ed3ea1c9fd2cf19020b
 SHA256: 2392cc25ec5a803747b4b84c6fd8080d23bc1bab3261fe0544f63bee8f2da994
 
-  * 1.在灵动岛上显示精美的消息通知；
-  * 2.支持自定义背景（视频、图片、纯代码格式）；
-  * 3.支持自定义尺寸、字体及垂直偏移；
-  * 4.支持点击岛上消息跳转app。
 Filename: debs/com.axs.notifyisland_1.1.0_iphoneos-arm64.deb
 Size: 53412
 MD5sum: c17411f155de4563f5836ec2ec1ac6ab
@@ -3774,10 +3388,6 @@ MD5sum: e5504085561907f5ece0ad419b033fd5
 SHA1: f3e606fd88a2055980d09d84a9dfebf9364d74ad
 SHA256: 47c53c1decd9b9956302683669a5b8c8904a24114aaee5050a3b9b4159692261
 
- * 1. 录屏套壳渲染极快。
- * 2. 渲染过程中手机不发烫。
- * 3. 插件不需要任何依赖。
- * 4. 本插件是目前市面上最好的录屏套壳渲染工具。
 Filename: debs/com.axs.screenshellpro_5.2.0-61_iphoneos-arm64.deb
 Size: 67960
 MD5sum: 7645b774e177e88f6faaf0b2db544833
@@ -3790,627 +3400,120 @@ MD5sum: 392b3872389d639f9c655e8d2e80f1c0
 SHA1: 93fcff240f50aeddb806873b7b4ed87cebf191d0
 SHA256: 831332f810abc419b095c1d749510583184a439fd023a91bc9561833e0fdb90c
 
- * 一、【截图标记】
- * 颜色选择：红/黄/蓝/绿/白/黑等6种颜色；
- * 箭头标记：手指拖拽绘制方向箭头；
- * 自由画线：手指跟随绘制任意曲线；
- * 矩形图标：点1次是矩形框选、点2次是矩形填充；
- * 撤回操作：一键撤销上一步标注；
- * 保存相册：渲染并写入系统相册；
- * 复制剪贴板：一键复制标注后截图；
- * 二、【长截图 Pro】
- * 点击长截图图标开始，滚动页面，再点击停止；
- * 智能帧匹配，自动拼接；
- * 支持保存到相册、复制到剪贴板；
- * 三、【OCR识别】
- * 使用 PaddleOCR-VL-1.6 模型识别截图文字；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备API Token。
- * 四、【翻译】
- * 百度翻译 API，自动检测语言双向翻译；
- * 支持图片翻译和文本翻译两种通道；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备百度翻译 AppID 和 AppKey。
- * 五、【自定义图标】
- * 创建 "/var/mobile/Axs/Snapper3图标/" 文件夹，放入以下对应素材，即可替换默认图标：
- *   截图标记：tag.png / tag_menu.png
- *   长截图  ：long.png / long_menu.png
- *   ocr识别 ：ocr.png / ocr_menu.png
- *   翻译    ：trans.png / trans_menu.png 
 Filename: debs/com.axs.snapper3tag_5.2.0-160_iphoneos-arm64.deb
 Size: 90070
 MD5sum: 01802613a66ed57652ca86597e69c77f
 SHA1: 19f429c0e42651d8ac262d6bd627199162086b40
 SHA256: 1aa48ee7bda73873c457c900f8ca2d4864f963bced47a9080a8beb8c5528f648
 
- * 一、【截图标记】
- * 颜色选择：红/黄/蓝/绿/白/黑等6种颜色；
- * 箭头标记：手指拖拽绘制方向箭头；
- * 自由画线：手指跟随绘制任意曲线；
- * 矩形图标：矩形框选+矩形填充；
- * 圆形图标：圆形框选+圆形填充；
- * 撤回操作：一键撤销上一步标注；
- * 删除操作：一键删除所有标注；
- * 保存相册：渲染并写入系统相册；
- * 复制剪贴板：一键复制标注后截图；
- * 二、【长截图 Pro】
- * 点击长截图图标一键截长图；
- * 智能帧匹配，自动拼接；
- * 支持保存到相册、复制到剪贴板；
- * 三、【OCR识别】
- * 使用 PaddleOCR模型识别截图文字；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备API Token。
- * 四、【翻译】
- * 百度翻译 API，自动检测语言双向翻译；
- * 支持图片翻译和文本翻译两种通道；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备百度开发者信息中的 AppID 和 密钥。
- * 五、【Ai互译+问答】
- * 支持中英文互译和中文问答；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备阿里云 API Key。
- * 六、【自定义图标】
- * 创建 "/var/mobile/Axs/Snapper3图标/" 文件夹，放入以下对应素材，即可替换默认图标：
- *   截图标记：tag.png / tag_menu.png
- *   长截图  ：long.png / long_menu.png
- *   ocr识别 ：ocr.png / ocr_menu.png
- *   翻译    ：trans.png / trans_menu.png 
- *   Ai互译  ：huyi.png / huyi_menu.png
- *   Ai回答  ：wenda.png / wenda_menu.png
 Filename: debs/com.axs.snapper3tag_5.2.0-163_iphoneos-arm64.deb
 Size: 109464
 MD5sum: 4fe8112e7e5e9a1fd85270179290ee91
 SHA1: 89337e19dd64988c609f1a9eb02e6f814b938ba5
 SHA256: da79476f0a2b171691a8df5e63d0fb7e02c4da34b419dba2d923384fc84c675d
 
- * 一、【截图标记】
- * 颜色选择：红/黄/蓝/绿/白/黑等6种颜色；
- * 箭头标记：手指拖拽绘制方向箭头；
- * 自由画线：手指跟随绘制任意曲线；
- * 矩形图标：矩形框选+矩形填充；
- * 圆形图标：圆形框选+圆形填充；
- * 撤回操作：一键撤销上一步标注；
- * 删除操作：一键删除所有标注；
- * 保存相册：渲染并写入系统相册；
- * 复制剪贴板：一键复制标注后截图；
- * 二、【长截图 Pro】
- * 点击长截图图标一键截长图；
- * 智能帧匹配，自动拼接；
- * 支持保存到相册、复制到剪贴板；
- * 三、【OCR识别】
- * 使用 PaddleOCR模型识别截图文字；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备API Token。
- * 四、【翻译】
- * 百度翻译 API，自动检测语言双向翻译；
- * 支持图片翻译和文本翻译两种通道；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备百度开发者信息中的 AppID 和 密钥。
- * 五、【Ai互译+问答】
- * 支持中英文互译和中文问答；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备阿里云 API Key。
- * 六、【自定义图标】
- * 创建 "/var/mobile/Axs/Snapper3图标/" 文件夹，放入以下对应素材，即可替换默认图标：
- *   截图标记：tag.png / tag_menu.png
- *   长截图  ：long.png / long_menu.png
- *   ocr识别 ：ocr.png / ocr_menu.png
- *   翻译    ：trans.png / trans_menu.png 
- *   Ai互译  ：huyi.png / huyi_menu.png
- *   Ai回答  ：wenda.png / wenda_menu.png
 Filename: debs/com.axs.snapper3tag_5.2.0-166_iphoneos-arm64.deb
 Size: 113850
 MD5sum: 5749c0de5b27b4a690b97b768cb75454
 SHA1: ec470a4cd98a70289999c7e540de07fcb2bc0eae
 SHA256: 1a138d625dda9a6150a7b25571f42886dcb454fc9aa3532a605409120935faa8
 
- * 一、【截图标记】
- * 颜色选择：红/黄/蓝/绿/白/黑等6种颜色；
- * 箭头标记：手指拖拽绘制方向箭头；
- * 自由画线：手指跟随绘制任意曲线；
- * 矩形图标：矩形框选+矩形填充；
- * 圆形图标：圆形框选+圆形填充；
- * 撤回操作：一键撤销上一步标注；
- * 删除操作：一键删除所有标注；
- * 保存相册：渲染并写入系统相册；
- * 复制剪贴板：一键复制标注后截图；
- * 二、【长截图 Pro】
- * 点击长截图图标一键截长图；
- * 智能帧匹配，自动拼接；
- * 支持保存到相册、复制到剪贴板；
- * 三、【OCR识别】
- * 使用 PaddleOCR模型识别截图文字；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备API Token。
- * 四、【翻译】
- * 百度翻译 API，自动检测语言双向翻译；
- * 支持图片翻译和文本翻译两种通道；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备百度开发者信息中的 AppID 和 密钥。
- * 五、【Ai互译+问答】
- * 支持中英文互译和中文问答；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备阿里云 API Key。
- * 六、【自定义图标】
- * 创建 "/var/mobile/Axs/Snapper3图标/" 文件夹，放入以下对应素材，即可替换默认图标：
- *   截图标记：tag.png / tag_menu.png
- *   长截图  ：long.png / long_menu.png
- *   ocr识别 ：ocr.png / ocr_menu.png
- *   翻译    ：trans.png / trans_menu.png 
- *   Ai互译  ：huyi.png / huyi_menu.png
- *   Ai回答  ：wenda.png / wenda_menu.png
 Filename: debs/com.axs.snapper3tag_5.2.0-179_iphoneos-arm64.deb
 Size: 116076
 MD5sum: f7cf4b611bed8b7ec9cc5fb62c89658c
 SHA1: cb504da8a27d95e1f6ee9d13e47271d7f1ec96bc
 SHA256: 389e6cf7757306e92866d09f28e50b26d9ad2a9cd8fc8c0490a73f0a82d3eb7c
 
- * 一、【截图标记】
- * 颜色选择：红/黄/蓝/绿/白/黑等6种颜色；
- * 箭头标记：手指拖拽绘制方向箭头；
- * 自由画线：手指跟随绘制任意曲线；
- * 矩形图标：矩形框选+矩形填充；
- * 圆形图标：圆形框选+圆形填充；
- * 撤回操作：一键撤销上一步标注；
- * 删除操作：一键删除所有标注；
- * 保存相册：渲染并写入系统相册；
- * 复制剪贴板：一键复制标注后截图；
- * 二、【长截图 Pro】
- * 点击长截图图标一键截长图；
- * 智能帧匹配，自动拼接；
- * 支持保存到相册、复制到剪贴板；
- * 三、【OCR识别】
- * 使用 PaddleOCR模型识别截图文字；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备API Token。
- * 四、【翻译】
- * 百度翻译 API，自动检测语言双向翻译；
- * 支持图片翻译和文本翻译两种通道；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备百度开发者信息中的 AppID 和 密钥。
- * 五、【Ai互译+问答】
- * 支持中英文互译和中文问答；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备阿里云 API Key。
- * 六、【自定义图标】
- * 创建 "/var/mobile/Axs/Snapper3图标/" 文件夹，放入以下对应素材，即可替换默认图标：
- *   截图标记：tag.png / tag_menu.png
- *   长截图  ：long.png / long_menu.png
- *   ocr识别 ：ocr.png / ocr_menu.png
- *   翻译    ：trans.png / trans_menu.png 
- *   Ai互译  ：huyi.png / huyi_menu.png
- *   Ai回答  ：wenda.png / wenda_menu.png
 Filename: debs/com.axs.snapper3tag_5.2.0-185_iphoneos-arm64.deb
 Size: 117000
 MD5sum: c02aa688c9239bc8c75e052e68ddb4c9
 SHA1: 78e83927f4a6d1adc1fe1288f7ef67ac60b74a62
 SHA256: 3ba628f23433acd2eee471866501d730bc69340a91a99011cdafb0ca7c710979
 
- * 颜色选择：红/黄/蓝/绿/白/黑等6种颜色；
- * 箭头标记：手指拖拽绘制方向箭头；
- * 自由画线：手指跟随绘制任意曲线；
- * 矩形图标：点1次是矩形框选、点2次是矩形填充；
- * 撤回操作：一键撤销上一步标注；
- * 保存相册：渲染并写入系统相册；
- * 复制剪贴板：一键复制标注后截图；
- * 自定义图标：创建"/var/mobile/Axs/Snapper3图标/"文件夹，自己准备tag.png / tag_menu.png 素材放入"Snapper3图标"文件夹即可替换。
 Filename: debs/com.axs.snapper3tag_5.2.0-18_iphoneos-arm64.deb
 Size: 27828
 MD5sum: 7fd64aea5cf62be282bd3e734586d9aa
 SHA1: 2cbf851e77dbcd2732ec4f9a55f818fb3bc98916
 SHA256: 49a35fb42b7a4196343280c2ad642271bffe6468080f99b53218d25db519167b
 
- * 一、【截图标记】
- * 颜色选择：红/黄/蓝/绿/白/黑等6种颜色；
- * 箭头标记：手指拖拽绘制方向箭头；
- * 自由画线：手指跟随绘制任意曲线；
- * 矩形图标：矩形框选+矩形填充；
- * 圆形图标：圆形框选+圆形填充；
- * 撤回操作：一键撤销上一步标注；
- * 删除操作：一键删除所有标注；
- * 保存相册：渲染并写入系统相册；
- * 复制剪贴板：一键复制标注后截图；
- * 二、【长截图 Pro】
- * 点击长截图图标一键截长图；
- * 智能帧匹配，自动拼接；
- * 支持保存到相册、复制到剪贴板；
- * 三、【OCR识别】
- * 使用 PaddleOCR模型识别截图文字；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备API Token。
- * 四、【翻译】
- * 百度翻译 API，自动检测语言双向翻译；
- * 支持图片翻译和文本翻译两种通道；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备百度开发者信息中的 AppID 和 密钥。
- * 五、【Ai互译+问答】
- * 支持中英文互译和中文问答；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备阿里云 API Key。
- * 六、【自定义图标】
- * 创建 "/var/mobile/Axs/Snapper3图标/" 文件夹，放入以下对应素材，即可替换默认图标：
- *   截图标记：tag.png / tag_menu.png
- *   长截图  ：long.png / long_menu.png
- *   ocr识别 ：ocr.png / ocr_menu.png
- *   翻译    ：trans.png / trans_menu.png 
- *   Ai互译  ：huyi.png / huyi_menu.png
- *   Ai回答  ：wenda.png / wenda_menu.png
 Filename: debs/com.axs.snapper3tag_5.2.0-192_iphoneos-arm64.deb
 Size: 121954
 MD5sum: f06483219397df6e068703672777071f
 SHA1: 52bb2ed48c6a1f212af8698babfbd26c541cff48
 SHA256: b2c13618edeb65baeda5054edcf7066fdb4dfe503356e3e51482ef849c99dba8
 
- * 一、【截图标记】
- * 颜色选择：红/黄/蓝/绿/白/黑等6种颜色；
- * 箭头标记：手指拖拽绘制方向箭头；
- * 自由画线：手指跟随绘制任意曲线；
- * 矩形图标：矩形框选+矩形填充；
- * 圆形图标：圆形框选+圆形填充；
- * 撤回操作：一键撤销上一步标注；
- * 删除操作：一键删除所有标注；
- * 保存相册：渲染并写入系统相册；
- * 复制剪贴板：一键复制标注后截图；
- * 二、【长截图 Pro】
- * 点击长截图图标一键截长图；
- * 智能帧匹配，自动拼接；
- * 支持保存到相册、复制到剪贴板；
- * 三、【OCR识别】
- * 使用 PaddleOCR模型识别截图文字；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备API Token。
- * 四、【翻译】
- * 百度翻译 API，自动检测语言双向翻译；
- * 支持图片翻译和文本翻译两种通道；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备百度开发者信息中的 AppID 和 密钥。
- * 五、【Ai互译+问答】
- * 支持中英文互译和中文问答；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备阿里云 API Key。
- * 六、【自定义图标】
- * 创建 "/var/mobile/Axs/Snapper3图标/" 文件夹，放入以下对应素材，即可替换默认图标：
- *   截图标记：tag.png / tag_menu.png
- *   长截图  ：long.png / long_menu.png
- *   ocr识别 ：ocr.png / ocr_menu.png
- *   翻译    ：trans.png / trans_menu.png 
- *   Ai互译  ：huyi.png / huyi_menu.png
- *   Ai回答  ：wenda.png / wenda_menu.png
 Filename: debs/com.axs.snapper3tag_5.2.0-203_iphoneos-arm64.deb
 Size: 122868
 MD5sum: 603b70bf5dffb3a1f48cbba7dfc6f4f5
 SHA1: e8696355b5369368d86863401195c9f0b276ea6b
 SHA256: 4dad2d34e0454d6a5bba5c9a45885826fc242e4b33e50e3e4e77a3ea20e50479
 
- * 一、【截图标记】
- * 颜色选择：红/黄/蓝/绿/白/黑等6种颜色；
- * 箭头标记：手指拖拽绘制方向箭头；
- * 自由画线：手指跟随绘制任意曲线；
- * 矩形图标：矩形框选+矩形填充；
- * 圆形图标：圆形框选+圆形填充；
- * 撤回操作：一键撤销上一步标注；
- * 删除操作：一键删除所有标注；
- * 保存相册：渲染并写入系统相册；
- * 复制剪贴板：一键复制标注后截图；
- * 二、【长截图 Pro】
- * 点击长截图图标一键截长图；
- * 智能帧匹配，自动拼接；
- * 支持保存到相册、复制到剪贴板；
- * 三、【OCR识别】
- * 使用 PaddleOCR模型识别截图文字；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备API Token。
- * 四、【翻译】
- * 百度翻译 API，自动检测语言双向翻译；
- * 支持图片翻译和文本翻译两种通道；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备百度开发者信息中的 AppID 和 密钥。
- * 五、【Ai互译+问答】
- * 支持中英文互译和中文问答；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备阿里云 API Key。
- * 六、【自定义图标】
- * 创建 "/var/mobile/Axs/Snapper3图标/自定义文件夹" ，放入以下对应素材，即可替换默认图标：
- *   截图标记：tag.png / tag_menu.png
- *   长截图  ：long.png / long_menu.png
- *   ocr识别 ：ocr.png / ocr_menu.png
- *   翻译    ：trans.png / trans_menu.png 
- *   Ai互译  ：huyi.png / huyi_menu.png
- *   Ai回答  ：wenda.png / wenda_menu.png
 Filename: debs/com.axs.snapper3tag_5.2.0-206_iphoneos-arm64.deb
 Size: 126098
 MD5sum: e2714c5109fac8d75f498bfe6694c078
 SHA1: f0064c62f46bad92c29c154a7e475fad2f62418b
 SHA256: 7556d465793a811dfe76cc945d77fab9fc5bf9e6f78cd212cfa4a14e85ce6aae
 
- * 一、【截图标记】
- * 颜色选择：红/黄/蓝/绿/白/黑等6种颜色；
- * 箭头标记：手指拖拽绘制方向箭头；
- * 自由画线：手指跟随绘制任意曲线；
- * 矩形图标：矩形框选+矩形填充；
- * 圆形图标：圆形框选+圆形填充；
- * 撤回操作：一键撤销上一步标注；
- * 删除操作：一键删除所有标注；
- * 保存相册：渲染并写入系统相册；
- * 复制剪贴板：一键复制标注后截图；
- * 二、【长截图 Pro】
- * 点击长截图图标一键截长图；
- * 智能帧匹配，自动拼接；
- * 支持保存到相册、复制到剪贴板；
- * 三、【OCR识别】
- * 使用 PaddleOCR模型识别截图文字；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备API Token。
- * 四、【翻译】
- * 百度翻译 API，自动检测语言双向翻译；
- * 支持图片翻译和文本翻译两种通道；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备百度开发者信息中的 AppID 和 密钥。
- * 五、【Ai互译+问答】
- * 支持中英文互译和中文问答；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备阿里云 API Key。
- * 六、【自定义图标】
- * 创建 "/var/mobile/Axs/Snapper3图标/自定义文件夹" ，放入以下对应素材，即可替换默认图标：
- *   截图标记：tag.png / tag_menu.png
- *   长截图  ：long.png / long_menu.png
- *   ocr识别 ：ocr.png / ocr_menu.png
- *   翻译    ：trans.png / trans_menu.png 
- *   Ai互译  ：huyi.png / huyi_menu.png
- *   Ai回答  ：wenda.png / wenda_menu.png
 Filename: debs/com.axs.snapper3tag_5.2.0-256_iphoneos-arm64.deb
 Size: 143908
 MD5sum: b2b99ac2ad16276b03764eeb3993bce3
 SHA1: 5ab719276d26d67ad8a6f36274d8633437f67cd3
 SHA256: 6e4b9608d76202b888fbd5e286e6179840c99acb5887ffe847780a600a46669a
 
- * 一、【截图标记】
- * 颜色选择：红/黄/蓝/绿/白/黑等6种颜色；
- * 箭头标记：手指拖拽绘制方向箭头；
- * 自由画线：手指跟随绘制任意曲线；
- * 文字标注：点击图片任意位置弹出输入框与键盘，输入文字落点标注，支持字号滑条实时调节；
- * 矩形图标：矩形框选+矩形填充；
- * 圆形图标：圆形框选+圆形填充；
- * 撤回操作：一键撤销上一步标注；
- * 删除操作：一键删除所有标注；
- * 保存相册：渲染并写入系统相册；
- * 复制剪贴板：一键复制标注后截图；
- * 二、【长截图 Pro】
- * 点击长截图图标一键截长图；
- * 智能帧匹配，自动拼接；
- * 支持保存到相册、复制到剪贴板；
- * 三、【OCR识别】
- * 使用 PaddleOCR模型识别截图文字；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备API Token。
- * 四、【翻译】
- * 百度翻译 API，自动检测语言双向翻译；
- * 支持图片翻译和文本翻译两种通道；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备百度开发者信息中的 AppID 和 密钥。
- * 五、【Ai互译+问答】
- * 支持中英文互译和中文问答；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备阿里云 API Key。
- * 六、【自定义图标】
- * 创建 "/var/mobile/Axs/Snapper3图标/自定义文件夹" ，放入以下对应素材，即可替换默认图标：
- *   截图标记：tag.png / tag_menu.png
- *   长截图  ：long.png / long_menu.png
- *   ocr识别 ：ocr.png / ocr_menu.png
- *   翻译    ：trans.png / trans_menu.png 
- *   Ai互译  ：huyi.png / huyi_menu.png
- *   Ai回答  ：wenda.png / wenda_menu.png
 Filename: debs/com.axs.snapper3tag_5.2.0-269_iphoneos-arm64.deb
 Size: 154636
 MD5sum: f72a44f61d385286c71251adc54bebff
 SHA1: b70c9d16e3d646f7d4bbc381592c7a82f0a99b73
 SHA256: 330500263c02ace4f340d6d8d0e6970aaa06ccb77b94ede8449e3aa88f16b60d
 
- * 一、【截图标记】
- * 颜色选择：红/黄/蓝/绿/白/黑等6种颜色；
- * 箭头标记：手指拖拽绘制方向箭头；
- * 自由画线：手指跟随绘制任意曲线；
- * 文字标注：点击图片任意位置弹出输入框与键盘，输入文字落点标注，支持字号滑条实时调节；
- * 矩形图标：矩形框选+矩形填充；
- * 圆形图标：圆形框选+圆形填充；
- * 撤回操作：一键撤销上一步标注；
- * 删除操作：一键删除所有标注；
- * 保存相册：渲染并写入系统相册；
- * 复制剪贴板：一键复制标注后截图；
- * 二、【长截图 Pro】
- * 两种模式可选：滚动拼接/ 一键到底；
- * 智能帧匹配，自动拼接；
- * 支持保存到相册、复制到剪贴板；
- * 三、【OCR识别】
- * 使用 PaddleOCR模型识别截图文字；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备API Token。
- * 四、【翻译】
- * 百度翻译 API，自动检测语言双向翻译；
- * 支持图片翻译和文本翻译两种通道；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备百度开发者信息中的 AppID 和 密钥。
- * 五、【Ai互译+问答】
- * 支持中英文互译和中文问答；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备阿里云 API Key。
- * 六、【自定义图标】
- * 创建 "/var/mobile/Axs/Snapper3图标/自定义文件夹" ，放入以下对应素材，即可替换默认图标：
- *   截图标记：tag.png / tag_menu.png
- *   长截图  ：long.png / long_menu.png
- *   ocr识别 ：ocr.png / ocr_menu.png
- *   翻译    ：trans.png / trans_menu.png 
- *   Ai互译  ：huyi.png / huyi_menu.png
- *   Ai回答  ：wenda.png / wenda_menu.png
 Filename: debs/com.axs.snapper3tag_5.2.0-280_iphoneos-arm64.deb
 Size: 160342
 MD5sum: 96e436db8b73f5ae4450f836c8342f65
 SHA1: e9e7d6842eab08c3aeffb8ef87a23e245c293d7e
 SHA256: 60ae0bea68eb651f4f01e74bfd536874a0823e9192bca6484cd79341d69776af
 
- * 一、【截图标记】
- * 颜色选择：红/黄/蓝/绿/白/黑等6种颜色；
- * 箭头标记：手指拖拽绘制方向箭头；
- * 自由画线：手指跟随绘制任意曲线；
- * 文字标注：点击图片任意位置弹出输入框与键盘，输入文字落点标注，支持字号滑条实时调节；
- * 矩形图标：点击1次是矩形框选+点击2次是矩形填充；
- * 圆形图标：点击1次是圆形框选+点击2次是圆形填充；
- * 高亮图标：点击1次是高亮框选+点击2次是半透明填充；
- * 马赛克图标：网格分块打码，颗粒固定细腻；
- * 撤回操作：一键撤销上一步标注；
- * 删除操作：一键删除所有标注；
- * 保存相册：渲染并写入系统相册；
- * 复制剪贴板：一键复制标注后截图；
- * 二、【长截图 Pro】
- * 两种模式可选：滚动拼接/ 一键到底；
- * 智能帧匹配，自动拼接；
- * 支持保存到相册、复制到剪贴板；
- * 三、【OCR识别】
- * 使用 PaddleOCR模型识别截图文字；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备API Token。
- * 四、【翻译】
- * 百度翻译 API，自动检测语言双向翻译；
- * 支持图片翻译和文本翻译两种通道；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备百度开发者信息中的 AppID 和 密钥。
- * 五、【Ai互译+问答】
- * 支持中英文互译和中文问答；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备阿里云 API Key。
- * 六、【自定义图标】
- * 创建 "/var/mobile/Axs/Snapper3图标/自定义文件夹" ，放入以下对应素材，即可替换默认图标：
- *   截图标记：tag.png / tag_menu.png
- *   长截图  ：long.png / long_menu.png
- *   ocr识别 ：ocr.png / ocr_menu.png
- *   翻译    ：trans.png / trans_menu.png 
- *   Ai互译  ：huyi.png / huyi_menu.png
- *   Ai回答  ：wenda.png / wenda_menu.png
 Filename: debs/com.axs.snapper3tag_5.2.0-295_iphoneos-arm64.deb
 Size: 164734
 MD5sum: d31f3fbf8afea1bd9dd029ac4148b6cb
 SHA1: a6f48177adaae7b16218b55bddd858024850dff5
 SHA256: 3e33239ca2508bab9c333b2303ba2e9db9c893642e45dff59d3db506a274972d
 
- * 一、【自定义图标】
- * 创建 "/var/mobile/Axs/Snapper3图标/自定义文件夹" ，放入以下对应素材，即可替换默认图标：
- *   标记    ：tag.png   / tag_menu.png
- *   长截图  ：long.png  / long_menu.png
- *   ocr识别 ：ocr.png   / ocr_menu.png
- *   翻译    ：trans.png / trans_menu.png 
- *   Ai互译  ：huyi.png  / huyi_menu.png
- *   Ai回答  ：wenda.png / wenda_menu.png
- * 二、【截图标记】
- * 颜色选择：红/黄/蓝/绿/白/黑等6种颜色；
- * 箭头标记：手指拖拽绘制方向箭头；
- * 自由画线：手指跟随绘制任意曲线；
- * 文字标注：点击图片任意位置弹出输入框与键盘，输入文字落点标注，支持字号滑条实时调节；
- * 矩形图标：点击1次是矩形框选+点击2次是矩形填充；
- * 圆形图标：点击1次是圆形框选+点击2次是圆形填充；
- * 高亮图标：点击1次是高亮框选+点击2次是半透明填充；
- * 马赛克图标：网格分块打码，颗粒固定细腻；
- * 撤回操作：一键撤销上一步标注；
- * 删除操作：一键删除所有标注；
- * 保存相册：渲染并写入系统相册；
- * 复制剪贴板：一键复制标注后截图；
- * 三、【长截图 Pro】
- * 两种模式可选：滚动拼接/ 一键到底；
- * 智能帧匹配，自动拼接；
- * 支持保存到相册、复制到剪贴板；
- * 四、【OCR识别】
- * 使用 PaddleOCR模型识别截图文字；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备API Token。
- * 五、【翻译】
- * 百度翻译 API，自动检测语言双向翻译；
- * 支持图片翻译和文本翻译两种通道；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备百度开发者信息中的 AppID 和 密钥。
- * 六、【Ai互译+问答】
- * 支持中英文互译和中文问答；
- * 半屏浮层展示，支持涂抹选择、一键复制；
- * 需自备阿里云 API Key。
- * 七、【长按音量-冻结】
- * 开启后，长按音量减键约0.2秒即可调出Snapper3冻结模式，适合无手势（不开启悬浮球/手势）的用户，用物理按键直接使用本插件全部标注功能。
 Filename: debs/com.axs.snapper3tag_5.2.0-302_iphoneos-arm64.deb
 Size: 165294
 MD5sum: 395bf112e8c0a86ee46d20beae756463
 SHA1: 4219bd6c9199954371f3bae928d12bf605027b81
 SHA256: 367d68f96796cd594cb349fe7e657d6a4e82473659b53ad22a9ab99f10375256
 
- * 一、纯代码开关组
- * 1. 动态组：昼夜开关、血瞳开关、液态开关，支持流畅的过渡动画与动态视觉效果；
- * 2. 静态组：日月开关、水滴开关、立体开关、温度开关、星月开关，覆盖多种精致静态样式；
- * 3. 液态开关：复刻 iOS 26 风格，并支持开启状态颜色自定义；
- * 4. 日月开关：支持太阳、云朵、月亮、星星颜色自定义，一个开关也能千变万化。
- * 二、素材开关组
- * 1. 素材开关：在指定路径放置 on.png/off.png 开关素材；
- * 2. 支持创建多套，在插件面板自由切换。
- * 三、温馨提示
- * 1. 早买早享受，后续免费更新；
- * 2. 后续增加新样式，新用户可能面临涨价。
 Filename: debs/com.axs.switchicon_5.2.0-139_iphoneos-arm64.deb
 Size: 131544
 MD5sum: 96120f148b9bc67197c05c5d34ccdaed
 SHA1: 025cc798b4955f906630e2c07d8e7fe47ba46884
 SHA256: 4bcee64faade1910a653bc8a8e8f8b66253b9643cdbee47ce51191e92cdb55a2
 
- * 1.适配录屏、演示、教程录制等场景，可设置仅录屏时显示。
- * 2.支持多指模式，参数可调（大小、透明度、动画时长等）。
- * 3.支持三种触点样式（颜色/图片/表情）。
 Filename: debs/com.axs.touchtrail_5.2.0-45_iphoneos-arm64.deb
 Size: 42906
 MD5sum: 6da9d9d8f47d830327735bcfe270b4d6
 SHA1: 131b41d03cd69accc1ae9e305e80b22ad3228698
 SHA256: 1062525c26f41a43265aaf313801e671c631dc3301c3a5190b62998953940383
 
- * 1.适配录屏、演示、教程录制等场景，可设置仅录屏时显示。
- * 2.支持多指模式，参数可调（大小、透明度、动画时长等）。
- * 3.支持三种触点样式（颜色/图片/表情）。
 Filename: debs/com.axs.touchtrail_5.2.0-55_iphoneos-arm64.deb
 Size: 46748
 MD5sum: bf32520fe74eb799da5d48c60b7a82c2
 SHA1: 7559ff4bee57f9a7b20bee70f48ba6393a8d7710
 SHA256: ad16fefc84e10912aaf75f038f0cbc40ed2260ef5cc3d066b2e03fd291a1f8a6
 
- * 1.适配录屏、演示、教程录制等场景，可设置仅录屏时显示。
- * 2.支持多指模式，参数可调（大小、透明度、动画时长等）。
- * 3.支持三种触点样式（颜色/图片/表情）。
 Filename: debs/com.axs.touchtrail_5.2.0-56_iphoneos-arm64.deb
 Size: 46446
 MD5sum: 641f0ffea3dc27723f616f7231258b80
 SHA1: 1749ebe707e8c3762500481329047086b844c133
 SHA256: 8d382117c6479c27b1189cc8ca819b965e0d403a611bb6f589e95588af075c8d
 
-    *   1.钱途无限：支持群聊和私聊红包自动接收，可配置延迟和黑名单。
-    *   2.消息拦截：拦截并显示被撤回的消息内容，屏蔽指定群聊或联系人的消息。
-    *   3.游戏作弊：支持石头剪刀布和骰子游戏作弊。
-    *   4.步数修改：修改微信运动步数。
-    *   5.虚拟定位：修改朋友圈定位位置。
-    *   6.插件修改：自定义修改插件名称及版本。
-    *   7.其他功能：
-    *   7.1绕过越狱检测：绕过微信的越狱检测。
-    *   7.2自动登录：多设备登录自动确认。
-    *   7.3广告屏蔽：屏蔽朋友圈、小程序等广告。
-    *   7.4动态背景：开启后聊天界面呈现效果。
 Filename: debs/com.axs.wechatenhancer_1.0.0-30_iphoneos-arm64.deb
 Size: 93184
 MD5sum: 813b6f20e6004e00157923184b22faf0
 SHA1: f2bea1912fd87821c226b5d70d75d4f0d2a89df9
 SHA256: f1167a91da9b359147181edc962578a1f37cc82a61cd9975ecc876c8a1284826
 
-    *   1.钱途无限：支持群聊和私聊红包自动接收，可配置延迟和黑名单。
-    *   2.消息拦截：拦截并显示被撤回的消息内容，屏蔽指定群聊或联系人的消息。
-    *   3.游戏作弊：支持石头剪刀布和骰子游戏作弊。
-    *   4.步数修改：修改微信运动步数。
-    *   5.虚拟定位：修改朋友圈定位位置。
-    *   6.插件修改：自定义修改插件名称及版本。
-    *   7.其他功能：
-    *      7.1绕过越狱检测：绕过微信的越狱检测。
-    *      7.2自动登录：多设备登录自动确认。
-    *      7.3广告屏蔽：屏蔽朋友圈、小程序等广告。
-    *      7.4动态背景：开启后聊天界面呈现效果。
 Filename: debs/com.axs.wechatenhancer_1.0.0-45_iphoneos-arm64.deb
 Size: 96106
 MD5sum: 406f972de0d6ca327e2a0a09be790aa4
@@ -4423,38 +3526,24 @@ MD5sum: af6ebd188c95af587f8d6ddd624d909a
 SHA1: 5441db217ee2609b7c1209c0614690d73ab82a96
 SHA256: 09cd8fea7bfb9409b89b5977d871b5c33e54dd0e9facbfa00144f0a218f30821
 
- * 视频下载
- * 修改应用图标
- * 去广告、隐藏底部标签栏等功能
 Filename: debs/com.bandarhl.bhtwitters_4.4-1+debug_iphoneos-arm64.deb
 Size: 6713168
 MD5sum: ec32622e18ad056d24861950f272f494
 SHA1: 94da0f32bcb8417e999b17c5cedd663bc4231306
 SHA256: cf476de421eb58af425b15c8aace687e46fb35e6297446e2c3fa98a7b674e30c
 
- * 视频下载
- * 修改应用图标
- * 去广告、隐藏底部标签栏等功能
 Filename: debs/com.bandarhl.bhtwitters_4.4-1+debug_iphoneos-arm64e.deb
 Size: 6628936
 MD5sum: ebfb8771737c60ce9a7410ef56f336df
 SHA1: 527d9c25baf20c2eed89767dc6b576b370df39fd
 SHA256: ab773dc996771e346d82ebe57926baab0faff74bd8e81e4511ebc50d81b454c2
 
- * 视频下载
- * 修改应用图标
- * 去广告、隐藏底部标签栏等功能
- * 最后在 X 版本 12.14 进行测试
 Filename: debs/com.bandarhl.bhtwitters_6.3.0_iphoneos-arm64.deb
 Size: 4571464
 MD5sum: 5b6f5551313477f1b09c666e166a812e
 SHA1: 13578549a2080e981bfb64e65a68b23119a5e2d7
 SHA256: 9760f451f2da279edcfa7dc950e116f5d096147d5c4f1fc569d5ea50745ee965
 
- * 视频下载
- * 修改应用图标
- * 去广告、隐藏底部标签栏等功能
- * 最后在 X 版本 12.14 进行测试
 Filename: debs/com.bandarhl.bhtwitters_6.3.0_iphoneos-arm64e.deb
 Size: 4495064
 MD5sum: fa069e9b126fcb3e9a72ef65897c22ce
@@ -4707,145 +3796,78 @@ MD5sum: 46a549d88b3e6f1cf82942fa62ddf24f
 SHA1: d52eebbef26765dcd53065834d515baba20d1793
 SHA256: c69ea7527c5486d73d03e5638b55782b69ce70848c184e805a60da2d507102f0
 
- * 再次摇晃设备，将恢复原样
- * 长按桌面，图标会被吸引过去
 Filename: debs/com.chloe.physpringboards_1.9.0_iphoneos-arm64.deb
 Size: 75836
 MD5sum: 9f1bfb123f523f083478558c862ed9f0
 SHA1: 4d7f43998dce1ce3aba17ae85427f16092d08179
 SHA256: 34d359c282bbdb5f5febfe6b2b4026670a92e34e6eced91ea4022c463fc734c6
 
- * 再次摇晃设备，将恢复原样
- * 长按桌面，图标会被吸引过去
 Filename: debs/com.chloe.physpringboards_1.9.19_iphoneos-arm64.deb
 Size: 79660
 MD5sum: 2a815a16fbcac00840aecd4ed5fd7912
 SHA1: c3bbdab75ac6ba942d61c544cd0c739d06af8f04
 SHA256: ad37a56218db12ca52727ace2901c668954aa5d30e9f53a011e04bf406977639
 
- * 去除广告
- * 隐藏一些输入状态
- * 允许保存频道限制下载的文件
- * 点击左上角编辑，然后三指长按打开插件
- * 支持 Telegram、Turrit 等第三方客户端
 Filename: debs/com.choco.tgextras_0.0.1-1_iphoneos-arm64.deb
 Size: 2291484
 MD5sum: 519f308c039eba275aac5e0c590199e8
 SHA1: d657ef1897f1b7d31dc0264452a6c1b6e21c3ce7
 SHA256: 77af6db3c6f57faf94aedc375e50114e26a969e9703dfd76970465f1ed1e31c0
 
- * 去除广告
- * 虚拟定位
- * 隐藏一些输入状态
- * 允许保存频道限制下载的文件
- * 设置界面-长按倒数第三个选项“客服”打开插件
- * 支持 Telegram、Turrit 等第三方客户端
 Filename: debs/com.choco.tgextras_1.2-9+debug_iphoneos-arm64.deb
 Size: 2321608
 MD5sum: a2b6b19082955a38f7687cbcd285f72d
 SHA1: 10da6b69a0d347815da87c6650be99d9d4ca2517
 SHA256: 88c5a85d6a67181695567da65c1e0226a6cbc697f6127ec9603d64fb19f65f11
 
- * 去除广告
- * 虚拟定位
- * 隐藏一些输入状态
- * 允许保存频道限制下载的文件
- * 设置界面-长按倒数第三个选项“客服”或者空白界面三指长按打开插件
- * 支持 Telegram、Turrit 等第三方客户端
 Filename: debs/com.choco.tgextras_1.3_iphoneos-arm64.deb
 Size: 4654308
 MD5sum: fd4367c4008d13aeb1bd4d9b86252859
 SHA1: 6bc579f5def89160040650355e3644cb272a45ef
 SHA256: 4a92a0bd38309bdd099958bd629aea2c4f816c9ac0350d97e89c1710081080ad
 
- * 去除广告
- * 虚拟定位
- * 隐藏一些输入状态
- * 允许保存频道限制下载的文件
- * 设置界面-长按倒数第三个选项“客服”打开插件
- * 支持 Telegram、Turrit 等第三方客户端
 Filename: debs/com.choco.tgextras_1.7.1_iphoneos-arm64.deb
 Size: 2331160
 MD5sum: bf265e4e62b8852bdd40d2df18754de0
 SHA1: 86d727d5c11ebcda1b4c39fb7c920f370d311424
 SHA256: 4aa0ad5d2d20f0863098eaa0d04a32da968cb1977dec9e528ce711806428be0d
 
- * 去除广告
- * 虚拟定位
- * 隐藏一些输入状态
- * 允许保存频道限制下载的文件
- * 设置界面-长按倒数第三个选项“客服”打开插件
- * 支持 Telegram、Turrit 等第三方客户端
 Filename: debs/com.choco.tgextras_1.7.1_iphoneos-arm64e.deb
 Size: 2330908
 MD5sum: 65e132d1d9668439ff4af68d091529cc
 SHA1: 8ee98e763883df974dcf9b637b43566287d3deb0
 SHA256: edeee078db3487f9e362b92a42d38527048907bce60558d9a847d3db2f76422e
 
- * 最后在 Telegram 12.6.3 进行测试
- * 去除广告
- * 虚拟定位
- * 隐藏一些输入状态
- * 允许保存频道限制下载的文件
- * 设置界面-长按倒数第三个选项“客服”打开插件
- * 支持 Telegram、Turrit 等第三方客户端，具体自测
 Filename: debs/com.choco.tgextras_1.7.5_iphoneos-arm64.deb
 Size: 615920
 MD5sum: b3fd238a6257c5a567f26cb1c9bab2b9
 SHA1: 9fa4144cd2a86778a805f8a6716c11e66ad78d40
 SHA256: 902adeb0060b287817818814e785f0ef78e78c89b66895079d67a3c71d13263f
 
- * 最后在 Telegram 12.6.3 进行测试
- * 去除广告
- * 虚拟定位
- * 隐藏一些输入状态
- * 允许保存频道限制下载的文件
- * 设置界面-长按倒数第三个选项“客服”打开插件
- * 支持 Telegram、Turrit 等第三方客户端，具体自测
 Filename: debs/com.choco.tgextras_1.7.5_iphoneos-arm64e.deb
 Size: 613304
 MD5sum: 2d5c04e8533ee4db86819fb3870041e8
 SHA1: 17355c293c36ef661344dfb4b1dc47dbfd2cde34
 SHA256: f26dcc304cfe6bf0a428c0ca56236386c6ded3047ad43ac64079de5aa0a7452f
 
- * 最后在 Telegram 12.9.3 进行测试
- * 去除广告
- * 虚拟定位
- * 隐藏一些输入状态
- * 允许保存频道限制下载的文件
- * 设置界面-长按倒数第三个选项“客服”或者三指长按打开插件
- * 支持 Telegram、Turrit 等第三方客户端，具体自测
 Filename: debs/com.choco.tgextras_1.7.8_iphoneos-arm64.deb
 Size: 833372
 MD5sum: d6db58658e3f2ffe297af626952c763a
 SHA1: b05e87e78d79fdad894e7d9f1f1506c729368c59
 SHA256: 59926479fa53c10d357da3d5bb2196d6be6309b26b407268fb1612b558803fc6
 
- * 最后在 Telegram 12.9.3 进行测试
- * 去除广告
- * 虚拟定位
- * 隐藏一些输入状态
- * 允许保存频道限制下载的文件
- * 设置界面-长按倒数第三个选项“客服”或者三指长按打开插件
- * 支持 Telegram、Turrit 等第三方客户端，具体自测
 Filename: debs/com.choco.tgextras_1.7.8_iphoneos-arm64e.deb
 Size: 831464
 MD5sum: 272429ed92290ac99f91b649d565dc09
 SHA1: aa8724011f8fcd149aee7bd756fa3dbbb71e85fe
 SHA256: d093ceb50e7f7bde31ac12416de1d7ca31116703f9713a70a9545e4c15ffd6dc
 
- * 到应用最顶层就会返回桌面
- * 新增学习返回模式，视觉返回保留
- * 感兴趣可以加 QQ群 205928931 
 Filename: debs/com.colorblack.bottomxs_0.2.71_iphoneos-arm64.deb
 Size: 729260
 MD5sum: d070cf546e6f534f4fab4bbfef872f17
 SHA1: f64ca46061069c5f2ab381336a21a833a3cd2d37
 SHA256: c79f3c2768871a1e8dbaf087b4b085c1bee305c3b8add0631e824684553452e9
 
- * 到应用最顶层就会返回桌面
- * 新增学习返回模式，视觉返回保留
- * 感兴趣可以加 QQ群 205928931 
 Filename: debs/com.colorblack.bottomxs_0.2.71_iphoneos-arm64e.deb
 Size: 731040
 MD5sum: d8a09ac35ac273475a6157166b62cb47
@@ -4882,7 +3904,6 @@ MD5sum: 1b3ac5bb89a63dda852cbf41b95412d9
 SHA1: 0426188ae3664d53d8c4609054a02cdd81e53fc5
 SHA256: 01d62c3a1e3776650ea166dbc99970ee16ddac99fa1153e7b66ffa74cd7e8728
 
- * A sleek reimagination of Control Center
 Filename: debs/com.cureux.cc26s_0.4.9.9b_iphoneos-arm64.deb
 Size: 23604
 MD5sum: b8bca6e7ef4080b49762f8ab09e67924
@@ -4925,40 +3946,30 @@ MD5sum: af1ceacb80935b63ed6e188f64f6899d
 SHA1: 532e1a233fa16d0f22365c3a30823ba27c8aa527
 SHA256: e98a9e25d885742fb17c6b00bea26f18e03d5345db904ffc1b028d005559ea10
 
- * 群管理 Pro、标签 Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 API(图、文本、视频)、消息统计、加密对话、Bark 消息推送、定时问候、JD 自动签到、好友分析、会话分析、每天 60s 新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、ID 加好友、匿名艾特等
- * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
 Filename: debs/com.curtin.pkc.rootlesss_0.8-4_iphoneos-arm64.deb
 Size: 955944
 MD5sum: 64845414aa6586c0e91fcb9245aa6c2b
 SHA1: 898b8eb46cdd98f77583f36fb75c9b28d07b0d39
 SHA256: c3fe576d399d8e17fa51005f1c035f4a43118f841f03623962e2d1776553bcb2
 
- * 群管理 Pro、标签 Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 API(图、文本、视频)、消息统计、加密对话、Bark 消息推送、定时问候、JD 自动签到、好友分析、会话分析、每天 60s 新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、ID 加好友、匿名艾特等
- * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
 Filename: debs/com.curtin.pkc.rootlesss_0.8-4_iphoneos-arm64e.deb
 Size: 938644
 MD5sum: 955b19224d73146f10d65ca0c8fa93fa
 SHA1: 8e2a788f9ef8cc4b58664b12e583c74333e773f1
 SHA256: 350e99c0caa80df4d9fe49dd104302cb7bc26236b492b2d15e64970ec5cc7e1b
 
- * 群管理 Pro、标签 Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 API(图、文本、视频)、消息统计、加密对话、Bark 消息推送、定时问候、JD 自动签到、好友分析、会话分析、每天 60s 新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、ID 加好友、匿名艾特等
- * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
 Filename: debs/com.curtin.pkc.rootlesss_0.8-7_iphoneos-arm64.deb
 Size: 974980
 MD5sum: 7ec40d8f7d45fb9401c7564b6b8beed7
 SHA1: 72d1651577f2e90aea0099535a6045fa41953d57
 SHA256: de676dee370699769e2a050d28a770a758e7ec0ad540c219b68ef409eb513604
 
- * 群管理 Pro、标签 Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 API(图、文本、视频)、消息统计、加密对话、Bark 消息推送、定时问候、JD 自动签到、好友分析、会话分析、每天 60s 新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、ID 加好友、匿名艾特等
- * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
 Filename: debs/com.curtin.pkc.rootlesss_0.9-5_iphoneos-arm64.deb
 Size: 1269996
 MD5sum: 357b6411a340839b07c51f70d1b35ecf
 SHA1: c1a977d139b3ec3b8dce0cd9ef502d3cb34f4330
 SHA256: 7498f1c1c0ed79f0412b37c8f37259f6fdcc4670a8c88ca91e3d62cc9fc39bd4
 
- * 群管理 Pro、标签 Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 API(图、文本、视频)、消息统计、加密对话、Bark 消息推送、定时问候、JD 自动签到、好友分析、会话分析、每天 60s 新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、ID 加好友、匿名艾特等
- * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
 Filename: debs/com.curtin.pkc.rootlesss_0.9-5_iphoneos-arm64e.deb
 Size: 1247316
 MD5sum: ff0b0978c765598854a6925be2039b73
@@ -5085,15 +4096,12 @@ MD5sum: ead83fa0b89b6a77bede5e5af918b63a
 SHA1: 5be16668961c875f9ffd20c735317ba85659ddb0
 SHA256: bb9f2bf6626e9a793906ee2e008afde84c3f75ef9e0eb504cc422ece45ec6309
 
- * Adds Touch ID authentication to apps, just like the security features in iOS 18
 Filename: debs/com.den.locktouchxs_1.3_iphoneos-arm64.deb
 Size: 22084
 MD5sum: b3d774df9a8d07c42630ad12c36bbe92
 SHA1: fb52808c721f139302c02e89a8fe8fafcc09014f
 SHA256: 5c26279295c80ed92c4e90352662d6f09b195bb6ad93138c7a09eef43874b602
 
- * 插件位于底栏菜单右侧
- * Make Twitter Better
 Filename: debs/com.den.twigalaxys_1.9_iphoneos-arm64.deb
 Size: 142096
 MD5sum: fa834b89bffb43e7856182ad02db1e03
@@ -5166,222 +4174,168 @@ MD5sum: 13d0022af773520d2270022b48e9b818
 SHA1: 70f4dbcded304aba120e1cb1158583b0d2c0207c
 SHA256: b49737e7e4d9975052500727511945e87c9cd2e4e33f56f2dbc027d2ef0cbf21
 
- * 1:1 复刻“微信净化”插件，保留红包功能
- * 注意：不可与“微信净化”共存
 Filename: debs/com.dumpapp.wechat-rootlesss_2.3.0_iphoneos-arm64.deb
 Size: 5629608
 MD5sum: 5c82b051fef6d5878f4d1b264d4947e0
 SHA1: ef0827d2d74e4b7a7d9968a824dd88cf1e36253d
 SHA256: c64864137dc27673f0f6123a361ece406373dffa6635a861319abb03bc0a5213
 
- * 1:1 复刻“微信净化”插件，保留红包功能
- * 注意：不可与“微信净化”共存
 Filename: debs/com.dumpapp.wechat-rootlesss_2.3.0_iphoneos-arm64e.deb
 Size: 5627184
 MD5sum: 11ddb6f842de2e711c8abae206c8c922
 SHA1: ce11978484156d5d4403f43199241c19076f08f5
 SHA256: 3165b03f62e6a791df64e56614d2aecdeb47ec6d2d955fcb8822a2576a136caa
 
- * 1:1 复刻“微信净化”插件，保留红包功能
- * 注意：不可与“微信净化”共存
 Filename: debs/com.dumpapp.wechat-rootlesss_2.4.1_iphoneos-arm64.deb
 Size: 5622256
 MD5sum: f85d77968ee1ce203d3d2ad137dd4392
 SHA1: eb223ed420f8161cbd9c318eb4bdf6121a74e850
 SHA256: 3ad6ff67a8116b83281e3768fce7eb213001ac180369c13c0103b3eae569b3cd
 
- * 1:1 复刻“微信净化”插件，保留红包功能
- * 注意：不可与“微信净化”共存
 Filename: debs/com.dumpapp.wechat-rootlesss_2.4.1_iphoneos-arm64e.deb
 Size: 5623976
 MD5sum: 76826fced52c83f02e4da3a2b0c24ced
 SHA1: ad0d01f2a09b5b8c9d2d6f88eff808fe5f1e1929
 SHA256: 708fd02f586a8af54e32a037aa95fc12b4e9cafa1236ef0ba3b1cf631f2550da
 
- * 1:1 复刻“微信净化”插件，保留红包功能
- * 注意：不可与“微信净化”共存
 Filename: debs/com.dumpapp.wechat-rootlesss_2.6.2_iphoneos-arm64.deb
 Size: 7908184
 MD5sum: 671e00da118ffde38e02a5af5544d84b
 SHA1: edb9209d75f156e35c851e65a3622fb20cb7e24a
 SHA256: 07759ec90fcc18c19e1109a4d3e10bd18916fc55dd158e590eab852abc6caa70
 
- * 1:1 复刻“微信净化”插件，保留红包功能
- * 注意：不可与“微信净化”共存
 Filename: debs/com.dumpapp.wechat-rootlesss_2.6.2_iphoneos-arm64e.deb
 Size: 5795244
 MD5sum: 77700312c333edcb91aeb0903337dd0c
 SHA1: 3307564c92540c6e06027714019e1dc624f7290d
 SHA256: 134cd9c7f23ba8e2cb89eab09ff3d7cd6b320096e067ab9ec981e16a7b7bf100
 
- * 1:1 复刻“微信净化”插件，保留红包功能
- * 注意：不可与“微信净化”共存
 Filename: debs/com.dumpapp.wechat-rootlesss_2.6.6_iphoneos-arm64.deb
 Size: 8010176
 MD5sum: 9d3a11e8d3032702a4785ec9444abf7f
 SHA1: b934058586f4725331a68ee6288ede0006773899
 SHA256: f48acb28ffe3554ca262147e9eb936f82fa1488281ecf400eced88497f9e432a
 
- * 1:1 复刻“微信净化”插件，保留红包功能
- * 注意：不可与“微信净化”共存
 Filename: debs/com.dumpapp.wechat-rootlesss_2.6.6_iphoneos-arm64e.deb
 Size: 5861696
 MD5sum: 11e80ddb0e74f8b8271d726844144b2e
 SHA1: aae27c391e43dcc028ec747e9a251826c88a15ce
 SHA256: 7dad6bfc3ef15fae7cd485219275200e342ead87044ba06aa0543cc79042fc0c
 
- * Round CC modules replication, like in iOS 18
 Filename: debs/com.dvntm.cc18s_0.0.3_iphoneos-arm64.deb
 Size: 4616
 MD5sum: f03e932e4d48971aad7708fe45877972
 SHA1: 5eae2fe19d7d85a1baae7d1d91d71d0d047c3277
 SHA256: 739a995fed1bee2f48b441e0b57d753cfa1df40d783fa515d11e0901b78b1758
 
- * Round CC modules replication, like in iOS 18
 Filename: debs/com.dvntm.cc18s_0.0.3_iphoneos-arm64e.deb
 Size: 4544
 MD5sum: f5eb712d42af75d0ee363b5fb90a7cc5
 SHA1: 1dfe77f440225dae8b7fb847d23a560dd3774f5c
 SHA256: 9f25cf9709e9410aa564b11a8c4f4f89e8aef3e1aaf4cc718c54e13e4460a1dc
 
- * Displays only the Browse tab and hides the tab bar
 Filename: debs/com.dvntm.fbos_0.0.1_iphoneos-arm64.deb
 Size: 3408
 MD5sum: c883301159580037a769b08c3519cdda
 SHA1: def38104bd4757847d7cf8acab0c95faf6ed53b2
 SHA256: 5aa011557b9fc9c1d0b2aae90229a99f24bf94ad8507553c3383bc133edb22da
 
- * 长按底部任意选项打开插件
- * 去广告、视频下载等
 Filename: debs/com.dvntm.glows_1.3.1_iphoneos-arm64.deb
 Size: 6900504
 MD5sum: 61f9cedbee5c951ce47b433e75ddf47d
 SHA1: 18f0add00b00138dd1543be33cda1ae760970d77
 SHA256: ecc6ac656120411a22460f00a4b59391036c0b462bc32e5dc65ab77d53a43d29
 
- * 长按底部任意选项打开插件
- * 去广告、视频下载等
 Filename: debs/com.dvntm.glows_1.3.1_iphoneos-arm64e.deb
 Size: 6900188
 MD5sum: a8b17bb53986e5688bebf311e3fe041e
 SHA1: 5341f8de95217a2eb32626765479fa75a43f1151
 SHA256: 5ae049914b8b7769d0f7a2311afae090664492e3b29d407df224e7f5ebb5a843
 
- * 长按底部任意选项打开插件
- * 去广告、视频下载等
 Filename: debs/com.dvntm.glows_1.3_iphoneos-arm64.deb
 Size: 6900468
 MD5sum: eb5e6c890edb9061d7892b32d0b3227d
 SHA1: 78bfb87e5084b45baa004d5b996e655efd322a51
 SHA256: 8d998f69da8b8c790bc12bfed7d7cff1b2737070b4aa09db090392ac9d769cea
 
- * 长按底部任意选项打开插件
- * 去广告、视频下载等
 Filename: debs/com.dvntm.glows_1.3_iphoneos-arm64e.deb
 Size: 6902224
 MD5sum: e4cfa21759116eec68cd7b24f2e9f70f
 SHA1: 2035fdef7f28a7c93bf1f756a4f23bbe959d0a88
 SHA256: bc3060e08f436045fedcc930f3e62c1babc6978fa38a8aab85ffd07a4f5a502b
 
- * Enhancer for Infuse app
- * 后台播放
- * 双击播放/暂停手势
- * 向前/向后搜索按钮的自定义搜索时间
- * 自定义双击可跳过时间
 Filename: debs/com.dvntm.infusepluss_2.4.1_iphoneos-arm64.deb
 Size: 446504
 MD5sum: 08eed6bc259130d0a5b982c8ee2d5bc2
 SHA1: ff399e29c6b9764aa2cf3da91f3b03d14d37cb33
 SHA256: 03402fd96f15d091767b931b1d531f863dca6999df30690ccb1a807fbc3845f1
 
- * Enhancer for Infuse app
- * 后台播放
- * 双击播放/暂停手势
- * 向前/向后搜索按钮的自定义搜索时间
- * 自定义双击可跳过时间
 Filename: debs/com.dvntm.infusepluss_2.4.1_iphoneos-arm64e.deb
 Size: 446444
 MD5sum: 2614a41333facc794f7175c8b08eb14f
 SHA1: bf57146351601757e7643f6726cf1c9c5cec1e60
 SHA256: 5c961858097353a5940c362dd237dec43ab99eb38a7d11f1fb7a108e5a0f68e4
 
- * Disables swipe to open cam on the lock screen
 Filename: debs/com.dvntm.lsnoswipes_0.0.1_iphoneos-arm64.deb
 Size: 4168
 MD5sum: 3bd70d348de8a85d8cbc49d3119cb063
 SHA1: 282e463697abe2480e2c8cc26b5f8cf474945539
 SHA256: f07c3715cbcd167ed667a3347cddd1d1b866a007c6860da9a9a467ddb4148791
 
- * OLED Dark Mode for iOS System Keyboard
 Filename: debs/com.dvntm.oledkeyboards_0.0.1_iphoneos-arm64.deb
 Size: 4444
 MD5sum: 37dc2c12f8459d6e40ec39a9f7d3bed0
 SHA1: 19d76801c88d6ff9d075097fa23cea1897cdadb5
 SHA256: d151289d888497069fea1bcd85a8310d2ee41b812d2a9773e2222fc61c81cc26
 
- * OLED Dark Mode for iOS System Keyboard
 Filename: debs/com.dvntm.oledkeyboards_0.0.1_iphoneos-arm64e.deb
 Size: 4376
 MD5sum: 8d065a48da193a03e96ddde538091247
 SHA1: 0136a70527993039b78644eae2471b0924b37246
 SHA256: e8c316d38f37dc913965a3a232263c33949443f8dad7e1b71e8a4dd542815090
 
- * OLED Dark Mode for iOS System Keyboard
 Filename: debs/com.dvntm.oledkeyboards_0.0.3_iphoneos-arm64.deb
 Size: 4828
 MD5sum: 90dc2255e8df19be9cfb84df2fdd5b33
 SHA1: 4ecb07d44a4cc95b95dca30eb37d232794213d0e
 SHA256: c3cd02e41c4e726cd0b3314146e540b5f3671e73a60e813d52bd2e6dace5f342
 
- * OLED Dark Mode for iOS System Keyboard
 Filename: debs/com.dvntm.oledkeyboards_0.0.3_iphoneos-arm64e.deb
 Size: 4764
 MD5sum: f9dddbd2adf7d106d813540a653a09eb
 SHA1: bcbee940c350f2ca14112fdfd5059acf534f7c4f
 SHA256: 20d112c0cc626752c828b8eb21a0b5933b20c33a1c0b15b6b28c545f00a9868f
 
- * 隐藏 Safari 菜单扩展图标
- * Hides Extensions icon from Adress bar
 Filename: debs/com.dvntm.safariiis_0.0.1_iphoneos-arm64.deb
 Size: 3104
 MD5sum: 544413fe1d82e99744e21b05dfa6e92c
 SHA1: 5e7adad20af888c5cdd02aef4555f25d5c795076
 SHA256: b54b01d1597d3b7c7ae5b2c7fd78adfad793aa845710ff66593048b437253f6c
 
- * 隐藏 Safari 菜单扩展图标
- * Hides Extensions icon from Adress bar
 Filename: debs/com.dvntm.safariiis_0.0.1_iphoneos-arm64e.deb
 Size: 3028
 MD5sum: 7832a5a9e9a73eaa4879c44e17126938
 SHA1: 9720e81a3a6f88541b396baf63ccf7b96f905f24
 SHA256: c575d18af1eaddb23494fe1545d91db8c42c289789cf2b02d8dcd0e3daa2fb3c
 
- * Keep notifications silent while media is playing.
- * Tested on iOS 14.8 and iOS 16.4.1, no options to configure
 Filename: debs/com.dvntm.silentnotifss_0.0.1_iphoneos-arm64.deb
 Size: 3744
 MD5sum: d896170c4613c1129b496389a96a86cf
 SHA1: 279a52836c77149ec937a12456294200b456d6cb
 SHA256: 483be310bfc27ad4b85b9d9258d75c70e8b47eab4d47ee8a90056ad4a27edc28
 
- * Keep notifications silent while media is playing.
- * Tested on iOS 14.8 and iOS 16.4.1, no options to configure
 Filename: debs/com.dvntm.silentnotifss_0.0.1_iphoneos-arm64e.deb
 Size: 3680
 MD5sum: cc6690d93e98be4e2cd802814518733a
 SHA1: 00da7a29f727daff4b9ebefd787d011c00f831cb
 SHA256: 4943a6e86879d52e65e804e3e5a7aa034ff3f2122be8d08d49ad0b67dc1fc1dd
 
- * Keep notifications silent while media is playing.
- * Tested on iOS 14.8 and iOS 16.4.1, no options to configure
 Filename: debs/com.dvntm.silentnotifss_0.0.2_iphoneos-arm64.deb
 Size: 3924
 MD5sum: 7e0fcde515ac20d948366f919e6d791e
 SHA1: cf85b11e072a622b88802a95d134bd812ac69035
 SHA256: 8d105e11f0d86ec944fac8f6fea2e779446965d82dc5f8034b1e195a6872f166
 
- * Keep notifications silent while media is playing.
- * Tested on iOS 14.8 and iOS 16.4.1, no options to configure
 Filename: debs/com.dvntm.silentnotifss_0.0.2_iphoneos-arm64e.deb
 Size: 3864
 MD5sum: e1f0479ad1124bbe217e1a57a57cd26b
@@ -5406,14 +4360,12 @@ MD5sum: feca65bef18749b058d00999ee60539f
 SHA1: 5780a44ee7120bcc981d79e1aab4fdefc823bc02
 SHA256: c5f7b1e6e0e5d73363b2e715c0fab48951816a14659ffc2a3a748e2ed5709819
 
- * Lightweight YouTube Enhancer
 Filename: debs/com.dvntm.ytlites_5.2b4_iphoneos-arm64.deb
 Size: 6416452
 MD5sum: d7f3a3c87c708904983c3cf46f83862f
 SHA1: faee6752bedbc12978404da5e594cd39085c04c0
 SHA256: e8d02767d2c53f479bad5e08b3e38582bd4790a6a5e621241ef150c344da73a8
 
- * Lightweight YouTube Enhancer
 Filename: debs/com.dvntm.ytlites_5.2b4_iphoneos-arm64e.deb
 Size: 6414516
 MD5sum: ffcd4e84cc88059cf09c586a9d76212b
@@ -5438,24 +4390,18 @@ MD5sum: 141c5e49ee1f80e97c7c3c2c58d9bb8d
 SHA1: 0677842abe8f7ca5b66256df93d0c5021d26c1a5
 SHA256: 4a38ded7440b698219e039f4b563e5f55110d56d0da7dd18064119bc015c454f
 
- * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样
- * A tweak to get Spotify Premium for free, just like Spotilife
 Filename: debs/com.eevee.spotifys_6.1.4_iphoneos-arm64.deb
 Size: 439160
 MD5sum: 1fa8ff434868dd6fc036a95ba287ad84
 SHA1: 0faf8403dba91ab8fa4713e25dd40d2acc435136
 SHA256: a1c7f896dc41ac032fd5aee14da7e1daf038504b3699ba93b0b445e15f8870cd
 
- * 一个获取免费 Spotify Premium 的插件
- * A tweak to get Spotify Premium for free, just like Spotilife
 Filename: debs/com.eevee.spotifys_6.6.8_iphoneos-arm64.deb
 Size: 1999284
 MD5sum: caad90bd36a9a34f825b3972c3983028
 SHA1: b1ea2d4997af7e728f10a96d43497c951fb4f6f4
 SHA256: 5fab1ca05a9882e3746e1fb7c1ddfb9aec7479576dfe265c418f18380335eb40
 
- * 一个获取免费 Spotify Premium 的插件
- * A tweak to get Spotify Premium for free, just like Spotilife
 Filename: debs/com.eevee.spotifys_6.6.8_iphoneos-arm64e.deb
 Size: 2072176
 MD5sum: ac97d70f0d6310abb9b28f5c3824bbad
@@ -5480,8 +4426,6 @@ MD5sum: 2152aa3075aa8da63b2916856eed43b6
 SHA1: f4f336406c354aedf5ae947134901e52f9b8e9be
 SHA256: 745264c2e1c4fc9c00cca37bd75f921199d88bd198519625bd82254c5b1cecc5
 
- * 垃圾清理工具，启动项管理等
- * The first real iOS system cleanup and management utility
 Filename: debs/com.exile90.icleanerpros_7.10.0_iphoneos-arm64.deb
 Size: 977640
 MD5sum: af1013a03f20c26c3047a4ef80ada523
@@ -5500,7 +4444,6 @@ MD5sum: 4a57fdd4cdd28e8c9a93918d3f9ab717
 SHA1: d5d0baeb4395866e89360d7ace3a8a45ef162cd7
 SHA256: 1427ca81a10141cd73b3a101a1b04bdadf7303c195106a611f610da711faafe4
 
- * iOS 17 true-background Control Center toggle for RootHide.
 Filename: debs/com.gdzhujun.backgrounderaction17s_0.1.1_iphoneos-arm64e.deb
 Size: 10604
 MD5sum: b2f941187d224bcafe4d317ba1eca15b
@@ -5615,16 +4558,12 @@ MD5sum: 95b180af6bed73e66fb2f0f2bb8a6712
 SHA1: a540a9770918dceb515da8057c5fe1df66f29292
 SHA256: a359cf81b25cc0d36bb77260662a3304c9c2dcd4a24348fb74af87efd7e63e8d
 
- * 支持中文，需要在插件设置内手动云端翻译
- * GTok for TikTok by t.me/g_tweaks
 Filename: debs/com.gtoks_1.7-1_iphoneos-arm64.deb
 Size: 904494
 MD5sum: b66edfd28e11e2349f8340e032f942c7
 SHA1: a2f3b1832f1c1dd6eeba96d90bc01ec76e5f966f
 SHA256: 7954962f3103b4b7456b48a78172aefdab487c0aa809b799fb8bc6394edd93fa
 
- * 支持中文，需要在插件设置内手动云端翻译
- * GTok for TikTok by t.me/g_tweaks
 Filename: debs/com.gtoks_1.7_iphoneos-arm64.deb
 Size: 904526
 MD5sum: 11cd8d2d69bb07d23042bd497a943963
@@ -5637,7 +4576,6 @@ MD5sum: 3ef0db9c0d28bb4a7a5403410ee50acf
 SHA1: 8a1c749d55ec3af3ed9299dcb508f8f2743472c3
 SHA256: a8726eabfd1a5428059fd5b28b6ac454a1700c129e1f1398c07d15c862ff4670
 
- 不生效就把手势内总开关跟小开关重新开启一下，有问题请卸载。
 Filename: debs/com.hang.squidgesturepro-ios17fix_2.3_iphoneos-arm64e.deb
 Size: 14942
 MD5sum: 3c941e0431c92d96b9efee635715cc84
@@ -5656,104 +4594,48 @@ MD5sum: d73dffa781061c0aead156e1e73ab866
 SHA1: 69a4b561469b0ad95bd0f9f3251c703db2c08ae6
 SHA256: ce435dfa8fe4ac7decea20bb0051cdf7ba1d630da6fa8617d531dcda002f165f
 
- * 一个微信插件文本转语音
- * 点歌朋友圈一键点赞等诸多功能
- * 发送网络语录舔狗日记骂人等文案
- * 4K 原图手绘壁纸等
- * 抢私聊红包
- * 自定义信息尾巴
- * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Filename: debs/com.hbwechathelper.ailuns_2.0-1_iphoneos-arm64.deb
 Size: 12785328
 MD5sum: eb11590976ae620da680cad55e1b66b0
 SHA1: 3e5835494a26991c64cb39ec7d0c6f52533463ff
 SHA256: 013b939412262614789cdafc50fbfc161ea916563620c20defea55698feaa3a1
 
- * 一个微信插件文本转语音
- * 点歌朋友圈一键点赞等诸多功能
- * 发送网络语录舔狗日记骂人等文案
- * 4K 原图手绘壁纸等
- * 抢私聊红包
- * 自定义信息尾巴
- * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Filename: debs/com.hbwechathelper.ailuns_2.0-1_iphoneos-arm64e.deb
 Size: 12780360
 MD5sum: b9164acb01b6005c8aca1764db785645
 SHA1: a6755c75dc753947b40928a5371505b708ae5774
 SHA256: 77fde60e69707fcc9662a177c52b5cc2fc2271f9c43fbbe1b7d13e235f1d4dd8
 
- * 一个微信插件文本转语音
- * 点歌朋友圈一键点赞等诸多功能
- * 发送网络语录舔狗日记骂人等文案
- * 4K 原图手绘壁纸等
- * 抢私聊红包
- * 自定义信息尾巴
- * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Filename: debs/com.hbwechathelper.ailuns_2.0-8_iphoneos-arm64.deb
 Size: 13973292
 MD5sum: 3bfb34f834d0eefa13205d84efcd652c
 SHA1: 81809094d3d82fd82e9b9bfa3a5535601e190797
 SHA256: 94e6c74caab923298c9bf4387bc02edcaa6380b264ca40003f644f55df76b5a6
 
- * 一个微信插件文本转语音
- * 点歌朋友圈一键点赞等诸多功能
- * 发送网络语录舔狗日记骂人等文案
- * 4K 原图手绘壁纸等
- * 抢私聊红包
- * 自定义信息尾巴
- * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Filename: debs/com.hbwechathelper.ailuns_2.0-8_iphoneos-arm64e.deb
 Size: 13969044
 MD5sum: 0b50afef9cbf298d481ad9c2147a097f
 SHA1: 50ad2cb5a003a0a2566db1fbd2f0fecb8f34dc8b
 SHA256: a4c0e1da87c3318a66e26967865b6a1a95594c8d671356f62baa4266443fa72a
 
- * 一个微信插件文本转语音
- * 点歌朋友圈一键点赞等诸多功能
- * 发送网络语录舔狗日记骂人等文案
- * 4K 原图手绘壁纸等
- * 抢私聊红包
- * 自定义信息尾巴
- * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Filename: debs/com.hbwechathelper.ailuns_2.0-9f_iphoneos-arm64.deb
 Size: 13905268
 MD5sum: f47d7772f599857aa66432934f7dfdac
 SHA1: 746b30c0e10ce0b15f5e128dea32c5e46df8e81f
 SHA256: a2a57e503bbdfe89d4272851df21b063e5cb83e0e46a549217b88513dddee293
 
- * 一个微信插件文本转语音
- * 点歌朋友圈一键点赞等诸多功能
- * 发送网络语录舔狗日记骂人等文案
- * 4K 原图手绘壁纸等
- * 抢私聊红包
- * 自定义信息尾巴
- * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Filename: debs/com.hbwechathelper.ailuns_2.0-9f_iphoneos-arm64e.deb
 Size: 13902268
 MD5sum: d13b262ac42bfe04acb0cb4905f64be1
 SHA1: 67d7cbce6cbc1489dd17e847cafbd852ce9d02e2
 SHA256: e4733bfe687e78a87208feeb07cd1864487899bbd9630b963ab2d18956a603a1
 
- * 一个微信插件文本转语音
- * 点歌朋友圈一键点赞等诸多功能
- * 发送网络语录舔狗日记骂人等文案
- * 4K 原图手绘壁纸等
- * 抢私聊红包
- * 自定义信息尾巴
- * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Filename: debs/com.hbwechathelper.ailuns_2.1-5_iphoneos-arm64.deb
 Size: 6879404
 MD5sum: 8282a672b623bf146184a3bf5b3702a3
 SHA1: 94817c0e645127fb7166ae7d0d3118cb68d64a91
 SHA256: e62dd686e6f329f19db55c62a913e8e2af77a32bc4011fcd119a54384d7be5b4
 
- * 一个微信插件文本转语音
- * 点歌朋友圈一键点赞等诸多功能
- * 发送网络语录舔狗日记骂人等文案
- * 4K 原图手绘壁纸等
- * 抢私聊红包
- * 自定义信息尾巴
- * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Filename: debs/com.hbwechathelper.ailuns_2.1-5_iphoneos-arm64e.deb
 Size: 6877696
 MD5sum: 1ae7429dc2ff453c59a15c8c36639779
@@ -5778,80 +4660,48 @@ MD5sum: ebf8b1d77e493419fd7815e2e4f68086
 SHA1: a0521f6e48d48b1d4634b3b68dff6f53ce28d864
 SHA256: 8327989b9cc5bbc7fb5aa2928ea4a667f7180d34b83953d5c657a9ab18aad01a
 
- * 支持 iOS 16.0 及以上版本
- * 支持 Rootless 和 RootHide
- * 可在 App 内导入 ZIP、TTF、TTC 和 OTF 字体，创建并切换多套字体方案，将字体安全应用到整个系统，也可以随时恢复系统默认字体
- * MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。两种环境需要安装各自对应的软件包，请勿混装
 Filename: debs/com.hmmzzz.fontmanagers_0.3.0_iphoneos-arm64.deb
 Size: 434460
 MD5sum: 6fbaf18c12f7b7552c72f6ce825f6605
 SHA1: b9218348a708c4ef8fd6873e9eebcdd906dcdcc2
 SHA256: fcfc0cf40a99e9493acc699b2fb5f00cd802a3caf7e4bae6fd601f8f01533014
 
- * 支持 iOS 16.0 及以上版本
- * 支持 Rootless 和 RootHide
- * 可在 App 内导入 ZIP、TTF、TTC 和 OTF 字体，创建并切换多套字体方案，将字体安全应用到整个系统，也可以随时恢复系统默认字体
- * MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。两种环境需要安装各自对应的软件包，请勿混装
 Filename: debs/com.hmmzzz.fontmanagers_0.3.0_iphoneos-arm64e.deb
 Size: 433892
 MD5sum: f07973150bae684d3e28ef35418cd39d
 SHA1: d1155f1561742af3aafbb59ddde786219a4bc754
 SHA256: 89a002eaa2f95a4e2b67d391ef4a9d935a71bdebcf4ea308b79f630109eb403c
 
- * 支持 iOS 16.0 及以上版本
- * 支持 Rootless 和 RootHide
- * 可在 App 内导入 ZIP、TTF、TTC 和 OTF 字体，创建并切换多套字体方案，将字体安全应用到整个系统，也可以随时恢复系统默认字体
- * MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。两种环境需要安装各自对应的软件包，请勿混装
 Filename: debs/com.hmmzzz.fontmanagers_0.3.1_iphoneos-arm64.deb
 Size: 435592
 MD5sum: c3466f2afd594ded9d3b2fe6c9c50206
 SHA1: 6de5a62ff6630a2570c5f531e362e6a16d67267a
 SHA256: 4dad6c1a00ae2ab4fe1b5ea83d49a795d319c388e4f8e8db283ebd6943b5c260
 
- * 支持 iOS 16.0 及以上版本
- * 支持 Rootless 和 RootHide
- * 可在 App 内导入 ZIP、TTF、TTC 和 OTF 字体，创建并切换多套字体方案，将字体安全应用到整个系统，也可以随时恢复系统默认字体
- * MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。两种环境需要安装各自对应的软件包，请勿混装
 Filename: debs/com.hmmzzz.fontmanagers_0.3.1_iphoneos-arm64e.deb
 Size: 435680
 MD5sum: 1e1f43a85878f05d98630cc4122a3ba2
 SHA1: c1bdc736bb6bef7136727ba0db24a1e50b62e30d
 SHA256: bde1a0bddda2698c7d37af8c35532469ccf794021bfb83bb87a65ab95ed2df96
 
- * 支持 iOS 16.0 及以上版本
- * 支持 Rootless 和 RootHide
- * 可在 App 内导入 ZIP、TTF、TTC 和 OTF 字体，创建并切换多套字体方案，将字体安全应用到整个系统，也可以随时恢复系统默认字体
- * MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。两种环境需要安装各自对应的软件包，请勿混装
 Filename: debs/com.hmmzzz.fontmanagers_0.3.3_iphoneos-arm64.deb
 Size: 463680
 MD5sum: 4a456f8f0a2d9df371b9ac5b1746ecdb
 SHA1: a943cdf4ba59af00aaa051fe0b0da40cbab57b52
 SHA256: 299eee3eb9977dbb5f800fd9a4b999b878812dd1dbb50408e904815162fdd0c0
 
- * 支持 iOS 16.0 及以上版本
- * 支持 Rootless 和 RootHide
- * 可在 App 内导入 ZIP、TTF、TTC 和 OTF 字体，创建并切换多套字体方案，将字体安全应用到整个系统，也可以随时恢复系统默认字体
- * MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。两种环境需要安装各自对应的软件包，请勿混装
 Filename: debs/com.hmmzzz.fontmanagers_0.3.3_iphoneos-arm64e.deb
 Size: 454076
 MD5sum: 0c9b33a995e902ac495b1e4d8ea7e35f
 SHA1: b5016fdf0a0762982dd23d5f1762971de5f144d8
 SHA256: 2ff535b203bc7847093096c7d5dabf3ff5f6132bc08e2eeac9208fd103617090
 
- * 支持 iOS 16.0 及以上版本
- * 支持 Rootless 和 RootHide
- * 可在 App 内导入 ZIP、TTF、TTC 和 OTF 字体，创建并切换多套字体方案，将字体安全应用到整个系统，也可以随时恢复系统默认字体
- * MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。两种环境需要安装各自对应的软件包，请勿混装
 Filename: debs/com.hmmzzz.fontmanagers_0.3.7_iphoneos-arm64.deb
 Size: 503608
 MD5sum: dbed7217b8da6886aeb10056397a2e7c
 SHA1: 0d6e172ad4279066b0d4c089316e496e6fc30606
 SHA256: 6fb7b9ff0b3a3e980154f0cc0657263f8cce121bac93354924af1d2223f7b60e
 
- * 支持 iOS 16.0 及以上版本
- * 支持 Rootless 和 RootHide
- * 可在 App 内导入 ZIP、TTF、TTC 和 OTF 字体，创建并切换多套字体方案，将字体安全应用到整个系统，也可以随时恢复系统默认字体
- * MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。两种环境需要安装各自对应的软件包，请勿混装
 Filename: debs/com.hmmzzz.fontmanagers_0.3.7_iphoneos-arm64e.deb
 Size: 494212
 MD5sum: d7c0c04162cc7409b8714a75f1d2621a
@@ -5918,7 +4768,6 @@ MD5sum: 955a8a69617393d34eca4368ab6d00c4
 SHA1: d12cf60f67224317b133f4012deae88e2fd74ac9
 SHA256: ec81ecfaad475c68ea8de63207f84da9857eee85cb81373586722e8d978e8c0c
 
- * 加速开屏动画
 Filename: debs/com.huami.bilinoads_1.0.1_iphoneos-arm64.deb
 Size: 3556
 MD5sum: 700303a513d65ce9af4ba804a68e662d
@@ -5937,34 +4786,24 @@ MD5sum: 3eb849ea4667da7b935b1db8a121ddca
 SHA1: 4463790278b83046b27af55991c0a5d1e455bebb
 SHA256: 717e01b658d3b3ce7acdf987dbfdb40c49c222360677f1ee1c75b29c0d528bf5
 
- * 仅支持抖音 34.0.0 以上版本
 Filename: debs/com.huami.dyenablepanelmodernstyles_1.1_iphoneos-arm64.deb
 Size: 3548
 MD5sum: a020f2e61bfc4156dd6c804d32cf11a0
 SHA1: e1fc3a87549d7303440f616c17a84104a40f716a
 SHA256: f5d92efdab7af2d70cf436993f111dcadba4ef61a4693166b83248ceda71e492
 
- * 仅支持抖音 34.0.0 以上版本
 Filename: debs/com.huami.dyenablepanelmodernstyles_1.1_iphoneos-arm64e.deb
 Size: 3492
 MD5sum: 77ff5a41b616a8d62643ac9c05c31a9c
 SHA1: fb3f12a2f8c25327e4e70f6553d70d8f61b72f71
 SHA256: 39f2f3f71a625cae60e6a7021279dd43727b89527f65e1b4093da13a74b7300d
 
- * 用于调整抖音 UI 的插件
- * 仅在抖音 36.5.0 版本中测试
- * 仅供学习交流，禁止用于商业用途
- * 通过“双指长按”或“抖音设置”进入插件
 Filename: debs/com.huami.dyyy.vita_2.3-0_iphoneos-arm64.deb
 Size: 650880
 MD5sum: fdc7caa3d392a1dce190debe4c17b1c2
 SHA1: af40d2fe9d1a5e9c68658b41fab9c12497c3be4b
 SHA256: 6917016a481f5242a0bac7ff0f5f29e5ddcd8ddbafe37a51bfb63ccfe98b3978
 
- * 用于调整抖音 UI 的插件
- * 仅在抖音 36.5.0 版本中测试
- * 仅供学习交流，禁止用于商业用途
- * 通过“双指长按”或“抖音设置”进入插件
 Filename: debs/com.huami.dyyy.vita_2.3-0_iphoneos-arm64e.deb
 Size: 651172
 MD5sum: 1cbe9cca251138e772000f9c2f04de9a
@@ -5989,28 +4828,18 @@ MD5sum: e2da45bdf28f5a5ae5c7d16025cb5c5e
 SHA1: f3277828eb06b08362ad6f511dec1b472c2b4de9
 SHA256: 7bbf818c50edaeccafcc746b703c31c4e01c2230144ec2ddd07cf88e63c0cd00
 
- * 去除开屏广告（含概念版）
- * 去除【我的】页面寻搭子广告
 Filename: debs/com.huami.kugouNoAD_0.1-1_iphoneos-arm64.deb
 Size: 55512
 MD5sum: 0c86eae51c81ca56c31a4ec33241cd52
 SHA1: c691468aa87617066ed24e9b90511a0b834f99ea
 SHA256: 231ca338f2f7d4365b5173a56435ea4227a896123a0dcbad86dc264dfdcc76d9
 
- * 去除开屏广告
- * 去除顶栏红包按钮
- * 去除底部右侧红包按钮
- * Give you a pure Weibo
 Filename: debs/com.huami.wbnoadss_1.0.0_iphoneos-arm64.deb
 Size: 3216
 MD5sum: a2c96730d27becd29248ef0e08f7fb5a
 SHA1: 17218f3b09ecee5ee6d5fbef1439fd140c110fdd
 SHA256: 0052a916fad57453d2af1ac9a03f118c699d45433f210771e5a131905c377d44
 
- * 去除开屏广告
- * 去除顶栏红包按钮
- * 去除底部右侧红包按钮
- * Give you a pure Weibo
 Filename: debs/com.huami.wbnoadss_1.0.1_iphoneos-arm64.deb
 Size: 3604
 MD5sum: 9768e5331eb7fcc2776b19c73c1502ad
@@ -6053,24 +4882,12 @@ MD5sum: b2ab31120b12119922b160213674c4cc
 SHA1: 7c3178ce0d40ce5451b31af1ae607d61e22e525f
 SHA256: aec9a71501a64317b2850fda5f8d11e2ca2544c23933821fd88bccccaa11dbb3
 
- * 依赖老猫的插件管理
- * 再其基础添加插件排序功
- * 首次打开会弹窗提醒
- * 长按插件可进行排序
- * 后续都将以当前顺序加载
- * 请勿修改动态库名字 否则拒绝加载
 Filename: debs/com.huami.wcpluginsorders_1.0-2_iphoneos-arm64.deb
 Size: 15344
 MD5sum: 5eab020328d2b35f00e856ddc81550c9
 SHA1: a9b68a20d2eb815fec0dee93543c2511fb984048
 SHA256: 73581c01d06f637fe927323fee5649a4c65f9d06786a43953b33d97ad6b7ba8f
 
- * 依赖老猫的插件管理
- * 再其基础添加插件排序功
- * 首次打开会弹窗提醒
- * 长按插件可进行排序
- * 后续都将以当前顺序加载
- * 请勿修改动态库名字 否则拒绝加载
 Filename: debs/com.huami.wcpluginsorders_1.0-2_iphoneos-arm64e.deb
 Size: 15264
 MD5sum: 630ae875b5a4bd82a9df371ab6c80d07
@@ -6107,115 +4924,54 @@ MD5sum: 6f2f1323c1abe49cd86fc1f9024cdd58
 SHA1: a031bb212fff8c6798253b80b974ab0a123183df
 SHA256: b1d2dc52707b0ef4ddb1f9c353c776ff35a822e036209ac43e9ec43dbc444f13
 
- * 分组功能
- * 启用视频倍速手势
- * 启用头像时间标签
- * 自定义防撤回功能
- * 插件管理排序功能
- * 禁止删除消息聊天记录
- * 长按首页消息预览视图
- * 消息直达聊天窗口
- * 默认绕过多开人脸、无后台限制
 Filename: debs/com.huami.wcpulses_1.5-8_iphoneos-arm64.deb
 Size: 8605368
 MD5sum: c196351775e7c3912e16d92038460425
 SHA1: 9062e07233082323e7f3e407511aefec46876ce7
 SHA256: 94697e662819041b9397c19525681c0f9154694fa5d33ef227028993c727169c
 
- * 分组功能
- * 启用视频倍速手势
- * 启用头像时间标签
- * 自定义防撤回功能
- * 插件管理排序功能
- * 禁止删除消息聊天记录
- * 长按首页消息预览视图
- * 消息直达聊天窗口
- * 默认绕过多开人脸、无后台限制
 Filename: debs/com.huami.wcpulses_1.5-8_iphoneos-arm64e.deb
 Size: 8604068
 MD5sum: 09989a20db7df93d41da0e0f78410606
 SHA1: c860a079d7503c8e24c4594441bd305f99eb0faf
 SHA256: e4b614de2339af6fc0b3c3955656bd85446a7e244969e8321795af4e3dfabf1f
 
- * 分组功能
- * 启用视频倍速手势
- * 启用头像时间标签
- * 自定义防撤回功能
- * 插件管理排序功能
- * 禁止删除消息聊天记录
- * 长按首页消息预览视图
- * 消息直达聊天窗口
- * 默认绕过多开人脸、无后台限制
 Filename: debs/com.huami.wcpulses_1.5-9_iphoneos-arm64.deb
 Size: 8747824
 MD5sum: a235c522712322b2dae15d92b9db1aba
 SHA1: e352728abcbd9bf65060eb3082ba3d46e6b7c1c8
 SHA256: a2cb4d3998cb59c02df54118aee57ae4de545b66dc575fcc34eb33eaf988cf7a
 
- * 分组功能
- * 启用视频倍速手势
- * 启用头像时间标签
- * 自定义防撤回功能
- * 插件管理排序功能
- * 禁止删除消息聊天记录
- * 长按首页消息预览视图
- * 消息直达聊天窗口
- * 默认绕过多开人脸、无后台限制
 Filename: debs/com.huami.wcpulses_1.5-9_iphoneos-arm64e.deb
 Size: 8746320
 MD5sum: ba782a1c30f73e3d599030fd686c18f5
 SHA1: 82d780bff5dbadf435feea3ab3b1856380b0b1bf
 SHA256: 9ba3b5be0476f6049093c811864627bc694899342e797f64015dbf006d3241cc
 
- * 分组功能
- * 启用视频倍速手势
- * 启用头像时间标签
- * 自定义防撤回功能
- * 插件管理排序功能
- * 禁止删除消息聊天记录
- * 长按首页消息预览视图
- * 消息直达聊天窗口
- * 默认绕过多开人脸、无后台限制
 Filename: debs/com.huami.wcpulses_1.6-6_iphoneos-arm64.deb
 Size: 4461292
 MD5sum: 5e7d134326500a2e8305ce72ad8147c5
 SHA1: 020eb0c4928a17dae147974b97b06724a058f3fa
 SHA256: 794d3606ff78c7758ea9d60a37f074be9eb2129fdfea2a50226de9207316d56c
 
- * 分组功能
- * 启用视频倍速手势
- * 启用头像时间标签
- * 自定义防撤回功能
- * 插件管理排序功能
- * 禁止删除消息聊天记录
- * 长按首页消息预览视图
- * 消息直达聊天窗口
- * 默认绕过多开人脸、无后台限制
 Filename: debs/com.huami.wcpulses_1.6-6_iphoneos-arm64e.deb
 Size: 4462016
 MD5sum: 821e3c59e3d4b8ed3f7e0c4e39003d89
 SHA1: e1738f1b989a7552802507b20af81381def4b86f
 SHA256: b6d6f05cb801ffa7cf404a8506c17e112d3fce6db2bddf0e854c02b3cec08572
 
- * 无后台/后台直达通知对应的消息界面
- * 无需 Orion Swift 依赖
- * 仅在微信 8.0.61 测试，理论上支持  8.0.31+
 Filename: debs/com.huami.wcpush2chats_1.0-2_iphoneos-arm64.deb
 Size: 35852
 MD5sum: c167f03abbe20800a2103a4d151eab66
 SHA1: 8cb8d7df46f34e974fc21c4f6b8f335cf67e6bd1
 SHA256: f0b8b9bca046d33b84a9dddb3eb4052a1571222d4678fc2dee5576d994a4597e
 
- * 无后台/后台直达通知对应的消息界面
- * 无需 Orion Swift 依赖
- * 仅在微信 8.0.61 测试，理论上支持  8.0.31+
 Filename: debs/com.huami.wcpush2chats_1.0-2_iphoneos-arm64e.deb
 Size: 35784
 MD5sum: f0e5a9ac0dc69da90f9c28f72f30f8d0
 SHA1: ba565d9e68dcd64f1b7f17d28e73a9ec5cf58527
 SHA256: 086aba4b6a5aa98d81c1e4c52911c10d69ed1841c172aca9b8d1c0d5c99d6c63
 
- * Hide Serial Number in Settings About page.
 Filename: debs/com.ichitaso.hideserialnumbers_0.0.4_iphoneos-arm64.deb
 Size: 56680
 MD5sum: 5bac06557424609a0b9d107987bd3dff
@@ -6234,7 +4990,6 @@ MD5sum: 9bf7ff165a852370fdf221cdaf9a3f78
 SHA1: e27af69d964e50f6e6f00a39e38d69db9bb6ce08
 SHA256: 543ac31af1aef49a84a8271d9eddad6c142017b5da35247e67137bc5c26d2bc8
 
- * Shrink the keyboard gap on notched devices
 Filename: debs/com.icraze.smallboards_1.1_iphoneos-arm64.deb
 Size: 3712
 MD5sum: 2bbda32e67519439103e909f49d1dcb4
@@ -6247,7 +5002,6 @@ MD5sum: 4ba2be08be7c67db98fd86d84952843b
 SHA1: 4ea1a047cb0593313e8cec6b49950e3f1d9f77a6
 SHA256: e5eb3c70015a9bb384dd6d0246aa410f505431f10553156616ce470b9f016c54
 
- * Immortalizer 简体中文包
 Filename: debs/com.immortalizer.zh-Hans_1.0.0_iphoneos-arm64.deb
 Size: 2160
 MD5sum: cf729e80dc5f21b2cc1c98f579079ac9
@@ -6260,21 +5014,18 @@ MD5sum: fbb01664ad4af9ba68a98ca12df2c788
 SHA1: 16e4a76124b1ec84b790a16f1ddee349af854d76
 SHA256: ee4e9ecdac264f4f66b1393204c7d446369324c8ab7d5c8b7efb8de768b0b0ab
 
- * Percentage indicator for Control Center sliders with preferences on iOS 15-17
 Filename: debs/com.ioscreatix.sugarcanes_1.4-1_iphoneos-arm64.deb
 Size: 32476
 MD5sum: c6a16684a856862c423fd4717e87b962
 SHA1: 653887621a84905700cd1e099822f7b45398fc77
 SHA256: 10666073f081d8765891232c9ff8e553ef7bc5de2379a4114734234f792fb5cc
 
- * Percentage indicator for Control Center sliders with preferences on iOS 15-17
 Filename: debs/com.ioscreatix.sugarcanes_1.4-1_iphoneos-arm64e.deb
 Size: 28008
 MD5sum: 3c69ec05baaac71cb8be0287c915f803
 SHA1: fb1242a19e736e54d44b7e61788f320559abae9e
 SHA256: b130a7cfc5fed9b7b03a47e5c4ba5ec4bc550e2f6278fd40e0c4897c0c5f1246
 
- * Percentage indicator for Control Center sliders with preferences on iOS 15-17
 Filename: debs/com.ioscreatix.sugarcanes_1.4_iphoneos-arm64.deb
 Size: 28152
 MD5sum: c0b028ee61cad241a2d0058e272ccc6e
@@ -6593,27 +5344,18 @@ MD5sum: 3acf5c048675db86660d4e611ef095c9
 SHA1: 7c5521cf2f18ee3c957acaebd0880e268258467f
 SHA256: 083005ad3105d11bf5a9f388da31922e673aa95644cc17181878bc3f0d358483
 
- * 由 iosdump 汉化修改
- * 桌面图标向上滑动或长按激活
- * View & Manage Applications Data from your Home Screen
 Filename: debs/com.iosdump.appdatas_2.6.1_iphoneos-arm64.deb
 Size: 1611968
 MD5sum: 267a3371b6c5812397a5547a2251d49d
 SHA1: 15750989c53adb09c4de57b0715218608bf08ca3
 SHA256: 0173d51b875a39f5df4966c18f78c0478b0ff52d1fce8aafedbc29d4abe9da28
 
- * 由 iosdump 汉化修改
- * 桌面图标向上滑动或长按激活
- * View & Manage Applications Data from your Home Screen
 Filename: debs/com.iosdump.appdatas_2.6.6_iphoneos-arm64.deb
 Size: 2378258
 MD5sum: a599ca6fb9063c16ba1acd38bf5e7804
 SHA1: 4147480977be507bb98dfe2aa18236248ff6938f
 SHA256: cb18b696f4ef4d5a2e187ca00c92ef52d40b715de2b3e4d7a386fe66b769e626
 
- * 由 iosdump 汉化修改
- * 桌面图标向上滑动或长按激活
- * View & Manage Applications Data from your Home Screen
 Filename: debs/com.iosdump.appdatas_2.6.6_iphoneos-arm64e.deb
 Size: 3870482
 MD5sum: aadab6a88dea709819e84c947202fb64
@@ -6800,8 +5542,6 @@ MD5sum: 3d14d1a1c533f49dc6dcc88ad23b1e55
 SHA1: 77206928fc18ae50a21a2357be9703a6c76cb99b
 SHA256: fedf800f3de6eed4d9f683e9cdae4b5eee076a27c46c540a2efb0bfbf459c87d
 
- * 提取与修改 Assets.car 资源文件
- * 使用：长按 .car 文件，菜单中点击“打开方式”
 Filename: debs/com.iosdump.filzacarplugins_1.0.0_iphoneos-arm64.deb
 Size: 5351396
 MD5sum: 508dd34a3ee2182881cdda0e541dc758
@@ -7612,35 +6352,30 @@ MD5sum: 41b3fb3439a9c046d3728b6f482778dd
 SHA1: 0a08025d2dc444f564c32c800163814d20591df0
 SHA256: c6d6475e686a177c347bc407c83e47578da17f3d461b50fcdd57681f26a7a3f4
 
- * Open-source YouTube enhancement with downloads, SponsorBlock, background playback and interface controls
 Filename: debs/com.itzzace.ytkaces_0.8.2_iphoneos-arm64.deb
 Size: 1594152
 MD5sum: 0d62612a5c071f01682d37598c542a89
 SHA1: 2e257849023f09f5b6f448f4566c20d2fba81d6b
 SHA256: 00827c13e8a54dc1ce9b88bcc7baf62a8f6ccfc04848ec4d34386de21581a089
 
- * Open-source YouTube enhancement with downloads, SponsorBlock, background playback and interface controls
 Filename: debs/com.itzzace.ytkaces_0.8.2_iphoneos-arm64e.deb
 Size: 1598188
 MD5sum: d171ab2e04f8988178f80e63f3876848
 SHA1: 0846be0f14edecccd9784010bbe8a766c1f70992
 SHA256: d45a5f240fe902c5fc72b45d0e08e667fde7961b55112e75e3cb05d1e7c6549b
 
- * Open-source YouTube enhancement with downloads, SponsorBlock, background playback and interface controls
 Filename: debs/com.itzzace.ytkaces_0.8.3_iphoneos-arm64e.deb
 Size: 1593822
 MD5sum: 23b638d079f0136b13f57fe61b5b02d1
 SHA1: 22903423808158185ef0cb7adbd770a404b3bcdd
 SHA256: 0a58b7b067e4442c4b5717fde67e99374b214acc35520b1c18c511013165f917
 
- * Open-source YouTube enhancement with downloads, SponsorBlock, background playback and interface controls
 Filename: debs/com.itzzace.ytkaces_0.8.4_iphoneos-arm64.deb
 Size: 1608888
 MD5sum: c91491f18e871b1171bcfc65f547aebe
 SHA1: ff15a86ddaa0afd2a36d97998b60ba7d586c3978
 SHA256: d7d99a28a2f63bdb22ed9b5fe0aed6d6d325e09642ee66b19a3c28764d9df219
 
- * Open-source YouTube enhancement with downloads, SponsorBlock, background playback and interface controls
 Filename: debs/com.itzzace.ytkaces_0.8.4_iphoneos-arm64e.deb
 Size: 1608674
 MD5sum: 0fa4e76530fe535dc4bc103feda92888
@@ -7725,9 +6460,6 @@ MD5sum: 13b79542be7b87f829fa558201ff102a
 SHA1: 98f4ba90af360436757a21dbfeafe9b1ffb58b57
 SHA256: d56ff8e07bf156e40b7e9bdd3e19e0e38b06967bad0ff6ca6e47bb496a905763
 
- * 无弹窗
- * 去除开屏广告
- * 去除帖子广告
 Filename: debs/com.kuan.noads_1.0_iphoneos-arm64.deb
 Size: 3616
 MD5sum: c49122c98b4330792f650673ed9ff508
@@ -7830,46 +6562,36 @@ MD5sum: 27894b8d837f6b325a728ac622335041
 SHA1: 24bb8f7aeefa48d7dd73851949f8207bcd72fc5f
 SHA256: 822452f6d5ad891f10025e2352dc5aacfbc756592159b098de66fd7c84e9eb47
 
- * Filter out unwanted content from your Reddit feed
 Filename: debs/com.level3tjg.redditfilters_1.1.7_iphoneos-arm64.deb
 Size: 41460
 MD5sum: 43bd7ce16500db8d5804d22beae53e02
 SHA1: 1b241c87d462e697c1632a3adc18e3fca2dab860
 SHA256: a9c2ee2c96669447154c594d5a2c6f86ee5c8702015c71c9dcbefb7453873d61
 
- * 支持 Telegram、Swiftgram、Turrit、Nicegram
- * Remove table view cell separators from Telegram
 Filename: debs/com.level3tjg.telegramnoseparatorss_0.0.1_iphoneos-arm64.deb
 Size: 4660
 MD5sum: 85c61cca38d86a1eb7b9d34737792082
 SHA1: 7a56430bb4234a64becde5092f4c1ea019a885c2
 SHA256: ffb212039f33cedcd0398cb9a139a1573ba49f6b977bb4e69c19b938b43c65c5
 
- * 支持 Telegram、Swiftgram、Turrit、Nicegram
- * Remove table view cell separators from Telegram
 Filename: debs/com.level3tjg.telegramnoseparatorss_0.0.2_iphoneos-arm64.deb
 Size: 4440
 MD5sum: 4ba079b829ea8535d3bd0b30e5573ef1
 SHA1: 4cf72e4ef2db26f7ff09941bed890ac4a665ff63
 SHA256: d9946d1d2eaa8189ea2d9b8ce99e2f5e538835a085fa5ba8ddac77e33eb4b309
 
- * 支持 Telegram、Swiftgram、Turrit、Nicegram
- * Remove table view cell separators from Telegram
 Filename: debs/com.level3tjg.telegramnoseparatorss_0.0.3_iphoneos-arm64.deb
 Size: 4652
 MD5sum: 83a2a6a7f8ea791fd4f83bb5a9c3942d
 SHA1: 53be438d016e45544576b0a3dd75135d68a24543
 SHA256: 2ff48f0c65ee9b7120fffe709c9ba2a1dc691d86c3d4154e9dfcdb1c17348a28
 
- * Block Twitch video ads
 Filename: debs/com.level3tjg.twitchadblocks_0.1.5_iphoneos-arm64.deb
 Size: 21268
 MD5sum: c49656afa9e3b6f1fee9fac21833796f
 SHA1: 4ff2ede1fbb4a8fb538699abf06c908002c2732f
 SHA256: f3cccdd55ced809ba66197ed93ff493c5966a8b424cad9a4c32a735eafcdb52d
 
- * 绕过 ChatGPT 应用中强制的升级界面
- * Bypass the forced 'sunset' upgrade screen in the ChatGPT app.
 Filename: debs/com.liam.chatgbefrees_1.0.0_iphoneos-arm64.deb
 Size: 3712
 MD5sum: b7bca0b11ce09c220ac9df57439636b5
@@ -7882,49 +6604,42 @@ MD5sum: c615ecfd3b17037ad41a76d2939b99af
 SHA1: 0b9946661634b5f5f9401bcf5db23ce586290b89
 SHA256: 9ff289357fdf086cc4f7ee765fbacf151dc864770e2131a5f2834eb3e57ebc22
 
- * Tweak for better AirPods compatibility on old devices
 Filename: debs/com.lns.pogrs_0.4.0~prerelease3_iphoneos-arm64.deb
 Size: 74288
 MD5sum: d95b87298fa5e32bfdfa416536fcb896
 SHA1: 6b6615c09f4c1da1c4cd2320530036761d4522fe
 SHA256: 8e10a6803d0287217b75e91b5022fdbac504a945d82dc149b45066f77c51cfdd
 
- * Tweak for better AirPods compatibility on old devices
 Filename: debs/com.lns.pogrs_0.5.1_iphoneos-arm64.deb
 Size: 75168
 MD5sum: c39129a30ae947c9f36f006a15c92fbb
 SHA1: e54e1d92223863ffc05f64d99ca34859d9a06729
 SHA256: 917e3c3f59e1de3dbeb458394b14a69647653706bfc7d9415a7856741ecb3f18
 
- * Tweak for better AirPods compatibility on old devices
 Filename: debs/com.lns.pogrs_0.5.2_iphoneos-arm64.deb
 Size: 74932
 MD5sum: 19e0a7c4f59a50906e37747997d89fe7
 SHA1: 19b68fc87cf182b6e40e5ce4bd240fd109a4b2db
 SHA256: db61c99b7e1bbebca08c67ca23533b9a5a74e0e555ad671d30b90844499c6a70
 
- * Tweak for better AirPods compatibility on old devices
 Filename: debs/com.lns.pogrs_0.5.3_iphoneos-arm64.deb
 Size: 75208
 MD5sum: 33539a8682d4eaa007f0c92793ba7929
 SHA1: cb01c922c3d3dfa05cf5f564b41702b4278eb2f8
 SHA256: 9a51d5959b8b5cff1accf85079df6276e73b610f7e986a980abdda6b7b1e1f44
 
- * Tweak for better AirPods compatibility on old devices
 Filename: debs/com.lns.pogrs_0.5.4_iphoneos-arm64.deb
 Size: 75172
 MD5sum: ccf33a5310d657d8cc97139fac71e3bd
 SHA1: d1f23c6540a90ac8989d8889e3fb955566ee6340
 SHA256: f8ef4b484fe501ca15ea1400424d650c958f751f1ef24813fa91fc6cffc8a90f
 
- * An iOS tweak that replaces the AirPlay icon to the device connected
 Filename: debs/com.lns.whereplays_0.0.2_iphoneos-arm64.deb
 Size: 6228
 MD5sum: 27e32f56a8433f8d6b7a55ccaecc4214
 SHA1: f95e3bcdc9a949e58c49f62719558bad5c58e4d1
 SHA256: 92691ee62915fb3afd384e02dc1b67db2751c4e525d479d756fed5d0a33693f8
 
- Local jailbreak repository manager with package CRUD, index building, and GitHub publishing.
 Filename: debs/com.local.repokit.rootless_0.1.0-48+debug_iphoneos-arm64.deb
 Size: 132256
 MD5sum: 43749c8a46bb4dbf462afeae967275bf
@@ -7985,32 +6700,24 @@ MD5sum: fa797612bf7238fc4f3be33077ff8315
 SHA1: 1207eeb7e1fa025b20d76368acae5327e147ad7c
 SHA256: 14707f6d663bfadbaf83cf7c22f52eff077f70e7b336dc58e69b423535c6bb44
 
- * 现代、轻量级的主题引擎，支持 iOS 16 至 iOS 26。  
- * 可将图标主题应用于主屏幕、Dock 栏、App 切换器、共享菜单、设置界面、文件夹预览，以及实时更新的日历和时钟图标。
 Filename: debs/com.m4fn3.mikkyys_1.0.1_iphoneos-arm64.deb
 Size: 346240
 MD5sum: 46d65742995957f082de1e33c2bd1142
 SHA1: b9b6d977b7d7bdb1ccd6811f6e293f0f81a86b12
 SHA256: 60ec02fc72c998af5a3726ff29379c7c53cbe1bb4d07ee2b67eb2362769ad6a9
 
- * 现代、轻量级的主题引擎，支持 iOS 16 至 iOS 26。  
- * 可将图标主题应用于主屏幕、Dock 栏、App 切换器、共享菜单、设置界面、文件夹预览，以及实时更新的日历和时钟图标。
 Filename: debs/com.m4fn3.mikkyys_1.0.1_iphoneos-arm64e.deb
 Size: 344216
 MD5sum: 4ae6baf63595b3d7e58328a8c1c08d98
 SHA1: 9afa25aeec34698f0b67ca74b996cb4ed77792e7
 SHA256: f35dea4ac5665c57dd0b5a8fc0a71a7e607788384610f96e4870879c8b4e500c
 
- * 现代、轻量级的主题引擎，支持 iOS 16 至 iOS 26。  
- * 可将图标主题应用于主屏幕、Dock 栏、App 切换器、共享菜单、设置界面、文件夹预览，以及实时更新的日历和时钟图标。
 Filename: debs/com.m4fn3.mikkyys_1.0.2_iphoneos-arm64.deb
 Size: 427168
 MD5sum: 1238476c71d50ce0e3afee124fdd1d0d
 SHA1: 943bd2902cb0ddbfd915f2939be41679856e4f37
 SHA256: 1286ebfdfdcae6f1e01f38cead47ec3b166ea8791cf93961507b9804a9cee136
 
- * 现代、轻量级的主题引擎，支持 iOS 16 至 iOS 26。  
- * 可将图标主题应用于主屏幕、Dock 栏、App 切换器、共享菜单、设置界面、文件夹预览，以及实时更新的日历和时钟图标。
 Filename: debs/com.m4fn3.mikkyys_1.0.2_iphoneos-arm64e.deb
 Size: 429916
 MD5sum: 3a596a2b30bad59767c053189eb323eb
@@ -8047,50 +6754,42 @@ MD5sum: 0934fd3f1314d3addc9a95f97088e978
 SHA1: 3696b21fa9ec5998d6e567da457f95caa4eda04b
 SHA256: e2fe7c38094f4ddb1167e8392d5261fdbf7043d2b6fb681b1c64c3f1efb3d70a
 
- * 适配大多数应用，具体自测
- * 插件注入 com.apple.UIKit，有冲突自行禁用
 Filename: debs/com.mg.adskips_2.1.0_iphoneos-arm64.deb
 Size: 24812
 MD5sum: 292f532df7a59dc315d957ea8664bec7
 SHA1: 908e1d705f872f4538ea1a97d1a4f84ad0e047b7
 SHA256: 06d2796bc7d0956bd8cea18323226d03bf103fd79e5478f37e1a2dc1f9227347
 
- * Prevent apps (e.g. Roblox) from pausing your background music
 Filename: debs/com.mikey820.pleasedontstopthemusics_2.3.1_iphoneos-arm64.deb
 Size: 42174
 MD5sum: e87414276535cc878e9217af2d6f26ee
 SHA1: 27182d42d2e083c2b9c0edbac7c1ba73d89f14c2
 SHA256: 444248c1d5018fd3c33e5c466b1037ea0b2ad138429d3a624ba2b18a03cec5cf
 
- * Prevent apps (e.g. Roblox) from pausing your background music
 Filename: debs/com.mikey820.pleasedontstopthemusics_2.3.1_iphoneos-arm64e.deb
 Size: 42048
 MD5sum: 51fa0c56de19111b88eabe7d172833d6
 SHA1: 3131a2a50f7653cfff7c50e9b841a97b65de82f1
 SHA256: 6b2667b05634dc3dbf3cf10ed1e45f376b1759b081e86e492e497d463f12dc41
 
- * Layout your icons anywhere you want!
 Filename: debs/com.mikifp.griddys_1.0.4_iphoneos-arm64.deb
 Size: 19932
 MD5sum: cbfd0ba5f76c3f2e4ac2d680bfef7078
 SHA1: 0cfb7b0b076794c050bc7ab6ddf6c868db3895b7
 SHA256: 2b4c2cde2400a0e31785bad6ab3a33316bd393e723c3140da264dd19f4f123ff
 
- * Layout your icons anywhere you want!
 Filename: debs/com.mikifp.griddys_1.0.5_iphoneos-arm64.deb
 Size: 19944
 MD5sum: 7e478839b66ccf9ff61b7e6061de248c
 SHA1: aeb40a529de03302c344fece6b808f9223103457
 SHA256: a7fd4b83b3f99baa85c332a6d419bea42b7cf76af6f3e383ed90490e6fdfc753
 
- * Layout your icons anywhere you want!
 Filename: debs/com.mikifp.griddys_1.1.2_iphoneos-arm64.deb
 Size: 27772
 MD5sum: 52a24529ae05d9f4f224ae073010371b
 SHA1: 63fb77743ad152412140df2fe6cf193941ab4704
 SHA256: 1d8a92e1dd839a31479117c6672579e638d4dc8716440916b7546dfb2d52b1a2
 
- * Layout your icons anywhere you want!
 Filename: debs/com.mikifp.griddys_1.1.2_iphoneos-arm64e.deb
 Size: 26588
 MD5sum: a28db14a967e5011114a381716494155
@@ -8109,16 +6808,12 @@ MD5sum: 9ea5d36a32caa63934315eaa18c42186
 SHA1: 543bc77a387a973faf3939d981b9238dc0c163df
 SHA256: 0d805d8a56da139847a26b3580544fc41f791d3446a707326875f73705565a23
 
- * 管理受支持的 iOS 15+ 越狱环境中的自定义系统字体和锁屏字体，刷新语言缓存、恢复系统字体，并重启用户空间。
- * Manages custom system and lock-screen fonts on supported iOS 15+ jailbreak environments, refreshes language caches, restores system fonts, and reboots userspace.
 Filename: debs/com.moxuan.fontchanges_1.1.1_iphoneos-arm64.deb
 Size: 1645072
 MD5sum: 3c3057086d7c7ae9218394855ea9346b
 SHA1: be35d83cb2621441d780de24cd0d014e44179812
 SHA256: af826aba363298f411ac70c2d848711550b46d4407c5bbe50726ddab02bd962d
 
- * 管理受支持的 iOS 15+ 越狱环境中的自定义系统字体和锁屏字体，刷新语言缓存、恢复系统字体，并重启用户空间。
- * Manages custom system and lock-screen fonts on supported iOS 15+ jailbreak environments, refreshes language caches, restores system fonts, and reboots userspace.
 Filename: debs/com.moxuan.fontchanges_1.1.1_iphoneos-arm64e.deb
 Size: 1643652
 MD5sum: 51bf52ca4d7dd2d111ce48a8b8ad2ad4
@@ -8137,32 +6832,18 @@ MD5sum: 58a32a3d0689abb8e4622dedb3f38ccb
 SHA1: a327a6e11310c7128b82d48b2b195b0f24445b68
 SHA256: a1fdb8d5e5062f26113c90c6514ab16585507df8af0c3db00b55e4f51fafaa16
 
- * 为方便 RootHide 安装上传，并非挟持依赖
 Filename: debs/com.mrgcgamer.libgcuniversals_1.7.0_iphoneos-arm64e.deb
 Size: 55656
 MD5sum: be29fb5c3efa26c04206750cca8ae4e9
 SHA1: ed06b482de481dc5edaf8544443dba2f71c9ae38
 SHA256: 848f76874307aea47fc7b9fd6325126cb19c8fd9e0d3b985375741bd675d9502
 
-  * 1.主打 iOS 26 系统液态玻璃设计。
-  * 2.让旧系统体验液态玻璃风格。
-  * 3.目前版本，效果主要体现在锁屏、主屏、控制中心、通知、App 资源库、小组件等。
-  * 4.自定义选项丰富。可以自定义模糊设置等。
-  * 5.目前仅仅支持 SpringBoard 范围。
-  * 6.支持 iOS 15.x - 16.x 系统。
 Filename: debs/com.mtac.vitreux_1.2_iphoneos-arm64.deb
 Size: 107648
 MD5sum: 4b1fa18bacb82c34fa53aa03c560eb07
 SHA1: e007b6d544da82fa991fba87a3b14b98a91b7e39
 SHA256: d98f3480816eeaaa25e934b9bde7174e0c829eb6cb56a758f8220b2d76ef411b
 
- A recreation of Liquid Glass
-   * 1.主打 iOS 26 系统液态玻璃设计。
-   * 2.让旧系统体验液态玻璃风格。
-   * 3.目前版本，效果主要体现在锁屏、主屏、控制中心、通知、App 资源库、小组件等。
-   * 4.自定义选项丰富。可以自定义模糊设置等。
-   * 5.目前仅仅支持 SpringBoard 范围。
-   * 6.支持 iOS 15.x - 16.x 系统。
 Filename: debs/com.mtac.vitreux_1.4_iphoneos-arm64.deb
 Size: 121272
 MD5sum: 96e0d7f2b034d05e7782757a1d6a8f6f
@@ -8247,15 +6928,12 @@ MD5sum: 5f77a4348f022bd66499c535e673cf15
 SHA1: 570a18fb8031e60dac0ede3e97be7959be6480c9
 SHA256: 2b0c64f649916e17a491d792cb2783290b16f5087e458ddb08b07c0a70e0d72b
 
- * A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use
 Filename: debs/com.nathan.dynamicnotlands_1.2.3_iphoneos-arm64.deb
 Size: 12232
 MD5sum: b0b599ffd7fc0f3d658c9bcd9febdb5e
 SHA1: 5b4190a887428af22e939826cfaf58503ad76ad0
 SHA256: fdc47d8fcff3bb008089a2b645ce195dd434c5cfb2715743b7a1329acba19dfd
 
- * 支持 iOS 15 - iiOS 17.0
- * Tweak to hide your homebar!
 Filename: debs/com.nathan.homehiders_1.1_iphoneos-arm64.deb
 Size: 2800
 MD5sum: 16a4e06d0a7be85aa8c20b4e6c1e83f6
@@ -8280,26 +6958,18 @@ MD5sum: eea4504514f5ad60d8386a1f7651a8b4
 SHA1: 3d86a9701431315536b547c7f9750429b1c80faa
 SHA256: 23c9677af42fa18236313737e3afa1402e3ebf86e4f64675876df9f28eb97235
 
- * 由 Netskao 汉化修改
- * 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标
 Filename: debs/com.netskao.appdatas_1.4.3_iphoneos-arm64.deb
 Size: 4627944
 MD5sum: e99ab9c6e3b173cff08b9de43b616ae5
 SHA1: 31b883e176d3a01af5756fe70c460dbb2b829056
 SHA256: c759c9ecc20e6a2805e01c78e994bf2051ece312d66f82fd9c88f7271f8211ff
 
- * 由 Netskao 汉化修改
- * 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标
- * View & Manage Applications Data from your Home Screen
 Filename: debs/com.netskao.appdatas_1.4.4_iphoneos-arm64.deb
 Size: 5048888
 MD5sum: 1ebd5a2cccde19cefc70977f5fca3a02
 SHA1: 0487a8c14b5940383102e0cfa419401abe4265e7
 SHA256: 7f8dca87b919417fa4028f2a0d61b010b963f15d1869d2c90a5875e87932364d
 
- * 由 Netskao 汉化修改
- * 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标
- * View & Manage Applications Data from your Home Screen
 Filename: debs/com.netskao.appdatas_1.4.4_iphoneos-arm64e.deb
 Size: 10005284
 MD5sum: a50b7a76d1590d5dd9d1f2d6ff4021cb
@@ -8312,55 +6982,36 @@ MD5sum: 8cfd8a0152494e90db0361fa4114f1ac
 SHA1: 3f0749bb3efdf9ca5fc56414323863389acf3ee0
 SHA256: 9061569eeab5cc64b6c043acd66d3fefb3220e4d2bc6ca1c0eaa90663fe8c783
 
- * 禁用「顶部｜底部｜右侧」选项按钮
- * 仅在 30.3.0 及更高版本上进行测试
 Filename: debs/com.netskao.awemedisablebars_1.1-6_iphoneos-arm64.deb
 Size: 304816
 MD5sum: 80f75e64e2f757b7673f8ddbd8ae6f9c
 SHA1: ae427e4f3e24add232401a50685836fb60d959c2
 SHA256: e7cf8f1dce6de38eb32137d23d03365cd643515fc71b6c26b92087dca118d126
 
- * 右下角显示下载按钮
- * 无水印保存图片、视频、LivePhoto
- * 仅在 31.7.0 及更高版本上进行测试
 Filename: debs/com.netskao.awemedownloadmedias_1.1-8_iphoneos-arm64.deb
 Size: 147520
 MD5sum: 3cd46b6911f59ec078cb87ea1c210c4b
 SHA1: c687562b2f515c926a2ba5efc9bbfc25ee86eef0
 SHA256: 13cf588ec07100e91102d776e731a9e7e856524c480cca2ac25c9ae5da7fbfbc
 
- * 支持抖音极速版
- * 插件开关位于抖音设置内
- * 仅支持抖音 34.7.0 及以上版本
- * 放大视频达到全屏显示，视频区域会部分丢失
 Filename: debs/com.netskao.awemefullscreens_1.3-7_iphoneos-arm64.deb
 Size: 191464
 MD5sum: bdb7eca52e4f81dfbd6dad2a339f97c7
 SHA1: cda50359ec343947a93633f8057923b0337adcdb
 SHA256: dd4fa791752a8bbc1407c28f677f1d7a7de5fe76b3f1e37489dfa6f13fadceb4
 
- * 默认生效
- * 去启动广告
- * 去视频流广告
- * 去青少年提醒
- * 小程序跳广告，单独开关控制
- * 内存清理功能，单独开关控制
 Filename: debs/com.netskao.awemenoads_1.1-3_iphoneos-arm64.deb
 Size: 32796
 MD5sum: f745ddf8556369e4eb08660d12159ae0
 SHA1: f2f062371d2b4eb99e4dfb7575045d1f4982222f
 SHA256: 57340502044a8d0d7fb4a95646b18766b6e0813635503090c780fc1fdddcb6b8
 
- * 插件位于抖音设置内，默认关闭
- * 保存评论表情功能仅在 32.3.0 版本上测试
- * 开启功能后只有评论区中长按表情才可保存至相册（不要点开放大表情）
 Filename: debs/com.netskao.awemesaveemojis_1.1-2_iphoneos-arm64.deb
 Size: 74992
 MD5sum: 794cbe4c0559b3423e5b6eb06cdd90e0
 SHA1: 8a6cce9f398219e80d55b803c3789843f620680b
 SHA256: af2fcce80ffe805b4885e860bb32ab40f5da045e60cd0965c35bd383a2ea184e
 
- * 仅在30.3.0及更高版本上进行测试
 Filename: debs/com.netskao.awemevideotimes_1.1-2_iphoneos-arm64.deb
 Size: 31716
 MD5sum: 6b05296852a9bef4e07fa5649d0958a9
@@ -8385,9 +7036,6 @@ MD5sum: ece7a7053a42329f549759bca42eb901
 SHA1: 654e1505aa6e3c4d23b2967918e2ab26876e1f62
 SHA256: 9fba2f5e5d9f2cf941c7b04b61ffc041fc2874eddb817fd66fa09da36b9b69c8
 
- * 支持砸壳小组件和分享组件
- * 动态砸壳，可能会闪退，无法砸小组件
- * Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
 Filename: debs/com.netskao.dumpdecrypters_1.5-1_iphoneos-arm64.deb
 Size: 393784
 MD5sum: 1cd54e577f7e70526df9a86b36921781
@@ -8406,7 +7054,6 @@ MD5sum: 5798ff27e050576be10bb790f9c38936
 SHA1: 8709ddaf1c86250dea271115f721a0a8bc08efc5
 SHA256: 002b20fbe93bc4ee706933ccc57a6cd346532d2eda753293c31eb4413f8fe1e0
 
- * 仅支持 Imgplay 6.5.2 版本
 Filename: debs/com.netskao.imgplaycracks_1.1-5_iphoneos-arm64.deb
 Size: 381556
 MD5sum: 2b3caf199318d976537c9500fa0bea50
@@ -8425,7 +7072,6 @@ MD5sum: 95b6be709c2b9ef51315090111be2b13
 SHA1: dc58d060f7dd0f1d0ca5f20a394acc2b192a88f2
 SHA256: 7da75e11a42babd4262fbaac6fd0f2d5a8ad6e42cc28e6bd6ca45c409503c883
 
- * QQ simulates iPad mode login
 Filename: debs/com.netskao.qqipadmodelogins_1.1-1_iphoneos-arm64.deb
 Size: 2416
 MD5sum: 1dd5a3791d2388a22dc546864f39a238
@@ -8456,19 +7102,12 @@ MD5sum: 9c40a8b76ea6e109d650ddb87efcc42d
 SHA1: fae2393b552b71119c90c7deb5233c7d21e5ee87
 SHA256: 64df62bed1d65b4265137e01056a0d70f1cd69763c98e887b4221995421515f8
 
- * 附加解除下载保护
- * 解除截图保护
- * 去除官方广告
- * 解锁 Pro 首次登录需重启一次应用
- * 最后在 Swiftgram 12.2 进行测试
 Filename: debs/com.netskao.swiftgramcracks_1.1-7_iphoneos-arm64.deb
 Size: 423284
 MD5sum: 962de2976312f8fe12e4d4d5e7a52665
 SHA1: 96f82d7e9bf0ae16f4d059990cbe37f473befab6
 SHA256: a77b887d47bd81cb67c22f9114e76a30b0424e52d4e27e6a62d1dbe6bd348267
 
- * 在 Twitter 中删除广告，仅在 10.64.1 版本上测试
- * Twitter removes ads from data stream. Tested on version 10.64.1 only
 Filename: debs/com.netskao.twitternoadss_1.1-2_iphoneos-arm64.deb
 Size: 2724
 MD5sum: ff85c6b9ad8d74b9a05d3978ddd04498
@@ -8481,9 +7120,6 @@ MD5sum: 118a8d120e8ef3c010e42f26b3aba819
 SHA1: 4b4e38f7851f5f7b5bfddead0649e62af852cc30
 SHA256: 22c319367acf4a6fac4ccae0b70881410ef2327e3da9dd2f6d791647f0f7378c
 
- * 支持 微信 8.0.63 - 8.0.66
- * 开关位于微信设置顶部
- * 打开开关即可生效，升级微信或切换设置皆有效
 Filename: debs/com.netskao.wcaddnotiheadimgswitchs_1.1-2_iphoneos-arm64.deb
 Size: 468900
 MD5sum: 7a90f9500f375c0c9f7e28d8aa50e3f6
@@ -8496,17 +7132,12 @@ MD5sum: 12b4453e365cc27e9c9468d2023a7ee2
 SHA1: cf07438d8b511f2545060b3f3541bd9f3b797466
 SHA256: 366ef0c04a8bb6a7b3a6ad3bf26af46794cfcc39992d4e2827cf84f475f6a139
 
- * 1.1-2:修复微信 8.0.61+ 失效问题
- * 最后更新：2025 年 07 月 17 日
 Filename: debs/com.netskao.wcdisablehotupdatess_1.1-2_iphoneos-arm64.deb
 Size: 2516
 MD5sum: cebaacda46fc611b927dff0e138792ce
 SHA1: 6cf14d3741f3f465ab200ef55b151d05e6dec98c
 SHA256: 1f082645bd515b0300fbc02a8b36ca6bb13d989c9b95de0d9ad746b03e46a7ba
 
- * 强制激活 86+ 号码使用「通行密钥」功能
- * 设置-账号与安全-通行密钥
- * 仅支持微信 8.0.54 及以上，仅支持 iOS 16 及以上
 Filename: debs/com.netskao.wcisoverseausers_1.1-1_iphoneos-arm64.deb
 Size: 2356
 MD5sum: aa325c422e167ab3d41ee336fdaf362c
@@ -8519,15 +7150,12 @@ MD5sum: b2357ce35b7316a7e3d25553d5a9023d
 SHA1: 7b23a3793261343a028571670fa46aa3875e15fb
 SHA256: 96d9b66d5a1a488694dd836de3225dd463f9a7bd11097fe04318c1dd48224df3
 
- * 仅支持微信 8.0.31 及更高版本
- * 可收纳在老猫收纳插件内
 Filename: debs/com.netskao.wcmypageinfocenters_1.2-2_iphoneos-arm64.deb
 Size: 66472
 MD5sum: f67b79d2acba8ad761e741fc49470de2
 SHA1: 491537c1091fca0c1e19f18b1d033659a1e594be
 SHA256: e8549c75a76141945bab1a754072bac466b8dddb2ac80a8cb14d622a935bfe16
 
- * 仅在 iOS 客户端可显示
 Filename: debs/com.netskao.wctimelinemessagetails_1.1-1_iphoneos-arm64.deb
 Size: 5496
 MD5sum: 6ae6b913efc532b7e8151e419eb22125
@@ -8552,21 +7180,18 @@ MD5sum: c4cbc1068ba037b05b21e07fc4c43e21
 SHA1: c28fe6bec277697682decf6619d8e656d93c21d5
 SHA256: 87896e56a27b40e3b2779e65665173259c09f0b8d645de2806aaad0b1cf4e59d
 
- * 从曾经的净化功能中独立出来附加新的设置
 Filename: debs/com.netskao.wechatuiswitchloaders_1.1-5_iphoneos-arm64.deb
 Size: 119296
 MD5sum: 1f48d5e2c30ebc785add5723c2cba5bb
 SHA1: 84ecd54955c8d5719c7bd0951298bf06e8a94dc1
 SHA256: ac501ee3fe1aea5f584112ba029681a5e0991a684c9abd3f92c6a8beee12ac27
 
- * Match icon labels colors to their icons
 Filename: debs/com.nightwind.matchingiconlabelss_0.0.1_iphoneos-arm64.deb
 Size: 3764
 MD5sum: c9a58e6b0818494104c69a03e1d25ef4
 SHA1: 27bbf1a4f49181c218247c9a9bc4de539c71361c
 SHA256: b9b5e7046ab02130dccd6385717efa673669df6ba615f685eb36a3f311f25f8c
 
- * NotificationsGroupCount 简体中文
 Filename: debs/com.notificationsgroupcounts.zh-Hans_1.0_iphoneos-arm64.deb
 Size: 1908
 MD5sum: 7e2efa9cb4c05b6e384046f8930956ea
@@ -8633,60 +7258,30 @@ MD5sum: 14ef7c9f828c26dd8960a1b54fbb2af1
 SHA1: 7e9f42140c78611f052e0373d114f0650dd002d8
 SHA256: a21237b80bee394ae5204a87173cbeaa3a4f51d5672432d72a2077f2b02e47d2
 
- * 不是越狱检测绕过工具
- * 为每个进程单独禁用插件注入
- * 为每个进程单独配置每个插件的动态库（dylib）
- * 全局禁用插件（可为单独的进程设置例外）
- * 提供应用程序快捷方式，可选择临时启用或禁用插件运行应用
- * 请从“设置”中进行配置
 Filename: debs/com.opa334.choicys_1.5.2-2_iphoneos-arm64.deb
 Size: 160424
 MD5sum: a09be32190288f286edb737ba0206e16
 SHA1: 7cc5cf555483f9d7414745ddbf6381729695f2fb
 SHA256: 6f6b88bafdd350232636be59d25e612592d9517610261898fe1a03cd34c289b4
 
- * 不是“绕过越狱检测”工具，就算禁止注入也可能无法解决应用越狱检测问题
- * 为每个进程单独禁用插件注入
- * 为每个进程单独配置每个插件的动态库（dylib）
- * 全局禁用插件（可为单独的进程设置例外）
- * 提供应用程序快捷方式，可选择临时启用或禁用插件运行应用
- * 请从“设置”中进行配置
 Filename: debs/com.opa334.choicys_1.5.4-2_iphoneos-arm64.deb
 Size: 162248
 MD5sum: d16d845f8188aca97e11879d66cef09e
 SHA1: 4438d51015a4e743014886c45091e1e3b9179d81
 SHA256: 54d299de6b1b2ccd9032c6b49828f41f828af2a15908e66c2fd57a3931d383c5
 
- * 不是“绕过越狱检测”工具，就算禁止注入也可能无法解决应用越狱检测问题
- * 为每个进程单独禁用插件注入
- * 为每个进程单独配置每个插件的动态库（dylib）
- * 全局禁用插件（可为单独的进程设置例外）
- * 提供应用程序快捷方式，可选择临时启用或禁用插件运行应用
- * 请从“设置”中进行配置
 Filename: debs/com.opa334.choicys_1.5.4_iphoneos-arm64.deb
 Size: 161996
 MD5sum: bc40564a5d4af5b4bff52edd00e222ff
 SHA1: ac65114ada1487c4a839659e3caa166945ff76a8
 SHA256: 4055da42b75f317731531198de4e71de53713d912c61ba47d4808e066f16efed
 
- * 不是越狱检测绕过工具
- * 为每个进程单独禁用插件注入
- * 为每个进程单独配置每个插件的动态库（dylib）
- * 全局禁用插件（可为单独的进程设置例外）
- * 提供应用程序快捷方式，可选择临时启用或禁用插件运行应用
- * 请从“设置”中进行配置
 Filename: debs/com.opa334.choicys_1.5_iphoneos-arm64.deb
 Size: 159380
 MD5sum: 3566a14cc5f4fcc667d043dc385b810b
 SHA1: 513e28e7c5120dead8ad45a827fb6eb77488cc8a
 SHA256: e8e89b34926f0d21d36885060ee501c983e2f6b19e24f4cf23ad5baec84124e1
 
- * 不是越狱检测绕过工具
- * 为每个进程单独禁用插件注入
- * 为每个进程单独配置每个插件的动态库（dylib）
- * 全局禁用插件（可为单独的进程设置例外）
- * 提供应用程序快捷方式，可选择临时启用或禁用插件运行应用
- * 请从“设置”中进行配置
 Filename: debs/com.opa334.choicys_1.5_iphoneos-arm64e.deb
 Size: 112532
 MD5sum: 1f3bd815e11b68bb05ac7cae9f975f74
@@ -8735,27 +7330,18 @@ MD5sum: c5aa97e3524b8383ac9aba09e88fc488
 SHA1: 5b42782e3bee9b9c88f229bb970c0203dbfddc45
 SHA256: c4559fbaf83ab3ba2c941f522c7d88a5ac8aa7606c6083166d3ae5424ffa5d03
 
- * 支持安装 IPA 文件
- * 重启设备后丢失越狱环境将失效
- * TrollStore for jailbroken iOS
 Filename: debs/com.opa334.trollstorelites_2.1.1-1_iphoneos-arm64.deb
 Size: 213240
 MD5sum: 64e7a54caa558046d9d587f321adbc72
 SHA1: 172fbeea197b9b175487ced8801ad37361e1b173
 SHA256: 91a54eb8272cf8c9f42ab2b37345fc5495781d68dafeeddb15fa217a4368a0d8
 
- * 支持安装 IPA 文件
- * 重启设备后丢失越狱环境将失效
- * TrollStore for jailbroken iOS
 Filename: debs/com.opa334.trollstorelites_2.1.1-1_iphoneos-arm64e.deb
 Size: 212360
 MD5sum: a33e1900db0f74f0964bc64c66ae8763
 SHA1: dd98e9517a4e33da530b9ceeff69ecff2003af46
 SHA256: 6429e7e65bd6d5d8211f623d0f5810cdcecde0423164322b2ff15272f107aff8
 
- * 它本质上是一个安装器，代替 Appsync Unified 插件安装 IPA 文件
- * TrollStore Lite 依赖越狱环境，如果你重启丢失越狱，通过 Lite 版本安装的应用也会闪退
- * TrollStore for jailbroken iOS
 Filename: debs/com.opa334.trollstorelites_2.1.1_iphoneos-arm64.deb
 Size: 213232
 MD5sum: ef102a112a30eda0cd3aea1c3188fe76
@@ -8768,32 +7354,24 @@ MD5sum: 9bca7fdeba43659f25c28c57c8d7b849
 SHA1: 8de281c0d69298adab788e8777b795b8cc716058
 SHA256: 4563d4ae17e7018730b096da98410188d189ff89093082b3d1422717821ba317
 
- * 最后在 Instagram 386.0.0 进行测试
- * No Ads in the Instagram App!
 Filename: debs/com.p2kdev.instagramnoadss_1.1.1_iphoneos-arm64.deb
 Size: 7432
 MD5sum: dbbcbdfe7608d1ec4232d355e49a5b63
 SHA1: 0bbc7c85273028aa54199e85cc8e21476c122df5
 SHA256: d72ae1cee70a80a6aad4308cf4d0c946b149333561d147f175f1357bf99faf1e
 
- * 最后在 Instagram 386.0.0 进行测试
- * No Ads in the Instagram App!
 Filename: debs/com.p2kdev.instagramnoadss_1.1.1_iphoneos-arm64e.deb
 Size: 7392
 MD5sum: 69d0fba3117ad9370ecd84da092ccc59
 SHA1: 7bb67e6f643c8bb134eeb3ec9cfa1b68c99221e2
 SHA256: a12d71f21831cccd8dd503707b67848526b592362622707b9708c0576b242233
 
- * 最后在 Instagram 386.0.0 进行测试
- * No Ads in the Instagram App!
 Filename: debs/com.p2kdev.instagramnoadss_1.1_iphoneos-arm64.deb
 Size: 8340
 MD5sum: 12ed07a0e3ddfb985c5679e059ae24fc
 SHA1: e279c3293ca287a42d71ecea70f95ad7efd545ad
 SHA256: a80e81b0d354617aba211633517bee94ff523b408d165d822daa0aecbb722433
 
- * 最后在 Instagram 386.0.0 进行测试
- * No Ads in the Instagram App!
 Filename: debs/com.p2kdev.instagramnoadss_1.1_iphoneos-arm64e.deb
 Size: 8276
 MD5sum: 590553b432e5f0ecaac253bcf1ed2332
@@ -8806,7 +7384,6 @@ MD5sum: 16dec37666eccc9dc0335d3c4034db07
 SHA1: 684d045cb1e91e1a8e57325ce1f889a43458b4a6
 SHA256: e52854aa6e5b8096babe696fd5f913dbb31d6659253e7d1f52c3f1329c1ab527
 
- * No Ads in the Twitter App
 Filename: debs/com.p2kdev.twitternoadss_1.2.5_iphoneos-arm64.deb
 Size: 7544
 MD5sum: 4a1ef8014c8e18e32a210e2558655cf7
@@ -8837,28 +7414,24 @@ MD5sum: c6774dc21f1183070116a989689b50c6
 SHA1: 01057a62d3cdc3de4238ce255903173909fbb7f4
 SHA256: b0a9d5e6c8074f54a898f8d82a99d217c213983d44a1a79685ab3c53ecff02d4
 
- * 基于微信 8.0.64+ 版本制作。
 Filename: debs/com.qimiao.wcrefines_1.4-2_iphoneos-arm64.deb
 Size: 2984488
 MD5sum: 45d4552a7a7693fdf812e4fd741ced4c
 SHA1: 371cfc20523c361394111dd9864224135d22c14f
 SHA256: ecb906ddc09e94a7bba552a2c5e6f1e30eb533bd726c9fb8b939337afe4300da
 
- * 基于微信 8.0.64+ 版本制作。
 Filename: debs/com.qimiao.wcrefines_1.4-2_iphoneos-arm64e.deb
 Size: 2929748
 MD5sum: 16b479ec85b02604e4920313d627ba04
 SHA1: fc6867dc0220aed4881326a8a1a6fd13856c6ce5
 SHA256: dfaa8103a86849539fe9715eff237fba30407f7670a96b6302f988ed90001362
 
- * 基于微信 8.0.64+ 版本制作。
 Filename: debs/com.qimiao.wcrefines_2.0-3_iphoneos-arm64.deb
 Size: 8633564
 MD5sum: 84577721dbfe76dca4e6152184bb5ba1
 SHA1: 8933dcf3e3923df61fb81e5eb63db2e38742a2e8
 SHA256: b918c0e2ba70651471dd26bb092048784a76f57db85970306a3487c0b34bfb90
 
- * 基于微信 8.0.64+ 版本制作。
 Filename: debs/com.qimiao.wcrefines_2.0-3_iphoneos-arm64e.deb
 Size: 8471148
 MD5sum: f9233319f5bb3f9fc37a06750b4ecbd4
@@ -8877,35 +7450,30 @@ MD5sum: 852592f93b218134c1aba803430f97c4
 SHA1: d69b90afd7dfb0ac237b94c7d71550cd93965bd1
 SHA256: 4611150e2793fd6095369a38a95ba4fde87eaaa8f0d0b47ea046251f503b1afc
 
- * An awesome tweak for TikTok!
 Filename: debs/com.raulsaeed.bhtiktok++s_1.3.0-43+debug_iphoneos-arm64.deb
 Size: 127180
 MD5sum: f70f002f10227bfc411b2d7db8ba5e58
 SHA1: 4df87ed55897f4ae6890bece3d6c8e6b9189adc4
 SHA256: 1bc63a5016ba52c6a83999ffe0dd730473637cc418132fb9bc2ff3d469bb302e
 
- * An awesome tweak for TikTok!
 Filename: debs/com.raulsaeed.bhtiktok++s_1.5_iphoneos-arm64.deb
 Size: 138232
 MD5sum: 3a9a6679898b5b44417912ef1a7310c9
 SHA1: e45229c67fa380972c225cf900028267a03e122b
 SHA256: 6495f791e3ecdd88ef596719fc75047ed3a37b25ccdeb7044773765e206f8cdd
 
- * An awesome tweak for TikTok!
 Filename: debs/com.raulsaeed.bhtiktok++s_1.7-1_iphoneos-arm64.deb
 Size: 153260
 MD5sum: 4e6dc7133a01f649fd6a057841db6e61
 SHA1: a7c42a91af008b6cb8781dd04a59d08a223dcd66
 SHA256: 83b2659e67dfa82f52586993fb9339106cf33fec04974b9753afb88c1cb79359
 
- * An awesome tweak for TikTok!
 Filename: debs/com.raulsaeed.bhtiktok++s_1.7-1_iphoneos-arm64e.deb
 Size: 147324
 MD5sum: 7a2175fe24cbf3fafb5fc4578bf7d966
 SHA1: 6736516a992b3f199f481d7723e9f974ff1a8039
 SHA256: 711fa2efdecc396c9d58a89781d60c37abbe58cd809ee63795f5755a41909c77
 
- * An awesome tweak for TikTok
 Filename: debs/com.raulsaeed.bhtiktok++s_1.8-119_iphoneos-arm64.deb
 Size: 137204
 MD5sum: cf467d9c312d1219205da458345ef536
@@ -8918,27 +7486,18 @@ MD5sum: 5bbc91b95629521815c64b33b90ce30f
 SHA1: d9b94cc10cba52b0cb311afd69cdd624ae9483de
 SHA256: 5cd7a6cff9375b3bea6391cba9ccf10f5ade44c0352310862988dcc3932bdcc0
 
- * 此分支专为标准的 Dopamine 无根越狱环境设计，不支持 RootHide 环境！
- * Rootless AltDaemon with modern anisette v3 support.
- * AltDaemon allows compatible AltStore builds to install and refresh apps
- without a computer. This fork targets standard Dopamine rootless jailbreaks.
 Filename: debs/com.rileytestut.altdaemons_1.1.0~modern2_iphoneos-arm64.deb
 Size: 1545392
 MD5sum: b7f259a043501a55c86d98ea64baaf36
 SHA1: fb39bfeb90cdf2520c207fca50ac850b1b87d720
 SHA256: 91bf5a73ac0085f9d0e72f554544f91cd3a2d9181612918afb68af87e8decfb4
 
- * 此分支专为标准的 Dopamine 无根越狱环境设计，不支持 RootHide 环境！
- * Rootless AltDaemon with modern anisette v3 support.
- * AltDaemon allows compatible AltStore builds to install and refresh apps
- without a computer. This fork targets standard Dopamine rootless jailbreaks.
 Filename: debs/com.rileytestut.altdaemons_1.1.5_iphoneos-arm64.deb
 Size: 1564270
 MD5sum: ea24d94531772c8566a96bc2ca48c93a
 SHA1: de0ef181b5d45a7e53fe50f3e58628f9735d3b19
 SHA256: b8ca9ab0f0243ba52d3bb58edfb06794e1a0c679ef4da65606d556e4775a5f44
 
- * Rocket for Instagram zh-Hans
 Filename: debs/com.rocket.zh-Hans_1.0_iphoneos-arm64.deb
 Size: 6520
 MD5sum: 445d087612a62d639ecf42c4573ea833
@@ -8969,16 +7528,12 @@ MD5sum: 6b62ffea6abd0054b8d32d3d32789c37
 SHA1: 1a5fdb1dbbf1389db596c2eb6b3aca3491a01818
 SHA256: 503928cc010c1b4c037ec31d714581ce59470837a8b6f225d3cc17509c317ac4
 
- * 同时支持 BootStrap 半越狱，需要手动对 Safari 开启注入
- * JSC security hardening for WebContent process. Configures JavaScriptCore options to eliminate exploit primitives (addrof/fakeobj, JIT type confusion, GC UAF). Three security levels: balanced, strict, maximum.
 Filename: debs/com.roothide.lockdowns_1.0.2_iphoneos-arm64e.deb
 Size: 5352
 MD5sum: 60f39e5bfc164d34d9a984cd8a709e13
 SHA1: c1eee0e6bf9cb2f497f4787e3f0ecdb13980e2dc
 SHA256: e8e26f97f040d1ddd7841f0dc45faaf2c953c474d09312de1e80ad488a9d9dce
 
- * 同时支持 BootStrap 半越狱，BootStrap 需要手动对 Safari 开启注入
- * JSC security hardening for WebContent process. Configures JavaScriptCore options to eliminate exploit primitives (addrof/fakeobj, JIT type confusion, GC UAF). Three security levels: balanced, strict, maximum.
 Filename: debs/com.roothide.lockdowns_1.0.3_iphoneos-arm64e.deb
 Size: 5376
 MD5sum: 7b20d3afab1c6e99e319063601c2d119
@@ -8991,31 +7546,24 @@ MD5sum: 546fff5024c3001ff16e2f3bccb8191f
 SHA1: 0a7f077c7bd7a86b93c0685ddd15a273a459a412
 SHA256: e43a697df7ace2ca007c1051d8d355063a836c8fb5cc3766f4bab126858b8a26
 
- * 修正汉化翻译
- * Make your icons dance
 Filename: debs/com.ryannair05.cylinders_1.1.2_iphoneos-arm64.deb
 Size: 219264
 MD5sum: 4305637101e07046abed0cdc84846753
 SHA1: a7c98f824531e006e77a71b4de1208cd9ad18b32
 SHA256: 99b053c2e040debc04a6d422446bde270a5ea9c364b66e891b428ce8ccf3d21a
 
- * 修正汉化翻译
- * Make your icons dance
 Filename: debs/com.ryannair05.cylinders_1.1.2_iphoneos-arm64e.deb
 Size: 225128
 MD5sum: c6cba8427f1ad2e6a5b745b0340d2afa
 SHA1: 4b9f781666c8bf056d8d54b68f47a6795e01ca8c
 SHA256: db1730b76271c425ec66ef2a310e0b86ae5f4540cb1de471c2d76815db6dc457
 
- * 设置内按钮未汉化
 Filename: debs/com.safarixs.zh-Hans_1.3.0_iphoneos-arm64.deb
 Size: 2316
 MD5sum: 69e1ed806effbcaa07626596cf257804
 SHA1: 750df81d506e984ca85ad39582191a8935be2019
 SHA256: bddc4cb6b0d9e9fe7d46b943ee3f85c26616b32b833cb0192c6a1f01de165def
 
- * 支持 Swiftgram、Turit、iMe、Nicegram
- * Some group channels have enabled restrictions on screenshotting. After installation, this can bypass the restriction
 Filename: debs/com.screenshot.telegram_1.0_iphoneos-arm64.deb
 Size: 3320
 MD5sum: cbdf2e2dfdb92f3583fbfdff84b94dfc
@@ -9040,84 +7588,66 @@ MD5sum: d421ab91da67cbc49bda588c3970649b
 SHA1: 5b0d293b78a3649e96384b059248871db14b7143
 SHA256: 3110114a3f76736bd8e75bc3979b23bef0eb8bfadd38380174c15519f8db855e
 
- * Foreground your tweaks even if they are in the background!
 Filename: debs/com.sergy.immortalizers_1.0.0_iphoneos-arm64.deb
 Size: 29244
 MD5sum: 19d45bb4e13ffc3e17a42744ea025dc2
 SHA1: bf417e6a604c1a7b5bf5789289c35d721914f4fb
 SHA256: 9028875d8e91fc0174f3d34e2582408c7e168f5ca20255af5de42b6a1e8cf67c
 
- * Foreground your tweaks even if they are in the background!
 Filename: debs/com.sergy.immortalizers_1.0.1_iphoneos-arm64.deb
 Size: 29296
 MD5sum: e5273575666fedcc6b4c667a1407a764
 SHA1: 990248c4bb377344e4c15942103becc02db588b5
 SHA256: 3d4258d55b454e11daf4190737cb564f62d43ad83b35cb9307ee2343675e6362
 
- * Foreground your tweaks even if they are in the background
 Filename: debs/com.sergy.immortalizers_2.0.0-1_iphoneos-arm64.deb
 Size: 43076
 MD5sum: 09f8b4d72a66052161a74e93204391fe
 SHA1: 1978572d1dcb48ce2475a77c963ee1738eae2b07
 SHA256: a4b68492caf3aa507f9d08779385064124fe347f160bfe3fc311e2808742dd61
 
- * SettingsWidgets 简体中文
 Filename: debs/com.settingswidgets.zh-Hans_1.0_iphoneos-arm64.deb
 Size: 2108
 MD5sum: ba73d7820c96a4537c6f1a68b5f7e97c
 SHA1: 1f69c156690165d683561c147bb98370a54a5cad
 SHA256: 3910a0d1af9106636f585d12fa7166400a2cbb46317333baff04fd7780fe53e1
 
- * Bring good looking widgets to the front page of settings!
 Filename: debs/com.shepgoba.settingswidgetss_1.2.3_iphoneos-arm64.deb
 Size: 73316
 MD5sum: bd4523119de9a863ae45c4f352fa227e
 SHA1: e5b026dcbfbbed7f395e2a9b46b65bd8133543e8
 SHA256: 7ff1397c4aad0fef95672215393c9dc2f221505e68ec13abe28319ba3d1908f5
 
- * Set custom icons for Safari bookmarks
 Filename: debs/com.shiftcmdk.bookmarkicons_1.0-1+debug_iphoneos-arm64.deb
 Size: 16956
 MD5sum: 0f1364ed691f65953a8c4029b8d9283e
 SHA1: b2e8660a453dd3287398cb341bd1241db89fa205
 SHA256: 43cc4ab9e947499857ca9bddafebe08773453c5ceb01ec7f01fbf4e3fba45447
 
- * 仅支持动态岛设备
- * Add special effect animations for Dynamic Island devices.
 Filename: debs/com.shtm.flexibleexpressions_0.0.1_iphoneos-arm64.deb
 Size: 351340
 MD5sum: be59048c39734b78d94489ff94a0eb53
 SHA1: e78a23fdc751722cfc48238adfd830182379ebb3
 SHA256: 577be25a9d7f08c9217d712fe790576072e833c810aa398f93ba83ada66194fe
 
- * 仅支持动态岛设备
- * Add special effect animations for Dynamic Island devices.
 Filename: debs/com.shtm.flexibleexpressions_1.0.0_iphoneos-arm64.deb
 Size: 355832
 MD5sum: ef0ab9fb53c8f49dafd72183ec94de54
 SHA1: a25a8d78e9c5047e8c7d19796503b1a724391a78
 SHA256: eb8390cf9921b4a2756bfa5a50b93758bfcd7d1a4ae7ab5dcf8ec87cb5758abd
 
- * 仅支持动态岛设备
- * Add special effect animations for Dynamic Island devices
 Filename: debs/com.shtm.flexibleexpressions_1.1.0_iphoneos-arm64.deb
 Size: 362340
 MD5sum: 2d665769cf3d1ade120b41f05370c829
 SHA1: 6276594afd84a5c0f66e44a925f4a21d378af65f
 SHA256: 72d46ee63cfef630353f8b4d6981b9868cb9f7334cc314ccea7933970d288455
 
- * 仅支持动态岛设备
- * Add special effect animations for Dynamic Island devices
 Filename: debs/com.shtm.flexibleexpressions_1.2.0_iphoneos-arm64.deb
 Size: 3649296
 MD5sum: 1d451c095e9675c87f53a52738623d68
 SHA1: d82662feb58bc8d158eceda0435936b5e471f72c
 SHA256: ad8248651202e69bbc882f7cadf92383138f5f14c1b3febca84958d29d7a9551
 
- * 修正翻译错误，本地化
- * 完善 Sileo 简体中文
- * 支持 RootHide Sileo
- * ⚠️注意：卸载汉化包需重新安装Sileo恢复中文
 Filename: debs/com.sileo.zh-hans_2.7_iphoneos-arm64.deb
 Size: 8608
 MD5sum: 3f35e2f303a6175af84111d98c944b18
@@ -9178,16 +7708,12 @@ MD5sum: 7826538e46c6c871d1df73adc42b8d78
 SHA1: 5a74d9170bf201c380e02a1a1bf7cd1df31a1e11
 SHA256: 7ac676ae00228a7fbd313f43b2ca36bef00da4453580115a9ff324642eb65664
 
- * 单击注销
- * 长按打开其他功能选项
 Filename: debs/com.skypain.ccresprings_2.0.0-1_iphoneos-arm64.deb
 Size: 20320
 MD5sum: 2ea69142661026361833b981a49f89db
 SHA1: ae757ed23b625fb32192724dc7a0060f7bd0c148
 SHA256: f541c0d1ecdd9440a7d618bc3a1c0d4ca4c5df6651d4a1857fcfb5acbe5e5cb9
 
- * 单击注销
- * 长按打开其他功能选项
 Filename: debs/com.skypain.ccresprings_2.0.0-1_iphoneos-arm64e.deb
 Size: 19216
 MD5sum: b278a6209aa4405f57f66aa005444389
@@ -9272,29 +7798,24 @@ MD5sum: 004c95e0e3fb2807b292cd5dfc5328d9
 SHA1: dfba2ac4089aae4e473724e138d8897c5d9a5fb8
 SHA256: 63364e3f87f059dfbf457f3396ec6d2a45939571f3ec4ddeb7fcddd678012a22
 
- * 隐藏推送通知图标右下角标
- * 可配合 WeChatNotiAvatar 插件使用
 Filename: debs/com.squidforce.hidenotificationbadges_0.0.1_iphoneos-arm64.deb
 Size: 2968
 MD5sum: 85918b74a1328337f9a908d82bb5b53b
 SHA1: 83271da437533735b7e8b5978ebd555f91704030
 SHA256: 28d2809944df5c0192d7e198fadebdd77abf925008e217842b363744b53c773d
 
- * Adds a button to switch account in App Store account page on iOS 11+.
 Filename: debs/com.storeswitcher.appstore_1.0.5_iphoneos-arm64.deb
 Size: 14388
 MD5sum: 95d8e061c12f9ec891cc4e945eee552d
 SHA1: f3bf06b7f7069bd5c68b9f4cbfb3e65e49361a3d
 SHA256: 48b6b4ae592f1dafc5847a72fd533848af3f8ec9104b26ab1d0d3583f574ea89
 
- * Long press the App Store on the desktop to switch accounts
 Filename: debs/com.storeswitcher.appstore_1.0.6_iphoneos-arm64.deb
 Size: 23116
 MD5sum: 0f42379e8248d370e6147b4b98900232
 SHA1: 0458e96d0632bb531c9863d976f327508d95cbbc
 SHA256: 8c91cddc2c04a4315dbf8c63720438df52d521bf1a04ec289c00ca813cceb268
 
- * Long press the App Store on the desktop to switch accounts
 Filename: debs/com.storeswitcher.appstore_1.0.6_iphoneos-arm64e.deb
 Size: 24152
 MD5sum: 9e28f4fb48eed98d3189a6aa9c7e1bb9
@@ -9343,16 +7864,12 @@ MD5sum: 2a4bc99e63ce20f6cbe445953c63e2ba
 SHA1: 4301b0ca5c51a6edf5a853a5ebf76a2f7469f626
 SHA256: e602236728e90a3acc3e49d470ba559008f8f40876895b1b1caf776c61b74f52
 
- * 在微信 8.0.56 进行测试有效
 Filename: debs/com.susu.fuckwechatadss_1.0.2_iphoneos-arm64.deb
 Size: 16932
 MD5sum: cdbcf7e42c19c2b2169c6b4b4387fcaf
 SHA1: 453b40ff34c47c0cc5f556ce950ebf3508fb1982
 SHA256: 21ea2824f23ecaa6c14acff0e204e19c209d7de06cad1baf29ac06e19513e9eb
 
- * 隐藏底栏：热点/+号/消息
- * 无水印保存图片/视频（不支持 LivePhoto）
- * 关于页面双击版本号启用（原 xhsplus）
 Filename: debs/com.susu.suxhshooks_1.0_iphoneos-arm64.deb
 Size: 12372
 MD5sum: 53d7e7907efdb99ec2b7eb1559f42303
@@ -9383,45 +7900,30 @@ MD5sum: 569caf674ba867045e0730eac2a03fdd
 SHA1: 20fb6277a0610cd3dae23bf445db9061eaebd9ce
 SHA256: 061307bf583085a37c920b626cd844adb1d52cb5b9e9d325a1bd67fbe6dd4738
 
- * 移除 TikTok ➕创作按钮
- * TikTok removes the create button from the TabBar!
 Filename: debs/com.swing.tiktoknocreatbutton_1.0.0_iphoneos-arm64.deb
 Size: 35648
 MD5sum: 19c0bdb9565a29e80167752e215746c6
 SHA1: cc0babec483bcb02df931f9a918b3243d945528b
 SHA256: e5952e65baed9035f809cc7144e8b31b606f43487ae4d542061a67ff57480c79
 
- * 回车键/换行键 改为“发送”功能
- * Enter key/Return key changed to 'Send' function.
- * https://t.me/TrollStorePro
- * Telegram IP Man
 Filename: debs/com.telegram.return_1.0_iphoneos-arm64.deb
 Size: 3760
 MD5sum: a322a508c381ef3ac51fe5b9ff6c86cb
 SHA1: c5b8923f3079d6f0f6d2e805079e1c9ce32295a2
 SHA256: cf446d1c1216c1584395c8c02bcd71aa1fb1d2954d9260f479f3009ecca7ff8b
 
- * 回车键发送消息
- * 禁止右滑出现 My Story
- * 单聊对话框显示对方 User ID
 Filename: debs/com.telegram.return_1.1-5_iphoneos-arm64.deb
 Size: 118652
 MD5sum: 6eebb541df66e95f76f59810d39cc1c0
 SHA1: 13eff782b2a3b4e72cd8ff1955765c3b8237d328
 SHA256: c71f7b2204c6b66a0e86163879dc710a427ffd13629a5e425fe26a37a494085c
 
- * 回车键发送消息
- * 禁止右滑出现 My Story
- * 单聊对话框显示对方UserID
- * （显示 User ID 需要英文语言）
 Filename: debs/com.telegram.return_1.1_iphoneos-arm64.deb
 Size: 117140
 MD5sum: 20c64e0387a6b7c19658d2197046cdc3
 SHA1: 48ffcde3a084dfdf32ca7af9a34fb583908b5ef8
 SHA256: cec666f8ec9fd256428106ceb000e37a24ee9dad278287b823ea63556fb7d104
 
- * Spoof GPS location
- * 支持 Bootstrap
 Filename: debs/com.teleports.location_1.1_iphoneos-arm64.deb
 Size: 7382240
 MD5sum: 5fa93c667de0694be50e551719c1935b
@@ -9482,7 +7984,6 @@ MD5sum: 3d9fb2314e945cd0bdac71e6ab7cdaed
 SHA1: 9e64fbda396b7301aabc25668697407e40150555
 SHA256: 8dd932444f8a5bf1d273b84f0bb38578da3829eebc9d627f75ab0a47cd1ba259
 
- * 无设置全局默认生效
 Filename: debs/com.tiaotiao.betteruiswitchs_1.1_iphoneos-arm64.deb
 Size: 58552
 MD5sum: 13f3f2e9e5cdf589f9916494b9fc7f66
@@ -9513,8 +8014,6 @@ MD5sum: 6391c39283f2cc45dcecf101228d4e28
 SHA1: 718d5c9bb34d0c749ca311e4917736804fe217ec
 SHA256: 35be3aa392b06cd7ed53dd3aa05bf5c3ddaa126ee692b33fba67321fc6cec28d
 
- * 支持 RootHide Dopamine、BootStrap 半越狱
- * 支持解压打包 deb 插件
 Filename: debs/com.tigisoftware.filza64bits_4.0.1-4~roothide_iphoneos-arm64e.deb
 Size: 6970916
 MD5sum: 46bbea1723b62c27e10810562042539e
@@ -9641,26 +8140,12 @@ MD5sum: 29eda4837feffc0d6b781321a747665b
 SHA1: 9b37c0a8250a9809dfaa1c2d571c191f705ba67c
 SHA256: cd825efce4e682e5e8dde15e6f3aa68b3f529aa40d11ab2d9fed3fbbd4cfc724
 
- * 猜拳骰子作弊
- * 语音转发
- * 自定义语音秒数
- * 屏蔽输入状态
- * 无限看闪照
- * 好友交换作弊
- * 插件位于抖音设置内
 Filename: debs/com.vita.yukis_0.1-0_iphoneos-arm64.deb
 Size: 132248
 MD5sum: 7e5158ad0569a33a5b46c36e0099e5f5
 SHA1: 1ee75826eea167e9f08c0276a406e0e495d84aa8
 SHA256: 0ad203339b769ad246302f1154be6b01899ecb810e50387f7eeea83f22cf67c7
 
- * 猜拳骰子作弊
- * 语音转发
- * 自定义语音秒数
- * 屏蔽输入状态
- * 无限看闪照
- * 好友交换作弊
- * 插件位于抖音设置内
 Filename: debs/com.vita.yukis_0.1-0_iphoneos-arm64e.deb
 Size: 131724
 MD5sum: 791b41f4d0a7e7ac74bdcfba466c3a87
@@ -9679,48 +8164,36 @@ MD5sum: 12b7958e03fe337e24d5a351e620b2b3
 SHA1: f64476fe26e82f406ef90cbbefe464d8ca27faf0
 SHA256: 908798ef89841a489a0d63b9c87b5a011adcbe4d8e41e47bccf4c1ff9da5f4f8
 
- * 由 ThemePro 团队开发
- * 用于加载微信美化主题
 Filename: debs/com.wechat.themepro_4.1.4_iphoneos-arm64.deb
 Size: 6238092
 MD5sum: 65e248c1146d3152d2ca8853103ac206
 SHA1: d174b9b28fa6ff4cc2804c79f8d98e88d2a92988
 SHA256: 1573945fa2cc7d0ca4c2b05ca28cf6d13998e1da7d88a36351697b0210c9cb37
 
- * 由 ThemePro 团队开发
- * 用于加载微信美化主题
 Filename: debs/com.wechat.themepro_4.1.4_iphoneos-arm64e.deb
 Size: 6246628
 MD5sum: 56691073e77eef9dad4531d866e54ceb
 SHA1: ee96d156f1405dd349baf7d48c026f729f630b49
 SHA256: c85d2f34ea784352fbe0a6eefa8611b3d86104a3e0fbf39817160f635b099d90
 
- * 由 ThemePro 团队开发
- * 用于加载微信美化主题
 Filename: debs/com.wechat.themepro_4.2.5_iphoneos-arm64.deb
 Size: 6416600
 MD5sum: a25a92f163735fd5e70cded8e4bf65f6
 SHA1: ccc33a72b557540a6ab01c663878a43105f32cd4
 SHA256: 1c3c1087dc239589d1cbfab10f0d6794947e4e3cca0869fde4e8dfc925e0f43f
 
- * 由 ThemePro 团队开发
- * 用于加载微信美化主题
 Filename: debs/com.wechat.themepro_4.2.5_iphoneos-arm64e.deb
 Size: 6416276
 MD5sum: 2e913c2aca6e5be1cb5e5ca866c40a8a
 SHA1: 2b251c443ba3ff780dc38fee5a78306d1d516bd9
 SHA256: 3eaaa8ea0f994aabbf31160c210e03c36a2aaa1b73c53c80bbefd4d2269444ab
 
- * 由 ThemePro 团队开发
- * 用于加载微信美化主题
 Filename: debs/com.wechat.themepro_4.6.7_iphoneos-arm64.deb
 Size: 6555916
 MD5sum: be5b787b281211e2a9f49e3b5a0ae7ae
 SHA1: c6c6de76ffb1a258400273a8854a550c36ae3574
 SHA256: b151118b4c28ae7e1a5c47a5e8236261d47a5c93c02243c18e5d23a01fa1c450
 
- * 由 ThemePro 团队开发
- * 用于加载微信美化主题
 Filename: debs/com.wechat.themepro_4.6.7_iphoneos-arm64e.deb
 Size: 6566032
 MD5sum: 526494d5628dd1b2990ddb2ab9bad3e1
@@ -9733,9 +8206,6 @@ MD5sum: 478c1425aadfa531c0cfacfc4a88ffcc
 SHA1: 785a59542a265d1138f736f84b2fa2465d90e59c
 SHA256: b2daeba1f9fd8a3dc889a0da823115839888fa3b019ae55b1ec4d52fd7ae63bf
 
- * 使用 gior007 部分代码
- * 如果不弹通知的，不装插件进威锋一次后，再装插件就正常了。
- * 去除推荐新内容 xx 条模块
 Filename: debs/com.weifeng.noad_1.2_iphoneos-arm64.deb
 Size: 4100
 MD5sum: dd2fe271ef06e2e731e13d88b60f516c
@@ -9772,236 +8242,144 @@ MD5sum: 8f6ce4f213a4b22970eb2361b9f1f3d0
 SHA1: 5fe990726f079a9c882a5892ddb5068561fe1468
 SHA256: 9bc0ca08f5085d057f9d33d47ea3178c0e1c685105e75c1fc7984561b8a8bd74
 
- * Change your HomeBar into corn!
 Filename: debs/com.wrp1002.cornbars_1.1.0_iphoneos-arm64.deb
 Size: 110936
 MD5sum: 8e2e95251ac3b91107d0146fa93272b7
 SHA1: d3aeb9e027426b3221c459831e3c18cfb69569c2
 SHA256: 97cea12758898315ba6fa005e52e2285db9cb7e532dee17875baf5c61aff18ca
 
- * 四种插件打开方式
- * 三指长按
- * 长按视频
- * 设置页面
- * 聊天长按➕/✖️图标
- * 支持信息防撤回
- * 支持猜拳骰子作弊
 Filename: debs/com.xuuz.douyinhelpers_1.6-4_iphoneos-arm64.deb
 Size: 6493976
 MD5sum: 9ba25acaccbf1f54cd999d4700543c63
 SHA1: 941d4c03fbac91ad247c5444f91b65032429f1a4
 SHA256: 6522489a28655c8084d1956610d9c62c85a9b8801211f4773f2be008ef858413
 
- * 四种插件打开方式
- * 三指长按
- * 长按视频
- * 设置页面
- * 聊天长按➕/✖️图标
- * 支持信息防撤回
- * 支持猜拳骰子作弊
 Filename: debs/com.xuuz.douyinhelpers_1.6-4_iphoneos-arm64e.deb
 Size: 6496180
 MD5sum: 91ec0bfc512de7b43434a88d41f71f27
 SHA1: 4b8643cf087169732429839046eaf4543300e724
 SHA256: e32114360a5fd2d755686eeddaf02e6cf38e47c069910d047cc544162ab18b4c
 
- * 四种插件打开方式
- * 三指长按
- * 长按视频
- * 设置页面
- * 聊天长按➕/✖️图标
- * 支持信息防撤回
- * 支持猜拳骰子作弊
 Filename: debs/com.xuuz.douyinhelpers_2.2-5_iphoneos-arm64.deb
 Size: 6814468
 MD5sum: 7c0385439f8521fcf714358768de2808
 SHA1: 6d0789d1fb3a6fff1472c8b2c3df696f06239890
 SHA256: 40af76624cdfa9de6263b8dc620a8bc4edac4fdd16109adedffcf2aaf67dab21
 
- * 四种插件打开方式
- * 三指长按
- * 长按视频
- * 设置页面
- * 聊天长按➕/✖️图标
- * 支持信息防撤回
- * 支持猜拳骰子作弊
 Filename: debs/com.xuuz.douyinhelpers_2.2-5_iphoneos-arm64e.deb
 Size: 6818892
 MD5sum: 8857feca213e79bb4b3cbd1d1d7babd0
 SHA1: 5ed8d385bc277cb69380693662d6e8d199a781eb
 SHA256: afd4c7e06b974fb9e74904ee1265c2ef032a6c0f4e62b0188ada8d4e303b4854
 
- * 无限制使用
- * 隐藏部分图层元素
 Filename: debs/com.xx.dyhooks.old_1.0.3_iphoneos-arm64.deb
 Size: 41732
 MD5sum: 849d2d26d00b50de0259320984e73f9f
 SHA1: ba5b3d9fed737e834f22fe047059c4b8e159c53d
 SHA256: 9e9b27775cb2f5501da58eec79b9682a4e36428be2b20971a99bc669228d9cb9
 
- * 无水印下载视频/图片/LivePhoto
- * 隐藏各种元素按钮文字等功能
- * 双指双击屏幕打开插件设置界面
 Filename: debs/com.xx.dyhooks_2.0.8+8_iphoneos-arm.deb
 Size: 2697448
 MD5sum: f8aab8ced3c2b067c95a839d08fb0cb0
 SHA1: 42549b0bc2847799d603de1ef49fd76757d6bb1e
 SHA256: 04922c50a6a7319a0978a301085835a6738eb187ba06d1157b3f45580458360f
 
- * 无水印下载视频/图片/LivePhoto
- * 隐藏各种元素按钮文字等功能
- * 双指双击屏幕打开插件设置界面
 Filename: debs/com.xx.dyhooks_2.0.8+8_iphoneos-arm64.deb
 Size: 2667504
 MD5sum: 8f8a0194c8fb2001d711ced270a6a14d
 SHA1: 499ae9f889674ec36bc59fb45c81abe52a8dc504
 SHA256: facea240ddc3e15255b6dadda06067d727c7af8608ba7319d0f83a81e2975d38
 
- * 无水印下载视频/图片/LivePhoto
- * 隐藏各种元素按钮文字等功能
- * 双指双击屏幕打开插件设置界面
 Filename: debs/com.xx.dyhooks_2.0.8+8_iphoneos-arm64e.deb
 Size: 2624624
 MD5sum: 448bd4f3e0cf5bd73ca15dac66cde711
 SHA1: 491d2e933920cd28832256d26e28cf448577444c
 SHA256: 273ec0c75012be7e7fd9337e59d5f8f0d757e47afff154f0630695027014ba1f
 
- * 无水印下载视频/图片/LivePhoto
- * 隐藏各种元素按钮文字等功能
- * 双指双击屏幕打开插件设置界面
- * 此版本起采取自动授权 1-7天，随机授权哪天授权看运气
 Filename: debs/com.xx.dyhooks_2.3.8-3_iphoneos-arm64.deb
 Size: 4114496
 MD5sum: 7f5cadebb353ef6d8d5f358927b72a36
 SHA1: 39142fc07a1e3e96faf6f1e73b2ed171e65286f6
 SHA256: 1aca2b1f984598f9a695425cdddb1e7c3dcd061f9d628d119afb4a560f0bb5b8
 
- * 无水印下载视频/图片/LivePhoto
- * 隐藏各种元素按钮文字等功能
- * 双指双击屏幕打开插件设置界面
- * 此版本起采取自动授权 1-7天，随机授权哪天授权看运气
 Filename: debs/com.xx.dyhooks_2.3.8-3_iphoneos-arm64e.deb
 Size: 4056260
 MD5sum: c6fb472128a67a29f688d552d6bccde2
 SHA1: 032c505b2082df835dd851ca96356a5def654427
 SHA256: 952c65a7cc18ee28395203c840204a90e270380a8bacc50ceaaf7337943adf38
 
- * 无水印下载视频/图片/LivePhoto
- * 隐藏各种元素按钮文字等功能
- * 双指双击屏幕打开插件设置界面
- * 此版本起采取自动授权 1-7天，随机授权哪天授权看运气
 Filename: debs/com.xx.dyhooks_2.3.8-8_iphoneos-arm64.deb
 Size: 3191780
 MD5sum: a7079d9adca0bc747def4c53ac0fbbde
 SHA1: 3a50d5efa3a16f97f037a994223ea5152dc537d7
 SHA256: a8f6e6d13fca28aa00303f95e464a7cd3047f8332dece6279f9bf75f0f8feab0
 
- * 无水印下载视频/图片/LivePhoto
- * 隐藏各种元素按钮文字等功能
- * 双指双击屏幕打开插件设置界面
- * 此版本起采取自动授权 1-7天，随机授权哪天授权看运气
 Filename: debs/com.xx.dyhooks_2.3.8-8_iphoneos-arm64e.deb
 Size: 3144860
 MD5sum: eddaf4f0e20d64814470fdfc32c29e03
 SHA1: 5000e2bea135bc4d72e79b6a52b16acd9bf5e086
 SHA256: 624b15a17696096746ea179ee5311d3be7c22b9398d1fe57b167b03a0cf70cfa
 
- * 无水印下载视频/图片/LivePhoto
- * 隐藏各种元素按钮文字等功能
- * 双指双击屏幕打开插件设置界面
- * 此版本起采取自动授权 1-7天，随机授权哪天授权看运气
 Filename: debs/com.xx.dyhooks_2.6.1_iphoneos-arm64.deb
 Size: 3605992
 MD5sum: d28ef90fbb7b6cee72699c46dce8d3fa
 SHA1: e33c634f4aa6320a7a0d3d007194d2d09510d661
 SHA256: f6312df5864db0bc182678a7c7f919c96706ea5f0cefb337f5d144be3af7d31c
 
- * 无水印下载视频/图片/LivePhoto
- * 隐藏各种元素按钮文字等功能
- * 双指双击屏幕打开插件设置界面
- * 此版本起采取自动授权 1-7天，随机授权哪天授权看运气
 Filename: debs/com.xx.dyhooks_2.6.1_iphoneos-arm64e.deb
 Size: 3545228
 MD5sum: b4b21fd2f83ff84d13cb4ef2a27b47b7
 SHA1: 81d9a3ac5277852224252451939d6f1aa74f25a5
 SHA256: 638f2015fa922f57c82dc05867aa4896fd8be6c21983727da8cef7627f45250c
 
- * 无水印下载视频/图片/LivePhoto
- * 隐藏各种元素按钮文字等功能
- * 双指双击屏幕打开插件设置界面
- * 此版本起采取自动授权 1-7天，随机授权哪天授权看运气
 Filename: debs/com.xx.dyhooks_2.6.2_iphoneos-arm64.deb
 Size: 3613776
 MD5sum: b46ebc622cb6de3d8d10b89e8eed9dd6
 SHA1: bdc2d692baf24f9cfcbdbcd4374b460218d50735
 SHA256: 67d2a1c18e5a0e8826475e67fb55641c43a6443159a3a52ae1f0fa6c7fbeb5b4
 
- * 无水印下载视频/图片/LivePhoto
- * 隐藏各种元素按钮文字等功能
- * 双指双击屏幕打开插件设置界面
- * 此版本起采取自动授权 1-7天，随机授权哪天授权看运气
 Filename: debs/com.xx.dyhooks_2.6.2_iphoneos-arm64e.deb
 Size: 3553968
 MD5sum: 451cf735f50d83a545f006efe83b5f79
 SHA1: 1040077f23beff93c626cb3afb45a93258852e14
 SHA256: 6f2ed989db7a7c03de13d481da819bdc670b7ab397916d30c04e9fe403330fd0
 
- * 插件入口：依次点击-我-右上角三横-空白处长按打开菜单开启功能或在设置右上角打开
- * 移除一些广告、弹窗
- * 无水印保存视频图片
 Filename: debs/com.xx.kshooks_1.0.6-3_iphoneos-arm64.deb
 Size: 948888
 MD5sum: e1ac8172770f5a31be7674d6cb6f459a
 SHA1: a6d82643f9dbaa20fea6073553528cc087c0e801
 SHA256: bc13b07544aed3bab59d9b01a4c78e1d13c5446d4041685fdbf954056fb6e678
 
- * 仅支持越狱和 Bootstrap 环境
- * 不支持 TrollFools 注入
- * 仅支持「七猫 7.63.10」
- * 2024.12.23 上传
 Filename: debs/com.xx.qmxshooks_1.0.3_iphoneos-arm64.deb
 Size: 115072
 MD5sum: 5e18c3c0f3a5cd02a51046af6254fbe6
 SHA1: 5911e9284f2b70aaf9d59483f6afa75e240d5c82
 SHA256: 1d8d353188153929f7b6af520160bd69a82029e017c4dc194caa06d14a1252fc
 
- * QQ 设置-辅助功能-右上角开启(或新设置界面) 
- * 支持 QQ  9.0.20+ 
- * 支持 TIM 4.0.95+
 Filename: debs/com.xx.qqhooks_1.1.3-1_iphoneos-arm64.deb
 Size: 594656
 MD5sum: 2068dfd3d2819cbfaa8e61f0e7429ebf
 SHA1: 6cb5e8fb8aef660c2cb0fffe1d18d6010d27f5b5
 SHA256: d7a79e0f323cc572a32c62d577781a9e09a874a9897e0118c9fb45978875641e
 
- * QQ 设置-辅助功能-右上角开启(或新设置界面) 
- * 支持 QQ  9.0.20+ 
- * 支持 TIM 4.0.95+
- * 支持免越狱
 Filename: debs/com.xx.qqhooks_1.1.5_iphoneos-arm64.deb
 Size: 615984
 MD5sum: a9dd8689cfcadfcd3c57dcff4b9bd41d
 SHA1: 736e11f01ec646c760dae0d4e7350f95c359f1ea
 SHA256: 87054397ec13226507f53c0cd61fccaff39a759d70521f9c6a5ea808f44a43ae
 
- * 插件位于 QQ 设置内
- * 支持防撤回/机型伪装/语音娱乐/闪照
 Filename: debs/com.xx.qqhooks_1.3_iphoneos-arm64.deb
 Size: 1318880
 MD5sum: b8a1da21bcc17a77c897c5bcf830280b
 SHA1: b62bc86d1dd2e0727875e5341eb2f8b7368ab66b
 SHA256: b4935e28d11533f58f76b613a3658465970b20a84ed28063b51ec102225b7a35
 
- * 插件位于 QQ 设置内
- * 支持防撤回/机型伪装/语音娱乐/闪照
 Filename: debs/com.xx.qqhooks_1.6_iphoneos-arm64.deb
 Size: 1332344
 MD5sum: 10cf0e94c366ab808901906b4189e4d2
 SHA1: 5ef75df65dd26638af1e9410352a683060b4c3d4
 SHA256: 34ff1d6fa925654ee2d904fdaad23982dafe9a0bded4f85ffc8e697340dc64b2
 
- * 仅支持微信最新版（在 8.0.46 测试）
- * 需要微信在后台
 Filename: debs/com.xx.wccallkits_1.0.0_iphoneos-arm64.deb
 Size: 7328
 MD5sum: 92cbaa3497b8434251038ebfdff05b66
@@ -10014,146 +8392,84 @@ MD5sum: 992f847496d83b7afb3b12d4f7088e1c
 SHA1: 52c9d697392b65ba6403189f15c61f73a8589a7c
 SHA256: adc3762b0ee4d53cc698a9b69e87365211fd292d8bacf8b0bdee9e9a0e50a480
 
- * 默认移除一些广告
- * 无水印保存图片、视频、live图、评论区图片，长按复制文案
- * 放大图片双指长按可保存高分辨率图片
- * APP设置界面右上角打开插件界面或双指长按设置界面
 Filename: debs/com.xx.xhshooks_1.1.0-2_iphoneos-arm64.deb
 Size: 1107748
 MD5sum: 1d362a7ed21938fa05b3185b13bee802
 SHA1: 7fe646468203f66d70fb0bce4244e00f83ea97e9
 SHA256: 3807ecc7ac32fe629980a8cdac33e6d2a2a93a12c9f37f8fb4e5f61e3d361f4e
 
- * 仅支持越狱、Bootstrap 环境
- * 默认移除一些广告
- * 无水印保存图片、视频、live图、评论区图片，长按复制文案
- * 放大图片双指长按可保存高分辨率图片
- * APP设置界面右上角打开插件界面或双指长按设置界面
 Filename: debs/com.xx.xhshooks_1.1.0-3_iphoneos-arm64.deb
 Size: 1112896
 MD5sum: 07a254a32eebbed76d743fba1f58a15e
 SHA1: e883d2844cf613c835d7863d08f506cf65223ac2
 SHA256: eac83f97058b65572518bd4d88024bd760132cc0f993e8908385c92d20c07155
 
- * 默认移除一些广告
- * 无水印保存图片、视频、live图、评论区图片，长按复制文案
- * 放大图片双指长按可保存高分辨率图片
- * APP设置界面右上角打开插件界面或双指长按设置界面
 Filename: debs/com.xx.xhshooks_1.1.1_iphoneos-arm64.deb
 Size: 1107772
 MD5sum: b8623d1809267d26a7892c17128f58be
 SHA1: b1c0c490ee922996c1f0e79ce3e8fa0a63c5bd22
 SHA256: 3b54371d3ea0cb696f40636216c3426029058193122fd5c5efcd90564b8b59d0
 
- * 默认移除一些广告
- * 无水印保存图片、视频、live图、评论区图片，长按复制文案
- * 放大图片双指长按可保存高分辨率图片
- * APP 设置界面右上角打开插件界面或双指长按设置界面
 Filename: debs/com.xx.xhshooks_1.1.2_iphoneos-arm64.deb
 Size: 1146096
 MD5sum: f3aee7d11e48eba2a5d41d70b870c7b2
 SHA1: 827a0ef03d879bb8d0401bd0fe4087714ad948da
 SHA256: 655dafe0ebda52437ade7f7d0f8e4881bbc0b020485922fe535015edb7cb0258
 
- * 默认移除一些广告
- * 无水印保存图片、视频、live图、评论区图片，长按复制文案
- * 放大图片双指长按可保存高分辨率图片
- * APP 设置界面右上角打开插件界面或双指长按设置界面
 Filename: debs/com.xx.xhshooks_1.1.2_iphoneos-arm64e.deb
 Size: 1129920
 MD5sum: e07019d80663ad16dbfb15d228184ea0
 SHA1: 7ef862b50166ccd561d2546369cf1fdb2300d9fd
 SHA256: dc088896f140283325a13842048df533719b5a5cfc3fc017a39dc1baec967016
 
- * 默认移除一些广告
- * 无水印保存图片、视频、live图、评论区图片，长按复制文案
- * 放大图片双指长按可保存高分辨率图片
- * APP 设置界面右上角打开插件界面或双指长按设置界面
 Filename: debs/com.xx.xhshooks_1.1.3_iphoneos-arm64.deb
 Size: 776192
 MD5sum: 89d14b55623927d0b796c527424b69ff
 SHA1: b282ab7f36eb5c88d40c00052779a4ef9e966e40
 SHA256: a99247281e1d45cdd1fb46c48785c0a287bd0341aa717f5e05ae4f25a406cdc2
 
- * 默认移除一些广告
- * 无水印保存图片、视频、live图、评论区图片，长按复制文案
- * 放大图片双指长按可保存高分辨率图片
- * APP设置界面右上角打开插件界面或双指长按设置界面
 Filename: debs/com.xx.xhshooks_1.1.5-1_iphoneos-arm.deb
 Size: 915460
 MD5sum: 26c36607fdf85d40222223ba144d3636
 SHA1: 21739a3c9f4f9faefd9c9cbf714051bee004557f
 SHA256: c1b2880b5d3b8da361fae82f8bcaca8da1e9f3fdd746c4ffc80f834cd635b2f8
 
- * 默认移除一些广告
- * 无水印保存图片、视频、live图、评论区图片，长按复制文案
- * 放大图片双指长按可保存高分辨率图片
- * APP设置界面右上角打开插件界面或双指长按设置界面
 Filename: debs/com.xx.xhshooks_1.1.5-1_iphoneos-arm64.deb
 Size: 906672
 MD5sum: ea04f6bc6d6f7314f8179bbca1920fd9
 SHA1: 877cc905942a335865a35961101a8a414a2019cd
 SHA256: afd792bef2c7fc07811b5c7864d6577d14fdc35f0a8011622853af5166db8ec2
 
- * 默认移除一些广告
- * 无水印保存图片、视频、live图、评论区图片，长按复制文案
- * 放大图片双指长按可保存高分辨率图片
- * APP设置界面右上角打开插件界面或双指长按设置界面
 Filename: debs/com.xx.xhshooks_1.1.5_iphoneos-arm64.deb
 Size: 834208
 MD5sum: c9705fc7a7d78c8f65d238219fe2f312
 SHA1: e6e98c09024e1cd572b7fb95db64424429759707
 SHA256: 5b4027c7f927dbc88a6e446fd325dfbb4aaf09bc2267124e11cd6674db1959fc
 
- * 默认移除一些广告
- * 移除底栏菜单
- * 保存评论区语音
- * 批量无水印保存原图图片/LivePhoto/视频
- * 应用设置内界面右上角打开插件界面或双指长按设置界面
 Filename: debs/com.xx.xhshooks_1.2.0_iphoneos-arm64.deb
 Size: 1787220
 MD5sum: 7f49fb0e44456edfb439097cd3622486
 SHA1: 32a1fc6ebde37b696a322be3bbba5c6c3f7a8b9d
 SHA256: 36e917400d6ff056e1e184287b5b217b2f3a1200e9a5c90052edbef2c13812fe
 
- * 默认移除一些广告
- * 移除底栏菜单
- * 保存评论区语音
- * 批量无水印保存原图图片/LivePhoto/视频
- * 应用设置内界面右上角打开插件界面或双指长按设置界面
 Filename: debs/com.xx.xhshooks_1.2.0_iphoneos-arm64e.deb
 Size: 1766564
 MD5sum: 903433e3e71aae930094e6a66b58cee2
 SHA1: 3076fc952ca228e6e602b66d24a24e9e6a773651
 SHA256: db35a456f72f998fb2e6b9a60421eb3b76f6114627ee2e140e58ba89274fe27b
 
- * 仅支持越狱和 Bootstrap 环境
- * 不支持 TrollFools 注入
- * 最后测试版本为「亚瑟浏览器 16.3」
- * 2024.12.25 上传
 Filename: debs/com.xx.ysbrowserhooks_1.0.1_iphoneos-arm64.deb
 Size: 10760
 MD5sum: f40c5d1a4d8f5ed136dcd53c6136bb33
 SHA1: bd14d78a4b25c16472d7a87dc0f94b6ff73e4dd8
 SHA256: a8863c45208ccb212bc7a429473e45b2016e4b21c935f3bc96a5fd1bb89acf42
 
- * 仅支持越狱和 Bootstrap 环境
- * 不支持 TrollFools 注入
- * 最后测试版本为「亚瑟浏览器 16.3」
- * 2024.12.31 上传
 Filename: debs/com.xx.ysbrowserhooks_1.0.2_iphoneos-arm64.deb
 Size: 20812
 MD5sum: b68f11894616a872a1adc42c149496e8
 SHA1: c0d1351da113b8cbec0770a4b06062109098dccb
 SHA256: 6354eeb7b32bd3269c9e9f34a8dc539fbc71e1474de878ed313c55a6a3323570
 
- (禁止在设置页面显示维修记录,例如更换电池的提醒,屏幕等)
- 本插件免费使用,安装即可生效,无设置!
- 本插件在 16.5 多巴胺越狱环境下测试通过,其他系统自行测试
- 1.更换第三方电池后，开启显示正常电池健康值。
- 2.屏蔽关于本机显示未知部件记录。
- 3.屏蔽设置显示红1以及电池更新提醒信息。
- 4.屏蔽设置系统OTA 升级显示红1提醒信息
 Filename: debs/com.xybp888.noapplemobilerepair_0.0.1-103_iphoneos-arm64.deb
 Size: 10804
 MD5sum: 39ad7100037c10e583545f5db837c8e6
@@ -10166,39 +8482,18 @@ MD5sum: e5e0451dfacd8d0b41fd1a647bd5cc84
 SHA1: c99ae84cb2354aa6c96b20f768b77dafa0b3c70b
 SHA256: d3017e084113159d60600fb3138dec16726783861617a5cdcca186b33f0c2ab1
 
- (禁止在设置页面显示维修记录,例如更换电池的提醒,屏幕等)
- 本插件免费使用,安装即可生效,无设置!
- 本插件在 16.5 多巴胺越狱环境下测试通过,其他系统自行测试
- 1.更换第三方电池后，开启显示正常电池健康值。
- 2.屏蔽关于本机显示未知部件记录。
- 3.屏蔽设置显示红1以及电池更新提醒信息。
- 4.屏蔽设置系统OTA升级显示红1提醒信息。
 Filename: debs/com.xybp888.noapplemobilerepair_0.0.1-91_iphoneos-arm.deb
 Size: 11024
 MD5sum: 041b64a9cb79d65b2af104c9ee2db1d8
 SHA1: 32827d8c561fe04d251e4376a756940d25bcc0f3
 SHA256: 0ed6e87bc572628949f8c56a45c8805dbaf38e5388d33d0ee85d1acd08024ce8
 
- * 禁止在设置页面显示维修记录，例如更换电池的提醒、屏幕等
- * 更换第三方电池后，开启显示正常电池健康值。
- * 屏蔽关于本机显示未知部件记录。
- * 屏蔽设置显示“红1”以及电池更新提醒信息。
- * 屏蔽设置系统 OTA 升级显示“红1”提醒信息
- * 本插件免费使用，安装即可生效，无设置
- * 本插件在 16.5 多巴胺越狱环境下测试通过，其他系统自行测试
 Filename: debs/com.xybp888.noapplemobilerepairs_0.0.1-21_iphoneos-arm64.deb
 Size: 10912
 MD5sum: ce87ffb485c91d10e9469dfd4e4c73ad
 SHA1: 6f5dc3212f325aab547e76f177a19f2b9d542c3c
 SHA256: 30940af28f36ba7f97cc45b9b65411292daf794a5ee5da9b1bed5993035b9ef1
 
- * 禁止在设置页面显示维修记录，例如更换电池的提醒、屏幕等
- * 更换第三方电池后，开启显示正常电池健康值。
- * 屏蔽关于本机显示未知部件记录。
- * 屏蔽设置显示“红1”以及电池更新提醒信息。
- * 屏蔽设置系统 OTA 升级显示“红1”提醒信息
- * 本插件免费使用，安装即可生效，无设置
- * 本插件在 16.5 多巴胺越狱环境下测试通过，其他系统自行测试
 Filename: debs/com.xybp888.noapplemobilerepairs_0.0.1-88_iphoneos-arm64.deb
 Size: 10888
 MD5sum: 0c592bfb547c20d24d72f7c24a411545
@@ -10211,8 +8506,6 @@ MD5sum: ef481edb23b635ddac99fffc140bdedb
 SHA1: 1e073ce326c66360e8047ba329682d5585b426a4
 SHA256: 561ffd9753c5e52e211bac4c585f9fe317335875de65a984b571e2784cf117c0
 
- * Floating Tab bar for iOS devices.
- * 仅支持部分应用
 Filename: debs/com.yan.fionas_1.0.6_iphoneos-arm64.deb
 Size: 122048
 MD5sum: ad62bd2bb84ba095ff369fa34f8fdcf6
@@ -10237,7 +8530,6 @@ MD5sum: 431047d296516c76cc9177c854b59694
 SHA1: 56ea01377d9e586221f6bdcaddcf0a1938fb0d9d
 SHA256: 7094ad5cfdabe35635ac7f2ed3903d8726c56faca8b2a2e9ad366c1e8affa1fb
 
- * 依赖老猫「插件收纳」
 Filename: debs/com.ydw.BypassWechatMSG_0.0.2_iphoneos-arm64.deb
 Size: 323160
 MD5sum: 088eeb3556cc2e55255ded1c1908a368
@@ -10292,21 +8584,18 @@ MD5sum: 20f986a51d5d52c452c48dc23418651d
 SHA1: f538cbf652245e3b57e4d6b424542f15c8951208
 SHA256: d6e67a00d15bfe437b3ce067e3f582916535549c7d46721fc58b539931ca3135
 
- * Add some style to your switches
 Filename: debs/de.finngaida.daynightswitchs_1.1_iphoneos-arm64.deb
 Size: 68548
 MD5sum: f2177144aca59a96c0cef0029da8f4d2
 SHA1: c19cee7e6f80c88d9ced032d50df6cc048036d86
 SHA256: cc03cbc3c2dbe6321aaae6c3e1c96463eb9c7d9c833f9c5bfa9ae7dc4931ce87
 
- * Add some style to your switches
 Filename: debs/de.finngaida.daynightswitchs_1.2_iphoneos-arm64.deb
 Size: 69268
 MD5sum: 0436d7f0a024897b458be928ef2558d7
 SHA1: 7aad8a4da76aa53db942776ed55ca4f733635b5e
 SHA256: 03a4d6be8edff5e18202cf8285d5648a7bddac47b14c190973b61eca4daaf489
 
- * Add some style to your switches
 Filename: debs/de.finngaida.daynightswitchs_1.2_iphoneos-arm64e.deb
 Size: 67628
 MD5sum: 058afce9f20316760f56a9b051e31a3c
@@ -10325,7 +8614,6 @@ MD5sum: cb20af0d715be02fcd4230587f7b9944
 SHA1: 7c811ca235ae2cbc3b5cbc2bbfd290a4d52b706e
 SHA256: dae191e72a68987c8e7c6ec2069d1cd118418e33af20563a6d2f539b881f65d1
 
- * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
 Filename: debs/dev.mineek.appstoretrollers_0.0.9_iphoneos-arm64.deb
 Size: 15824
 MD5sum: 365a3e73eee1e3131ef1a19969645a39
@@ -10380,16 +8668,6 @@ MD5sum: 15487c8ab5f8b16d12027c4321cd9963
 SHA1: 38e8158ebe483a63eea4625f29c1e56c2370e40b
 SHA256: 999c68facab29dcfccc89e035972a078e47c13108116f47664db8a02e3594660
 
-  .
-  支持: 通知伪装、推送伪装、定位伪装(地图选点/地址搜索/海拔/历史记录)、相册伪装、通讯录伪装、日历伪装、相机伪装(强制相册/虚拟拍照)、麦克风伪装、蓝牙伪装、剪贴板伪装、传感器防摇一摇、WiFi模拟(SSID/BSSID/历史)、机型伪装、iOS版本伪装(内置数据库)、地区伪装(内置选择器)、语言伪装(内置选择器)、UUID标识符伪装(IDFV/IDFA)、App版本伪装、屏蔽代理检测、屏蔽截图/录屏检测、配置导入导出、App暂停/恢复。
-  .
-  已测试设备:
- iPhone 14 Pro - iOS 16.3
- iPhone 12 - iOS 16.1.1
- iPhone SE 1st - iOS 15.8.5
- iPad 9 - iOS 15.4.1
-  .
-  其他设备请自行测试
 Filename: debs/im.mjh.fakeperm_8.6.0_iphoneos-arm64.deb
 Size: 266022
 MD5sum: 762257b79f68a6deb5f021f1615a648b
@@ -10402,17 +8680,12 @@ MD5sum: 548758f431fed3ae2df216bb491d6c62
 SHA1: fd40899f9d37489c30a01a79d245d80c20af9f45
 SHA256: 75d9920232145bae39c8a3217091e8cb3dec60d0074df265fbfa86a7d44e19c9
 
- * 配合 Dumpdecrypter 全权限砸壳使用
- * Disable AppStore/TestFlight app thinning - by level3tjg
 Filename: debs/it.ned.noappthinnings_1.4_iphoneos-arm64.deb
 Size: 4412
 MD5sum: 4a13b1763cbce109814c9d80765bd665
 SHA1: 2033f2c144a4be550f19dd7d64cfd2e1fdcff9bb
 SHA256: 9c59fec9d0b07702a16fd70386ead56ff1978dbd8075e45fb8f2a2771bcf7153
 
- * 设置-控制中心添加模块
- * 在应用内开启模块应用将真后台，返回其他界面仍然运行
- * Add "Toggle Background Mode" action to ControlCenter.
 Filename: debs/jp.akusio.backgrounderaction15s_0.1.0_iphoneos-arm64.deb
 Size: 13484
 MD5sum: adeb01881842020835d81b6c27209790
@@ -10425,29 +8698,18 @@ MD5sum: e738f25549c8d4a5251bdaba35d39f16
 SHA1: 0427489950d57024485b7e7a987c24f44b4c6372
 SHA256: 9490427e1e1ba6f81955fb1c3c767011baf5ab0cac4b25c444ebbd75cd415760
 
- * 仅支持 iOS 17 Relaxin 越狱
- * 解决非巨魔设备签名 Relaxin IPA 问题
- * Re-signing tool for iOS jailbreak
 Filename: debs/jp.soh.reprovisions_1.1.164_iphoneos-arm64e.deb
 Size: 6259978
 MD5sum: 130b7cbdf6f588c86bc9854fc711c7be
 SHA1: 13939cb1bb4ab47e4c7eae4c6ab1b246dfc4ef71
 SHA256: 4d8362e326ae69d7c1ca7f7069e7133182d6f0b12477e93cfb7fd6ad59427d28
 
- * 仅支持 iOS 17 Relaxin 越狱
- * 解决非巨魔设备签名 Relaxin IPA 问题
- * Re-signing tool for iOS jailbreak(iOS17+)
 Filename: debs/jp.soh.reprovisions_1.1.94_iphoneos-arm64e.deb
 Size: 4165268
 MD5sum: 76f0002e51a5569f85a61682065d0129
 SHA1: 7198e02eab10cf91243855c6f1097df5017c91f9
 SHA256: cc93ff4eef98cdf192b07a4e816a5f4fc04cb6678f6b3444a89383e9f6832730
 
- 功能介绍
-    * 很强力的一款屏蔽越狱检测的工具。但同时也很难删除，删除教程如下：
-    * 点击启用,然后打开你需要打开的软件，使用完毕后一定要点禁用,不然很多插件都失效了!
-    * 这个插件不好删除,sileo删不掉的话要去Filza根目录里搜vnode,搜到的文件全部删除,然后去多巴胺里重启用户空间即可!
-    * 仅支持iOS15-16系统Dopamine2越狱。
 Filename: debs/kr.xsf1re.vnodebypass_0.4.7_iphoneos-arm64.deb
 Size: 66064
 MD5sum: 4a8dee66f71c13f06881454b30554829
@@ -10460,30 +8722,24 @@ MD5sum: a6f38b8079eeb3352f4680388b28fe8d
 SHA1: 2db38e3e52df8015c66c7a431ffe398e87c0ee97
 SHA256: 3acec8f930cd51d593091711cf9a56f4b74b4e8721fb7df3ea8db1f3209c8c1b
 
- * 默认解锁 Pro 专业版本，不生效请打开插件设置反激活，再重新打开
- * Save posts and view stories anonymously and do much more
 Filename: debs/me.alfhaily.rockets_3.8.36_iphoneos-arm64.deb
 Size: 1462392
 MD5sum: dd4375f5ff16d0809b2ef366ec9f3d2a
 SHA1: 883c82dc1ab10f53bd595db4ee8881ec801898ae
 SHA256: 3e4d5f71cd4f7da9605006d64a5f4b0d0152efb974f3778fc5d872171908ce57
 
- * 默认解锁 Pro 专业版本，不生效请打开插件设置反激活，再重新打开
- * Save posts and view stories anonymously and do much more
 Filename: debs/me.alfhaily.rockets_3.8.36_iphoneos-arm64e.deb
 Size: 1432828
 MD5sum: 7c8aad1a0e624a2541fd13d6475d0608
 SHA1: c6887bdf47eea80c3669508435512dd3aae193cb
 SHA256: 40bfbb207d016fde5a0d9c2526b231680c501e42242c4045fe4c2132c1822126
 
- * zh-Hans for Copylog
 Filename: debs/me.tomt000.copylog.zh-Hans_1.0_iphoneos-arm64.deb
 Size: 2988
 MD5sum: 31748102a8e22a4dc2ea878fe8768073
 SHA1: 8dfe33ec22f5bde6b16702f03fdad4f9e615d6ea
 SHA256: d395a1152c01db7c91c0671cb30eda60f0acd7b9a7b76bdce0de3eb45cedfe97
 
- * Clipboard history manager for iOS
 Filename: debs/me.tomt000.copylog_1.7.1+debug_iphoneos-arm64.deb
 Size: 1036724
 MD5sum: ff044f261c2e20b4edc41bceccf95a97
@@ -10520,18 +8776,12 @@ MD5sum: 8193c9ca0e3e9310d626cf179f82c9ac
 SHA1: 041bfb96cdf8108e7c7ca4f7fd609c1288e57e91
 SHA256: acf518234755012ac5765f9241f39738a62f466deee3689406e43012bf1b8cfc
 
- * 插件位于微信-设置内
- * 仅支持 8.0.29 及以上版本
- * 相比 END 版本，多了语音及红包功能
 Filename: debs/netskao.wechatpurification.last_4.2-6_iphoneos-arm64.deb
 Size: 7328268
 MD5sum: b939da57c261426702bc3fa3b35768cf
 SHA1: 7da044a59a1900486e2d3b2544398bf70103c7a4
 SHA256: 25eb1f544e23cbaf5be67ea04bd5800998ee92fa407bf5e36de1eb596e7dc26a
 
- * 插件位于微信-设置内
- * 仅支持 8.0.29 及以上版本
- * 相比 END 版本，多了语音及红包功能
 Filename: debs/netskao.wechatpurification.last_4.2-6_iphoneos-arm64e.deb
 Size: 7328660
 MD5sum: 76827016d0fb53e1ef8b26a64a15523a
@@ -10544,18 +8794,12 @@ MD5sum: 69a6fc01bfb8f2cf84aa27079caeca67
 SHA1: d85005b83b3a56cf0efaba7a371f36366a95b7a6
 SHA256: b9fa232c22900ef2536b178afa2926c7e4d5a0c2edc1495e31ddd34f01ba9fb0
 
- * 还原聊天本质，干净的微信给你
- * 2026 年基于 2023 年最终版重新编译，仅优化防止热更新导致的功能失效，未修复任何因微信版本更新出现的问题
- * 如需私有版(¥68.00)可联系 admin@initnil.com 进行了解
 Filename: debs/netskao.wechatpurifications_2026.04_iphoneos-arm64.deb
 Size: 7995256
 MD5sum: c78112c4980184ac2b180fb9b1a48608
 SHA1: 219294ec912ab502c463918e08905aca7f604a83
 SHA256: 948d4ddd6af9a57f4c22bebbb4d76df199b62f3965c7d1de5902435e17291fe4
 
- * 还原聊天本质，干净的微信给你
- * 2026 年基于 2023 年最终版重新编译，仅优化防止热更新导致的功能失效，未修复任何因微信版本更新出现的问题
- * 如需私有版(¥68.00)可联系 admin@initnil.com 进行了解
 Filename: debs/netskao.wechatpurifications_2026.04_iphoneos-arm64e.deb
 Size: 7996448
 MD5sum: fa10c80c060c16dee1edd87646bf3eef
@@ -10568,9 +8812,6 @@ MD5sum: d125bc733c1ff4633ed99171fcbbdeec
 SHA1: f450d94075ac1f1844f325ddd454fdfea5321479
 SHA256: 45940ff997fb84bb171a6ec49a99952e90203de3b9b58bfa1c528fb9a8298359
 
- * arm to arm64
- * 仅支持「应用注入类」转换
- * 自动安装转换越狱依赖
 Filename: debs/org.haxi0.derootifiers_1.3_iphoneos-arm64.deb
 Size: 529148
 MD5sum: 39912065f9bcb3ab742667592a5d9d48
@@ -10589,28 +8830,24 @@ MD5sum: eae8e524faaedd9418b03065332334c4
 SHA1: 0d633e798501141365b7e972b0c2373b43143287
 SHA256: 07b7ad5c34eb2e0e4eac8c7964763061c97573fe58a57d4f04e5edb1d593ce48
 
- * Plugin and runtime library for using protobuf with Swift
 Filename: debs/org.swift.protobuf.swiftprotobufs_1.29.0_iphoneos-arm64.deb
 Size: 1444056
 MD5sum: 161d66472aa758204bea54a8d730dbb7
 SHA1: a3bfb58cafb19e69b409076e731ae9f5dc51cbf9
 SHA256: 73c0a7f4452dec8e560ad593faec295bf86e5ce331a63ab34edee7617a64f888
 
- * 系统设置内插件选项置顶
 Filename: debs/preferenceloader.rootless.tops_2.2.6.6_iphoneos-arm64.deb
 Size: 16120
 MD5sum: a6c9bc049c61a12a4757018be408ff42
 SHA1: 4f0f4af64a4e8e560593a341f9e7356549126ef4
 SHA256: 262168b3e680087ebee19d13856d8eca37c52c88fe9ba9b83215b53195b8a145
 
- * 系统设置内插件选项置顶
 Filename: debs/preferenceloader.rootless.tops_2.2.7_iphoneos-arm64.deb
 Size: 13408
 MD5sum: af1710678015483e764b273aa24db7e3
 SHA1: 8026b59ea7ab7f827bb6fb5d6745eb7743b09edc
 SHA256: 14c7ddbc5b4831f513f6b0e304edd7cd7c0b53c5736e577864e3e866a48e4e43
 
- * 系统设置内插件选项置顶
 Filename: debs/preferenceloader.rootless.tops_2.2.7_iphoneos-arm64e.deb
 Size: 12440
 MD5sum: c1da1a9d475640512ad1f561440406a0
@@ -10695,38 +8932,18 @@ MD5sum: 3be5d74500f4ac2f5a3e649a77a2e861
 SHA1: fd68948ab4a3e03ca5f1e534006932f6c41c1992
 SHA256: 5f862b876e7e56ee513e5cd2e8a34ddc9c34296435b53d0b355b03f9e03c8a04
 
-  - ****`--- Optimizations ---`****
-  - Enhances multitasking via improved thread management.
-  - Optimizes memory handling for smoother performance.
-  - Prevents premature app termination under memory pressure.
-  - ****`--- Removed Cache ---`****
-  - /var/MobileAsset/AssetsV2
-  - /var/mobile/Media/PhotoData/Thumbnails/VideoKeyFrames/DCIM
-  - /var/mobile/Media/PhotoData/Thumbnails/V2/PhotoData/CPLAssets
-  - /var/mobile/Media/PhotoData/Thumbnails/V2/DCIM
-  - /var/mobile/Library/Mail/MessageData
-  - /var/mobile/Library/Mail/MessageData
-  - /var/mobile/Library/Mail/AttachmentData
-  - /var/mobile/Library/Caches
-  - /var/mobile/Containers/Data/Application/*/Library/Caches
-  - /var/db/uuidtext
-  - /var/db/diagnostics/Special
-  - /var/db/diagnostics/Signpost
-  - /var/db/diagnostics/Persist
 Filename: debs/xyz.cypwn.startupoptimizations_2.3.6_iphoneos-arm64.deb
 Size: 3274
 MD5sum: b598d2d4af14c9de895759f8d3fa13c6
 SHA1: 469eafc7d5e5fb2171f29332892ac1d3807d78df
 SHA256: b7aa41771487b094cdf5266dc2226dac6db902798b1a878948f376b567460cda
 
- * Native SwiftUI system-directory bind-mount manager for Relaxin / RootHide, with kernel-ucred fallback, diagnostics, RootHide safe-mode gating, and bootloop protection.
 Filename: debs/zone.uni9k.umounts_1.1.9_iphoneos-arm64e.deb
 Size: 1467248
 MD5sum: ebcfbd4886b3d32c68430c391b283168
 SHA1: 8ce377b631f5a72e178cdbac2afcbc5d1f8e738b
 SHA256: 23d90dab68d1d67748f5e1da536df86ded2e98e8a3f651b245c2c79d33c26930
 
- * Native SwiftUI system-directory bind-mount manager for Relaxin / RootHide, with kernel-ucred fallback, diagnostics, RootHide safe-mode gating, and bootloop protection.
 Filename: debs/zone.uni9k.umounts_1.2.0_iphoneos-arm64e.deb
 Size: 1506696
 MD5sum: 464ad3a28cfe21e9d282756b0f36e749
