@@ -1,0 +1,47 @@
+name: Build Repo
+on:
+  push:
+    branches: [ master ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install dpkg-dev
+        run: sudo apt-get update && sudo apt-get install -y dpkg-dev
+      - name: Generate Packages index
+        run: |
+          dpkg-scanpackages -m debs /dev/null > Packages
+          gzip -k -f Packages
+      - name: Create Release file
+        run: |
+          cat > Release <<EOF
+Origin: MyRepo
+Label: MyRepo
+Suite: stable
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: My Cydia Repo
+EOF
+      - name: Upload pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: |
+            debs
+            Packages
+            Packages.gz
+            Release
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
