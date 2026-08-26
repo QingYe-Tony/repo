@@ -1,7 +1,7 @@
-Origin: MyRepo
-Label: MyRepo
+Origin: 清野
+Label: 清野
 Suite: stable
-Codename: main
+Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: My Cydia Repo
