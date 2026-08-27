@@ -21309,6 +21309,24 @@ Author: zqbb
 Name: Hello Snapper3
 Sileodepiction: https://rootless.002599.xyz/web/com.zqbb.savephotos
 
+Package: cz.kolbi.sbtweaker
+Version: 1.3.2
+Architecture: iphoneos-arm64e
+Maintainer: Kolbicz
+Installed-Size: 428
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.christoph.sbcustomizer, com.christoph.doubletaplock, com.christoph.noapplibrary
+Replaces: com.christoph.sbcustomizer, com.christoph.doubletaplock, com.christoph.noapplibrary
+Filename: debs/cz.kolbi.sbtweaker_1.3.2_roothide_iphoneos-arm64e_zh.deb
+Size: 56180
+MD5sum: 63faaa62b167c405a7134fffa44be897
+SHA1: 6db372389be3ff23360bceddf87e1c9f7bd6c7bf
+SHA256: 1bcf917fd6a78a926e34f2ddcd4295f77b54391c82b756b2695b52e916e0269d
+Section: Tweaks
+Description: 适用于 iOS 15 及以上系统 rootless / roothide 越狱的 SpringBoard 自定义增强插件（SBTweaker），支持程序坞与主屏幕布局、图标备份、App 资源库、双击锁屏、动画加速与快速复制等功能。
+Author: Kolbicz
+Name: SBTweaker
+
 Package: daniel.batman
 Version: 0.0.2-1+debug
 Architecture: iphoneos-arm64e
