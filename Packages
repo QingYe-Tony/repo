@@ -7129,24 +7129,6 @@ Name: AppData
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/appdata/js.json
 
 Package: com.axs.appdata
-Version: 5.2.0-104
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 1072
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Filename: debs/com.axs.appdata_5.2.0-104.deb
-Size: 173174
-MD5sum: 01db1410ac5e5496dc54ab75693a1ae1
-SHA1: 64c3a1691a7f0a0e07922d70d1c1bb6400ac1d1c
-SHA256: 773c4ccaf10be8a5744bb34caeea8c582488b559b78ef04611a65a9ff32e1fbc
-Section: Axs-Tweaks
-Description: 从主屏幕查看和管理应用数据，持续扩展附加功能中，目前包含：应用静音、120Hz、真后台、CPU、FPS等。
-Author: Axs
-Icon: https://axs66.github.io/pro/icon/appdata.png
-Name: AppData
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/appdata/js.json
-
-Package: com.axs.appdata
 Version: 5.2.0-81
 Architecture: iphoneos-arm64
 Maintainer: Axs
@@ -9952,66 +9934,12 @@ Name: AppStoreTroller(RootHide)
 
 Package: com.dao.axon
 Version: 2.3.1
-Architecture: iphoneos-arm64
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: debs/Axon(rootless)_2.3.1.deb
-Size: 153948
-MD5sum: a05a1a89b23da2da9cc261234842756d
-SHA1: 764ec6cf7f904f6f72d681cf88cd241b0d1c2d0b
-SHA256: 1ef5480e56adfc1a405d5effa5e610f333e312cfe1f11524d33f14b546f00c80
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Author: Nepeta & daodao
-Name: Axon 中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Version: 2.3.1
 Architecture: iphoneos-arm64e
 Maintainer: 刀刀
 Installed-Size: 688
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
 Filename: debs/Axon 中文版(RootHide)_2.3.1.deb
-Size: 153846
-MD5sum: f59e4c8f233d4f59909eb9d32a5201ee
-SHA1: 73043c15802c73e68418cf3ff40b6b897544c02f
-SHA256: 0d4a9b75305152774ed38ee019dd86867c7ecaf620489b2927808fa16e2cfa67
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Author: Nepeta & daodao
-Name: Axon 中文版(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Version: 2.3.1
-Architecture: iphoneos-arm
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: debs/Axon_ZH_2.3.1.deb
-Size: 154074
-MD5sum: 5dc411f2b6e7906d3ea7169bea3f74be
-SHA1: d78087b907904ccaaa4fa757c98fb01977318c15
-SHA256: c393604b72645c995c0237917ed6f7be00d450e65b612c1579521595b0fa07e9
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Author: Nepeta & daodao
-Name: Axon 中文版
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Version: 2.3.1
-Architecture: iphoneos-arm64e
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: debs/Axon(RootHide)_2.3.1.deb
 Size: 153846
 MD5sum: f59e4c8f233d4f59909eb9d32a5201ee
 SHA1: 73043c15802c73e68418cf3ff40b6b897544c02f
@@ -10065,42 +9993,6 @@ Maintainer: 刀刀
 Installed-Size: 688
 Depends: mobilesubstrate, firmware (>= 14.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: debs/Axon(rootless)_2.5.3.deb
-Size: 156134
-MD5sum: 454b33c58da5a9ec028f8e3c48875190
-SHA1: f264bd3ecf0ad8f740a82fb9c0abf879c5301337
-SHA256: c80c2814d4f79025d77415ca95717eadf4a62fce50cdccb08076aa09659c0ab9
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
-Author: Nepeta & daodao
-Name: Axon 中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Version: 2.5.3
-Architecture: iphoneos-arm
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 14.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: debs/Axon_2.5.3.deb
-Size: 155816
-MD5sum: b5099d69c2e50ac4c936556f9526f1d5
-SHA1: 1c54b806d64d8915a6ae382430061a14f91f8a2b
-SHA256: f82353059dcea6f0579f9c3ec9fc4296d9096b554780d5dcccb6e56c650597c6
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
-Author: Nepeta & daodao
-Name: Axon 中文版
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Version: 2.5.3
-Architecture: iphoneos-arm64
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 14.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
 Filename: debs/Axon 中文版(rootless)_2.5.3.deb
 Size: 156134
 MD5sum: 454b33c58da5a9ec028f8e3c48875190
@@ -10110,24 +10002,6 @@ Section: 嗨-工具
 Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
 Author: Nepeta & daodao
 Name: Axon 中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Version: 2.5.3
-Architecture: iphoneos-arm64e
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 14.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: debs/Axon(RootHide)_2.5.3.deb
-Size: 155810
-MD5sum: 8135611aa15cbd17d87bfcd2f0c83b14
-SHA1: c73b0ff93d24259d74b7dc35c7844b2b430de560
-SHA256: 3362db0fd7b666bf54eda7bec88562d8b562e0520d1cfc943588c95901ccc105
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
-Author: Nepeta & daodao
-Name: Axon 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
 Package: com.dao.ccless
@@ -10257,24 +10131,6 @@ Name: PicoBanner(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
 
 Package: com.dao.picobanner
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: daodao
-Installed-Size: 820
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Conflicts: love.litten.liddell, dev.traurige.liddell
-Filename: debs/PicoBanner_1.1.deb
-Size: 126402
-MD5sum: 080477a007e954874be1283b4a3b586f
-SHA1: 0f68519e9e9c8394e62c3ef4348b11a7d7b0deda
-SHA256: 0e44431a851ddd642d4839508ef8ef36a2218d96e30578dab177bc5644dd3fce
-Section: 嗨-工具
-Description: 样式丰富多彩的小巧通知横幅。
-Author: daodao
-Name: PicoBanner
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
-
-Package: com.dao.picobanner
 Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: daodao
@@ -10308,24 +10164,6 @@ Section: 嗨-工具
 Description: 样式丰富多彩的小巧通知横幅。
 Author: daodao
 Name: PicoBanner(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
-
-Package: com.dao.picobanner
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: daodao
-Installed-Size: 820
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Conflicts: love.litten.liddell, dev.traurige.liddell
-Filename: debs/PicoBanner_1.2.deb
-Size: 127200
-MD5sum: d1b641562a5e34cd67bee8ab24693112
-SHA1: f856ca6e89bf002b1b6b97352602bcb1613195e1
-SHA256: cff97b5bd40c592cf6f1f6fd1f2961038c8db7bd7986ac55da0df663bbd819ae
-Section: 嗨-工具
-Description: 样式丰富多彩的小巧通知横幅。
-Author: daodao
-Name: PicoBanner
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
 
 Package: com.dao.pulloverx
@@ -10558,23 +10396,6 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.
 
 Package: com.dao.trollstore.cn
 Version: 2.0.15
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Installed-Size: 184
-Depends: mobilesubstrate
-Conflicts: com.qms.trollstore.cn, com.hk.trollstore.cn, com.hk.trollstore.cn.rl
-Filename: debs/TrollStore_CN_2.0.15.deb
-Size: 14196
-MD5sum: 8d156923d0839231349f2f174f60fbef
-SHA1: 6fe32532a48cd3229b059dcbf2037fbe418457b6
-SHA256: 8ee14f656cfbbcc1c4291be79c5d6c5e61f4ab79b1f6283853d5558c23868bfc
-Section: 嗨-汉化
-Description: TrollStore 简体中文包。
-Author: 妖刀
-Name: TrollStore 简体中文包
-
-Package: com.dao.trollstore.cn
-Version: 2.0.15
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Installed-Size: 184
@@ -10606,23 +10427,6 @@ Section: 嗨-汉化
 Description: TrollStore 简体中文包(rootless)。
 Author: 妖刀
 Name: TrollStore 简体中文包(rootless)
-
-Package: com.dao.trollstore.cn
-Version: 2.1
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Installed-Size: 184
-Depends: mobilesubstrate
-Conflicts: com.qms.trollstore.cn, com.hk.trollstore.cn, com.hk.trollstore.cn.rl
-Filename: debs/TrollStore_CN.deb
-Size: 15166
-MD5sum: 4b45c12b22d978c13ea6875e7dec9b29
-SHA1: 1b24b4a60833f174aa8971337becefe53d47728d
-SHA256: cc3ad3c05ee8d687b01dec83d59d299398666aaaea5b103a71c0568795f4a533
-Section: 嗨-汉化
-Description: TrollStore 和 TrollStore Lite 的简体中文包。
-Author: 妖刀
-Name: TrollStore 简体中文包
 
 Package: com.dao.trollstore.cn
 Version: 2.1
