@@ -11387,6 +11387,26 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
 Name: EeveeSpotify
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
 
+Package: com.exile90.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64
+Maintainer: Ivano Bilenchi
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
+Size: 977908
+MD5sum: 2152aa3075aa8da63b2916856eed43b6
+SHA1: f4f336406c354aedf5ae947134901e52f9b8e9be
+SHA256: 745264c2e1c4fc9c00cca37bd75f921199d88bd198519625bd82254c5b1cecc5
+Section: 应用程序
+Homepage: https://axs66.github.io/pro
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi
+Icon: https://axs66.github.io/pro/icon/iCleanerPro.png
+Name: iCleaner Pro 小扫把
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/icleanerpro/js.json
+
 Package: com.flex2areo.apptools15roothide
 Version: 2.8.1
 Architecture: iphoneos-arm64e
