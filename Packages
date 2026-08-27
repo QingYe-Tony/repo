@@ -3886,6 +3886,24 @@ Icon: https://axs66.github.io/pro/icon/dynamicislandanimation.png
 Name: 灵动岛跳舞动画
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/dynamicislandanimation/js.json
 
+Package: com.Axs.dynamicislandanimation
+Version: 2.4
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 560
+Depends: mobilesubstrate
+Filename: debs/灵动岛跳舞_2.4_无根.deb
+Size: 80276
+MD5sum: aed7ce69b39118ca285308f25072a5a8
+SHA1: 302a2175be49a23f2f132cb967e75a6a3849acab
+SHA256: 450794e2a2b5d47f873c81b024109f18101848a40e76b27571d0647d28aac3c6
+Section: 灵动岛
+Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需挂载不再卑微！
+Author: Simon
+Icon: https://axs66.github.io/pro/icon/dynamicislandanimation.png
+Name: 灵动岛跳舞动画PLUS
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/dynamicislandanimation/js.json
+
 Package: com.Axs.dynamicislandring
 Version: 1.1.0
 Architecture: iphoneos-arm64
@@ -13489,6 +13507,22 @@ Description: AppTools for iOS15-17 Roothide
 Author: aReo
 Name: AppTools15-17(Roothide)
 
+Package: com.flex2areo.apptools15roothide
+Version: 2.8.2
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 4424
+Depends: mobilesubstrate
+Filename: debs/com.flex2areo.apptools15roothide_2.8.2_iphoneos-arm64e.deb
+Size: 1462656
+MD5sum: 6a230bfb21511fea43ee2f173c3c6be9
+SHA1: 9700b0e1e959935fb8f4c131089461826d838477
+SHA256: aa5a0a713d53650f00abfc9680ce4e94ef3919ee5f4b4ab0cdf5fad52faf1d8e
+Section: Tweaks
+Description: AppTools for iOS15-17 Roothide
+Author: aReo
+Name: AppTools15-17(Roothide)
+
 Package: com.flex2areo.apptools15rootless
 Version: 2.8.1
 Architecture: iphoneos-arm64
@@ -13500,6 +13534,22 @@ Size: 1489882
 MD5sum: 4a57fdd4cdd28e8c9a93918d3f9ab717
 SHA1: d5d0baeb4395866e89360d7ace3a8a45ef162cd7
 SHA256: 1427ca81a10141cd73b3a101a1b04bdadf7303c195106a611f610da711faafe4
+Section: Tweaks
+Description: AppTools for iOS15-17 Rootless
+Author: aReo
+Name: AppTools15-17(Rootless)
+
+Package: com.flex2areo.apptools15rootless
+Version: 2.8.2
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 4520
+Depends: mobilesubstrate
+Filename: debs/com.flex2areo.apptools15rootless_2.8.2_iphoneos-arm64.deb
+Size: 1485918
+MD5sum: ce6bf56d45ea23051eae33681a3a7191
+SHA1: e2ceedfc9844449ee6a6a097d94185024a2f974e
+SHA256: 45ef2512a0dca45c84629b9f447c03b943c33fe21e2d6e639cb132e6aa463708
 Section: Tweaks
 Description: AppTools for iOS15-17 Rootless
 Author: aReo
