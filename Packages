@@ -8655,7 +8655,7 @@ Maintainer: Axs <qiaozhini000@163.com>
 Installed-Size: 1036
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
-Filename: debs/com.axs.snapper3tag_5.2.0-307_iphoneos-arm64e_fixed.deb
+Filename: debs/com.axs.snapper3tag_5.2.0-307_iphoneos-arm64e.deb
 Size: 240052
 MD5sum: f1eb82f862bd07c3220a7c63396a6a52
 SHA1: 60a126aa8412f3aca0848534b2bd9dac08f96efb
