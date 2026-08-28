@@ -1,7 +1,15 @@
 #!/bin/bash
 echo "=== 清野源 更新索引开始 ==="
 dpkg-scanpackages -m debs /dev/null > Packages_raw
-awk 'BEGIN{RS="";FS="\n"}{pkg="";ver="";arch="";for(i=1;i<=NF;i++){if($i~/^Package: /)pkg=substr($i,10);if($i~/^Version: /)ver=substr($i,10);if($i~/^Architecture: /)arch=substr($i,15)}key=pkg"|"ver;score=0;if(arch=="iphoneos-arm64")score=3;else if(arch=="iphoneos-arm64e")score=2;else if(arch=="iphoneos-arm")score=1;if(!(key in best)||score>best[key]){best[key]=score;data[key]=$0}}END{for(k in data)print data[k]"\n"}' Packages_raw > Packages
+perl -00 -ne '
+/^Package: (.+)$/m; $pkg=$1;
+/^Version: (.+)$/m; $ver=$1;
+/^Architecture: (.+)$/m; $arch=$1;
+$key="$pkg\t$ver";
+$score=($arch eq "iphoneos-arm64")?3:($arch eq "iphoneos-arm64e")?2:($arch eq "iphoneos-arm")?1:0;
+if(!exists($best{$key}) || $score>$best{$key}){$best{$key}=$score;$data{$key}=$_}
+END{foreach(sort keys %data){print "$data{$_}\n"}}
+' Packages_raw > Packages
 rm -f Packages_raw
 gzip -k -f Packages
 cat > Release <<ENDREL
