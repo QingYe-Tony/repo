@@ -12,6 +12,7 @@ END{foreach(sort keys %data){print "$data{$_}\n"}}
 ' Packages_raw > Packages
 rm -f Packages_raw
 gzip -k -f Packages
+rm -f Packages.zst
 cat > Release <<ENDREL
 Origin: 清野
 Label: 清野
