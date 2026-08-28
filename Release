@@ -2,6 +2,6 @@ Origin: 清野
 Label: 清野
 Suite: stable
 Codename: ios
-Architectures: iphoneos-arm64
+Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
 Components: main
 Description: 清野软件源
