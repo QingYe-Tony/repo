@@ -7614,13 +7614,13 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 704
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
-Filename: debs/com.axs.ios16dao_5.2.0-244_iphoneos-arm64.deb
-Size: 123892
-MD5sum: 17f0b87eff49517833396f2fa10a1903
-SHA1: 04ede7ffbe6875dbbd209f92d49fd696b0437170
-SHA256: b72db26bc9e0820c48ee1be58482759adfb163b9c5655089e506e7d5a88acf71
-Section: Axs-Tweaks
-Description: 一款市面上最优秀、功能最完整、最稳定的灵动岛插件。付费插件，150缘，授权校验联系:VCR66T
+Filename: debs/ios16-17动态岛.deb
+Size: 87668
+MD5sum: ba6f5f44cccec52158526634ab14cf65
+SHA1: 589a5038d6dcd02a4e5b446c2fe347ad43257791
+SHA256: c85e0fbc9325049bc1d1e2125a1ad44961cb8cf5322196a0bc6329b84506a1d3
+Section: 灵动岛
+Description: 一款市面上最优秀、功能最完整、最稳定的灵动岛插件。集成授权校验联系:VCR66T
  * 1. 动态岛自定义背景，支持 PNG/JPG/GIF/MP4。
  * 2. 录屏的时候，可以隐藏原生岛黑色区域，让效果更美观。
  * 3. 内置纯代码灵动光圈（如彩虹环、彩虹流星、舞台灯、跑马灯、纯色线框）、漂亮的七彩随机光圈阴影等特效。
@@ -8720,6 +8720,36 @@ Author: Axs <qiaozhini000@163.com>
 Icon: https://axs66.github.io/pro/icon/snapper.png
 Name: Snapper3 Expand
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper3expand/js.json
+
+
+Package: com.axs.switchicon
+Version: 5.2.0-131
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 836
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/A狗液态开关破解版.deb
+Size: 122528
+MD5sum: ab68e821f2630db3ae297f49732e978a
+SHA1: 54b7b2d01ec634d93b465c5f5b565030f11b8f76
+SHA256: 35de138df50dae2c4c160bfbd63bd0189d31d2cda2ca8f14836cca8962f53dc4
+Section: Tweaks
+Description: 一个强大的全局 UISwitch 开关控件，让原生开关显示更有个性；付费插件，需要请联系微信：VCR66T
+ * 一、纯代码开关组
+ * 1. 动态组：昼夜开关、血瞳开关、液态开关，支持流畅的过渡动画与动态视觉效果；
+ * 2. 静态组：日月开关、水滴开关、立体开关、温度开关、星月开关，覆盖多种精致静态样式；
+ * 3. 液态开关：复刻 iOS 26 风格，并支持开启状态颜色自定义；
+ * 4. 日月开关：支持太阳、云朵、月亮、星星颜色自定义，一个开关也能千变万化。
+ * 二、素材开关组
+ * 1. 素材开关：在指定路径放置 on.png/off.png 开关素材；
+ * 2. 支持创建多套，在插件面板自由切换。
+ * 三、温馨提示
+ * 1. 早买早享受，后续免费更新；
+ * 2. 后续增加新样式，新用户可能面临涨价。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/switchicon.png
+Name: Switch Icon
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/switchicon/js.json
 
 
 Package: com.axs.switchicon
@@ -15434,6 +15464,24 @@ Author: Netskao
 Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 微信净化END
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/wcpureextension/js.json
+
+
+Package: org.coolstar.sileo
+Version: 2.5.1-13
+Architecture: iphoneos-arm64e
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: debs/sileo_2.5.1-13_插件指示器-arm64e_刀刀.deb
+Size: 3013864
+MD5sum: fb06cede5e39f6b86c76fe63add7cbca
+SHA1: cb79dbce818d9f783f76b9121e6e168aec9caa40
+SHA256: 6e445c578f0b956c9fe9e77141e9ff82ee63f6edcc20b416d7082254d61493b8
+Section: Packaging
+Description: A modern APT package manager frontend
+Author: Amy While <me@anamy.gay>
+Icon: https://getsileo.app/img/icon.png
+Name: Sileo
+Sileodepiction: https://featuredpage.getsileo.app/depiction.json
 
 
 Package: org.mr.voicechangerx-rootless
