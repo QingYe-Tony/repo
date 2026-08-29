@@ -8330,6 +8330,44 @@ Name: 通知不亮屏幕 (白名单)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 
+Package: com.dao.axon
+Version: 2.3.1
+Architecture: iphoneos-arm64
+Maintainer: 刀刀
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: debs/Axon 中文版(rootless)_2.3.1.deb
+Size: 153948
+MD5sum: a05a1a89b23da2da9cc261234842756d
+SHA1: 764ec6cf7f904f6f72d681cf88cd241b0d1c2d0b
+SHA256: 1ef5480e56adfc1a405d5effa5e610f333e312cfe1f11524d33f14b546f00c80
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，刀刀中文优化版。
+Author: Nepeta & daodao
+Name: Axon 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+
+Package: com.dao.axon
+Version: 2.5.3
+Architecture: iphoneos-arm64
+Maintainer: 刀刀
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: debs/Axon 中文版(rootless)_2.5.3.deb
+Size: 156134
+MD5sum: 454b33c58da5a9ec028f8e3c48875190
+SHA1: f264bd3ecf0ad8f740a82fb9c0abf879c5301337
+SHA256: c80c2814d4f79025d77415ca95717eadf4a62fce50cdccb08076aa09659c0ab9
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
+Author: Nepeta & daodao
+Name: Axon 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+
 Package: com.dao.ccless
 Version: 2.1.0.1
 Architecture: iphoneos-arm64
@@ -8346,6 +8384,44 @@ Description: 超级控制中心模块集合！
 Author: 妖刀
 Name: CCLess++(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccless/js.json
+
+
+Package: com.dao.picobanner
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: daodao
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.liddell, dev.traurige.liddell
+Filename: debs/PicoBanner(rootless)_1.1.deb
+Size: 126836
+MD5sum: 50cb3e6abbdfd1325fd45cda73946337
+SHA1: f1b3493fd2533f732b1ca687fe217168ec8bc1e2
+SHA256: e921afec1db835606312e19a1402420706cf6eb30af08efabc536c9a466b5137
+Section: 嗨-工具
+Description: 样式丰富多彩的小巧通知横幅。
+Author: daodao
+Name: PicoBanner(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
+
+
+Package: com.dao.picobanner
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: daodao
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.liddell, dev.traurige.liddell
+Filename: debs/PicoBanner(rootless)_1.2.deb
+Size: 128082
+MD5sum: 217f2e1dbecb230364733e5cceaaddec
+SHA1: 1b2c17c2efb5d2d65c19a802a334f5c78948f436
+SHA256: c70167c6616d5876a3f01e285875ce55cdfa8300a26878937db1de88c6a6c73c
+Section: 嗨-工具
+Description: 样式丰富多彩的小巧通知横幅。
+Author: daodao
+Name: PicoBanner(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
 
 
 Package: com.dao.tslite
