@@ -7742,6 +7742,44 @@ Name: TouchTrail
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/touchtrail/js.json
 
 
+Package: com.be-huge.floating-view
+Version: 1.5.7-1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.opa334.altlist
+Filename: debs/com.be-huge.floating-view_1.5.7-1_iphoneos-arm64.deb
+Size: 642060
+MD5sum: 67bbd4c2d56e4e83ce9824c07a96b17e
+SHA1: 77fb365271f4de5970be340d5d9c26b28c4a4aed
+SHA256: bcd5036fb2b64c6a5742ef2afd984f44ff8bb527f437a49493ccd0e3150c1687
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://huayuarc.github.io/icon/floating-view.jpg
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+
+Package: com.be-huge.floating-view
+Version: 1.6.0-6
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.opa334.altlist
+Filename: debs/com.be-huge.floating-view_1.6.0-6_iphoneos-arm64.deb
+Size: 670244
+MD5sum: f56aa22fa3b85e4d3607df869c179861
+SHA1: 879a8f50d549f09840248297d6d50df407c2857f
+SHA256: 0e848151f9f82c8b14359494c0c247a72226bb3672333c7e8abba0f6b5c4524d
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://huayuarc.github.io/icon/floating-view.jpg
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+
 Package: com.be-huge.insulation
 Version: 0.0.13
 Architecture: iphoneos-arm64
