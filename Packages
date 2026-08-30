@@ -177,6 +177,42 @@ Name: STTool
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.snapshottool/snapshottool.json
 
 
+Package: cn.llld.urljg
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 1072
+Depends: firmware (>= 14.0), ellekit | mobilesubstrate
+Filename: debs/URL-1.1.0_-arm64.deb
+Size: 672176
+MD5sum: 6870617f8e140dc27d5d9d24bb04e2a5
+SHA1: ba1523348415c920157f93bf0fb563637ac61286
+SHA256: aa6870ce9d69ccfd22f01d1d607fd7b6895d8f4f4d912567aa7b1138cefb99a9
+Section: System
+Description: URL管家 — 统一接管本机 URL Scheme（隐藏 / 重定向），支持单应用或者全局，也可防范某些应用检测某东东
+Tag: purpose::uikit, compatible::ios14
+Author: 来了老弟
+Name: URL管家
+
+
+Package: cn.llld.urljg.roothide
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 1104
+Depends: firmware (>= 14.0), roothide (>= 0.0.1), ellekit | mobilesubstrate
+Filename: debs/URL-1.1.0_-arm64e.deb
+Size: 676414
+MD5sum: 34e37c6a76c9f22f44b46b5469b884bd
+SHA1: 95e0d30d3ee44100f47cbdf64f9b8edd78369121
+SHA256: 10b52cb0a42b0ee51f84707fc56414bed4d6d4fe40aacca00eb20c6e99089199
+Section: RootHide
+Description: URL管家（RootHide 版）— 统一接管本机 URL Scheme（隐藏 / 重定向），支持单应用或者全局，也可防范某些应用检测某东东
+Tag: purpose::uikit, compatible::ios14
+Author: 来了老弟
+Name: URL管家-隐根
+
+
 Package: cn.zqbb.ccatop
 Version: 2.3
 Architecture: iphoneos-arm64
@@ -735,64 +771,6 @@ Author: A
 Icon: https://axs66.github.io/pro/icon/CCMusicPlayer.png
 Name: CCMusicPlayer
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/CCMusicPlayer/js.json
-
-
-Package: com.Axs.WCRefine
-Version: 1.4-7
-Architecture: iphoneos-arm64
-Maintainer: 热心网友
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: debs/com.Axs.WCRefine_1.4-7_iphoneos-arm64.deb
-Size: 6670540
-MD5sum: c0006c6cd00564b19c9332f8d5f65e2e
-SHA1: 3159aaddeabf86edc8f394432b3224bbfc2ada58
-SHA256: ba9a7a71bd56d9e8cb118b62f48962c8b292555d395963674c1e4ccca7d2dea2
-Section: 微信插件
-Priority: optional
-Description: 微信优化的重制版，基于微信8.0.64+版本制作。
-Author: 热心网友
-Dev: 君临
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: WCRefine
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCRefine/js.json
-
-
-Package: com.Axs.WCRefine
-Version: 2.0-6beta2
-Architecture: iphoneos-arm64
-Maintainer: 热心网友
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: debs/com.Axs.WCRefine_2.0-6beta2_iphoneos-arm64.deb
-Size: 9222248
-MD5sum: 9518954362fc6943d2d6a6f2cd4291f0
-SHA1: 05133a4d28084807e5cf2fc48b57dad2608f8764
-SHA256: 58c1ff46bf1a083520673eae61d99c792171867272f6f58a5713216536325a09
-Section: 微信插件
-Priority: optional
-Description: 微信优化的重制版，基于微信8.0.64+版本制作。
-Author: 热心网友
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: WCRefine 破解版
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCRefine/js.json
-
-
-Package: com.Axs.WCRefine
-Version: 2.1-1
-Architecture: iphoneos-arm64
-Maintainer: 热心网友
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: debs/com.Axs.WCRefine_2.1-1_iphoneos-arm64.deb
-Size: 9858744
-MD5sum: 22a52ebc7b106472152a241de3379772
-SHA1: 6fe76ad241f9b31b8b233c33939a96e969e3783b
-SHA256: 8f1ea3a245dc0939592c0dba94e46ac537eefa8e6e5e0d13e722440e53556588
-Section: 微信插件
-Priority: optional
-Description: 微信优化的重制版，基于微信8.0.64+版本制作。
-Author: 热心网友
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: WCRefine
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCRefine/js.json
 
 
 Package: com.Axs.accode
@@ -3664,26 +3642,6 @@ Name: MoveNotification16
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
 
-Package: com.Axs.msgfilt.rootless
-Version: 1.0-7
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Depends: firmware (>= 5.0)
-Filename: debs/com.Axs.msgfilt.rootless_1.0-7_iphoneos-arm64.deb
-Size: 144848
-MD5sum: 59cdd4a2497e40427aa954fb23100f75
-SHA1: 250b8c44ade9e27d9e383152320ec47804836430
-SHA256: 0aafd468ecba74974cc041905c64cc51c36bd2b78a91597bd5ccf383943e3fa3
-Section: 微信插件
-Priority: optional
-Description: 消息屏蔽助手
-Author: Mao
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: 消息屏蔽助手
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/msgfilt/js.json
-Sponsor: Axs
-
-
 Package: com.Axs.mshfplayer
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -5629,65 +5587,6 @@ Name: watched
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
 
-Package: com.Axs.wchook
-Version: 1.0-2
-Architecture: iphoneos-arm64
-Maintainer: vita
-Installed-Size: 240
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/com.Axs.wchook_1.0-2_iphoneos-arm64.deb
-Size: 28148
-MD5sum: a55ad918bd4a49ca89858641b3435c02
-SHA1: 95f44bcad6b3337e1ff99f0d849f5a87f698857f
-SHA256: 25379406d2a27186ecb1619788688beef2e0979fbf30833557ad671fd9580b64
-Section: 微信插件
-Priority: optional
-Description: 带动画的微信消息手势左滑引用，点击引用快速跳转到原消息
-Author: vita
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: WCHook
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/wchook/js.json
-
-
-Package: com.Axs.wchook
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 400
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/com.Axs.wchook_1.0.2_iphoneos-arm64.deb
-Size: 55736
-MD5sum: 480dd392882899cf3925a271a61cb7ef
-SHA1: b534d5adf1945f7d98dbc6cd82d4f3953f70ce12
-SHA256: cf42c4a081c4a8d61c98cd61d8504398fd27c5c5e82b711e6fe317e8156f6621
-Section: 微信插件
-Priority: optional
-Description: 微信功能扩展，带动画的微信消息手势(左右滑动可单独定义)；点击引用快速跳转到原消息
-Author: vita
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: WCHook
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/wchook/js.json
-
-
-Package: com.Axs.wchook
-Version: 2.0-1
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 1280
-Depends: mobilesubstrate,firmware (>= 15.0)
-Filename: debs/com.Axs.wchook_2.0-1_iphoneos-arm64.deb
-Size: 458856
-MD5sum: a8898e0d83533f9cb906dc397c02d121
-SHA1: f0f872c320168e194fb503543d963076bf5b0792
-SHA256: fd8c432862ff4067d7130cf3cf2aeb9d834c6d0011638900e104c2e07ed5268f
-Section: 微信插件
-Description: 悬浮按钮分屏
-Author: ylr
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: 悬浮按钮分屏
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/wchook/js.json
-
-
 Package: com.Axs.wcplugins.rootless
 Version: 0.1-6
 Architecture: iphoneos-arm64
@@ -5725,25 +5624,6 @@ Icon: https://axs66.github.io/pro/icon/weifeng.png
 Name: 解锁威锋vip
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/weifeng/js.json
 Sponsor: Axs
-
-
-Package: com.Axs.wetypecolorgoogle
-Version: 1.1.4
-Architecture: iphoneos-arm64
-Maintainer: colorblack
-Installed-Size: 144
-Depends: mobilesubstrate
-Filename: debs/com.Axs.wetypecolorgoogle_1.1.4_iphoneos-arm64.deb
-Size: 29096
-MD5sum: c6fefa6a1ae860cea06fcba9034dd9eb
-SHA1: 407c7e6821f2adb637688db2368f9e71fbff6dfc
-SHA256: 49c1a1883923e19def721735bf30cb8946af7a26aa760b81199fbe243023e061
-Section: 微信插件
-Description: 微信输入法 Google 风格毛玻璃键盘配色，适配深色、浅色模式；测试输入法版本 3.5.0。
-Author: colorblack
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: 微信输入法_Google配色
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/wetypecolorgoogle/js.json
 
 
 Package: com.Axs.whiteccborders
@@ -12269,25 +12149,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/appindex.png
 Name: AppIndex(rootless)
 
 
-Package: com.sini.BubbleBox
-Version: 1.0-3
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/com.sini.BubbleBox_1.0-3_iphoneos-arm64.deb
-Size: 1582988
-MD5sum: d03b7ecd20acbd210ce40ad4bef3fd7f
-SHA1: 63eebd9cc426a1b0d2e84519eab638b5cf90e7bb
-SHA256: 2e8e32ec12c03477cb3987cc3af1e53135d05d34bc931b0fd09867b4941c517d
-Section: 微信插件
-Priority: optional
-Description: 微信气泡盒子
-Author: Mao
-Icon: https://sini921.github.io/repo/sileodepiction/icon/BubbleBox.png
-Name: 气泡盒子(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/BubbleBox/js.json
-
-
 Package: com.sini.QQMusicNoAds
 Version: 0.1-2
 Architecture: iphoneos-arm64
@@ -13239,25 +13100,6 @@ Description: 强制取消系统弹窗，如授权弹窗、app签名到期弹窗�
 Author: lenglengyu
 Icon: https://sini921.github.io/repo/sileodepiction/icon/miss.png
 Name: DismissAlert(rootless)
-
-
-Package: com.sini.doutu.rootless
-Version: 3.1-8
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: debs/com.sini.doutu.rootless_3.1-8_iphoneos-arm64.deb
-Size: 787204
-MD5sum: f684145b6a11453475a58195d2d2f581
-SHA1: 4cdc87e2c241b8e602ab3ab2c7602c8d1c68fb50
-SHA256: 3f7b5534e8388d80f59a1e301da7549cc57f4c99b1a0274a7f9c2e787f07050e
-Section: 微信插件
-Priority: optional
-Description: 微信斗图助手
-Author: Mao
-Icon: https://sini921.github.io/repo/sileodepiction/icon/doutu.rootless.png
-Name: 斗图助手(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/doutu.rootless/js.json
 
 
 Package: com.sini.dumpdecrypter
