@@ -13799,6 +13799,60 @@ Icon: https://www.susubaby.top/images/wechat.png
 Name: FuckWeChatAds
 
 
+Package: com.susudear.sharingdalertwatchdog
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/com.susudear.sharingdalertwatchdog_1.0.8_iphoneos-arm64.deb
+Size: 11754
+MD5sum: af803b30bdceca5713d8d2eab05f0818
+SHA1: 95443e826905e4fe1811e8be9739d654c6c90ea7
+SHA256: a922d1c176df5869be7e21d37349c32e736748692ab2fa092b01d44427c42d66
+Section: Tweaks
+Description: 各位开发者是否遇到了 Airdrop 投送后，移动端无法出现菜单，界面卡住崩溃？那试试SharingdAlertWatchdog 吧，他或许可以解决你的困扰
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/airdrop.png
+Name: SharingdAlertWatchdog
+
+
+Package: com.susudear.themecore
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Maintainer: SuSuDear
+Installed-Size: 684
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: debs/com.susudear.themecore_0.1.0_iphoneos-arm64e.deb
+Size: 116924
+MD5sum: 413b8d51fdac0a2d1135a946e8660c62
+SHA1: c97bbb5122eb1455caf0d0dfb3fe3bc84e6d837f
+SHA256: 055c87ce9b42d22f9edeeae7c79a4ab5f227708c06eac3fed80ffd792d5b3a4c
+Section: Tweaks
+Description: 轻量化桌面图标主题插件，修改图标及图标阴影如此轻松，覆盖绝大部分区域，时钟日历可动态图标。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/ThemeCore.png
+Name: ThemeCore
+
+
+Package: com.thefool.ccaudioplay
+Version: 0.0.1-7+debug
+Architecture: iphoneos-arm64
+Maintainer: thefool
+Installed-Size: 29768
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/ccaudioplay_0.0.1-7【双击播放】.deb
+Size: 25099156
+MD5sum: 30f7951238d591dc69ac36e05d311183
+SHA1: 86f015f47e413ab8e9d8024c9cc7a897d698507b
+SHA256: 55530df4ee0f59474bfe32a1fb4dc91bcd3028889dc94e314c836144c2041f1a
+Section: Tweaks
+Description: 播放器美化 不支IOS15
+Author: thefool
+Name: CCAudioPlay
+
+
 Package: com.tigisoftware.filza64bit
 Version: 4.0.1-4
 Architecture: iphoneos-arm64
