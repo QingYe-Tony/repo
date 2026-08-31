@@ -1498,25 +1498,6 @@ Name: 仿ios18控制中心圆角
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/cc18s/js.json
 
 
-Package: com.Axs.ccaudioplay
-Version: 0.0.1-94+debug
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 29540
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.Axs.ccaudioplay_0.0.1-94+debug_iphoneos-arm64.deb
-Size: 25090852
-MD5sum: 6173a6c3780916fff1a046077ba38e14
-SHA1: 54d7c3fe28c733a900adff57dca21145d56383c0
-SHA256: ce49c801fbd504679d3797daa65af198abdae1067dc8631395d5de3f2e7e2d07
-Section: 控制中心
-Description: 播放器美化 不支IOS15
-Author: thefool
-Icon: https://axs66.github.io/pro/icon/ccaudioplay.png
-Name: CCAudioPlay控制中心播放器
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/ccaudioplay/js.json
-
-
 Package: com.Axs.ccbadgeclear
 Version: 1.2-6
 Architecture: iphoneos-arm64
