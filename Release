@@ -2,9 +2,33 @@ Origin: 清野
 Label: 清野
 Suite: stable
 Codename: ios
-Architectures: iphoneos‑arm iphoneos‑arm64
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: 清野越狱源｜支持有根、无根、隐根插件
 MD5Sum:
+0
+ d41d8cd98f00b204e9800998ecf8427e 0 Packages
+29
+ 58574837c0855fdeaa25f3df810b6aa1 0 Packages.gz
+14
+ 4059d198768f9f8dc9372dc1c54bc3c3 0 Packages.bz2
+252
+ 608110a3431fe6a883929510eb5e57fc 0 news.xml
 SHA1:
+0
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 Packages
+29
+ ec63972a8f5eb43de05a4d6a0c93a52ace408a44 0 Packages.gz
+14
+ 64a543afbb5f4bf728636bdcbbe7a2ed0804adc2 0 Packages.bz2
+252
+ 2ac918abaefc5fa8d4b3b330ba0028a8a1817b0c 0 news.xml
 SHA256:
+0
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 Packages
+29
+ 4bd83c8188981e39825656a50f3d48b72239d8cc75d5181652dd8b77401492d8 0 Packages.gz
+14
+ d3dda84eb03b9738d118eb2be78e246106900493c0ae07819ad60815134a8058 0 Packages.bz2
+252
+ ed9f39ff46eb3fbd096ec95303b0d93253ab625ed07ab4b30ec01a28ea1e45c4 0 news.xml
