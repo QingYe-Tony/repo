@@ -8909,225 +8909,16 @@ Sileodepiction: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/main/R
 
 
 Package: com.go.mango
-Version: 0.0.17-1
+Version: 1.0-Beta4-2
 Architecture: iphoneos-arm64
 Maintainer: go
-Installed-Size: 2004
+Installed-Size: 3132
 Depends: mobilesubstrate
-Filename: debs/com.go.mango_0.0.17-1_iphoneos-arm64.deb
-Size: 528656
-MD5sum: 3780b1ba49493453047bab009d3e37a2
-SHA1: 3cff1252ea4d322ad54dd95e3106f2c367d4ce0a
-SHA256: 35b1ed664b0f312a70a27b6eea67e94cb8b2b1f4d9dad8106a31897c2c889715
-Section: 分屏插件
-Description: 液态玻璃风格分屏。付费插件，仅做自用备份。
-Author: go
-Icon: https://axs66.github.io/pro/icon/mango.png
-Name: mango芒果分屏
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
-
-
-Package: com.go.mango
-Version: 0.0.2-1
-Architecture: iphoneos-arm64
-Maintainer: go
-Installed-Size: 852
-Depends: mobilesubstrate
-Filename: debs/com.go.mango_0.0.2-1_iphoneos-arm64.deb
-Size: 245444
-MD5sum: 7428ff113041a21ff5e5adae40c98b92
-SHA1: b4e973827cd0ff708fc49b6a4e924422121d6d79
-SHA256: f880761b7205ad6286ee4096b94ecefefe9caf8852f8d9e856f1c369d5f0f915
-Section: 分屏插件
-Description: 芒果，轻量分屏，舒适，顺手。
-Author: go
-Icon: https://axs66.github.io/pro/icon/mango.png
-Name: mango 芒果分屏
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
-
-
-Package: com.go.mango
-Version: 0.0.3-1
-Architecture: iphoneos-arm64
-Maintainer: go
-Installed-Size: 900
-Depends: mobilesubstrate
-Filename: debs/com.go.mango_0.0.3-1_iphoneos-arm64.deb
-Size: 268720
-MD5sum: 73c1da7013ddb0290949dd524c3cecd2
-SHA1: 28f02a437bbf73a69cb681633facd40de41f039f
-SHA256: 54ffcdcb7e9b5fe00e97b46431fe2799035f9a67964a720a82d5408e5f37bff9
-Section: 分屏插件
-Description: 芒果，轻量分屏，舒适，顺手。
-Author: go
-Icon: https://axs66.github.io/pro/icon/mango.png
-Name: mango 芒果分屏
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
-
-
-Package: com.go.mango
-Version: 0.0.4-1
-Architecture: iphoneos-arm64
-Maintainer: go
-Installed-Size: 916
-Depends: mobilesubstrate
-Filename: debs/com.go.mango_0.0.4-1_iphoneos-arm64.deb
-Size: 266968
-MD5sum: 8f277b3598fe73a7223f312948b218bd
-SHA1: 0141a9b3599b19c34878f60c6e37a4c50fa426b6
-SHA256: bef382eeb54a86384d9dd8a9f0a45ac67660420399d000e0100587ece6e197e7
-Section: 分屏插件
-Description: 芒果，轻量分屏，舒适，顺手。
-Author: go
-Icon: https://axs66.github.io/pro/icon/mango.png
-Name: mango 芒果分屏
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
-
-
-Package: com.go.mango
-Version: 0.0.4.3-1
-Architecture: iphoneos-arm64
-Maintainer: go
-Installed-Size: 948
-Depends: mobilesubstrate
-Filename: debs/com.go.mango_0.0.4.3-1_iphoneos-arm64.deb
-Size: 274076
-MD5sum: 0aabffbe6586e3269c865c7834ac5bb8
-SHA1: 14b59bbfe04e5d06f78c2cb3cc9883f5e339b9b1
-SHA256: 33b652bebe38d0d8e3ab257d1ed2261d68631e60298f681714bc3c209d207d4b
-Section: 分屏插件
-Description: 芒果，轻量分屏，舒适，顺手。
-Author: go
-Icon: https://axs66.github.io/pro/icon/mango.png
-Name: mango 芒果分屏
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
-
-
-Package: com.go.mango
-Version: 0.0.6-1
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 1048
-Depends: mobilesubstrate
-Filename: debs/com.go.mango_0.0.6-1_iphoneos-arm64.deb
-Size: 296732
-MD5sum: fef33e78d206bd1f85c3f6a3454b3669
-SHA1: 6ec91311d6bab74eb7dd5df20276cbbdcdf1fd84
-SHA256: f49dc020e5c9a32689f82cca550e1920d382cba904af552bcf90fc0b6f3dfa7f
-Section: 分屏插件
-Description: 芒果，轻量分屏，舒适，顺手。
-Author: go
-Icon: https://axs66.github.io/pro/icon/mango.png
-Name: mango 芒果分屏
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
-
-
-Package: com.go.mango
-Version: 0.0.6-2
-Architecture: iphoneos-arm64
-Maintainer: go
-Installed-Size: 1048
-Depends: mobilesubstrate
-Filename: debs/com.go.mango_0.0.6-2_iphoneos-arm64.deb
-Size: 297560
-MD5sum: 9e4c54318c751be0f9f167a3b5191a6e
-SHA1: 6ea7a4888384fb8d3c89bb493e5923dfe00047d8
-SHA256: 834e353aca25a6c065a424ca0c2c4ec77160f772a12572a8dca32665be46eca0
-Section: 分屏插件
-Description: 芒果，轻量分屏，舒适，顺手。
-Author: go
-Icon: https://axs66.github.io/pro/icon/mango.png
-Name: mango 芒果分屏
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
-
-
-Package: com.go.mango
-Version: 0.0.7
-Architecture: iphoneos-arm64
-Maintainer: go
-Installed-Size: 1164
-Depends: mobilesubstrate
-Filename: debs/com.go.mango_0.0.7_iphoneos-arm64.deb
-Size: 330548
-MD5sum: 5f0187eb7b62ed14924e418bab3d9697
-SHA1: 02e5850bbc320279ffa84602a67f5c995353790f
-SHA256: e852b2302bfb83fd9c567f2a22d6c5c33e894a95df9b6269e53d8459208ff906
-Section: 分屏插件
-Description: 芒果，轻量分屏，舒适，顺手。
-Author: go
-Icon: https://axs66.github.io/pro/icon/mango.png
-Name: mango 芒果分屏
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
-
-
-Package: com.go.mango
-Version: 0.0.8-1
-Architecture: iphoneos-arm64
-Maintainer: go
-Installed-Size: 1244
-Depends: mobilesubstrate
-Filename: debs/com.go.mango_0.0.8-1_iphoneos-arm64.deb
-Size: 358800
-MD5sum: be82a61961fab87295d3caa2ae17ce33
-SHA1: 2652f7c8b9c1dc59412d33de332a2ee7e3d1fa61
-SHA256: b94d1fb7563d31ced83a8f4b1aa1f70a3ea209a37368c263b7a865883ad99f94
-Section: 分屏插件
-Description: 芒果，轻量分屏，舒适，顺手。
-Author: go
-Icon: https://axs66.github.io/pro/icon/mango.png
-Name: mango 芒果分屏
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
-
-
-Package: com.go.mango
-Version: 0.0.9-1
-Architecture: iphoneos-arm64
-Maintainer: go
-Installed-Size: 1344
-Depends: mobilesubstrate
-Filename: debs/com.go.mango_0.0.9-1_iphoneos-arm64.deb
-Size: 379928
-MD5sum: 50fead3efce4daddede9e7da1065892e
-SHA1: 50519743d48fa1fe96e7e6f4fc6773a4607ab666
-SHA256: 2231bf392f91706373c0caf4cda1a05f6e2cbb9b3d5af9e6fd6c89124fb8c67c
-Section: 分屏插件
-Description: 芒果，轻量分屏，舒适，顺手。
-Author: go
-Icon: https://axs66.github.io/pro/icon/mango.png
-Name: mango 芒果分屏
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
-
-
-Package: com.go.mango
-Version: 1.0-Beta1-2
-Architecture: iphoneos-arm64
-Maintainer: go
-Installed-Size: 2816
-Depends: mobilesubstrate
-Filename: debs/com.go.mango_1.0-Beta1-2_iphoneos-arm64.deb
-Size: 723984
-MD5sum: 8fa9892724a4250cdea275f9447cd20c
-SHA1: 01062e228afdd56ac93ff38076c1d31958d6907f
-SHA256: 95faf8155fcba05faadffeb356b9ca9017560a8e2686827661eae670ed61c253
-Section: 分屏插件
-Description: 分屏，真液态玻璃，视频壁纸等一些实用功能。
-Author: go
-Icon: https://axs66.github.io/pro/icon/mango.png
-Name: mango 芒果分屏
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
-
-
-Package: com.go.mango
-Version: 1.0-Beta3-1
-Architecture: iphoneos-arm64
-Maintainer: go
-Installed-Size: 3068
-Depends: mobilesubstrate
-Filename: debs/com.go.mango_1.0-Beta3-1_iphoneos-arm64.deb
-Size: 885068
-MD5sum: b3f6c446e8c0b717a491c858c539793d
-SHA1: ae5e8ae79892b35036b67d2475430670d43ce448
-SHA256: 15a27e8961439109ce29dbc477a761a2b7f96855d68dd5b93d9267530b1401c1
+Filename: debs/com.go.mango_1.0-Beta4-2_iphoneos-arm64.deb
+Size: 904668
+MD5sum: cd2d4468b713ec74eaa70bf393b5987f
+SHA1: f9a0ffa5691f72913cc7d923404dfd163331a349
+SHA256: e12a279ceda6d987b5d3220cbefabc82063a755b6c3be622f3b95c762dd14b2e
 Section: Tweaks
 Description: 分屏，真液态玻璃，视频壁纸等一些实用功能。
 Author: go
@@ -9135,16 +8926,16 @@ Name: mango
 
 
 Package: com.go.mango
-Version: 1.0-Beta4-1
-Architecture: iphoneos-arm64
+Version: 1.0-Beta4-3
+Architecture: iphoneos-arm64e
 Maintainer: go
-Installed-Size: 3132
+Installed-Size: 3116
 Depends: mobilesubstrate
-Filename: debs/com.go.mango_1.0-Beta4-1_iphoneos-arm64.deb
-Size: 904726
-MD5sum: 65217fde25931154c15b75147fabdb8c
-SHA1: 3aefd8047657a1157683a7756caf2c5b4939cf5b
-SHA256: 475a645e92451db4e9c31629cd780c3253586045f75d7536963ffa62e5855aed
+Filename: debs/com.go.mango_1.0-Beta4-3_iphoneos-arm64e.deb
+Size: 901684
+MD5sum: 09672151e45b0d860c6373e0c0e533aa
+SHA1: 5bb9e5b8d1db44b7073caa8620bc562422818666
+SHA256: 0b8546109ada64f2c2a2de949728ab5a776b1ba41161f884384aac894a4c70c1
 Section: Tweaks
 Description: 分屏，真液态玻璃，视频壁纸等一些实用功能。
 Author: go
