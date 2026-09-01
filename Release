@@ -2,21 +2,6 @@ Origin: 清野
 Label: 清野
 Suite: stable
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
 Components: main
-Description: 清野越狱源｜支持有根、无根、隐根插件
-MD5Sum:
- 2ed10380061080ca92cce9a75380a4a3 386147 Packages
- 41c8b098b89a20d7e139de3e7e141ace 127949 Packages.gz
- b4a0d18769891729f5b3aa0865ca26e7 93959 Packages.bz2
- 608110a3431fe6a883929510eb5e57fc 252 news.xml
-SHA1:
- cfd9120d26d002bfaad56a5153ee6394154ae49e 386147 Packages
- 6252e2d7c1d0f1f9b439c26abbd8a6d55337c132 127949 Packages.gz
- b12e9709e4ad6b19f396659ab7ec099e9e637321 93959 Packages.bz2
- 2ac918abaefc5fa8d4b3b330ba0028a8a1817b0c 252 news.xml
-SHA256:
- f220ed09445f72662b81728892065750d3cf4def80bfe7b1143e8d14fe0d775e 386147 Packages
- 6b11f5bec958d04885e121b1cd7a57126274610145c56760a1ca7139f0e21d90 127949 Packages.gz
- de1fdf320802391c22d2187cf3a65b957e5df7bdcb9d45fa5177472063b91cdb 93959 Packages.bz2
- ed9f39ff46eb3fbd096ec95303b0d93253ab625ed07ab4b30ec01a28ea1e45c4 252 news.xml
+Description: 清野软件源
