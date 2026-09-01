@@ -1,0 +1,11 @@
+<repo>
+  <name>清野</name>
+  <description>个人源</description>
+  <footerlinks>
+    <link>
+      <name>Github</name>
+      <url>https://github.com/QingYe-Tony/repo</url>
+      <iconclass>fa fa-github</iconclass>
+    </link>
+  </footerlinks>
+</repo>
