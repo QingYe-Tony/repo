@@ -2,7 +2,9 @@ name: Build Cydia Repo
 on:
   push:
     branches: [ master ]
-  workflow_dispatch:
+
+permissions:
+  contents: read
 
 jobs:
   build:
@@ -10,48 +12,29 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install dpkg-dev
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y dpkg-dev
+      - name: list debs folder
+        run: ls -la debs
 
-      - name: Generate Packages
+      - name: Install dpkg-dev
+        run: sudo apt-get update && sudo apt-get install -y dpkg-dev
+
+      - name: Generate Packages index
         run: dpkg-scanpackages -m debs /dev/null > Packages
 
-      - name: Compress
-        run: gzip -k -f Packages
+      - name: show Packages file head
+        run: head -50 Packages
 
-      - name: Generate Release
-        run: |
-          echo "Origin: 清野" > Release
-          echo "Label: 清野源" >> Release
-          echo "Suite: stable" >> Release
-          echo "Codename: ios" >> Release
-          echo "Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e" >> Release
-          echo "Components: main" >> Release
-          echo "Description: 清野个人越狱插件源" >> Release
+      - name: Compress index files
+        run: gzip -k -f Packages && bzip2 -k -f Packages
 
-      - name: Prepare publish folder
-        run: |
-          mkdir -p _site
-          cp -r debs _site/
-          cp Packages Packages.gz Release _site/
+      - name: list index files
+        run: ls -la Packages*
 
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Upload index as artifact
+        uses: actions/upload-artifact@v4
         with:
-          path: _site
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          name: repo-index-files
+          path: |
+            Packages
+            Packages.gz
+            Packages.bz2
