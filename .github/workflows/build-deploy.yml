@@ -1,0 +1,45 @@
+name: Build & Deploy Cydia Repo
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install dpkg‑dev
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y dpkg-dev
+
+      - name: Build repo index
+        run: |
+          dpkg-scanpackages -m ./debs /dev/null > Packages
+          gzip -k9 Packages
+          bzip2 -k9 Packages
+
+          cat > Release <<'EOF'
+Origin: 清野
+Label: 清野
+Suite: stable
+Codename: ios
+Architectures: iphoneos‑arm64
+Components: main
+Description: 清野越狱源｜包含有根、无根、隐根(RootHide)插件
+EOF
+          echo "MD5Sum:" >> Release
+          for fn in Packages Packages.gz Packages.bz2;do
+              echo " $(md5sum $fn | awk '{print $1}') $(stat --printf=%s $fn) $fn" >> Release
+          done
+          echo "SHA256Sum:" >> Release
+          for fn in Packages Packages.gz Packages.bz2;do
+              echo " $(sha256sum $fn | awk '{print $1}') $(stat --printf=%s $fn) $fn" >> Release
+          done
+
+      - name: Publish to gh‑pages branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
