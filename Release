@@ -2,6 +2,6 @@ Origin: QingYe
 Label: QingYe
 Suite: stable
 Codename: ios
-Architectures: iphoneos-arm64 iphoneos-arm64e
+Architectures: iphoneos‑arm64 iphoneos‑arm64e
 Components: main
 Description: QingYe Personal Repo
