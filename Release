@@ -1,22 +1,7 @@
-Origin: 清野
-Label: 清野
+Origin: QingYe
+Label: QingYe
 Suite: stable
 Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: 清野越狱源 | 支持有根、无根、隐根插件
-
-MD5Sum:
- 0898488b5bbd6185c9af960f2ea01e67 320780 Packages
- f5e3298ba48461fa3156a390a30cc37f 123365 Packages.gz
- 4059d198768f9f8dc9372dc1c54bc3c3 14 Packages.bz2
- 608110a3431fe6a883929510eb5e57fc 252 news.xml
-SHA1:
- 91799618529ebff94631264a084420e532c4b08d 320780 Packages
- 8777ddca43a3f09db1fdf09a320f14b09ceda480 123365 Packages.gz
- 64a543afbb5f4bf728636bdcbbe7a2ed0804adc2 14 Packages.bz2
- 2ac918abaefc5fa8d4b3b330ba0028a8a1817b0c 252 news.xml
-SHA256:
- 9e241327074f258c115097d6e3a958cf34e7d261e718cc0fc1174e6b51248c16 320780 Packages
- 9b7c811dea266d2afdea0367a7499b08506fa6b7344d3978c22e30b28112ac15 123365 Packages.gz
- d3dda84eb03b9738d118eb2be78e246106900493c0ae07819ad60815134a8058 14 Packages.bz2
- ed9f39ff46eb3fbd096ec95303b0d93253ab625ed07ab4b30ec01a28ea1e45c4 252 news.xml
+Description: QingYe Personal Repo

@@ -58,7 +58,7 @@ Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: debs/滑雪板-内置扩展_1.5.50.deb
+Filename: debs/snowboard_1.5.50.deb
 Size: 1255596
 MD5sum: 069b3abe4e9317ea301568357dd59ea1
 SHA1: 34ac02aebc8f633fdba518304b4b7c69dd535ed9
@@ -75,7 +75,7 @@ Architecture: iphoneos-arm64
 Maintainer: thefool
 Installed-Size: 29768
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/ccaudioplay_0.0.1-7【双击播放】.deb
+Filename: debs/ccaudioplay_0.0.1-7.deb
 Size: 25099156
 MD5sum: 30f7951238d591dc69ac36e05d311183
 SHA1: 86f015f47e413ab8e9d8024c9cc7a897d698507b
