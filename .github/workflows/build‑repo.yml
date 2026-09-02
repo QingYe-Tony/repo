@@ -4,29 +4,37 @@ on:
     branches: [ master ]
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+
+      - name: list debs folder
+        run: ls -la debs
 
       - name: Install dpkg-dev
         run: sudo apt-get update && sudo apt-get install -y dpkg-dev
 
-      - name: Generate Packages
+      - name: Generate Packages index
         run: dpkg-scanpackages -m debs /dev/null > Packages
 
-      - name: Compress index
+      - name: show Packages file head
+        run: head -50 Packages
+
+      - name: Compress index files
         run: gzip -k -f Packages && bzip2 -k -f Packages
 
-      - name: Commit and push
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add Packages Packages.gz Packages.bz2
-          git commit -m "Auto update repo index" || echo "No changes to commit"
-          git push
+      - name: list index files
+        run: ls -la Packages*
+
+      - name: Upload index as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: repo-index-files
+          path: |
+            Packages
+            Packages.gz
+            Packages.bz2
