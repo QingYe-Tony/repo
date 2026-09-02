@@ -2,10 +2,16 @@ Origin: QingYe-Tony Repo
 Label: QingYe-Tony Repo
 Suite: stable
 Codename: ios
-Architectures: iphoneos-arm64
+Architectures: iphoneos‑arm64
 Components: main
 Description: My Cydia Repo
 MD5Sum:
+791717
+ 0664079a6fbb5949ead60fd2e029e510 0 Packages
+194154
+ e15530724eb2bb8b58f572523562d71e 0 Packages.gz
+150763
+ 50fbf7983ab951285636e9530ced9158 0 Packages.bz2
 SHA256Sum:
 791717
  cb19eec311a478cec540fecd19f9de5b0fd6005b70cddbe809ca9f2fbccc0b38 0 Packages
