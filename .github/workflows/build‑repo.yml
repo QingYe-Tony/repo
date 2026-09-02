@@ -4,27 +4,24 @@ on:
     branches: [ master ]
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install tools
+      - name: Install dpkg-dev
         run: |
           sudo apt-get update
           sudo apt-get install -y dpkg-dev
 
-      - name: Generate multi-version Packages index
+      - name: Generate Packages
         run: dpkg-scanpackages -m debs /dev/null > Packages
 
-      - name: Compress index
+      - name: Compress
         run: gzip -k -f Packages
 
-      - name: Generate Release file
+      - name: Generate Release
         run: |
           echo "Origin: 清野" > Release
           echo "Label: 清野源" >> Release
@@ -34,10 +31,27 @@ jobs:
           echo "Components: main" >> Release
           echo "Description: 清野个人越狱插件源" >> Release
 
-      - name: Commit index files
+      - name: Prepare publish folder
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add Packages Packages.gz Release
-          git commit -m "Auto update repo index" || true
-          git push
+          mkdir -p _site
+          cp -r debs _site/
+          cp Packages Packages.gz Release _site/
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
