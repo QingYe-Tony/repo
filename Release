@@ -1,10 +1,10 @@
-Origin: QingYe-Tony Repo
-Label: QingYe-Tony Repo
+Origin: 清野
+Label: 清野
 Suite: stable
 Codename: ios
 Architectures: iphoneos‑arm64
 Components: main
-Description: My Cydia Repo
+Description: 清野越狱源 | 支持有根、无根、隐根插件
 MD5Sum:
 791717
  0664079a6fbb5949ead60fd2e029e510 0 Packages
