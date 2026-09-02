@@ -6,16 +6,10 @@ Architectures: iphoneos‑arm64
 Components: main
 Description: 清野越狱源 | 支持有根、无根、隐根插件
 MD5Sum:
-791717
- 0664079a6fbb5949ead60fd2e029e510 0 Packages
-194154
- e15530724eb2bb8b58f572523562d71e 0 Packages.gz
-150763
- 50fbf7983ab951285636e9530ced9158 0 Packages.bz2
+ 0664079a6fbb5949ead60fd2e029e510 791717 Packages
+ e15530724eb2bb8b58f572523562d71e 194154 Packages.gz
+ 50fbf7983ab951285636e9530ced9158 150763 Packages.bz2
 SHA256Sum:
-791717
- cb19eec311a478cec540fecd19f9de5b0fd6005b70cddbe809ca9f2fbccc0b38 0 Packages
-194154
- 4c161ee71f147d18d0b9f6bb2bbe3e40d2b5a95940d7e96301ac55ff5a2d34e5 0 Packages.gz
-150763
- d9cecaa539e8dc7b460f314b8a4569b2b04d692c9eb8ddf1b09064ec834cd6d6 0 Packages.bz2
+ cb19eec311a478cec540fecd19f9de5b0fd6005b70cddbe809ca9f2fbccc0b38 791717 Packages
+ 4c161ee71f147d18d0b9f6bb2bbe3e40d2b5a95940d7e96301ac55ff5a2d34e5 194154 Packages.gz
+ d9cecaa539e8dc7b460f314b8a4569b2b04d692c9eb8ddf1b09064ec834cd6d6 150763 Packages.bz2
