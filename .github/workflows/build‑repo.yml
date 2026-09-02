@@ -39,17 +39,15 @@ jobs:
       - name: Compress index
         run: gzip -k -f Packages
 
-      - name: Generate Release
+      - name: Generate Release file
         run: |
-          cat > Release <<EOF
-Origin: 清野
-Label: 清野源
-Suite: stable
-Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
-Components: main
-Description: 清野个人越狱插件源
-EOF
+          echo "Origin: 清野" > Release
+          echo "Label: 清野源" >> Release
+          echo "Suite: stable" >> Release
+          echo "Codename: ios" >> Release
+          echo "Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e" >> Release
+          echo "Components: main" >> Release
+          echo "Description: 清野个人越狱插件源" >> Release
 
       - name: Commit index files
         run: |
