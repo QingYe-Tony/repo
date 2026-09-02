@@ -5,7 +5,7 @@ if [ ! -d "./debs" ];then
 fi
 
 echo "🔨 生成Packages索引（保留多版本）"
-dpkg‑scanpackages -m debs /dev/null > Packages
+/opt/local/bin/dpkg-scanpackages -m debs /dev/null > Packages
 
 echo "📦 压缩索引文件"
 gzip -k -f Packages
