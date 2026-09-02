@@ -9,35 +9,35 @@ permissions:
 
 jobs:
   build:
-    runs-on: ubuntu‑latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
       - name: Install tools
         run: |
-          sudo apt‑get update
-          sudo apt‑get install ‑y dpkg‑dev zstd
+          sudo apt-get update
+          sudo apt-get install -y dpkg-dev zstd
 
-     ‑ name: Fix RootHide zstd deb (convert control.tar.zst → control.tar.xz)
+      - name: Fix RootHide zstd deb
         run: |
           for deb in debs/*.deb; do
-            tmp=$(mktemp ‑d)
+            tmp=$(mktemp -d)
             cd $tmp
             ar x $deb
-            if [ ‑f control.tar.zst ]; then
-              zstd ‑d control.tar.zst
-              xz ‑z control.tar
-              ar r $deb debian‑binary control.tar.xz data.tar.*
+            if [ -f control.tar.zst ]; then
+              zstd -d control.tar.zst
+              xz -z control.tar
+              ar r $deb debian-binary control.tar.xz data.tar.*
             fi
-            cd ‑
-            rm ‑rf $tmp
+            cd -
+            rm -rf $tmp
           done
 
-      - name: Generate multi‑version Packages index
-        run: dpkg‑scanpackages ‑m debs /dev/null > Packages
+      - name: Generate multi-version Packages index
+        run: dpkg-scanpackages -m debs /dev/null > Packages
 
       - name: Compress index
-        run: gzip ‑k ‑f Packages
+        run: gzip -k -f Packages
 
       - name: Generate Release
         run: |
@@ -46,15 +46,15 @@ Origin: 清野
 Label: 清野源
 Suite: stable
 Codename: ios
-Architectures: iphoneos‑arm iphoneos‑arm64 iphoneos‑arm64e
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 清野个人越狱插件源
 EOF
 
-      - name: Commit generated index files
+      - name: Commit index files
         run: |
-          git config user.name "github‑actions[bot]"
-          git config user.email "github‑actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add Packages Packages.gz Release
-          git commit ‑m "Auto update repo index" || true
+          git commit -m "Auto update repo index" || true
           git push
