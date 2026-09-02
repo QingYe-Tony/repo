@@ -2,6 +2,6 @@ Origin: 清野
 Label: 清野
 Suite: stable
 Codename: ios
-Architectures: iphoneos‑arm64 iphoneos‑arm64e
+Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: QingYe Personal Repo
+Description: 清野 Cydia源
