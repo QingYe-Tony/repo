@@ -18,20 +18,27 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y dpkg-dev zstd
 
-      - name: Fix RootHide zstd deb
+      - name: Fix RootHide zstd deb (skip broken deb)
         run: |
+          set +e
           for deb in debs/*.deb; do
             tmp=$(mktemp -d)
             cd $tmp
-            ar x $deb
+            if ! ar x "$deb"; then
+              echo "WARN: broken deb, skip: $deb"
+              cd -
+              rm -rf $tmp
+              continue
+            fi
             if [ -f control.tar.zst ]; then
               zstd -d control.tar.zst
               xz -z control.tar
-              ar r $deb debian-binary control.tar.xz data.tar.*
+              ar r "$deb" debian-binary control.tar.xz data.tar.*
             fi
             cd -
             rm -rf $tmp
           done
+          set -e
 
       - name: Generate multi-version Packages index
         run: dpkg-scanpackages -m debs /dev/null > Packages
