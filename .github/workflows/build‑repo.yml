@@ -11,20 +11,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Install dpkg‑dev
-        run: sudo apt‑get update && sudo apt‑get install -y dpkg‑dev
+      - name: Install dpkg-dev
+        run: sudo apt-get update && sudo apt-get install -y dpkg-dev
 
-      - name: Generate Packages（原生支持zstd、iphoneos‑arm64e）
-        run: dpkg‑scanpackages -m debs /dev/null > Packages
+      - name: Generate Packages
+        run: dpkg-scanpackages -m debs /dev/null > Packages
 
       - name: Compress index
         run: gzip -k -f Packages && bzip2 -k -f Packages
 
-      - name: Commit & push index files
+      - name: Commit and push
         run: |
-          git config --global user.name "github‑actions"
-          git config --global user.email "actions@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add Packages Packages.gz Packages.bz2
-          git commit -m "auto update repo index" || true
+          git commit -m "Auto update repo index" || echo "No changes to commit"
           git push
