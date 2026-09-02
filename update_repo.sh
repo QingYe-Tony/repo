@@ -1,7 +1,7 @@
 #!/bin/zsh
 rm -f Packages Packages.gz Packages.bz2 Release
 
-dpkg‑scanpackages -m ./debs /dev/null > Packages
+/opt/local/bin/dpkg-scanpackages -m ./debs /dev/null > Packages
 gzip -c9 Packages > Packages.gz
 bzip2 -c9 Packages > Packages.bz2
 

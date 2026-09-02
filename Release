@@ -6,10 +6,10 @@ Architectures: iphoneos‑arm64
 Components: main
 Description: 清野越狱源 | 支持有根、无根、隐根插件
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e 0 Packages
- 1d19ab3f3f620c6e6de1f4fe85bea737 29 Packages.gz
- 4059d198768f9f8dc9372dc1c54bc3c3 14 Packages.bz2
+ 0664079a6fbb5949ead60fd2e029e510 791717 Packages
+ 04dbe25f98f97f511333fe4ca05b0a96 194154 Packages.gz
+ 50fbf7983ab951285636e9530ced9158 150763 Packages.bz2
 SHA256Sum:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 Packages
- 6ddf5579b7ef2ed0499e4e5041a33db279785ff7bda0682a9f53514a2d5471db 29 Packages.gz
- d3dda84eb03b9738d118eb2be78e246106900493c0ae07819ad60815134a8058 14 Packages.bz2
+ cb19eec311a478cec540fecd19f9de5b0fd6005b70cddbe809ca9f2fbccc0b38 791717 Packages
+ a36e0fcbac675e11833f3720fab39ce675d9135a0df8cef977870edc716cdfd2 194154 Packages.gz
+ d9cecaa539e8dc7b460f314b8a4569b2b04d692c9eb8ddf1b09064ec834cd6d6 150763 Packages.bz2
