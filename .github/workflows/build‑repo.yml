@@ -35,5 +35,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add Packages Packages.gz Release
-          git commit -m "Auto build repo index，附带Depiction描述页" || true
+          git commit -m "Auto build repo index with Depiction page" || true
           git push
