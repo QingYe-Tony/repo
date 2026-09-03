@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Install dpkg-dev
         run: sudo apt-get update && sudo apt-get install -y dpkg-dev
@@ -41,12 +43,23 @@ jobs:
           printf ' %64s %8d Packages\n' $(sha256sum Packages | awk '{print $1}') $(stat -c%s Packages) >> Release
           printf ' %64s %8d Packages.gz\n' $(sha256sum Packages.gz | awk '{print $1}') $(stat -c%s Packages.gz) >> Release
 
+          echo "SHA512Sum:" >> Release
+          printf ' %128s %8d Packages\n' $(sha512sum Packages | awk '{print $1}') $(stat -c%s Packages) >> Release
+          printf ' %128s %8d Packages.gz\n' $(sha512sum Packages.gz | awk '{print $1}') $(stat -c%s Packages.gz) >> Release
+
           echo 'Depiction: https://qingye-tony.github.io/repo/index.html' >> Release
 
-      - name: Commit push index
+      - name: Commit & Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add Packages Packages.gz Release
           git commit -m "Auto update index" || true
-          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push commit
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
