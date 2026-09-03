@@ -23,9 +23,11 @@ jobs:
 
       - name: Generate Release
         run: |
-          apt-ftparchive release . > Release
+          apt-ftparchive release . > Release.tmp
+          echo "Architectures: iphoneos-arm64 iphoneos-arm64e" > Release
+          cat Release.tmp >> Release
+          rm -f Release.tmp
           echo 'Depiction: https://qingye-tony.github.io/repo/index.html' >> Release
-          sed -i '$ d' Release
 
       - name: Commit push index
         run: |
