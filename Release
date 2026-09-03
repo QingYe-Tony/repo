@@ -1,19 +1,19 @@
 Architectures: iphoneos-arm64 iphoneos-arm64e
-Date: Thu, 03 Sep 2026 12:37:31 +0000
+Date: Thu, 03 Sep 2026 12:42:40 +0000
 MD5Sum:
  0d5827d82010a029afa877907107deba           758802 Packages
- 4a3879e71e51d77ab0bc841d1f36b04a           194906 Packages.gz
- 79d9f07a99b7852fe5b1c31a6827a7dd             1204 Release
+ c7d1ff13931346ede7d2bb128558e727           194906 Packages.gz
+ ebe3ab575484e0a662be3f8db791572c               38 Release
 SHA1:
  c9096c498563a785fdd52c0fc461d0da18fe8ccc           758802 Packages
- 591236721c2c08f39b66055f899ebb9e193ab1d8           194906 Packages.gz
- c88069f98af35c9cf6d089a1ce821cf7d6f3178f             1204 Release
+ 53ad5d940aa2a56e4b63e8fc5e14ad51495ffbe8           194906 Packages.gz
+ 3a286dcf3aead01f2e0ecd345bab073f026d5212               38 Release
 SHA256:
  b2ed258a081bdeff17e59b39645bf030fabcb9b6f8c85fcb8e0b8a3dca0cc57d           758802 Packages
- 309406171d34dd5297ab93da8574719fdfb9a6c0e0ae39efd05377a7230ce6c3           194906 Packages.gz
- b3870a1bfc3b8fea36222f18367825c5479246d83380bfb66f3463b5543cc2ca             1204 Release
+ 2f55e4dc5c2e83c17f92fb430ddd31a9f2932c8c696a9215f70265250fa8439a           194906 Packages.gz
+ 0dc93aa353533c9a169d2432967a5ec00c664acfbcb764b95b972d1af3df918f               38 Release
 SHA512:
  74130e31774730181f03a73fb176c9ab38f78ac72bc91e2cf78e48688dcc86a0afe4bbc13885cff80b08b229ef360c0a797cba174c2a19aa060c57adeb61be85           758802 Packages
- 274aa14c50fc35a3f6734ed6b414498094de7462da20124e98c88b3a15b0b8ae31a31a611da8cf3309f32189ea83d38836b0e1d2812a7a264e536cf633c61ac8           194906 Packages.gz
- 6ead2528d630c3ca009ab1148a161b523b7a49308e51fb867a5ea706065f09f709b5f2b67faa6bf6bb01e93e28457bef845d56937661290651d43ae075d9fbd0             1204 Release
+ b318e5da59c944340c213684dd459142da19dec08c6de1c1a01ab4c3847a61081e2741e2d4940c377de51d7b68434087ac07e6a14a1d5307f6d362bd41fc5b83           194906 Packages.gz
+ 0e97bb0f0a156ebe84cd5c3aad9d9ecd885a7956c386bed18bd384bd848c84e7336ba2fe14ee3e2beba8eeefbb761252d98cf3254e9e91ec3c57ecf5cfc7134f               38 Release
 Depiction: https://qingye-tony.github.io/repo/index.html
