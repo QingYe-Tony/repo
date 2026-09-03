@@ -20,7 +20,7 @@ jobs:
           sudo apt-get update -yq
           sudo apt-get install -yq dpkg-dev zstd
 
-      - name: Generate Packages (‑m 保留多版本)
+      - name: Generate Packages (-m 保留多版本)
         run: dpkg-scanpackages -m debs /dev/null > Packages
 
       - name: Compress Packages
@@ -29,15 +29,15 @@ jobs:
       - name: Build Release,注入Architectures字段
         run: |
           apt-ftparchive release . > Release.tmp
-          echo "Architectures: iphoneos-arm64 iphoneos-arm64e" > Release
+          printf "Architectures: iphoneos-arm64 iphoneos-arm64e\n" > Release
           cat Release.tmp >> Release
           rm -f Release.tmp
-          echo "Depiction: https://qingye-tony.github.io/repo/index.html" >> Release
+          printf "Depiction: https://qingye-tony.github.io/repo/index.html\n" >> Release
 
       - name: Commit & Push changes
         run: |
-          git config --global user.name "github‑actions[bot]"
-          git config --global user.email "github‑actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add -f Packages Packages.gz Release
           git commit -m "Auto update repo index" || true
-          git push
+          git push origin master
