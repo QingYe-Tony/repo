@@ -36,6 +36,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add Packages Packages.gz Release
+          git add -f Packages Packages.gz Release
           git commit -m "build repo" || true
           git push
