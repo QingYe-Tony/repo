@@ -1,17 +1,17 @@
 {
-    "class":"FeaturedStackView",
-    "minVersion":"0.7",
-    "views":[
+    "class": "FeaturedStackView",
+    "minVersion": "0.7",
+    "views": [
         {
-            "class":"FeaturedBannersView",
-            "itemSize":"{263, 148}",
-            "itemCornerRadius":12,
-            "banners":[
+            "class": "FeaturedBannersView",
+            "itemSize": "{263, 148}",
+            "itemCornerRadius": 12,
+            "banners": [
                 {
-                    "url":"https://qingye-tony.github.io/repo/banner.jpg",
-                    "title":"清野源",
-                    "subtitle":"iOS插件软件源",
-                    "action":"repo"
+                    "url": "https://qingye-tony.github.io/repo/banner.jpg",
+                    "title": "清野源",
+                    "subtitle": "iOS插件软件源",
+                    "action": "repo"
                 }
             ]
         }
