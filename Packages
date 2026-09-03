@@ -8935,6 +8935,78 @@ Icon: https://axs66.github.io/pro/icon/snapper.png
 Name: Snapper3 Expand
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper3expand/js.json
 
+Package: com.axs.snapper4
+Version: 5.2.0-19
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 1408
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
+Filename: debs/com.axs.snapper4_5.2.0-19_iphoneos-arm64.deb
+Size: 308314
+MD5sum: e8c18540ee88a724faba0b5f03a191af
+SHA1: 9b3004366f1649cc4c044f63de10ea0b18e523dd
+SHA256: 529e4082f99c8600bbda49b1d0504a1c2225247c4274d264d5c0147b9aa07343
+Section: Axs-Tweaks
+Description: 这是一款截图工具。
+ * 一、基本设置
+ * 1、移动标记：开启后标注内容可拖动调整位置；
+ * 2、功能开关与排序：设置面板内可开关并拖拽排序全部功能。
+ * 二、触发方式
+ * 1、音量增+电源键=：可选系统截图或插件截图；
+ * 2、长按音量减→插件截图：开启后长按音量减约 0.2 秒调出冻结模式。
+ * 三、截图设置
+ * 1、截图仅复制：截图后仅复制到剪贴板；
+ * 2、长截图方式：滚动拼接 / 一镜到底，智能帧匹配自动拼接；
+ * 四、AI 服务（识别与翻译）
+ * 1、Sileo：Sileo 描述页长按翻译纯文本，翻译方式可选百度翻译或 AI 翻译；
+ * 2、AI 互译与问答：中英文互译与中文问答，支持自定义提示词与 AI 对话模式，半屏浮层展示；
+ * 3、文字识别 (OCR)：模型识别截图文字，半屏浮层展示、涂抹选择、一键复制；
+ * 4、百度翻译：自动检测语言双向翻译（中文↔外语），支持图片翻译 / 文本翻译双通道。
+ * 五、扩展功能
+ * 1、截图标记：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制；
+ * 2、URL 触发：支持手势插件通过 prefs:root=snapper4_freeze（冻结）/ prefs:root=snapper4_long（长截图）系统深链触发。
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper 4
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
+
+Package: com.axs.snapper4
+Version: 5.2.0-19
+Architecture: iphoneos-arm64e
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 1408
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
+Filename: debs/com.axs.snapper4_5.2.0-19_iphoneos-arm64e.deb
+Size: 308130
+MD5sum: 02a5557fabbc6438947ac2a520ec45ab
+SHA1: b5cb1e6d345276677653edb3f36c1f8304430427
+SHA256: afbcd89127bf75a4abc7582774f77ba25d1e1a42b94e595300b41e84922f1942
+Section: Axs-Tweaks
+Description: 这是一款截图工具。
+ * 一、基本设置
+ * 1、移动标记：开启后标注内容可拖动调整位置；
+ * 2、功能开关与排序：设置面板内可开关并拖拽排序全部功能。
+ * 二、触发方式
+ * 1、音量增+电源键=：可选系统截图或插件截图；
+ * 2、长按音量减→插件截图：开启后长按音量减约 0.2 秒调出冻结模式。
+ * 三、截图设置
+ * 1、截图仅复制：截图后仅复制到剪贴板；
+ * 2、长截图方式：滚动拼接 / 一镜到底，智能帧匹配自动拼接；
+ * 四、AI 服务（识别与翻译）
+ * 1、Sileo：Sileo 描述页长按翻译纯文本，翻译方式可选百度翻译或 AI 翻译；
+ * 2、AI 互译与问答：中英文互译与中文问答，支持自定义提示词与 AI 对话模式，半屏浮层展示；
+ * 3、文字识别 (OCR)：模型识别截图文字，半屏浮层展示、涂抹选择、一键复制；
+ * 4、百度翻译：自动检测语言双向翻译（中文↔外语），支持图片翻译 / 文本翻译双通道。
+ * 五、扩展功能
+ * 1、截图标记：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制；
+ * 2、URL 触发：支持手势插件通过 prefs:root=snapper4_freeze（冻结）/ prefs:root=snapper4_long（长截图）系统深链触发。
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper 4
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
+
 Package: com.axs.switchicon
 Version: 5.2.0-131
 Architecture: iphoneos-arm64
@@ -19696,10 +19768,10 @@ Installed-Size: 684
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: debs/com.susudear.themecore_0.1.0_iphoneos-arm64e.deb
-Size: 116592
-MD5sum: a93442476e3ef7a3b6725ded9fcdcae3
-SHA1: 742d92839085e83736f478d169b7c2475f1282dd
-SHA256: bc794e1cac7106cef1cf570fb22aab6ed95b06170c407cb70fe25c8bc95f2ce7
+Size: 116924
+MD5sum: 413b8d51fdac0a2d1135a946e8660c62
+SHA1: c97bbb5122eb1455caf0d0dfb3fe3bc84e6d837f
+SHA256: 055c87ce9b42d22f9edeeae7c79a4ab5f227708c06eac3fed80ffd792d5b3a4c
 Section: Tweaks
 Description: 轻量化桌面图标主题插件，修改图标及图标阴影如此轻松，覆盖绝大部分区域，时钟日历可动态图标。
 Author: SuSuDear
@@ -19713,10 +19785,10 @@ Maintainer: SuSuDear
 Installed-Size: 684
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: debs/com.susudear.themecore_0.1.0_iphoneos-arm64.deb
-Size: 118916
-MD5sum: a91a8638970d59445b28720e3ba48d84
-SHA1: 93af6f50996bb02ec12cbd925135b1c16a10a0cc
-SHA256: e64d9f0e97ba7ec9bd55db0a8f8dc323b499c98afbf0125bcba222bfb55cabf2
+Size: 118644
+MD5sum: 4884ae2e9714b9773f6a769e53d9b490
+SHA1: 0e934402ef07b5ef5ba2d9c1cfa1a97153f6b38d
+SHA256: 6c8840e1b72f4e8f6b2158144cedc0600d141c5dccf0560354cc30cefbce03e8
 Section: Tweaks
 Description: 轻量化桌面图标主题插件，修改图标及图标阴影如此轻松，覆盖绝大部分区域，时钟日历可动态图标。
 Author: SuSuDear
@@ -19731,10 +19803,10 @@ Installed-Size: 684
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: debs/com.susudear.themecore_0.2.0_iphoneos-arm64e.deb
-Size: 116956
-MD5sum: 9cdb881fae2d488d38e9a977cf2e49de
-SHA1: 5776b9e738502dbac7972104f5d45f82b205ffbc
-SHA256: 8d4db54d6bcb0ade03c1290d1ccacfd931cc8a186b31ae33d19f1dbe67609a56
+Size: 116788
+MD5sum: 7e7680675d00e47fac94f69197b103a9
+SHA1: beb5be266580d37da1fa8cdf8a2b8ed9fa3585db
+SHA256: 9839bc29a4c318634517f5177e8a31e60bc0980867958b03334f2eeb514ae72b
 Section: Tweaks
 Description: 轻量化桌面图标主题插件，修改图标及图标阴影如此轻松，覆盖绝大部分区域，时钟日历可动态图标。
 Author: SuSuDear
@@ -19748,10 +19820,27 @@ Maintainer: SuSuDear
 Installed-Size: 684
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: debs/com.susudear.themecore_0.2.0_iphoneos-arm64.deb
-Size: 118592
-MD5sum: f6c6a6d38b8619bb251533aee831ba83
-SHA1: db16fc6819bdef3511215d35c566f2f3e365aa03
-SHA256: 05b77ad45d1d957b84a89e10727977e63e55da330929d4a73557769ce225af24
+Size: 118652
+MD5sum: 3874ed4114b7b5a0347e0dc627d95fb9
+SHA1: f4990040d6f83d6d7f17cf9c2270e5ac12cd10ee
+SHA256: 771ac58f7987360e461dc7a7cb6f8438bfc0773d418399a2c3f7a50c2b8d2780
+Section: Tweaks
+Description: 轻量化桌面图标主题插件，修改图标及图标阴影如此轻松，覆盖绝大部分区域，时钟日历可动态图标。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/ThemeCore.png
+Name: ThemeCore
+
+Package: com.susudear.themecore
+Version: 0.2.1
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 736
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: debs/com.susudear.themecore_0.2.1_iphoneos-arm64.deb
+Size: 128972
+MD5sum: 927df20d098a3fda6de12d93caa2ff91
+SHA1: 9e810f167d966a4583854e403247b275f64b7e55
+SHA256: 2f7d55c6d309c93d94dd6b68466d9dd1b574172de917beb9aeb8c559f16ea45b
 Section: Tweaks
 Description: 轻量化桌面图标主题插件，修改图标及图标阴影如此轻松，覆盖绝大部分区域，时钟日历可动态图标。
 Author: SuSuDear
@@ -19766,10 +19855,45 @@ Installed-Size: 736
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: debs/com.susudear.themecore_0.2.1_iphoneos-arm64e.deb
-Size: 126672
-MD5sum: 5f391b440936c67b9fdcd2b07aea132b
-SHA1: 3477a37668ef285846dbd550e5c420a13dd210b6
-SHA256: 22360efd268567548564be15c0d3657c2303fb18b2fe938ea32ef27b357bdd36
+Size: 126868
+MD5sum: 41e91d6f887501a549fe2d471951d7b0
+SHA1: 0acc623c6bf23a464ffd84497db4192004852e95
+SHA256: dba7c48afb089f9f82244d338b95519fcfc81a70d2793b5ad3ccdd6cc1a1ad9b
+Section: Tweaks
+Description: 轻量化桌面图标主题插件，修改图标及图标阴影如此轻松，覆盖绝大部分区域，时钟日历可动态图标。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/ThemeCore.png
+Name: ThemeCore
+
+Package: com.susudear.themecore
+Version: 0.3
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 736
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: debs/com.susudear.themecore_0.3_iphoneos-arm64.deb
+Size: 127196
+MD5sum: 3d63e574e5e802ff2296fe3821929f62
+SHA1: bf586d40383cbbd305774aa1aff3d94b1a5c9b60
+SHA256: 6313cd183ce227cec3e0eef89564f9f1772fbd7c2a0b3063427266a08a1d518d
+Section: Tweaks
+Description: 轻量化桌面图标主题插件，修改图标及图标阴影如此轻松，覆盖绝大部分区域，时钟日历可动态图标。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/ThemeCore.png
+Name: ThemeCore
+
+Package: com.susudear.themecore
+Version: 0.3
+Architecture: iphoneos-arm64e
+Maintainer: SuSuDear
+Installed-Size: 736
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: debs/com.susudear.themecore_0.3_iphoneos-arm64e.deb
+Size: 125366
+MD5sum: d06b1451b2411af253214fc68219648d
+SHA1: 3ba418dccf52ac6678c05f2f560b06b313fbe570
+SHA256: 0e8656c5771e5a9f61bcd4661ed7dfc606f3cc2f649b4f23aad991e3b041ac57
 Section: Tweaks
 Description: 轻量化桌面图标主题插件，修改图标及图标阴影如此轻松，覆盖绝大部分区域，时钟日历可动态图标。
 Author: SuSuDear
