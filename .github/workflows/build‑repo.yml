@@ -1,43 +1,38 @@
-name: Build Repo
-
+name: Build Cydia Repo
 on:
+  workflow_dispatch:
   push:
     branches: [ master ]
+    paths:
+      - 'debs/**'
 
 permissions:
   contents: write
 
 jobs:
-  build_repo:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Install dependencies
-        run: |
-          sudo apt-get update -yq
-          sudo apt-get install -yq dpkg-dev zstd
+      - name: Install dpkg‑dev
+        run: sudo apt update && sudo apt install -y dpkg-dev apt-utils
 
-      - name: Generate Packages (-m 保留多版本)
-        run: dpkg-scanpackages -m debs /dev/null > Packages
+      - name: Generate Packages multi‑version
+        run: dpkg‑scanpackages -m debs /dev/null > Packages
 
       - name: Compress Packages
         run: gzip -k -f Packages
 
-      - name: Build Release,注入Architectures字段
-        run: |
-          apt-ftparchive release . > Release.tmp
-          printf "Architectures: iphoneos-arm64 iphoneos-arm64e\n" > Release
-          cat Release.tmp >> Release
-          rm -f Release.tmp
-          printf "Depiction: https://qingye-tony.github.io/repo/index.html\n" >> Release
+      - name: Generate Release
+        run: apt‑ftparchive release . > Release
 
-      - name: Commit & Push changes
+      - name: Commit & push index files
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add -f Packages Packages.gz Release
+          git config user.name "github‑actions[bot]"
+          git config user.email "github‑actions[bot]@users.noreply.github.com"
+          git add Packages Packages.gz Release
           git commit -m "Auto update repo index" || true
-          git push origin master
+          git push
