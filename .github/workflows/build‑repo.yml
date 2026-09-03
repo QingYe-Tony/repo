@@ -13,27 +13,27 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Install apt‑utils dpkg‑dev
+      - name: Install apt-utils dpkg-dev
         run: |
           apt-get update
           apt-get install -y dpkg-dev apt-utils
 
-      - name: Scan all deb packages (支持zstd压缩deb)
+      - name: Scan all deb packages
         run: dpkg-scanpackages -m debs /dev/null > Packages
 
       - name: Compress Packages
         run: gzip -k -f Packages
 
-      - name: Generate full Release file（自动生成MD5Sum SHA256Sum校验）
+      - name: Generate full Release file
         run: apt-ftparchive release . > Release
 
-      - name: 在Release末尾追加Depiction链接
+      - name: Append Depiction link
         run: echo 'Depiction: https://qingye-tony.github.io/repo/index.html' >> Release
 
-      - name: 提交回仓库
+      - name: Commit & push
         run: |
-          git config --global user.name "github‑actions[bot]"
-          git config --global user.email "github‑actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add Packages Packages.gz Release
           git commit -m "Auto build repo index，附带Depiction描述页" || true
           git push
