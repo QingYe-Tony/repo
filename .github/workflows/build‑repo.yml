@@ -19,14 +19,13 @@ jobs:
         run: |
           sudo apt-get update --yes
           sudo apt-get install --yes dpkg-dev zstd
-          hash -r
 
       - name: Generate Packages multi‑version
         run: |
           set +e
           if [ ! -d "debs" ];then mkdir debs; fi
           ls -la debs/
-          dpkg-scanpackages -m debs /dev/null > Packages
+          /usr/bin/dpkg-scanpackages -m debs /dev/null > Packages
           set -e
 
       - name: Compress Packages
@@ -34,7 +33,7 @@ jobs:
 
       - name: Build Release file
         run: |
-          apt-ftparchive release . > Release.tmp
+          /usr/bin/apt-ftparchive release . > Release.tmp
           printf "Architectures: iphoneos-arm64 iphoneos-arm64e\n" > Release
           cat Release.tmp >> Release
           rm -f Release.tmp
