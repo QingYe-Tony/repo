@@ -1,45 +1,3 @@
-Package: MisakaHelper
-Version: 2.0-0
-Architecture: iphoneos-arm64
-Essential: no
-Maintainer: Misaka
-Depends: mobilesubstrate
-Conflicts: MisakaHelper
-Replaces: MisakaHelper
-Provides: MisakaHelper
-Filename: debs/MisakaHelper_2.0-0_iphoneos-arm64_rootless.deb
-Size: 11816624
-MD5sum: ce2ab89a1d81afb20e9e7e732a0fd00a
-SHA1: 08aba342c5f23a0c1233606d5f4af28f9b3e094e
-SHA256: d130e0ec8a58dd788ce2d04ba1426d5d3559212fc620a2ddc05db07606932491
-Section: Tweaks
-Priority: optional
-Description: MisakaHelper
-Author: Misaka
-Name: MisakaHelper
-
-Package: MisakaHelper
-Version: 2.1-0-END
-Architecture: iphoneos-arm64
-Essential: no
-Maintainer: Misaka
-Depends: mobilesubstrate
-Conflicts: MisakaHelper
-Replaces: MisakaHelper
-Provides: MisakaHelper
-Filename: debs/MisakaHelper_2.1-0-END_iphoneos-arm64.deb
-Size: 13177112
-MD5sum: 10afd7714e6243c2f25f9b3ce931b82b
-SHA1: db5462b59bad87ba37ce3496a74a8cc90dbb3fc5
-SHA256: be85c147b0ee2c774b9f6833f300f97b7abc9a6130bc9c25dc9a14890266742e
-Section: 微信插件
-Priority: optional
-Description: MisakaHelper
-Author: Misaka
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: MisakaHelper
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/Misaka/js.json
-
 Package: ai.akemi.appsyncunified
 Version: 116.0
 Architecture: iphoneos-arm64e
@@ -1501,24 +1459,6 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: WCRefine
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCRefine/js.json
 
-Package: com.Axs.WCToolGesture
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.Axs.WCToolGesture_1.0_iphoneos-arm64.deb
-Size: 8328
-MD5sum: c4b28d0048ba6efd4c08ad451955c0d8
-SHA1: 694edc4d999ac4a457f577dc649970f083c6ba51
-SHA256: 001dee9fd0cb91cf246e00d812ee64aab8846b3f4bda9b8ad426aea501237f73
-Section: 微信插件
-Description: 微信输入框内嵌按键，右边朋友圈命名: clock_regular，左边视频通话命名: icons_filled_large_image
-Author: A
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: WCToolGesture输入框内嵌
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCToolGesture/js.json
-
 Package: com.Axs.WCallRecorder
 Version: 1.0-8
 Architecture: iphoneos-arm64
@@ -2531,42 +2471,6 @@ Depiction: https://axs66.github.io/pro
 Icon: https://axs66.github.io/pro/icon/centerswitcherlabels.png
 Name: CenterSwitcherLabels 标题居中
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/centerswitcherlabels/js.json
-
-Package: com.Axs.chatcapture
-Version: 1.0-6
-Architecture: iphoneos-arm64
-Maintainer: HM
-Installed-Size: 1176
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.Axs.chatcapture_1.0-6_iphoneos-arm64.deb
-Size: 252768
-MD5sum: 533c9eb8c92ce1ae15f8bafbf4d2af75
-SHA1: 3983f7ed9b02e907c3b8189fb94d3239e9046b10
-SHA256: 3b54545e79a76acfb6639ff64e60037b33fa9b14e9fb32c3410acae68b94598f
-Section: 微信插件
-Description: 群聊/私聊 多选消息(长)截图插件，默认生效，多选消息后点击「更多」→ 截图 / 截图(打码)；齿轮图标进入设置。
-Author: HM
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: ChatCapture
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/chatcapture/js.json
-
-Package: com.Axs.chatcapture
-Version: 1.0-7
-Architecture: iphoneos-arm64
-Maintainer: HM
-Installed-Size: 1760
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.Axs.chatcapture_1.0-7_iphoneos-arm64.deb
-Size: 423436
-MD5sum: 7ac42a9bd3947dc1e4a681309e49477f
-SHA1: 2f41e6f12fe08b53ad6e642a8f83f8fd2cb06de4
-SHA256: 97ad08b0528efcc67bc2ad31247f97550752fc41ea77683557858a77ad99e9b6
-Section: 微信插件
-Description: 群聊/私聊 多选消息(长)截图插件，默认生效，多选消息后点击「更多」→ 截图 / 截图(打码)；齿轮图标进入设置。
-Author: HM
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: ChatCapture
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/chatcapture/js.json
 
 Package: com.Axs.chatgpt
 Version: 1.0.0
@@ -9146,64 +9050,6 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 微信插件管理
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
-Package: com.axs.wechatenhancer
-Version: 1.0.0-30
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 520
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.axs.wechatenhancer_1.0.0-30_iphoneos-arm64.deb
-Size: 93112
-MD5sum: 85e6a84fc44483e6d284e5ad6d665ba3
-SHA1: 9d602ecc9332f219cc729b10ccef3daaf743ddd4
-SHA256: 1c96afd9f974336454e56554f8fde755da2b4dd680eeec2545892b170431a475
-Section: 微信插件
-Description: 一个简单的微信插件。功能介绍：
-    *   1.钱途无限：支持群聊和私聊红包自动接收，可配置延迟和黑名单。
-    *   2.消息拦截：拦截并显示被撤回的消息内容，屏蔽指定群聊或联系人的消息。
-    *   3.游戏作弊：支持石头剪刀布和骰子游戏作弊。
-    *   4.步数修改：修改微信运动步数。
-    *   5.虚拟定位：修改朋友圈定位位置。
-    *   6.插件修改：自定义修改插件名称及版本。
-    *   7.其他功能：
-    *   7.1绕过越狱检测：绕过微信的越狱检测。
-    *   7.2自动登录：多设备登录自动确认。
-    *   7.3广告屏蔽：屏蔽朋友圈、小程序等广告。
-    *   7.4动态背景：开启后聊天界面呈现效果。
-Author: Axs
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: WeChatEnhancer
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/wechatenhancer/js.json
-
-Package: com.axs.wechatenhancer
-Version: 1.0.0-45
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 540
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.axs.wechatenhancer_1.0.0-45_iphoneos-arm64.deb
-Size: 96288
-MD5sum: c5f4d5dbafc8d6a792983b8da3096acc
-SHA1: d30624111fe4ef17ede45c9b9916cecee9f71667
-SHA256: 89de1cb24e365f2218a645e7aa8321a635cd5201bda902b307097287aa2ffe0a
-Section: 微信插件
-Description: 一个简单的微信插件。功能介绍：
-    *   1.钱途无限：支持群聊和私聊红包自动接收，可配置延迟和黑名单。
-    *   2.消息拦截：拦截并显示被撤回的消息内容，屏蔽指定群聊或联系人的消息。
-    *   3.游戏作弊：支持石头剪刀布和骰子游戏作弊。
-    *   4.步数修改：修改微信运动步数。
-    *   5.虚拟定位：修改朋友圈定位位置。
-    *   6.插件修改：自定义修改插件名称及版本。
-    *   7.其他功能：
-    *      7.1绕过越狱检测：绕过微信的越狱检测。
-    *      7.2自动登录：多设备登录自动确认。
-    *      7.3广告屏蔽：屏蔽朋友圈、小程序等广告。
-    *      7.4动态背景：开启后聊天界面呈现效果。
-Author: Axs
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: WeChatEnhancer
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/wechatenhancer/js.json
-
 Package: com.axs.wechatpro
 Version: 5.2.0-100
 Architecture: iphoneos-arm64
@@ -10137,63 +9983,6 @@ Depiction: https://creaturecoding.com/?page=depiction&id=shuffle
 Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
 Name: Shuffle越狱插件收纳
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
-
-Package: com.curtin.pkc.rootless
-Version: 0.9-6
-Architecture: iphoneos-arm64
-Maintainer: curtinlv@126.com
-Depends: firmware (>= 5.0)
-Filename: debs/com.curtin.pkc.rootless_0.9-6_iphoneos-arm64.deb
-Size: 1366452
-MD5sum: 4a726d225cfa005ff0525ba334292a72
-SHA1: 516b03072d918eacfb24c70c3166d8cda27f1342
-SHA256: 07929e939eb36325fa78485b4f491768d74083093a3e65ad0de8bda2e54a80fe
-Section: 微信插件
-Priority: optional
-Homepage: https://axs66.github.io/pro
-Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
-Author: Curtin
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: PKC
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/PKC/js.json
-
-Package: com.curtin.pkc.rootless
-Version: 0.9-7
-Architecture: iphoneos-arm64
-Maintainer: curtinlv@126.com
-Depends: firmware (>= 5.0)
-Filename: debs/com.curtin.pkc.rootless_0.9-7_iphoneos-arm64.deb
-Size: 1367812
-MD5sum: 033b1efef5086a0e2c4e920190f467df
-SHA1: 4d8998cee1a60924d1f491b41877e95d31ba3744
-SHA256: c69be0f87017b3d6dcd1bab6f9ce4c88d781668cf0d698981c5b7c48de22e1a8
-Section: 微信插件
-Priority: optional
-Homepage: https://alist.138686.xyz
-Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
-Author: Curtin
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: PKC
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/PKC/js.json
-
-Package: com.curtin.pkc.rootless
-Version: 0.9-8
-Architecture: iphoneos-arm64
-Maintainer: curtinlv@126.com
-Depends: firmware (>= 5.0)
-Filename: debs/com.curtin.pkc.rootless_0.9-8_iphoneos-arm64.deb
-Size: 1378524
-MD5sum: a1468c0ca8e0ea64a30d6485d0216d11
-SHA1: ba09d6bdb1c3d24cb88342ee60580c82059eed89
-SHA256: 885873e76fe565790314507694f114ed671ddbbc12da3ecc81b7dec636b833db
-Section: 微信插件
-Priority: optional
-Homepage: https://axs66.github.io/pro
-Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
-Author: Curtin
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: PKC
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
 Package: com.cydiageek.shynotificationsapps
 Version: 1.0.0
@@ -19021,24 +18810,6 @@ Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
 Name: DYYY(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
-
-Package: com.sini.enhance
-Version: 1.6-5
-Architecture: iphoneos-arm64
-Maintainer: 茶 愫
-Installed-Size: 1196
-Depends: mobilesubstrate
-Filename: debs/com.sini.enhance_1.6-5_iphoneos-arm64.deb
-Size: 343736
-MD5sum: 7beb5da942d38507d47a0571c93ebf01
-SHA1: 56318925a1b4f1a1e9980942ef48c5840611d7bc
-SHA256: d103d5c27e5d5e7888e65dca1498aac1d9236b6f95fc543dd4772ca1e4913d12
-Section: 微信插件
-Description: 微信插件，支持聊天按钮布局自定义等。
-Author: 茶 愫
-Icon: https://sini921.github.io/repo/sileodepiction/icon/enhance.png
-Name: WeChatEnhance(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/enhance/js.json
 
 Package: com.sini.fightenegery
 Version: 1.0.0
