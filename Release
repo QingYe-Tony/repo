@@ -1,19 +1,17 @@
-Architectures: iphoneos-arm64 iphoneos-arm64e
-Date: Thu, 03 Sep 2026 12:02:10 +0000
+Date: Thu, 03 Sep 2026 12:32:03 +0000
 MD5Sum:
  0d5827d82010a029afa877907107deba           758802 Packages
- bd763ff13719d4a9f8f397ad57caac18           194906 Packages.gz
- 8350cbe25c9759d6d9e62549ccb80c30             1306 Release
+ 3ee7c9c7bee55c95e39dbe99c033a2d2           194906 Packages.gz
+ 908640f86c042e3df0acd2006a6bd8cb               38 Release
 SHA1:
  c9096c498563a785fdd52c0fc461d0da18fe8ccc           758802 Packages
- 60538f638b27ca31ef86d57f7e921695fbc842a8           194906 Packages.gz
- f74359768eaba1a96c23ce18b59dbab6fc9bee1e             1306 Release
+ cd60236057c2a8fc403334f3fe532bde33391687           194906 Packages.gz
+ 7af19d72798256b7844594033f002ca7bae3e504               38 Release
 SHA256:
  b2ed258a081bdeff17e59b39645bf030fabcb9b6f8c85fcb8e0b8a3dca0cc57d           758802 Packages
- 5957f41c9f2bad4a54f341673d394e9208a9425d68d9a6f4042141e76c4da705           194906 Packages.gz
- 020fce11d891edf4e1079997524afe83ab8a99e31b197a52d315839429f2659a             1306 Release
+ 1e8e3c02d5eea38e85833aa6f83bcbab00f8993e4b6c04c7ebd9c7f53ce22bcb           194906 Packages.gz
+ de693ed9ce27bd22b580b83c0e874055a5341bd1309338cf2f353fa49ce7b0e5               38 Release
 SHA512:
  74130e31774730181f03a73fb176c9ab38f78ac72bc91e2cf78e48688dcc86a0afe4bbc13885cff80b08b229ef360c0a797cba174c2a19aa060c57adeb61be85           758802 Packages
- b9b07aea29c50cc0202282a7e9e608a5aa5a31f06c53532e192219654dd8f321f84901307f45a0faeadc66d2c863e519c23e1c3704997d2ed05fa20f61b191d2           194906 Packages.gz
- 86c78a16855e8c5017ba4206aaf73630673af86eda30980a905f86060d3c5ab0900f0a69a933ddb11acb12042fe5c38aa8e01610ee4f35545e79167bfb6fe7a9             1306 Release
-Depiction: https://qingye-tony.github.io/repo/index.html
+ 489b2962d253e18401c616b6e8d78f6db21db35b986c29de952ed150a23a3ef8cb9bcc544e8855758823ff19bd4711e14e1c806b95101cc627c0ce6172ea7166           194906 Packages.gz
+ 59116af338f1820bfa6fe910ffac8b7cdddaa323362f6b46fbe71930e3db93b01213ecf483454f96ff22a23b2e48a993de035a1af20fa4c6288c9fa6def669dc               38 Release
