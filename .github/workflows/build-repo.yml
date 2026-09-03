@@ -21,12 +21,10 @@ jobs:
       - name: Compress Packages
         run: gzip -k -f Packages
 
-      - name: Generate Release
+      - name: Generate valid Release for Sileo
         run: |
-          apt-ftparchive release . > Release.tmp
-          echo "Architectures: iphoneos-arm64 iphoneos-arm64e" > Release
-          cat Release.tmp >> Release
-          rm -f Release.tmp
+          apt-ftparchive release . > Release
+          sed -i '1i Architectures: iphoneos-arm64 iphoneos-arm64e' Release
           echo 'Depiction: https://qingye-tony.github.io/repo/index.html' >> Release
 
       - name: Commit push index
