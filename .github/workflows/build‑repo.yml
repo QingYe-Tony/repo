@@ -1,40 +1,41 @@
-name: Build Cydia Repo
+name: Build Repo
 on:
   push:
     branches: [ master ]
-
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: list debs folder
-        run: ls -la debs
+      - name: Install dependencies
+        run: |
+          sudo apt-get update -yq
+          sudo apt-get install -yq dpkg-dev apt-utils zstd
 
-      - name: Install dpkg-dev
-        run: sudo apt-get update && sudo apt-get install -y dpkg-dev
-
-      - name: Generate Packages index
+      - name: Scan debs
         run: dpkg-scanpackages -m debs /dev/null > Packages
 
-      - name: show Packages file head
-        run: head -50 Packages
+      - name: Compress Packages
+        run: gzip -k -f Packages
 
-      - name: Compress index files
-        run: gzip -k -f Packages && bzip2 -k -f Packages
+      - name: Generate Release
+        run: apt-ftparchive release . > Release
 
-      - name: list index files
-        run: ls -la Packages*
+      - name: Append Depiction
+        run: |
+          echo 'Depiction: https://qingye-tony.github.io/repo/index.html' >> Release
 
-      - name: Upload index as artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: repo-index-files
-          path: |
-            Packages
-            Packages.gz
-            Packages.bz2
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f Packages Packages.gz Release
+          git commit -m "build repo" || true
+          git push
