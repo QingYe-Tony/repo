@@ -23,16 +23,16 @@ jobs:
 
       - name: Build valid Release for Sileo
         run: |
-          cat > Release <<'EOF'
-Origin: 清野源
-Label: 清野源
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm64 iphoneos-arm64e
-Components: main
-Description: 清野个人越狱源
-EOF
+          rm -f Release
+          echo "Origin: 清野源" > Release
+          echo "Label: 清野源" >> Release
+          echo "Suite: stable" >> Release
+          echo "Version: 1.0" >> Release
+          echo "Codename: ios" >> Release
+          echo "Architectures: iphoneos-arm64 iphoneos-arm64e" >> Release
+          echo "Components: main" >> Release
+          echo "Description: 清野个人越狱源" >> Release
+
           echo "MD5Sum:" >> Release
           printf ' %32s %8d Packages\n' $(md5sum Packages | awk '{print $1}') $(stat -c%s Packages) >> Release
           printf ' %32s %8d Packages.gz\n' $(md5sum Packages.gz | awk '{print $1}') $(stat -c%s Packages.gz) >> Release
