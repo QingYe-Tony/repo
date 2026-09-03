@@ -8536,17 +8536,17 @@ Name: Snapper3 Expand
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper3expand/js.json
 
 Package: com.axs.snapper4
-Version: 5.2.0-19
-Architecture: iphoneos-arm64
+Version: 5.2.0-26
+Architecture: iphoneos-arm64e
 Maintainer: Axs <qiaozhini000@163.com>
-Installed-Size: 1408
+Installed-Size: 1440
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
 Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
-Filename: debs/com.axs.snapper4_5.2.0-19_iphoneos-arm64.deb
-Size: 308314
-MD5sum: e8c18540ee88a724faba0b5f03a191af
-SHA1: 9b3004366f1649cc4c044f63de10ea0b18e523dd
-SHA256: 529e4082f99c8600bbda49b1d0504a1c2225247c4274d264d5c0147b9aa07343
+Filename: debs/com.axs.snapper4_5.2.0-26_iphoneos-arm64e.deb
+Size: 311440
+MD5sum: 33c7e57197bf0d00c921b581f91ce0ef
+SHA1: efb1e97d1c63f8f413903fe879defcc90228d620
+SHA256: 82e33feb09d017ecdcf0e829b29856de33e0125ec8b5778415765948ecb1ee05
 Section: Axs-Tweaks
 Description: 这是一款截图工具。
  * 一、基本设置
@@ -8572,17 +8572,17 @@ Name: Snapper 4
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
 
 Package: com.axs.snapper4
-Version: 5.2.0-19
-Architecture: iphoneos-arm64e
+Version: 5.2.0-26
+Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhini000@163.com>
-Installed-Size: 1408
+Installed-Size: 1440
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
 Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
-Filename: debs/com.axs.snapper4_5.2.0-19_iphoneos-arm64e.deb
-Size: 308130
-MD5sum: 02a5557fabbc6438947ac2a520ec45ab
-SHA1: b5cb1e6d345276677653edb3f36c1f8304430427
-SHA256: afbcd89127bf75a4abc7582774f77ba25d1e1a42b94e595300b41e84922f1942
+Filename: debs/com.axs.snapper4_5.2.0-26_iphoneos-arm64.deb
+Size: 312004
+MD5sum: 10d2a6c0a46e5f1b7c3676b0179afa56
+SHA1: 33b30f3c610537479a7f471de3815ee78ec4aa63
+SHA256: a4a5b7048767182c6fd15e2cb8cd42bb819f2c3b9de2b4eb11fbef24e3021809
 Section: Axs-Tweaks
 Description: 这是一款截图工具。
  * 一、基本设置
