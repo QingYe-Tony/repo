@@ -4,3 +4,6 @@
 *.swp
 *~
 fixed_debs/
+Packages.gz
+Packages.bz2
+Packages.zst
