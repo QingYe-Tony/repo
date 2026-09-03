@@ -1,5 +1,5 @@
-Origin: 清野源
-Label: 清野源
+Origin: 清野
+Label: 清野
 Suite: stable
 Version: 1.0
 Codename: ios
@@ -12,4 +12,3 @@ MD5Sum:
 SHA256Sum:
  b2ed258a081bdeff17e59b39645bf030fabcb9b6f8c85fcb8e0b8a3dca0cc57d   758802 Packages
  bb13113905f19505f2bea93968657e79ea7f68d55478c8514211ca99ec0846fa   194906 Packages.gz
-Depiction: https://qingye-tony.github.io/repo/index.html
