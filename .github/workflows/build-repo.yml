@@ -21,10 +21,27 @@ jobs:
       - name: Compress Packages
         run: gzip -k -f Packages
 
-      - name: Generate valid Release for Sileo
+      - name: Build valid Release for Sileo
         run: |
-          apt-ftparchive release . > Release
-          sed -i '1i Architectures: iphoneos-arm64 iphoneos-arm64e' Release
+          cat > Release <<'EOF'
+Origin: 清野源
+Label: 清野源
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: 清野个人越狱源
+EOF
+
+          echo "MD5Sum:" >> Release
+          printf ' %32s %8d Packages\n' $(md5sum Packages | awk '{print $1}') $(stat -c%s Packages) >> Release
+          printf ' %32s %8d Packages.gz\n' $(md5sum Packages.gz | awk '{print $1}') $(stat -c%s Packages.gz) >> Release
+
+          echo "SHA256Sum:" >> Release
+          printf ' %64s %8d Packages\n' $(sha256sum Packages | awk '{print $1}') $(stat -c%s Packages) >> Release
+          printf ' %64s %8d Packages.gz\n' $(sha256sum Packages.gz | awk '{print $1}') $(stat -c%s Packages.gz) >> Release
+
           echo 'Depiction: https://qingye-tony.github.io/repo/index.html' >> Release
 
       - name: Commit push index
