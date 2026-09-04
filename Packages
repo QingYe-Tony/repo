@@ -9805,6 +9805,652 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: WCPluginsOrder插件排序
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCPluginsOrder/js.json
 
+Package: com.huayuarc.sneakycam
+Version: 2.1.0
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 336
+Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader
+Filename: debs/com.huayuarc.sneakycam-2.1.0-rootless.deb
+Size: 92672
+MD5sum: 6989f265e4f7b869b6d9facb2303c2ec
+SHA1: dc04f263e1e24d342bd1a6927d292a89ef75f0c4
+SHA256: 03ef7712507afcf051114908b0b7e3f01f5d0a9508054b6e24051ad475e7ddc8
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。视频或者照片默认保存路径：/var/mobile/Media/Camera
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 336
+Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader
+Filename: debs/com.huayuarc.sneakycam-2.1.0-roothide.deb
+Size: 92872
+MD5sum: d5fb20098d2ca99e6be358ab19794f22
+SHA1: 37584235cdb5fe5e77842fc78437105c6a6ea42a
+SHA256: e164d0a31b9f6ee71f0d2133c118504c29dbcacf4c2d3fbe1c2dc7aa4202c122
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。视频或者照片默认保存路径：/var/mobile/Media/Camera
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 404
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.huayuarc.sneakycam-2.1.1-rootless.deb
+Size: 87388
+MD5sum: bfc2d35a92f710f129b287153e039398
+SHA1: 4f14a05bf6a46ae5362a4dc6c535654c0cb6271f
+SHA256: 62e79b5c229310b3d5c1d9f78fde8f57bd4a99d08a92436afff943dfebb11789
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。视频或者照片默认保存路径：/var/mobile/Media/Camera
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.1
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 404
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.huayuarc.sneakycam-2.1.1-roothide.deb
+Size: 87544
+MD5sum: 016db29b20a90f6b380077bc2d78cd01
+SHA1: 7df97b86c163a4a4a1d2ec5043c13601c14d775d
+SHA256: 6b3420f60dc01dde37f1ac3daeed31e710b879d209b2b465bb082913c3c6855b
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。视频或者照片默认保存路径：/var/mobile/Media/Camera
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 820
+Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.1-1-rootless.deb
+Size: 100828
+MD5sum: ec372b3fbef5e95617a098763dfdeaca
+SHA1: e92b93cbe1ef3c298e0b1b210cb2213a2b7f2ee5
+SHA256: 47f042fb746a168e93025f173900850696b1a2521c3a6f1d7aab695dfd70927e
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。视频或者照片默认保存路径：/var/mobile/Media/Camera
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 420
+Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.1-1-roothide.deb
+Size: 92708
+MD5sum: f14551ff553523242d326830bae1cc6f
+SHA1: 37b1eb1a6403f14f3358d5a4033d72cbfaa0a6d8
+SHA256: bbe0a613c6ccb788c7d02c0230af65793894d5163557d037e5013d0248a1b30b
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。视频或者照片默认保存路径：/var/mobile/Media/Camera
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.2
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 820
+Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.2-rootless.deb
+Size: 103336
+MD5sum: 5a3be8251831d6f81c23e044ae1baad8
+SHA1: 76df28e756386bf70e81ff317d0aff6418b3529c
+SHA256: f6f3576f81dca9d71b81fe3646fed2f1d28abeb6c680182b04e32348b732d845
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Downloads
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.2
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 420
+Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.2-roothide.deb
+Size: 94344
+MD5sum: 054df205e11617892dd7cf33c810db88
+SHA1: 8975e39cf2ef101fd31a88eca58ca2fa5836e7b7
+SHA256: a963ac919092bdcce64e996ddc1c1096410ad6041b6edc8cd3b05656a464c49e
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Downloads
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.3
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 420
+Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.3-roothide.deb
+Size: 94484
+MD5sum: f0663b296c913b5d61e40214eace21d0
+SHA1: 7a8b2efb87cef9aa5ddf828b324fffd86279112d
+SHA256: c59cd967f84be8e588d5e58361dc1a8fe406a2bc48ec1bacd84d149a646616e5
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Downloads
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.3
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 820
+Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.3-rootless.deb
+Size: 103468
+MD5sum: 01b9b94cfe759cf233d66309458168aa
+SHA1: d463b22597f068162d1b889f1a0371641943d352
+SHA256: a3d96c35f727835982aca144e91e861b10cc1c047b276cd2e2ed8fab79e07912
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Downloads
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.3-1
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 592
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.3-1-roothide.deb
+Size: 97612
+MD5sum: 2f5b3109a65924957523de1091f84d05
+SHA1: 2a4cb75e35c308da6dd750fe2e75d64282d68ed7
+SHA256: 908577680ece3e166a9203ae5b52b9a47f54ab40ad8355cbe777e1171948d7cd
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Downloads
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.3-1
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 1184
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.3-1-rootless.deb
+Size: 108824
+MD5sum: b5d3052be17027317e160a95148d8217
+SHA1: eff923ab57d594c2be2d3419d74cf7424dcf164a
+SHA256: 58804cbc6a99fd2b85141b712752ae413926487c853127b548f3e10fa99b3a28
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Downloads
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.3-2
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 1204
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.3-2-rootless.deb
+Size: 113092
+MD5sum: 72a1ee7293122b4a8cf502bc7628f35b
+SHA1: 1b0bb165b7a7c7095ce96195aca42cc423044bee
+SHA256: 1047d0c9c92780259d2be57bee9459d084d3add3740ea0349140879d41b53299
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Downloads
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.3-2
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 612
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.3-2-roothide.deb
+Size: 100628
+MD5sum: 96cd8bd9f94525c1923d9376ccd24bac
+SHA1: 083d1ab083fbc0c6b02c638e150dc6c3916deab4
+SHA256: ae7db11849638aed281c93318e93859f5cab06bc9e01dc4575558d443aea8cfd
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Downloads
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.3-3
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 612
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.3-3-roothide.deb
+Size: 102212
+MD5sum: 87dda128eb91ccbfcf5b02bebce3d353
+SHA1: 32400b4339e651c31a6e0c9b91472a85bcf4f292
+SHA256: 2616f5a53376ce0dc65be6ec3506dd8b79a32e414a2709358c52609e0c289c2b
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Downloads
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.3-3
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 1220
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.3-3-rootless.deb
+Size: 115260
+MD5sum: 645c6c6fc3532637a37d512893b58749
+SHA1: 87e4ad00f97ce92cb85dd1d90a31d82ea87a20de
+SHA256: 58cd49ca373ccd12009760d9c68fc35c9085c1f3fe705237a5016e664971fbd3
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Downloads
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.3-4
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 1220
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.3-4-rootless.deb
+Size: 115684
+MD5sum: 3a133bfab540018b8e94bd0b86ae6846
+SHA1: 5033e41f8a02a076c2806ae72934016d4fea610c
+SHA256: 4419c10e2f98062c5d055a6fd71a84e5e5aeb37d8ac7a4b5994b6b1b8256ff86
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Downloads
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.3-4
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 612
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.3-4-roothide.deb
+Size: 102524
+MD5sum: 2ec20be3b1ac469d13cc15a5c2fc5aa0
+SHA1: 104ef2624088b2eecafe1c626fb5b19e67ab9c36
+SHA256: 74719e201577bb15da5597e8d7c61e308e2750fcf53c0e897e5f528e1ac1069c
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Downloads
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.3-5
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 612
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.3-5-roothide.deb
+Size: 103028
+MD5sum: f457ece41bc726e4adf0d0ddbe02da1d
+SHA1: e4cbc24bfd87ded77912202915119001dd749b08
+SHA256: 971d5ec73ff94ab13a333cb86e1fa4ff2f8ea3c47d5423162cfbddec76d9828b
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Downloads
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.3-5
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 1220
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.3-5-rootless.deb
+Size: 116472
+MD5sum: af6304bd817289f7f46f21d90e60d461
+SHA1: 1b067fcbbd7d47a5492359e7e21ec504892b10d8
+SHA256: 019593524a3aebd9d50fa54a1c3a261658983d0da192595d019a43275a8a8521
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Downloads
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.3-6
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 612
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.3-6-roothide.deb
+Size: 103064
+MD5sum: a25672b4c4de3230311b58592bef66f9
+SHA1: 5171cc01d0daeafd8d614ecb37b8d8f96949af94
+SHA256: 5d96b36bb19bc71f5c4ecd011a8f2065c9249dfb0de5bccc5624906bab602e1b
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Downloads
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.3-6
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 1220
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.3-6-rootless.deb
+Size: 116516
+MD5sum: 241a8daf8bf487981fffb5d677c2e257
+SHA1: 7b7f006947ad481129e3eb7007e02ef1dff0ab76
+SHA256: 66a49a7f4fcb41fb1913ef31bd4569b6f1a51049052ad4610ee1337332b697df
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Downloads
+Author: Huayuarc,Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.3-7
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 628
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.3-7-roothide.deb
+Size: 108176
+MD5sum: 9adcc95070a7efcebcf6603f26d144ca
+SHA1: 5d0da2a4a97ea76f2d16ddc2ada24c6b00cc7ded
+SHA256: 9669006246a69f6bc071d0ad3aa5a2c8e3f952026e6b35409784355a0eb336f9
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Downloads
+Author: Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.3-7
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 1252
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.3-7-rootless.deb
+Size: 124772
+MD5sum: 0dfdc434979cb84a0fca65b05eccae50
+SHA1: 3a69d123f4a57a64e2dbb64ed6c51f1bdb7dae82
+SHA256: 57e7c457129e06a127c7b80a5b0d33820e87c418b2dbf6fa901c65972bb737da
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Downloads
+Author: Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.3-8
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 628
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.3-8-roothide.deb
+Size: 108576
+MD5sum: bc0354937c947d4316c3f5bcc402db82
+SHA1: 050d30906ff4dca2b5a72baf78e43c1b5c32859f
+SHA256: 6a88e0b981b71f6499eb34c3a7c3b878e7cd3ac17a5767f41be12e0f9652db40
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Downloads
+Author: Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.1.3-8
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 1252
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.sneakycam-2.1.3-8-rootless.deb
+Size: 125420
+MD5sum: e50ed566026b7b062e1dec47a7d5959d
+SHA1: a8b9c1e201e06dcf1f613f20afe74723b2de3a63
+SHA256: 84bb65da6072922c7494c10d3a764572eba1f5fb6313b8732684d0f225cd375b
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Downloads
+Author: Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.2.0
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 688
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.huayuarc.sneakycam-2.2.0-roothide.deb
+Size: 103392
+MD5sum: 2f5cae51e5f38086e730d53fa5f0e9f8
+SHA1: 3819238208ec34578d91613bb8885c034b11d77d
+SHA256: d274532692f30714ac4eb1f787b457138d064a4d9e63c1e6623df6b234404cfb
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Media/Camera
+Author: Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.2.0
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 1424
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.huayuarc.sneakycam-2.2.0-rootless.deb
+Size: 121572
+MD5sum: a1dc52d07f242e9da872e48e24465e82
+SHA1: 36b8214a775c237b75ee6915323f8475cbd8014e
+SHA256: f97f09ffecdb7232c2017bf16cc4d9bb134199b1e2eb6e6ce1c0315b6f5e68f1
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Media/Camera
+Author: Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.2.1
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 1424
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.huayuarc.sneakycam-2.2.1-rootless.deb
+Size: 121304
+MD5sum: cbde8cdaea7d73991a8a3936caae060d
+SHA1: 3e3db76048508d12c08fe0149b05119a22897b55
+SHA256: a246753706e941c01108cb44119062522294d9537a21a25cd4a67815cb429488
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Media/Camera
+Author: Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.2.1
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 1424
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.huayuarc.sneakycam-2.2.1-roothide.deb
+Size: 121404
+MD5sum: 805f7b6675aa0b4fc18f1c068170e583
+SHA1: 9ab94773dfeaec104b91a037a7da652f8f43df4d
+SHA256: 524eaddd4daa163e656b109e5403ec01b871c1ff28d7fb018fe01955f4c2840d
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Media/Camera
+Author: Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.2.2
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 1424
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.huayuarc.sneakycam-2.2.2-roothide.deb
+Size: 121976
+MD5sum: 559f68442d367f0de32b72b0da22fb66
+SHA1: d3a9bb89277586395e1ef997d67ad3543e876386
+SHA256: c7912925684107b1aa583c01d61dd9858f274a552c107a7ee461e2f425d7734d
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Media/Camera
+Author: Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.2.2
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 1424
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.huayuarc.sneakycam-2.2.2-rootless.deb
+Size: 122112
+MD5sum: e55a3c37f4cd734f9a53bf7c366bcc6d
+SHA1: de685e8e1bb54ad04f05b0747e4529669ae813c2
+SHA256: 060bc5ac1000bab1077fa18abf175ed69dc96d268fcc6bde99eeaf927d77f399
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Media/Camera
+Author: Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.2.3
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 1424
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.huayuarc.sneakycam-2.2.3-rootless.deb
+Size: 121948
+MD5sum: 58ccfe7a937bff9f1332314359b35d20
+SHA1: 20fc8e6d4f298b1d21b97bd1ebe6dea884dff1fd
+SHA256: 591ad4b6cc2d79c04d4682f145890248316612a39af6edcd2e46cd839f62b2fd
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Media/Camera
+Author: Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.2.3
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 1424
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.huayuarc.sneakycam-2.2.3-roothide.deb
+Size: 121920
+MD5sum: bb80d4a9114112bc0a1f22b2acb37330
+SHA1: 7680d8d52e7bc58ab982c213ba218f93f3350f93
+SHA256: 82b37d4e867f2a0b2e2c5ae2054c04325a88b5d715ca428a87782caef455eff9
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Media/Camera
+Author: Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.2.5
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 1732
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.huayuarc.sneakycam-2.2.5-roothide.deb
+Size: 159260
+MD5sum: e0170f050280769fcce4ea9d913e46e4
+SHA1: 1111e0e45eacbec6053c674efaba8bae23443a79
+SHA256: cc2aea3dcae13e011cceb21f87d3981075167283cc74f47c403e9a8376980277
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Media/Camera。
+Author: Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.2.5
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 1732
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.huayuarc.sneakycam-2.2.5-rootless.deb
+Size: 159316
+MD5sum: 6de940ed094e6310a0cb9ed4ac8c9f90
+SHA1: cbc86896d869a41b910b80b05339aeb53333a5af
+SHA256: e1860cbb3605c71c38c7c6443cb9ef52e5dacbe1100b753490521c28f31adae9
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Media/Camera。
+Author: Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.2.5-1
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 1424
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.huayuarc.sneakycam-2.2.5-1-roothide.deb
+Size: 124820
+MD5sum: 2236c5455738cbfb2115d5d9a3c043c1
+SHA1: 403b9b03d7ead28d1cb09b9ea6804ab386c196ea
+SHA256: 5f0d721d9e6c1dc6abb0a03d9a3ea42f736196cffbfd9db2151f45a726f11503
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Media/Camera。
+Author: Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
+Package: com.huayuarc.sneakycam
+Version: 2.2.5-1
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 1424
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.huayuarc.sneakycam-2.2.5-1-rootless.deb
+Size: 124820
+MD5sum: e865483a9eed94d5e88c4a19e714f9cd
+SHA1: 0522b0661f151bc003128060fffa50eba62f0540
+SHA256: fdcd334abece5c2f059f9516b08a471e8f67c7c96c52ad4704fb0c65779ea9cb
+Section: Tweaks
+Description: iOS 16 native SneakyCam build for Dopamine rootless and RootHide. SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。控制中心CC模块可一键启用/关闭。视频或者照片默认保存路径：/var/mobile/Media/Camera。
+Author: Spark
+Icon: https://huayuarc.github.io/icon/SneakyCam.png
+Name: SneakyCam 隐私相机
+
 Package: com.icraze.keepmyjb
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -18053,6 +18699,46 @@ Icon: https://img.chariz.cloud/icon/akara/icon@3x.png
 Name: Akara
 
 Package: com.tsangbaby.pulloverx
+Version: 1.4.6
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-1.4.6-rootless.deb
+Size: 233824
+MD5sum: 6f4086e6461795d417c71fdc29ed7f37
+SHA1: 87c3125ca94c49e3b67868a436f8f2f96e5d856c
+SHA256: 464dadc780964daec6596763caf7784b893de97bc4a633b1e9ba7026a0df4ad7
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+
+Package: com.tsangbaby.pulloverx
+Version: 1.4.6
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-1.4.6-roothide.deb
+Size: 231908
+MD5sum: 4230c608d0d7cafcc024bc0f9f030792
+SHA1: b322f5080e2d5dd03f7b874639e219705fc0d99e
+SHA256: 6d15781db08f0916b70340ce21999ea672c2d9bde707c3e3bb07ea69ecd4ccac
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+
+Package: com.tsangbaby.pulloverx
 Version: 1.5.0-1
 Architecture: iphoneos-arm64e
 Maintainer: Tsangbaby
@@ -18079,6 +18765,46 @@ Maintainer: Tsangbaby
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
 Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-1.5.0-1-rootless.deb
+Size: 264132
+MD5sum: 0dd67f17d2ba16787cb84ad0cdd59ba9
+SHA1: ea5b7e635ba7d2f50756d1bb1dde97b7123ebab4
+SHA256: 145f17d2f26a8727daf9cd44396eeb9dd254084d9f4c3813c8ec2adc5e8bf367
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+
+Package: com.tsangbaby.pulloverx
+Version: 1.5.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-1.5.0-1-roothide.deb
+Size: 262200
+MD5sum: 84d62cb26c17e31325bb018ddb29eec2
+SHA1: faafd735a4d8003ba78e5b38b1daa9631877a76a
+SHA256: b91920d91c3c5c337d59f1e85d3dbfd70883bc1585884a814c2e5d192e1f62f5
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+
+Package: com.tsangbaby.pulloverx
+Version: 1.5.0-1
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
 Filename: debs/com.tsangbaby.pulloverx_1.5.0-1_iphoneos-arm64.deb
 Size: 264340
 MD5sum: 56ad2bb0b39984af7762bac20477dbe0
@@ -18091,6 +18817,68 @@ Author: Tsangbaby
 Dev: Tsangbaby
 Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
 Name: PullOver X
+
+Package: com.tsangbaby.pulloverx
+Version: 1.7.2
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-1.7.2-roothide.deb
+Size: 285484
+MD5sum: b50ee74fcf0e9958d10aa6304c8c61d7
+SHA1: dd0baf55e40266d4788654bf63a59b321f348a72
+SHA256: 4a0edb5306ea7d05dd433a71992b53ede710f37d357c95f5d15ddf7f6e62f7e8
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+
+Package: com.tsangbaby.pulloverx
+Version: 1.7.2
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-1.7.2-rootless.deb
+Size: 289172
+MD5sum: 7c381946218d8fdf1aa1ad3d15f5419d
+SHA1: 09d2c425661caf56c5f591d6066a55a33c9079d9
+SHA256: 81972808d241a6094ed2836da5ceaf2abd5d7623306fed35b82c89a0976ee90b
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+
+Package: com.tsangbaby.pulloverx
+Version: 1.7.4
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-1.7.4-roothide.deb
+Size: 294172
+MD5sum: 1aa300abcfe5887995814b55061d49c0
+SHA1: ce9725e109158308d507c1153411b48e341cc56e
+SHA256: f57fac37bdfcab2c427484230c438db4bc178142062c81e54d1d35ee26aa133f
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
 
 Package: com.tsangbaby.pulloverx
 Version: 1.7.4
@@ -18133,6 +18921,26 @@ Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
 Name: PullOver X
 
 Package: com.tsangbaby.pulloverx
+Version: 1.7.4
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-1.7.4-rootless.deb
+Size: 297976
+MD5sum: 20979c189d165197f886ecd277473164
+SHA1: cfd8ea830f63bae4e1e431f5afcfcb959a79e03a
+SHA256: 178f3468bcf5872b3985e2a9c637b079c633d19614377018b09d73ebd8c4af67
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+
+Package: com.tsangbaby.pulloverx
 Version: 1.8.5
 Architecture: iphoneos-arm64
 Maintainer: Tsangbaby
@@ -18173,6 +18981,86 @@ Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
 Name: PullOver X
 
 Package: com.tsangbaby.pulloverx
+Version: 1.8.5
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-1.8.5-rootless.deb
+Size: 311108
+MD5sum: b6202f18f74de2b263c8ab40391c94d3
+SHA1: 16666c49720c47b0416f4d3ef1ec0c0a97ab55fd
+SHA256: b4142eac5f72cc4b17b164f6c50c0fe2531cae74f57d87abafb05579c467f0b2
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+
+Package: com.tsangbaby.pulloverx
+Version: 1.8.5
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-1.8.5-roothide.deb
+Size: 309392
+MD5sum: 10b7dfaad9a435ce90f7f611bc3650de
+SHA1: 418ca13f33b8582a8f20442fa852f1e4cf38d2ee
+SHA256: 7c43f3ce1006fca88d721c7687f2c2b1404891dcac34b124c6109c4d9962e044
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+
+Package: com.tsangbaby.pulloverx
+Version: 1.8.6
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-1.8.6-roothide.deb
+Size: 324224
+MD5sum: 5c99d1f6ed521744d2c524816e03d713
+SHA1: 12753f3ce0ef617b3e9087e4dd106f38ca725440
+SHA256: 2106ded80b457f6ec103488b1079ec254ab2599c765b49a36ffd81830552ebce
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+
+Package: com.tsangbaby.pulloverx
+Version: 1.8.6
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-1.8.6-rootless.deb
+Size: 325924
+MD5sum: fc02fc5aa9078c8f795ad066378f8686
+SHA1: d9a6f93568637af938918989659cbb404367e29c
+SHA256: 2f7c244da26c8f0e9304c17cc0575b0c473428c5f36dda578b3c5517cb3698e3
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+
+Package: com.tsangbaby.pulloverx
 Version: 1.8.9
 Architecture: iphoneos-arm64
 Maintainer: Tsangbaby
@@ -18211,6 +19099,250 @@ Author: Tsangbaby
 Dev: Tsangbaby
 Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
 Name: PullOver X
+
+Package: com.tsangbaby.pulloverx
+Version: 1.8.9
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-1.8.9-roothide.deb
+Size: 333120
+MD5sum: 493a4ff40c36824d9658ada6131ba3e8
+SHA1: 39d5a11cea774f7b42abe916f4aa8eaf1a888bea
+SHA256: ba01bc3f0a78c20dcf568174d636dc92f893eb4e5bc909f2c4773c681df5060d
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+
+Package: com.tsangbaby.pulloverx
+Version: 1.8.9
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-1.8.9-rootless.deb
+Size: 335212
+MD5sum: 37d219cdae62f4d618b39127c1d8f73e
+SHA1: cf9dc24617ef9f299a343b995a1472d54c8926cd
+SHA256: 67e4d838dcc57bc808f1a3426e4f507e167fa55950d53e93c9f9e7ac303b82ec
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+
+Package: com.tsangbaby.pulloverx
+Version: 1.9.4
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-1.9.4-rootless.deb
+Size: 343796
+MD5sum: b1ac1a9cdb4e8b8a2a94d428180562ab
+SHA1: fe4c66487e1892e153ee3b0a28d2d5662b3082db
+SHA256: e632c3d92ccb985d0e94ff3b70ef019c511f8cafe7b57a0985f5d5dc26aa9da8
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+
+Package: com.tsangbaby.pulloverx
+Version: 1.9.4
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-1.9.4-roothide.deb
+Size: 342056
+MD5sum: 9a5fa835b83791c5b0945a8916402954
+SHA1: de436d9f8a0a0d7ace9e8367efeb1b844f6b2847
+SHA256: 30d390095dfe6fbe351822fcf5c9ebd81d93be033d98fb92035ffcadcc8e0d66
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+
+Package: com.tsangbaby.pulloverx
+Version: 1.9.5
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx_1.9.5_iphoneos-arm64.deb
+Size: 346636
+MD5sum: 856f1171973ee5895b866cd70e37899e
+SHA1: 9564768a684e132cb0b268a8bcd38bf037d6a951
+SHA256: 6b20a249b0c274a29cc8932109b992ee5cd60f62657bd887d40c355137da7e24
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+
+Package: com.tsangbaby.pulloverx
+Version: 1.9.5
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx_1.9.5_iphoneos-arm64e.deb
+Size: 345160
+MD5sum: ee511b2eecbc3ce57a049d1e87c2d3e1
+SHA1: bfc0344bc16d169a4661675df37a0003ae6052b3
+SHA256: 596af40d6598aae739ae4c16f0db481158cbffca88121300e52493f0003e76d0
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+
+Package: com.tsangbaby.pulloverx
+Version: 1.9.7
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-1.9.7-roothide.deb
+Size: 359668
+MD5sum: ce445b8546b48793a47934f95123bece
+SHA1: d359dc34d2a475bed9d8255356733f41de968ca3
+SHA256: 571b3542179a896732de00ea9312a1bbe4608d49d46befde249fe518d53a9779
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+
+Package: com.tsangbaby.pulloverx
+Version: 1.9.7
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-1.9.7-rootless.deb
+Size: 360972
+MD5sum: 808a959e14b7badab609bbadd979d403
+SHA1: 7922e8a0e7bd24e1af92f83731950e88c59a261c
+SHA256: 868c974d8f85ca3cef3f9943ea3e71aebe1ac8ac192bf0f2cc7aea2b5d74e10f
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+
+Package: com.tsangbaby.pulloverx
+Version: 1.9.8
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-1.9.8-rootless.deb
+Size: 366856
+MD5sum: 9a7eb46bd8e6a83814a768d028c1ada8
+SHA1: 59e5b899275e70e25326972b3eecf5b024d790c6
+SHA256: 2af0327024846c02943da0674598fdfb2679657c3b49e0b3f0dfe0d74f598386
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+
+Package: com.tsangbaby.pulloverx
+Version: 1.9.8
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-1.9.8-roothide.deb
+Size: 365308
+MD5sum: 8684ac7017048ed5937d4850359937e1
+SHA1: d63bf17058a8c38a407536ce66d5d63e031f99a0
+SHA256: 4fe73b570c343b6acbae2660a1a05515d452483bbd1eaf48d368d6af525ca05d
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+
+Package: com.tsangbaby.pulloverx
+Version: 2.0.0
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-2.0.0-roothide.deb
+Size: 372892
+MD5sum: 693d658883969ad47768fcaf210b5338
+SHA1: b3bad39f4981a29afa57910583ccba175a574eb2
+SHA256: 462436b27c118fd4fd8aec4ae36ae5a1c6433e4fb3cef7fd8c4490d3f43127b0
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+
+Package: com.tsangbaby.pulloverx
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-2.0.0-rootless.deb
+Size: 374628
+MD5sum: 809a33fb8aadc08ba4348c977843615a
+SHA1: 460e4797ab08312ace5b6dba88701af3077638e6
+SHA256: fea9c975bc824a011f3383893369b43aaddf795d2bbbd65ecf2296c1a3e0cf22
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
 
 Package: com.udevs.dockx
 Version: 2.6.2
@@ -18441,6 +19573,44 @@ Description: 录屏时自动开启勿扰模式，防止一切通知打扰录屏�
 Author: gilshahar7, 0xkuj
 Icon: https://s1.imagehub.cc/images/2025/01/02/8ec09e4613791a26f568aed1a81478ef.png
 Name: DNDMyRecording
+
+Package: com.xlzs001.dystorages
+Version: 1.2.76
+Architecture: iphoneos-arm64e
+Maintainer: DYStorage Contributors
+Installed-Size: 240
+Depends: mobilesubstrate
+Conflicts: com.xlzs001.dystorage
+Filename: debs/com.xlzs001.dystorages_1.2.76_iphoneos-arm64e.deb
+Size: 60308
+MD5sum: b3b9d3875c1a038dec70758d405ebbdb
+SHA1: 4414831723b5eb771073344497403a6665727f6d
+SHA256: 964b2432221ca26169ece89ee8ca4f99c0eacc7ba0b54c10c38587dd198b0116
+Section: 抖音插件
+Description: 将你的抖音插件收纳起来
+Author: DYStorage Contributors
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYStorage/icon.png
+Name: 抖音插件收纳
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYStorage/js.json
+
+Package: com.xlzs001.dystorages
+Version: 1.2.76
+Architecture: iphoneos-arm64
+Maintainer: DYStorage Contributors
+Installed-Size: 240
+Depends: mobilesubstrate
+Conflicts: com.xlzs001.dystorage
+Filename: debs/com.xlzs001.dystorages_1.2.76_iphoneos-arm64.deb
+Size: 60434
+MD5sum: 5d83acf90882fe38a28302a6933199a6
+SHA1: 3ec1aed8d759b8a49c2b80fed8b016466dcc915e
+SHA256: 7d7f49302b991a911b45b4b3be9874298a7028abcb1b66e1f338ab3443b7031a
+Section: 抖音插件
+Description: 将你的抖音插件收纳起来
+Author: DYStorage Contributors
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYStorage/icon.png
+Name: 抖音插件收纳
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYStorage/js.json
 
 Package: com.xybp888.noapplemobilerepair
 Version: 0.0.1-103
