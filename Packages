@@ -9800,38 +9800,6 @@ Icon: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/refs/heads/main/
 Name: YTMusicUltimate (Lessica Fork)
 Sileodepiction: https://raw.githubusercontent.com/Lessica/YTMusicUltimate/main/Resources/depiction.json
 
-Package: com.go.mango
-Version: 1.0-Beta5-1
-Architecture: iphoneos-arm64
-Maintainer: go
-Installed-Size: 3176
-Depends: mobilesubstrate
-Filename: debs/com.go.mango_1.0-Beta5-1_iphoneos-arm64.deb
-Size: 911526
-MD5sum: fadb73277697a93b64ef29fa80ab1659
-SHA1: 0cd6119114d566a2e4c24ce73ddc3df610d27d66
-SHA256: a90c0678a16b9f4abe05aaa1a077e2360273dc8139c3d0588541b7d43d8aead7
-Section: Tweaks
-Description: 分屏，真液态玻璃，视频壁纸等一些实用功能。
-Author: go
-Name: mango
-
-Package: com.go.mango
-Version: 1.0-Beta5-1
-Architecture: iphoneos-arm64e
-Maintainer: go
-Installed-Size: 3144
-Depends: mobilesubstrate
-Filename: debs/com.go.mango_1.0-Beta5-1_iphoneos-arm64e.deb
-Size: 908968
-MD5sum: 238fde769a33043bb0bf142787689432
-SHA1: 321b1697d5614f8c3537af83088a698a47f5c91e
-SHA256: 58d54e8357670549645dbfc3d146a76b7226e002a559af12b65b1094d793da7b
-Section: Tweaks
-Description: 分屏，真液态玻璃，视频壁纸等一些实用功能。
-Author: go
-Name: mango
-
 Package: com.gou.systembox
 Version: 1.0-3-1
 Architecture: iphoneos-arm64
@@ -19551,6 +19519,48 @@ Size: 374628
 MD5sum: 809a33fb8aadc08ba4348c977843615a
 SHA1: 460e4797ab08312ace5b6dba88701af3077638e6
 SHA256: fea9c975bc824a011f3383893369b43aaddf795d2bbbd65ecf2296c1a3e0cf22
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+
+Package: com.tsangbaby.pulloverx
+Version: 2.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-2.0.1-roothide.deb
+Size: 375496
+MD5sum: a3052ed16831f4054fd22f93e39b0268
+SHA1: 7c9b283ace05b1375ca0564f8a16c1a47332197a
+SHA256: 6d140fc67707474a89e3785c949d7287c72f319253d109dbe88558ea09943ba7
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver 分屏
+Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+
+Package: com.tsangbaby.pulloverx
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-2.0.1-rootless.deb
+Size: 377288
+MD5sum: a8862298cec4d8d83f782170b7294858
+SHA1: 917bef01264fb268b37097c72b6ab3c1a1be7b35
+SHA256: f52091c89c0c24716482aeb8cca7e11b6620c1b41710cb284279a543c34155f3
 Section: Tweaks
 Priority: optional
 Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
