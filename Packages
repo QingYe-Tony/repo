@@ -6301,23 +6301,6 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: XOS
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/xos/js.json
 
-Package: com.Axs.yuanjiao
-Version: 1.8.6-END
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
-Filename: debs/com.Axs.yuanjiao_1.8.6-END_iphoneos-arm64.deb
-Size: 641460
-MD5sum: 23b33c65378c5fc0b352e232be62f7ef
-SHA1: 283e8317588b08e40f5142d66b39e455a768f72a
-SHA256: 15c9c4b6c3f91bc196f2f4fefadfa9ae7c80de2a53f47f7b8801cf23444c0794
-Section: Axs-Tweaks
-Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
-Author: Axs
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: 全局圆角
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/yuanjiao/js.json
-
 Package: com.Axs.zaire
 Version: 0.9.0
 Architecture: iphoneos-arm64
@@ -7217,23 +7200,6 @@ Author: Axs
 Icon: https://axs66.github.io/pro/icon/screenshellpro.png
 Name: ScreenShell Pro 录屏套壳
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/screenshellpro/js.json
-
-Package: com.axs.sileo
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: https://axs66.github.io/pro
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/com.axs.sileo_1.0_iphoneos-arm64.deb
-Size: 912
-MD5sum: 253b8b0c87cde09fc478b5d382864585
-SHA1: a59449f7817378996c4b15141d262fbce8139ced
-SHA256: 9ae53d42a263a719ca0bc50cec629dbe16eca6189eea6ee0b0b5007370ce8552
-Section: Axs-Tweaks
-Description: Axs
-Author: Axs
-Icon: https://axs66.github.io/pro/images/cjms.png
-Name: Sileo越狱源介绍
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/sileo/js.json
 
 Package: com.axs.snapper3tag
 Version: 5.2.0-18
@@ -9296,6 +9262,22 @@ Description: 样式丰富多彩的小巧通知横幅。
 Author: daodao
 Name: PicoBanner(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
+
+Package: com.dao.sileo
+Version: 2.5.1-13
+Architecture: iphoneos-arm64e
+Maintainer: 刀刀
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Replaces: org.coolstar.sileo
+Filename: debs/Sileo(RootHide)_2.5.1-13.deb
+Size: 3013492
+MD5sum: d2bbc3af91207a8d7db5465ac9fbd72c
+SHA1: 36ceb344c81ee8db5fcc545c8a06c39b43704616
+SHA256: a2721a4bf7fcfa30834db3e0a3998dad117b97c7ba05b77498243aa5cd6a93e6
+Section: 嗨-系统
+Description: 刀刀补充汉化，并在插件列表左侧增加架构指示器(arm64e → 绿色、arm64 → 蓝色、arm → 橙色、all → 灰色)，可识别刀刀源内的 RootHidePatcher 中文版，转换插件一条龙。
+Author: Amy While
+Name: Sileo(RootHide)
 
 Package: com.developlab.appbadge
 Version: 1.0
