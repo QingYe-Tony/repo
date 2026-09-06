@@ -9155,6 +9155,23 @@ Author: 妖刀
 Name: CCLess++(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccless/js.json
 
+Package: com.dao.patcher
+Version: 2.1.5
+Architecture: iphoneos-arm64e
+Maintainer: daodao
+Depends: firmware (>= 15.0), libxar1, ldid, file, dpkg, gawk, plutil(>= 0.2.2-1), uikittools(>= 2.1.6-4)
+Conflicts: com.roothide.patcher
+Replaces: com.roothide.patcher
+Filename: debs/RootHidePatcher_2.1.5.deb
+Size: 894828
+MD5sum: a88faaa35c16f96c5aa6516ad9982e4f
+SHA1: 5d328f0987f87533450a716ac3af479c783bd8ca
+SHA256: 6735aeea784a01f5f161d1c9a661e5a62ea1dbbef17c88046bca8e1dd2db725c
+Section: 嗨-系统
+Description: 转换器：把 rootless 包转换/修补成 RootHide 格式，但不保证所有插件或软件包都兼容；刀刀简单汉化，必须用刀刀源内的 Sileo 才能调用。
+Author: roothide
+Name: RootHidePatcher 中文版
+
 Package: com.dao.picobanner
 Version: 1.1
 Architecture: iphoneos-arm
@@ -14387,6 +14404,38 @@ Section: Tweaks
 Description: 显示屏幕触摸轨迹，支持iOS14-17所有越狱
 Author: iosdump
 Name: TrollCM
+
+Package: com.iosdump.tslite
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Depends: ldid
+Conflicts: com.opa334.trollstorelite, com.dao.tslite
+Filename: debs/TrollStoreLite-iosdump(rootless)_2.1.1.deb
+Size: 2218900
+MD5sum: 152a0296f205151f39038fd4b0a05c9f
+SHA1: 359532387e9d384b5f5d052ed134fcdc08e6e207
+SHA256: 0fa736b8f9081bdb41d766a47db7b6b1ce8af2e84f18fd3a7d8fea5841cd0530
+Section: 嗨-工具
+Description: 越狱专用的APP安装器，iosdump修改版TrollStoreLite，功能多多(程序改名、换图标、解密、降级等)。
+Author: opa334
+Name: TrollStoreLite-iosdump(rootless)
+
+Package: com.iosdump.tslite
+Version: 2.1.1
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Depends: ldid
+Conflicts: com.opa334.trollstorelite, com.dao.tslite
+Filename: debs/TrollStoreLite-iosdump(RootHide)_2.1.1.deb
+Size: 2216076
+MD5sum: 60819aefa1c92f2e14c555216f61cd36
+SHA1: 75fe6bb260d266d3bfec0e77cd2e9bb5bce64ff4
+SHA256: acc63f18b0571ad3ea9e5c6a40c3a260f9578df8ad372bb54883c79033f4d31a
+Section: 嗨-工具
+Description: 越狱专用的APP安装器，iosdump修改版TrollStoreLite，功能多多(程序改名、换图标、解密、降级等)。
+Author: opa334
+Name: TrollStoreLite-iosdump(RootHide)
 
 Package: com.iosdump.zone
 Version: 0.0.8
