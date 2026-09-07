@@ -6406,6 +6406,48 @@ Icon: https://axs66.github.io/pro/icon/kbstyle.png
 Name: 键盘DIY颜色
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.adlayer.roothide
+Version: 0.1.98+roothide
+Architecture: iphoneos-arm64e
+Maintainer: Flex 4 Beta Contributors
+Installed-Size: 3084
+Depends: firmware (>= 15.0), firmware (<< 17.4), ellekit, libflex
+Conflicts: com.adlayer.rootless
+Replaces: com.adlayer
+Provides: com.adlayer
+Filename: debs/com.adlayer.roothide-0.1.98+roothide-roothide.deb
+Size: 1886968
+MD5sum: c5cf9b5495606d718b6a4180bd13cdca
+SHA1: fe14209a54428119cd94899126ac210e8fb1117f
+SHA256: 612da50963ad5d9a714261d05788fd8b9eb14b5e715f18a2be7c03958b421f07
+Section: Tweaks
+Description: Flex 4 Beta：越狱环境下的 UIKit 视图层级过滤与开屏倒计时辅助工具。
+Tag: role::enduser
+Author: ColorBlack
+Icon: https://huayuarc.github.io/icon/AdLayer.png
+Name: Flex 4 Beta
+
+Package: com.adlayer.rootless
+Version: 0.1.98+rootless
+Architecture: iphoneos-arm64
+Maintainer: Flex 4 Beta Contributors
+Installed-Size: 3084
+Depends: firmware (>= 15.0), firmware (<< 17.4), ellekit, libflex
+Conflicts: com.adlayer.roothide
+Replaces: com.adlayer
+Provides: com.adlayer
+Filename: debs/com.adlayer.rootless-0.1.98+rootless-rootless.deb
+Size: 1887028
+MD5sum: b9f8fde82860b161f211396a03729b82
+SHA1: 461b659bd9424ff54b3a343fcbff2496dd89b29a
+SHA256: 2a02a361b722da080ee203a4721ad3701e4732ee39c6ea38e9787f454e45a694
+Section: Tweaks
+Description: Flex 4 Beta：越狱环境下的 UIKit 视图层级过滤与开屏倒计时辅助工具。
+Tag: role::enduser
+Author: ColorBlack
+Icon: https://huayuarc.github.io/icon/AdLayer.png
+Name: Flex 4 Beta
+
 Package: com.anthopak.pancake-rootless
 Version: 2.3
 Architecture: iphoneos-arm64e
