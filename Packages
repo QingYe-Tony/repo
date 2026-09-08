@@ -7954,6 +7954,78 @@ Icon: https://axs66.github.io/pro/icon/snapper.png
 Name: Snapper 4
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
 
+Package: com.axs.snapper4
+Version: 5.2.0-32
+Architecture: iphoneos-arm64e
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 1428
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
+Filename: debs/com.axs.snapper4_5.2.0-32_iphoneos-arm64e.deb
+Size: 299548
+MD5sum: 736d38d336b0c401547ee92c0f4bf89f
+SHA1: 9c01ab90623138decefc218850615e916c3d26a3
+SHA256: 0cf481d23a8146fa08a7672b971581ba6517b765df050cd3f936e8ef3b6b299c
+Section: Axs-Tweaks
+Description: 这是一款截图工具。
+ * 一、基本设置
+ * 1、移动标记：开启后标注内容可拖动调整位置；
+ * 2、功能开关与排序：设置面板内可开关并拖拽排序全部功能。
+ * 二、触发方式
+ * 1、音量增+电源键=：可选系统截图或插件截图；
+ * 2、长按音量减→插件截图：开启后长按音量减约 0.2 秒调出冻结模式。
+ * 三、截图设置
+ * 1、截图仅复制：截图后仅复制到剪贴板；
+ * 2、长截图方式：滚动拼接 / 一镜到底，智能帧匹配自动拼接；
+ * 四、AI 服务（识别与翻译）
+ * 1、Sileo：Sileo 描述页长按翻译纯文本，翻译方式可选百度翻译或 AI 翻译；
+ * 2、AI 互译与问答：中英文互译与中文问答，支持自定义提示词与 AI 对话模式，半屏浮层展示；
+ * 3、文字识别 (OCR)：模型识别截图文字，半屏浮层展示、涂抹选择、一键复制；
+ * 4、百度翻译：自动检测语言双向翻译（中文↔外语），支持图片翻译 / 文本翻译双通道。
+ * 五、扩展功能
+ * 1、截图标记：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制；
+ * 2、URL 触发：支持手势插件通过 prefs:root=snapper4_freeze（冻结）/ prefs:root=snapper4_long（长截图）系统深链触发。
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper 4
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
+
+Package: com.axs.snapper4
+Version: 5.2.0-32
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 1428
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
+Filename: debs/com.axs.snapper4_5.2.0-32_iphoneos-arm64.deb
+Size: 300172
+MD5sum: 40be5e64b6a3606588f2258486fb6270
+SHA1: c47b61fa46174b2b0eba0d5aea1507fdb389029c
+SHA256: 83ccfbbf08cac594462b9710e833b76f8e60c2a2764102fa9f12145bb2fa2238
+Section: Axs-Tweaks
+Description: 这是一款截图工具。
+ * 一、基本设置
+ * 1、移动标记：开启后标注内容可拖动调整位置；
+ * 2、功能开关与排序：设置面板内可开关并拖拽排序全部功能。
+ * 二、触发方式
+ * 1、音量增+电源键=：可选系统截图或插件截图；
+ * 2、长按音量减→插件截图：开启后长按音量减约 0.2 秒调出冻结模式。
+ * 三、截图设置
+ * 1、截图仅复制：截图后仅复制到剪贴板；
+ * 2、长截图方式：滚动拼接 / 一镜到底，智能帧匹配自动拼接；
+ * 四、AI 服务（识别与翻译）
+ * 1、Sileo：Sileo 描述页长按翻译纯文本，翻译方式可选百度翻译或 AI 翻译；
+ * 2、AI 互译与问答：中英文互译与中文问答，支持自定义提示词与 AI 对话模式，半屏浮层展示；
+ * 3、文字识别 (OCR)：模型识别截图文字，半屏浮层展示、涂抹选择、一键复制；
+ * 4、百度翻译：自动检测语言双向翻译（中文↔外语），支持图片翻译 / 文本翻译双通道。
+ * 五、扩展功能
+ * 1、截图标记：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制；
+ * 2、URL 触发：支持手势插件通过 prefs:root=snapper4_freeze（冻结）/ prefs:root=snapper4_long（长截图）系统深链触发。
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper 4
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
+
 Package: com.axs.switchicon
 Version: 5.2.0-131
 Architecture: iphoneos-arm64
@@ -15749,6 +15821,74 @@ Author: MiRO <tweaks_support@miro92.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 Name: libMiROShared(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/libmiroshared/js.json
+
+Package: com.mlgm.idata
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 6384
+Depends: firmware (>= 15.0)
+Filename: debs/com.mlgm.idata_1.0_iphoneos-arm64.deb
+Size: 2055580
+MD5sum: 2847e949b94ff3497853169465eae7c7
+SHA1: a17d0315491fdce2db5d0786d4098de96fee4430
+SHA256: 9304459a3fa1d510e1b14e7c8b0bbb7021e9ad3731f0f7af0129f8c4dba0405b
+Section: Applications
+Description: 应用、插件数据管理工具，一键备份/恢复
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/idata.png
+Name: iData
+
+Package: com.mlgm.idata
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 6384
+Depends: firmware (>= 15.0)
+Filename: debs/com.mlgm.idata_1.0_iphoneos-arm64e.deb
+Size: 2056198
+MD5sum: 50808d720703ab5df87a3bb75971d44a
+SHA1: 244cab5fe6ac707b9a479afb93c42a9788a3aff7
+SHA256: 1fd72158e126d16072673cb929c6b66a91aea5c1201f9f5fbdb0a0310b7582de
+Section: Applications
+Description: 应用、插件数据管理工具，一键备份/恢复
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/idata.png
+Name: iData
+
+Package: com.mlgm.ilog
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 2364
+Depends: firmware (>= 15.0)
+Filename: debs/com.mlgm.ilog_1.0_iphoneos-arm64e.deb
+Size: 1514134
+MD5sum: 78200b9c58947d3f073086809a153c2b
+SHA1: 74efbd1861ff796365447830f80e7580de3c5f5b
+SHA256: 6135ae1a7771ed9962d531eb32faecb0abcf49d16bd1399465a296fd50d2ac3f
+Section: Applications
+Description: 查看、预览、分享和清理 iOS 日志
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/ilog.png
+Name: iLog
+
+Package: com.mlgm.ilog
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 2364
+Depends: firmware (>= 15.0)
+Filename: debs/com.mlgm.ilog_1.0_iphoneos-arm64.deb
+Size: 1514268
+MD5sum: 3959f13a45953d95aa4c7833076232b8
+SHA1: 1667d0d044cd0b97f2cc31be08899de269902825
+SHA256: f0f81ba478ff7f1be29c7a45b9dac00dc608361bf7d71d9a6e56e4039847a59c
+Section: Applications
+Description: 查看、预览、分享和清理 iOS 日志
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/ilog.png
+Name: iLog
 
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.7.0
