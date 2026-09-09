@@ -15913,6 +15913,91 @@ Author: mlgm
 Icon: https://mlgm66.github.io/icon/idata.png
 Name: iData
 
+Package: com.mlgm.idata
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 6384
+Depends: firmware (>= 15.0)
+Filename: debs/com.mlgm.idata-1.0-roothide.deb
+Size: 2056032
+MD5sum: ef7586d7a88ab2613cc9231452bb870f
+SHA1: 5ff59cd8adec29fb48af195addfaff61576eb891
+SHA256: 2588de6f091e469bfd345cec81078094f8eed35ab3def8eee66d33b870e27e76
+Section: Tweaks
+Description: 应用、插件数据管理工具，一键备份/恢复
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/idata.png
+Name: iData
+
+Package: com.mlgm.idata
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 6384
+Depends: firmware (>= 15.0)
+Filename: debs/com.mlgm.idata-1.0-rootless.deb
+Size: 2058276
+MD5sum: c6a201eb36f96e5c96424873822ee6d6
+SHA1: 08b803521dd3360cb66dfc624c4d8d80653bacfe
+SHA256: 4fd51a666baf2c628e4354e391068a94fc1285748784c025401c151547f61f39
+Section: Tweaks
+Description: 应用、插件数据管理工具，一键备份/恢复
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/idata.png
+Name: iData
+
+Package: com.mlgm.idata
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 6648
+Depends: firmware (>= 15.0)
+Filename: debs/com.mlgm.idata-1.1-rootless.deb
+Size: 2113860
+MD5sum: 1fa0a1ff8585d94ec3390c92b1851e6c
+SHA1: d5af00dd69c18e3658c93e07b4695e60855b48aa
+SHA256: 59e2d371bac6f8e7ba6342bb04acc1c384e3ffffd49b959254fa978e0c759ca6
+Section: Tweaks
+Description: 应用、插件数据管理工具，一键备份/恢复
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/idata.png
+Name: iData
+
+Package: com.mlgm.idata
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 6648
+Depends: firmware (>= 15.0)
+Filename: debs/com.mlgm.idata-1.1-roothide.deb
+Size: 2114316
+MD5sum: 7399ec281b7cf236d7b873132e73918e
+SHA1: 84496c0be399d323f7499d47707f8ddf1711e60c
+SHA256: 749eda9355c2d83d97b56bcde9c966bf1cc5970015a10c97e838a00b5cbc5c89
+Section: Tweaks
+Description: 应用、插件数据管理工具，一键备份/恢复
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/idata.png
+Name: iData
+
+Package: com.mlgm.ilog
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 2364
+Depends: firmware (>= 15.0)
+Filename: debs/com.mlgm.ilog-1.0-rootless.deb
+Size: 1514340
+MD5sum: 4c260bd0af87480aa6d328d79c60c279
+SHA1: 66f84e9eab291ca5bcadb9ea8ff84f38ebb6692e
+SHA256: c9e3852d67315cbcc817a1f17f800aec5dff2ab9b0445d8950019e446964173a
+Section: Tweaks
+Description: 查看、预览、分享和清理 iOS 日志
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/ilog.png
+Name: iLog
+
 Package: com.mlgm.ilog
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -15932,6 +16017,23 @@ Name: iLog
 
 Package: com.mlgm.ilog
 Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 2364
+Depends: firmware (>= 15.0)
+Filename: debs/com.mlgm.ilog-1.0-roothide.deb
+Size: 1514580
+MD5sum: fd96f36e459858822b1516cdc16c8a91
+SHA1: 2b18008e30d897d86fdd1a7e8933eb8276969ef5
+SHA256: fdd5ac3e9d9e0a8a10fc81fc16993345461e944fa712e94063a8dc59b7a350e0
+Section: Tweaks
+Description: 查看、预览、分享和清理 iOS 日志
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/ilog.png
+Name: iLog
+
+Package: com.mlgm.ilog
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: mlgm
 Installed-Size: 2364
@@ -15942,6 +16044,40 @@ MD5sum: 3959f13a45953d95aa4c7833076232b8
 SHA1: 1667d0d044cd0b97f2cc31be08899de269902825
 SHA256: f0f81ba478ff7f1be29c7a45b9dac00dc608361bf7d71d9a6e56e4039847a59c
 Section: Applications
+Description: 查看、预览、分享和清理 iOS 日志
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/ilog.png
+Name: iLog
+
+Package: com.mlgm.ilog
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 2516
+Depends: firmware (>= 15.0)
+Filename: debs/com.mlgm.ilog-1.1-rootless.deb
+Size: 1553964
+MD5sum: 0e74c351c3729b3d7124f1adaa4537f3
+SHA1: 93963401afbd022dec44e4f2e1bb4a9ce3999e2e
+SHA256: bd89493c10c5c976d3c5cf6746faa271729188b15a5599ce9afd33e37ddb0c7f
+Section: Tweaks
+Description: 查看、预览、分享和清理 iOS 日志
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/ilog.png
+Name: iLog
+
+Package: com.mlgm.ilog
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 2516
+Depends: firmware (>= 15.0)
+Filename: debs/com.mlgm.ilog-1.1-roothide.deb
+Size: 1553652
+MD5sum: ef9fc4b2aa799c06dd3586a5da1e198e
+SHA1: 2257ee3988e32cafa074bfa96bd01ae91393f8ec
+SHA256: 645bd90e9c5792cc6a63bbc68f5a427642fecf6a7763130d8bb2247bffd8677b
+Section: Tweaks
 Description: 查看、预览、分享和清理 iOS 日志
 Author: mlgm
 Icon: https://mlgm66.github.io/icon/ilog.png
@@ -20040,6 +20176,48 @@ Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
 Name: PullOver X 分屏
 Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
 
+Package: com.tsangbaby.pulloverx
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-2.0.2-rootless.deb
+Size: 384164
+MD5sum: bfd15d8c9f59c2c9a091518c83eb1763
+SHA1: e863334b0a3ea0ee18ba5389bc47289422a851b2
+SHA256: db64feef626580b8330c0051b1b5cf8f3678f5ab188b5be1ae83fdffd3fd4e90
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+
+Package: com.tsangbaby.pulloverx
+Version: 2.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-2.0.2-roothide.deb
+Size: 381636
+MD5sum: b37576fde0ada7ec3bd4afa1b2a1c1a7
+SHA1: 00ee61d154390b5c235c46cfccf10ed36b856993
+SHA256: 3d3b293e990c86fa78577d80f16b43a19510ccdba6d3452a5f18eac522c2ab1b
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+
 Package: com.udevs.dockx
 Version: 2.6.2
 Architecture: iphoneos-arm64
@@ -20845,6 +21023,30 @@ Depiction: Axs
 Icon: https://axs66.github.io/pro/icon/colorful.png
 Name: ColorfulWallpaperX
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+
+Package: wiki.qaq.fila
+Version: 0.4.3
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 87820
+Depends: firmware (>= 15.0), uikittools, launchctl
+Filename: debs/wiki.qaq.fila_0.4.3_iphoneos-arm64.deb
+Size: 761856
+MD5sum: 4e7a5d355b5319d9d06763ce64573d23
+SHA1: ce1162f555bfe916d1f14bdf4a66566ee4238f45
+SHA256: 72a0cf5072cb569045c3ee4c0e029fb924122c7465a6cdf50aedfab2573d1645
+Section: Utilities
+Priority: optional
+Description: Root file manager for rootless bootstraps
+ Browse and edit every file on your device, not just the ones an app is allowed
+ to see. Copy, move and rename with progress you can cancel, create and unpack
+ zip, 7z, rar and tar archives, edit text with syntax highlighting, read plists,
+ preview images and video, open a terminal, and share a folder to your computer
+ over WebDAV. Deleted files go to a trash you can restore from, and the files
+ your device needs in order to boot cannot be deleted by mistake.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Icon: https://owngoal-dev.github.io/Fila/icon.png
+Name: Fila
 
 Package: wiki.qaq.ighostty
 Version: 0.1.0
