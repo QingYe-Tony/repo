@@ -17498,6 +17498,38 @@ Author: MoWang
 Icon: https://huayuarc.github.io/icon/floating.jpg
 Name: SB CPU Floating
 
+Package: com.sbcpu.floating
+Version: 3.6.2
+Architecture: iphoneos-arm64e
+Maintainer: MoWang
+Installed-Size: 1800
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/SBCPUFloating-自适应 arm64e.deb
+Size: 244524
+MD5sum: fcf6545ad9f5e16690990c40dbba2fee
+SHA1: 5d77ebbb6a45ec5b67e19600304182e69ccc2d73
+SHA256: 1a8ac108b40e8567f48723f47bdc91b996fb95629897c1550d06061dd89feedb
+Section: Tweaks
+Description: 修复 bug，新增横屏胶囊开关。
+Author: MoWang
+Name: SB CPU Floating
+
+Package: com.sbcpu.floating
+Version: 3.6.2
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 1816
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/SBCPUFloating-自适应 arm64.deb
+Size: 246342
+MD5sum: 49152d4e867ca76d12304152efb7537d
+SHA1: 27175c0ec7f68aa08129e89e15129e5f291c8cb9
+SHA256: f8f4fe05d41b1399ea109e5978bed8eb1deb4268b28c919e62ef26dba07b1cb6
+Section: Tweaks
+Description: 修复 bug，新增横屏胶囊开关。
+Author: MoWang
+Name: SB CPU Floating
+
 Package: com.sergy.immortalizer
 Version: 2.0.0-1
 Architecture: iphoneos-arm64
