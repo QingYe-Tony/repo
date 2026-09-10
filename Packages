@@ -6872,10 +6872,33 @@ Maintainer: Axs
 Installed-Size: 1032
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
 Filename: debs/com.axs.bigtime_5.2.0-57_iphoneos-arm64.deb
-Size: 157204
-MD5sum: f6f1a863210d110ad08ac3e37f3d89e3
-SHA1: f4bf47180cee4d19ef7bc94a6803cf73288365d7
-SHA256: ffb3e25c220d3e941e1a60c3e16aeff63eeaf3e3b8a347d3b835f6a8115234a7
+Size: 157216
+MD5sum: 82ad2b0d0539cdb43053e577dfbb07c4
+SHA1: 68a659fc32e4e1e278a7fd61ec4a1a71b17f92f6
+SHA256: a12fc060e8dd1e3ed5add2a37870f9f79722e6087e498f43ba3b70c37ebbb448
+Section: Axs-Tweaks
+Description: 一个简单的锁屏时钟插件，需要在“/var/mobile/Axs/字体素材”文件夹里面放入“axs66.otf"字体素材，才能生效。
+ * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
+ * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
+ * 3.支持玻璃边缘、模糊、厚度、折射、高光和壁纸采样质量调节;
+ * 4.支持浅色/深色染色强度与深浅模式覆盖;
+ * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/bigtime.png
+Name: BigTime
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
+
+Package: com.axs.bigtime
+Version: 5.2.0-59
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1032
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: debs/com.axs.bigtime_5.2.0-59_iphoneos-arm64.deb
+Size: 158026
+MD5sum: de6c8425002b2323d742a1765ea3cfcb
+SHA1: 2de6216c480119bbb73d28e6c3e3e700afe9585c
+SHA256: a9cf4e12c6758e41e6f9c86e7e5eb09bcb10e9b98dd9f27418c4b94302d5cab0
 Section: Axs-Tweaks
 Description: 一个简单的锁屏时钟插件，需要在“/var/mobile/Axs/字体素材”文件夹里面放入“axs66.otf"字体素材，才能生效。
  * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
@@ -9846,6 +9869,22 @@ Size: 1174440
 MD5sum: 714279e0181b6e2de5ed5dd1068be06d
 SHA1: 0f2f407c8e60c2540cba09597102875df2123494
 SHA256: 5a9ce701187c277fe550d10cd13074cce1283eac8ecc5c959d8894424e21750c
+Section: Tweaks
+Description: 微信主题美化插件 - ThemeLab
+Author: duo
+Name: ThemeLab
+
+Package: com.duo.themelab
+Version: 1.7.4
+Architecture: iphoneos-arm64
+Maintainer: duo
+Installed-Size: 9116
+Depends: mobilesubstrate
+Filename: debs/com.duo.themelab_1.7.4_iphoneos-arm64.deb
+Size: 2222468
+MD5sum: 12d593d058687c57db142f8c1cd75784
+SHA1: 430e2f79ecf064e1d6c98811a0a58ee3a7a6423d
+SHA256: 7769add073e50c3fbc838c1cb2b03b7f3bd7692627c2764798aa3a53fa08214c
 Section: Tweaks
 Description: 微信主题美化插件 - ThemeLab
 Author: duo
