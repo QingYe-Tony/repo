@@ -6847,16 +6847,37 @@ Name: Axon
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/axon/js.json
 
 Package: com.axs.axsfont
+Version: 5.2.0-22
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 436
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.axs.axsfont_5.2.0-22_iphoneos-arm64.deb
+Size: 32616
+MD5sum: bbd971503b32e69ee9b1ae86bd1d5ba2
+SHA1: a2ce0a1fccb6a5e2a546e7cc9ec916d147980ac0
+SHA256: ba144e9b70f26e0e98fa413851e54c071491ba1a234e8e5283aa019d23830a3b
+Section: Axs-Tweaks
+Description: 全局加载系统字体，直接插件面板导入字体，设置后，部分用户需注销2次生效。
+ * 1. 省去烦人的挂载操作
+ * 2. 兼容BigTime锁屏大时间
+ * 3. 插件面板"启用状态栏"关闭的时候，可兼容电话助手在状态栏添加的自定义时间布局不被打乱
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/a-font.png
+Name: AxsFont
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/axsfont/js.json
+
+Package: com.axs.axsfont
 Version: 5.2.0-9
 Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 420
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.axs.axsfont_5.2.0-9_iphoneos-arm64.deb
-Size: 29488
-MD5sum: 02d9cefed0261304de23b77a0848f931
-SHA1: 68846cc7a00cbbdf5aea0bfa33826dce67d834c8
-SHA256: 13139ea90a031cc0e3a92d654dbd31778f99ff9acec41da157e34db165088fa4
+Size: 29440
+MD5sum: 5327f3495ce5e6e7b4e3a955303822fc
+SHA1: 5d82f9edc7c7c58b8a4d768be0367b3a82a16633
+SHA256: 9b0b262a52630f6d04e555cf9d11377d9ac2eee5257f4e90e44c3ba15c8c321b
 Section: Axs-Tweaks
 Description: 全局加载系统字体，直接插件面板导入字体，设置后，注销生效。省去烦人的挂载操作。
 Author: Axs
@@ -6944,6 +6965,75 @@ Size: 158026
 MD5sum: de6c8425002b2323d742a1765ea3cfcb
 SHA1: 2de6216c480119bbb73d28e6c3e3e700afe9585c
 SHA256: a9cf4e12c6758e41e6f9c86e7e5eb09bcb10e9b98dd9f27418c4b94302d5cab0
+Section: Axs-Tweaks
+Description: 一个简单的锁屏时钟插件，需要在“/var/mobile/Axs/字体素材”文件夹里面放入“axs66.otf"字体素材，才能生效。
+ * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
+ * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
+ * 3.支持玻璃边缘、模糊、厚度、折射、高光和壁纸采样质量调节;
+ * 4.支持浅色/深色染色强度与深浅模式覆盖;
+ * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/bigtime.png
+Name: BigTime
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
+
+Package: com.axs.bigtime
+Version: 5.2.0-62
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 948
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: debs/com.axs.bigtime_5.2.0-62_iphoneos-arm64.deb
+Size: 127640
+MD5sum: 80587666cb9e70aeaadc9b0890057440
+SHA1: eaa42f722ae4a43f813609edec945823b36176c7
+SHA256: d2cc89fe9e35d5d7355a962b28ac0ac694e5dda744f6e5e034595292efdee4dd
+Section: Axs-Tweaks
+Description: 一个简单的锁屏时钟插件，需要在“/var/mobile/Axs/字体素材”文件夹里面放入“axs66.otf"字体素材，才能生效。
+ * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
+ * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
+ * 3.支持玻璃边缘、模糊、厚度、折射、高光和壁纸采样质量调节;
+ * 4.支持浅色/深色染色强度与深浅模式覆盖;
+ * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/bigtime.png
+Name: BigTime
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
+
+Package: com.axs.bigtime
+Version: 5.2.0-64
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 948
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: debs/com.axs.bigtime_5.2.0-64_iphoneos-arm64.deb
+Size: 132124
+MD5sum: 2806390c270d2651742d20b5b896f571
+SHA1: 01d49e31d48ab586c5459155261a30eb2e70cead
+SHA256: 0cbcac9616b81887aa2166536afe92313340f22903d450678ca2580a7f7c055f
+Section: Axs-Tweaks
+Description: 一个简单的锁屏时钟插件，需要在“/var/mobile/Axs/字体素材”文件夹里面放入“axs66.otf"字体素材，才能生效。
+ * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
+ * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
+ * 3.支持玻璃边缘、模糊、厚度、折射、高光和壁纸采样质量调节;
+ * 4.支持浅色/深色染色强度与深浅模式覆盖;
+ * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/bigtime.png
+Name: BigTime
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
+
+Package: com.axs.bigtime
+Version: 5.2.0-64
+Architecture: iphoneos-arm64e
+Maintainer: Axs
+Installed-Size: 948
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: debs/com.axs.bigtime_5.2.0-64_iphoneos-arm64e.deb
+Size: 131530
+MD5sum: 02688b5ab734c8de3644118704e21ecd
+SHA1: faecb6406a70878c96a12a994cc9ae575dcb8954
+SHA256: 1c55a12cef636d4ec9b99969edc7040542be715a144df24a4ad7943dd5bced04
 Section: Axs-Tweaks
 Description: 一个简单的锁屏时钟插件，需要在“/var/mobile/Axs/字体素材”文件夹里面放入“axs66.otf"字体素材，才能生效。
  * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
@@ -10417,6 +10507,366 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: WCPluginsOrder插件排序
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCPluginsOrder/js.json
 
+Package: com.huayuarc.cputhermal
+Version: 1.6.2-17
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 1676
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.cputhermal_1.6.2-17_iphoneos-arm64.deb
+Size: 123260
+MD5sum: ece7aa8e21f984f622f80a2af365a260
+SHA1: 3eb77e18c02c824b855c5788af931fead48e6a98
+SHA256: 56279e5051790eac1cababcf566bc9975e2630fea1f99dd5de580b857b15c613
+Section: Tweaks
+Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，支持解除温控、低功耗、CPU/GPU 功率策略及 /System/Library/ThermalMonitor 运行时配置补丁。
+Author: Huayuarc
+Icon: https://huayuarc.github.io/icon/cputhermal.png
+Name: CPU 解除温控
+Sileodepiction: https://huayuarc.github.io/sileodepiction/CPUthermal/js.json
+
+Package: com.huayuarc.cputhermal
+Version: 1.6.2-17
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 1636
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.cputhermal_1.6.2-17_iphoneos-arm64e.deb
+Size: 118798
+MD5sum: 579059693b308b920a26ed95d61be654
+SHA1: 4d9f770a5acc4c1904f11bbe38ca68c758362a3c
+SHA256: 0f7e0a0cc5e3e1eae250f58e6b9770c7ff435e75e6c68e98874e5535e1c323ab
+Section: Tweaks
+Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，支持解除温控、低功耗、CPU/GPU 功率策略及 /System/Library/ThermalMonitor 运行时配置补丁。
+Author: Huayuarc
+Icon: https://huayuarc.github.io/icon/cputhermal.png
+Name: CPU 解除温控
+Sileodepiction: https://huayuarc.github.io/sileodepiction/CPUthermal/js.json
+
+Package: com.huayuarc.cputhermal
+Version: 1.6.2-22
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 1896
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.cputhermal_1.6.2-22_iphoneos-arm64.deb
+Size: 134340
+MD5sum: 884feda8eddf221348a82a0521444743
+SHA1: 42ed903a7eeeb46aceee425c6e0238d10973fbfe
+SHA256: aeb7caa693d3e2a80626b7fcab547a5584108b8b0ed0f6299b2c950af20e81fd
+Section: Tweaks
+Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，支持解除温控、低功耗、CPU/GPU 功率策略及 /System/Library/ThermalMonitor 运行时配置补丁。
+Author: Huayuarc
+Icon: https://huayuarc.github.io/icon/cputhermal.png
+Name: CPU 解除温控
+Sileodepiction: https://huayuarc.github.io/sileodepiction/CPUthermal/js.json
+
+Package: com.huayuarc.cputhermal
+Version: 1.6.2-22
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 1808
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.cputhermal_1.6.2-22_iphoneos-arm64e.deb
+Size: 129400
+MD5sum: e2b537c0c1f235f8dafb6870a4b5dad6
+SHA1: c6e4422eb4d8cc82fe3974564228784a9c221ce2
+SHA256: ff00a67b84817695067ec0174b9e838c1c9a266dea9fce66ad389dd62b323826
+Section: Tweaks
+Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，支持解除温控、低功耗、CPU/GPU 功率策略及 /System/Library/ThermalMonitor 运行时配置补丁。
+Author: Huayuarc
+Icon: https://huayuarc.github.io/icon/cputhermal.png
+Name: CPU 解除温控
+Sileodepiction: https://huayuarc.github.io/sileodepiction/CPUthermal/js.json
+
+Package: com.huayuarc.cputhermal
+Version: 1.6.2-31
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 2136
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.cputhermal_1.6.2-31_iphoneos-arm64.deb
+Size: 152052
+MD5sum: c28f462615f7f700a1d260948ba59104
+SHA1: 773fe466b9487e7d6348d0ae72b9b0233a4fe066
+SHA256: 5b98e46d7736ee2411781b861663db0aa4bdf27efd3839aca509155f62d69f6f
+Section: Tweaks
+Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，支持解除温控、低功耗、CPU/GPU 功率策略及 /System/Library/ThermalMonitor 运行时配置补丁。
+Author: Huayuarc
+Icon: https://huayuarc.github.io/icon/cputhermal.png
+Name: CPU 解除温控
+Sileodepiction: https://huayuarc.github.io/sileodepiction/CPUthermal/js.json
+
+Package: com.huayuarc.cputhermal
+Version: 1.6.2-32
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 2136
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.cputhermal_1.6.2-32_iphoneos-arm64.deb
+Size: 152534
+MD5sum: c8d54182756be655897bcb70a7a5b10b
+SHA1: fa3e4c8b0161c48d7d3d1c7ce819abe048184baf
+SHA256: a8f7a07817092ceb2e2a3b186c0ae5e49b2bf6209c6fef26101e5b29fcc4ff03
+Section: Tweaks
+Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，支持解除温控、低功耗、CPU/GPU 功率策略及 /System/Library/ThermalMonitor 运行时配置补丁。
+Author: Huayuarc
+Icon: https://huayuarc.github.io/icon/cputhermal.png
+Name: CPU 解除温控
+Sileodepiction: https://huayuarc.github.io/sileodepiction/CPUthermal/js.json
+
+Package: com.huayuarc.cputhermal
+Version: 1.6.2-34
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 2136
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.cputhermal_1.6.2-34_iphoneos-arm64.deb
+Size: 154220
+MD5sum: 0e0296efd5f69e988b3d6484da2eaacf
+SHA1: 5d7b410efe061ba95275c6f0fed68eaf91256d04
+SHA256: c3e37373de9e24020e26dc7595518ee29bd24ca937b0043a82968ce7741d1d56
+Section: Tweaks
+Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，支持解除温控、低功耗、CPU/GPU 功率策略及 /System/Library/ThermalMonitor 运行时配置补丁。
+Author: Huayuarc
+Icon: https://huayuarc.github.io/icon/cputhermal.png
+Name: CPU 解除温控
+Sileodepiction: https://huayuarc.github.io/sileodepiction/CPUthermal/js.json
+
+Package: com.huayuarc.cputhermal
+Version: 1.6.2-34
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 2084
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.cputhermal_1.6.2-34_iphoneos-arm64e.deb
+Size: 148920
+MD5sum: f6cd2e8534df1e15f89966d77c9aecc0
+SHA1: ce44c613bcd74169f5a7fd8444eb74f329193c13
+SHA256: bebd3ee4b295bab8537c615a079dbd68302842d43ca35a2f332e3e65bfcfe202
+Section: Tweaks
+Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，支持解除温控、低功耗、CPU/GPU 功率策略及 /System/Library/ThermalMonitor 运行时配置补丁。
+Author: Huayuarc
+Icon: https://huayuarc.github.io/icon/cputhermal.png
+Name: CPU 解除温控
+Sileodepiction: https://huayuarc.github.io/sileodepiction/CPUthermal/js.json
+
+Package: com.huayuarc.cputhermal
+Version: 1.6.2-35
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 2136
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.cputhermal_1.6.2-35_iphoneos-arm64.deb
+Size: 155506
+MD5sum: becccf08c6974e42818f2ce89fac7fe6
+SHA1: c9b0d1ee5d2d35cf865ee7a0fced5a2be24074cf
+SHA256: 1ef8457b7a8c87e165e6f91652bc607597ad59ee7e0be10473ef90b38c591289
+Section: Tweaks
+Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，支持解除温控、低功耗、CPU/GPU 功率策略及 /System/Library/ThermalMonitor 运行时配置补丁。
+Author: Huayuarc
+Icon: https://huayuarc.github.io/icon/cputhermal.png
+Name: CPU 解除温控
+Sileodepiction: https://huayuarc.github.io/sileodepiction/CPUthermal/js.json
+
+Package: com.huayuarc.cputhermal
+Version: 1.6.2-35
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 2084
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.cputhermal_1.6.2-35_iphoneos-arm64e.deb
+Size: 150192
+MD5sum: a97deb2356be563ee775d207c27fcafc
+SHA1: aeb7c69b3f3bea5f55208216c541d1e8277bf946
+SHA256: 1bf1f3b389505557cda4120047f858a19c724ecc5c1fa7d668edc89186f88b8f
+Section: Tweaks
+Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，支持解除温控、低功耗、CPU/GPU 功率策略及 /System/Library/ThermalMonitor 运行时配置补丁。
+Author: Huayuarc
+Icon: https://huayuarc.github.io/icon/cputhermal.png
+Name: CPU 解除温控
+Sileodepiction: https://huayuarc.github.io/sileodepiction/CPUthermal/js.json
+
+Package: com.huayuarc.cputhermal
+Version: 1.6.2-46
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 1928
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.cputhermal-1.6.2-46-rootless.deb
+Size: 141712
+MD5sum: f4af9dd58bb55d1def3677045fb2dd8d
+SHA1: 8aaa54c786a331d56b845fd176c69e20d1890469
+SHA256: 6c36eea5695a3bcccb701107ef24a27e5fc14a59cadf37b746be2c08bdd3c295
+Section: Tweaks
+Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，支持解除温控、低功耗、CPU/GPU 功率策略及 /System/Library/ThermalMonitor 运行时配置补丁。
+Author: Huayuarc
+Icon: https://huayuarc.github.io/icon/cputhermal.png
+Name: CPU 解除温控
+Sileodepiction: https://huayuarc.github.io/sileodepiction/CPUthermal/js.json
+
+Package: com.huayuarc.cputhermal
+Version: 1.6.2-46
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 1860
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.cputhermal-1.6.2-46-roothide.deb
+Size: 137076
+MD5sum: 9a625966d13cfe9759c68889a40529df
+SHA1: 41dca66d4cbb15308b65354f833f826c9c7dcc86
+SHA256: 4935481cf556fd80331e184d751fd85edf7c9e7f1201e638d746f976ca7bf136
+Section: Tweaks
+Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，支持解除温控、低功耗、CPU/GPU 功率策略及 /System/Library/ThermalMonitor 运行时配置补丁。
+Author: Huayuarc
+Icon: https://huayuarc.github.io/icon/cputhermal.png
+Name: CPU 解除温控
+Sileodepiction: https://huayuarc.github.io/sileodepiction/CPUthermal/js.json
+
+Package: com.huayuarc.cputhermal
+Version: 1.6.2-47
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 2084
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.cputhermal-1.6.2-47-roothide.deb
+Size: 151144
+MD5sum: ecf2ed495fdc1e37cbe8889d03b4aac4
+SHA1: 2a0acff79cacf436fcf605ab6608dc88c9723b30
+SHA256: 122bb5bde3d2870003c9ceeeb094c228e61995ed305d5857d8901357fb6af8e7
+Section: Tweaks
+Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，支持解除温控、低功耗、CPU/GPU 功率策略及 /System/Library/ThermalMonitor 运行时配置补丁。
+Author: Huayuarc
+Icon: https://huayuarc.github.io/icon/cputhermal.png
+Name: CPU 解除温控
+Sileodepiction: https://huayuarc.github.io/sileodepiction/CPUthermal/js.json
+
+Package: com.huayuarc.cputhermal
+Version: 1.6.2-47
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 2136
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.cputhermal-1.6.2-47-rootless.deb
+Size: 156156
+MD5sum: ca3067e1f9fdf47cad2d80f331abe44b
+SHA1: fe406adc4ecd128b800c260240c386ed5a9f12fb
+SHA256: c24c9ed8c811abbba8398c9f08e57037e4e8005a4a71cfac15af27dc22ab3a9a
+Section: Tweaks
+Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，支持解除温控、低功耗、CPU/GPU 功率策略及 /System/Library/ThermalMonitor 运行时配置补丁。
+Author: Huayuarc
+Icon: https://huayuarc.github.io/icon/cputhermal.png
+Name: CPU 解除温控
+Sileodepiction: https://huayuarc.github.io/sileodepiction/CPUthermal/js.json
+
+Package: com.huayuarc.cputhermal
+Version: 1.6.2-58
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 2340
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.cputhermal-1.6.2-58-rootless.deb
+Size: 172140
+MD5sum: c88ffe22750297dd5e514d0bfb440f50
+SHA1: fc4dfa163696f05157f97db4db4dd74188754841
+SHA256: dd3dda2ae26aeff73f0777898a8f2a14bae31e14ac03af8afc4f50cdf5de42a3
+Section: Tweaks
+Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，支持解除温控、低功耗、CPU/GPU 功率策略及 /System/Library/ThermalMonitor 运行时配置补丁。
+Author: Huayuarc
+Icon: https://huayuarc.github.io/icon/cputhermal.png
+Name: CPU 解除温控
+Sileodepiction: https://huayuarc.github.io/sileodepiction/CPUthermal/js.json
+
+Package: com.huayuarc.cputhermal
+Version: 1.6.2-58
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 2288
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.cputhermal-1.6.2-58-roothide.deb
+Size: 165916
+MD5sum: c03795e5d93fba6d54b05c5a19eae056
+SHA1: 8a650c7c0f4de1f0e952e0a302b879e740429753
+SHA256: 8a10e3677ff79ca541dc4f943c1fd0b558d03f3766a82353b4f926023f8cc68d
+Section: Tweaks
+Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，支持解除温控、低功耗、CPU/GPU 功率策略及 /System/Library/ThermalMonitor 运行时配置补丁。
+Author: Huayuarc
+Icon: https://huayuarc.github.io/icon/cputhermal.png
+Name: CPU 解除温控
+Sileodepiction: https://huayuarc.github.io/sileodepiction/CPUthermal/js.json
+
+Package: com.huayuarc.cputhermal
+Version: 1.6.2-64
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 1912
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.huayuarc.cputhermal-1.6.2-64-rootless.deb
+Size: 135748
+MD5sum: 0f4a6ac9c731e99ef25dfe40b1c76009
+SHA1: 9a7c5e4e25d7fa0df90979eafce8a50545813b3d
+SHA256: ab1859becc4307729e4e9521374d8189d8def216417e2faedef649c7fe2f92bf
+Section: Tweaks
+Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，固定解除温控模式，支持 CPU/GPU/Package 温控旁路、ProMotion 120Hz 与 /System/Library/ThermalMonitor 一键挂载优化。
+Author: Huayuarc
+Icon: https://huayuarc.github.io/icon/cputhermal.png
+Name: CPU 解除温控
+Sileodepiction: https://huayuarc.github.io/sileodepiction/CPUthermal/js.json
+
+Package: com.huayuarc.cputhermal
+Version: 1.6.2-64
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 1876
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.huayuarc.cputhermal-1.6.2-64-roothide.deb
+Size: 131428
+MD5sum: 4fcc9de0abb1bb2569bcd973a4fefafe
+SHA1: 715de721d547c1dbd1cca13a7bec03280edf46b3
+SHA256: 0139515c780cce413b5457bd4c83f235e1cb44d4a475937641591ea6c1d756fc
+Section: Tweaks
+Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，固定解除温控模式，支持 CPU/GPU/Package 温控旁路、ProMotion 120Hz 与 /System/Library/ThermalMonitor 一键挂载优化。
+Author: Huayuarc
+Icon: https://huayuarc.github.io/icon/cputhermal.png
+Name: CPU 解除温控
+Sileodepiction: https://huayuarc.github.io/sileodepiction/CPUthermal/js.json
+
+Package: com.huayuarc.cputhermal
+Version: 1.6.2-9
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 1840
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.cputhermal_1.6.2-9_iphoneos-arm64e.deb
+Size: 129852
+MD5sum: a07539f5968018131b1c86e223d02b13
+SHA1: b7fb6954b9866df08d0d967d526e14d93ab34819
+SHA256: a0ec9f6f7f06e460128c9702e43dc4e260714ef950c73de3ebc308fd09a567a6
+Section: Tweaks
+Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，支持解除温控、低功耗、CPU/GPU 功率策略及 /System/Library/ThermalMonitor 运行时配置补丁。
+Author: Huayuarc
+Icon: https://huayuarc.github.io/icon/cputhermal.png
+Name: CPU 解除温控
+Sileodepiction: https://huayuarc.github.io/sileodepiction/CPUthermal/js.json
+
+Package: com.huayuarc.cputhermal
+Version: 1.6.2-9
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 1864
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: debs/com.huayuarc.cputhermal_1.6.2-9_iphoneos-arm64.deb
+Size: 134496
+MD5sum: 6d4277c40b57948e61dc5a8adf423658
+SHA1: 2da79dc2fb215311938ae04711d97bdb0f2c2e6c
+SHA256: 567992154c8e3ac2c016a7902b33874d269d17a39e797d7f38edef62a522d290
+Section: Tweaks
+Description: 适配 iOS 15-17 与不同 iPhone/iPad 机型的温控管理插件。注入 thermalmonitord，支持解除温控、低功耗、CPU/GPU 功率策略及 /System/Library/ThermalMonitor 运行时配置补丁。
+Author: Huayuarc
+Icon: https://huayuarc.github.io/icon/cputhermal.png
+Name: CPU 解除温控
+Sileodepiction: https://huayuarc.github.io/sileodepiction/CPUthermal/js.json
+
 Package: com.huayuarc.sneakycam
 Version: 2.1.0
 Architecture: iphoneos-arm64
@@ -12319,6 +12769,58 @@ Size: 888
 MD5sum: 2cc064d82902247c8cbfb226fdf614cd
 SHA1: 3242030e343d5c1f5b40fca14437956e0c0027a2
 SHA256: 5aaad701ab6334d567ed93ac99dbecbe6481aa2a1efe50178f87c77aff917eb5
+Section: Tweaks
+Description: 在主屏幕查看应用数据与管理应用
+Author: iosdump
+Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+Name: AppData
+
+Package: com.iosdump.appdata
+Version: 2.7.3
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: debs/com.iosdump.appdata_2.7.3_iphoneos-arm.deb
+Size: 2076950
+MD5sum: b7507e92ebf581456c9036f9d64d0ff9
+SHA1: c1396a74c483fe8e51f8b2b84fb1c2fccb3a51f1
+SHA256: 5cd2d0bc2b7e6e6a6982227c3e607812dd685ceacf02efa70ee003fb5504c75d
+Section: Tweaks
+Description: 在主屏幕查看应用数据与管理应用
+Author: iosdump
+Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+Name: AppData
+
+Package: com.iosdump.appdata
+Version: 2.7.3
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: debs/com.iosdump.appdata_2.7.3_iphoneos-arm64.deb
+Size: 2077070
+MD5sum: 92f9b4f84c0b842021d4ea320edebf62
+SHA1: aabfda4f5e055cc11c5c162983f2012a4f600c2b
+SHA256: 2dd3ed65fde9310febb24996a3688d174d099d671e067c6ae55d1b73e7c7efa0
+Section: Tweaks
+Description: 在主屏幕查看应用数据与管理应用
+Author: iosdump
+Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+Name: AppData
+
+Package: com.iosdump.appdata
+Version: 2.7.3
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: debs/com.iosdump.appdata_2.7.3_iphoneos-arm64e.deb
+Size: 3927688
+MD5sum: a38359585fb4ca0c91b84d3cca0c88cd
+SHA1: 2183f4a9aec5a2732d15550282dbd5c993db40f6
+SHA256: a3cb7080e4631cfe51dcac084114d86de63928c7b88ed1a2a3a6c76da479940f
 Section: Tweaks
 Description: 在主屏幕查看应用数据与管理应用
 Author: iosdump
@@ -21346,6 +21848,54 @@ SHA256: de12cd41289853e6e276d5219b0f8023c1aedad80c0d947c6bf9f635cc1bf383
 Section: Utilities
 Priority: optional
 Description: Root file manager for roothide bootstraps
+ Browse and edit every file on your device, not just the ones an app is allowed
+ to see. Copy, move and rename with progress you can cancel, create and unpack
+ zip, 7z, rar and tar archives, edit text with syntax highlighting, read plists,
+ preview images and video, open a terminal, and share a folder to your computer
+ over WebDAV. Deleted files go to a trash you can restore from, and the files
+ your device needs in order to boot cannot be deleted by mistake.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Icon: https://owngoal-dev.github.io/Fila/icon.png
+Name: Fila
+
+Package: wiki.qaq.fila
+Version: 0.5.0
+Architecture: iphoneos-arm64e
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 94600
+Depends: firmware (>= 15.0), uikittools, launchctl
+Filename: debs/wiki.qaq.fila_0.5.0_iphoneos-arm64e.deb
+Size: 24792542
+MD5sum: d0a6e1f663dab74ec4776a85a2898f1f
+SHA1: 1a3420f4c0d08aa2fea370909c2dc4267eff8a59
+SHA256: c59c904e447ffc3603bb067508e86c91c72bd3ff997fc8dffdf468e17db34479
+Section: Utilities
+Priority: optional
+Description: Root file manager for roothide bootstraps
+ Browse and edit every file on your device, not just the ones an app is allowed
+ to see. Copy, move and rename with progress you can cancel, create and unpack
+ zip, 7z, rar and tar archives, edit text with syntax highlighting, read plists,
+ preview images and video, open a terminal, and share a folder to your computer
+ over WebDAV. Deleted files go to a trash you can restore from, and the files
+ your device needs in order to boot cannot be deleted by mistake.
+Author: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Icon: https://owngoal-dev.github.io/Fila/icon.png
+Name: Fila
+
+Package: wiki.qaq.fila
+Version: 0.5.0
+Architecture: iphoneos-arm64
+Maintainer: OwnGoal Studio <not-gonna-reply@owngoal.dev>
+Installed-Size: 94600
+Depends: firmware (>= 15.0), uikittools, launchctl
+Filename: debs/wiki.qaq.fila_0.5.0_iphoneos-arm64.deb
+Size: 24798400
+MD5sum: 17733042d41aecdbb809848bb5a2eddf
+SHA1: 8ce745a22d07ba2f7e68cb5ebca169460f290bce
+SHA256: 532ed5b36b5f61b373fe8bf574b95cf4f6c7328ba3adce1052daafee283a29b0
+Section: Utilities
+Priority: optional
+Description: Root file manager for rootless bootstraps
  Browse and edit every file on your device, not just the ones an app is allowed
  to see. Copy, move and rename with progress you can cancel, create and unpack
  zip, 7z, rar and tar archives, edit text with syntax highlighting, read plists,
