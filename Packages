@@ -9211,22 +9211,6 @@ Description: 灵动岛背景？
 Author: 冰蓝
 Name: DynamicFX
 
-Package: com.binglanqjsy.deb
-Version: 3.0.0
-Architecture: iphoneos-arm64
-Maintainer: 冰蓝
-Installed-Size: 908
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16)
-Filename: debs/全局水印-3.0.0-iphoneos-arm64.deb
-Size: 164724
-MD5sum: c3b4b8ad45f42b4a74b7b446aa0a89db
-SHA1: 90598af967a1f20d50ffc0d6172052dee8b6f7b3
-SHA256: 4b931a97c1cbbeda323b9a23464a184a60ab5c93f171c2d4c411d9bb68302e07
-Section: 冰蓝的插件
-Description: 添加全局水印相关功能，支持截图水印，录屏水印，套壳截图，套壳录屏。
-Author: 冰蓝
-Name: 全局水印
-
 Package: com.brend0n.qqmusicdesktoplyrics
 Version: 0.3.9~b1
 Architecture: iphoneos-arm64
