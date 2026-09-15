@@ -10371,6 +10371,38 @@ Description: AppTools for iOS15-17 Roothide
 Author: aReo
 Name: AppTools15-17(Roothide)
 
+Package: com.flex2areo.apptools15roothide
+Version: 2.8.7
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 4436
+Depends: mobilesubstrate
+Filename: debs/com.flex2areo.apptools15roothide_2.8.7_iphoneos-arm64e.deb
+Size: 1503498
+MD5sum: 24e50363c0817f5da7cb2f46fcb33d98
+SHA1: 6df48e58e05da43b14227a0e2a68dcb431e5ea3c
+SHA256: 312b7f4a47703c2b6f129f74c226c4ac7f1cefce52afb952dcd07b7fa3c24258
+Section: Tweaks
+Description: AppTools for iOS15-17 Roothide
+Author: aReo
+Name: AppTools15-17(Roothide)
+
+Package: com.flex2areo.apptools15roothide
+Version: 2.8.8
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 6300
+Depends: mobilesubstrate
+Filename: debs/com.flex2areo.apptools15roothide_2.8.8_iphoneos-arm64e.deb
+Size: 3152186
+MD5sum: 1e0d18ca858565cefc63c24b8552e483
+SHA1: cea02fe9d87e951352ff43059ae0fa03f673d643
+SHA256: cf14a1dffc16587508fd0d9141ef9bea804e14c21fd3a4831e2093b0ac6e149f
+Section: Tweaks
+Description: AppTools for iOS15-17 Roothide
+Author: aReo
+Name: AppTools15-17(Roothide)
+
 Package: com.flex2areo.apptools15rootless
 Version: 2.8.1
 Architecture: iphoneos-arm64
@@ -10462,6 +10494,38 @@ Size: 1503426
 MD5sum: f180eadd11ee34ea7d8f87545ce4b4b4
 SHA1: 3dbd0f764efa2c32f23172388a6dc14e5339868f
 SHA256: e11853e38f2f88fb4a3e29895dd249380ef8320804d466218c28e463a993ec37
+Section: Tweaks
+Description: AppTools for iOS15-17 Rootless
+Author: aReo
+Name: AppTools15-17(Rootless)
+
+Package: com.flex2areo.apptools15rootless
+Version: 2.8.7
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 4516
+Depends: mobilesubstrate
+Filename: debs/com.flex2areo.apptools15rootless_2.8.7_iphoneos-arm64.deb
+Size: 1513378
+MD5sum: 9c8b115dd662f4f6ffc942282bc144cd
+SHA1: 15dc58336819ee02dda8c61c5bfbe5004af04abe
+SHA256: e3995c9f544c08ec9a0afc80bd669282c7bffa14775fbd63f834fdc3b63604f6
+Section: Tweaks
+Description: AppTools for iOS15-17 Rootless
+Author: aReo
+Name: AppTools15-17(Rootless)
+
+Package: com.flex2areo.apptools15rootless
+Version: 2.8.8
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 6432
+Depends: mobilesubstrate
+Filename: debs/com.flex2areo.apptools15rootless_2.8.8_iphoneos-arm64.deb
+Size: 3159584
+MD5sum: 31e7cb74b4100a610dbe28512c356769
+SHA1: 75ad5f810d229a9ab789eb14e317bd205bbdc300
+SHA256: 2ce5ffa5b0c541bac4eb063ba1ad8bec4582cd3f950c802267c05a3b23e49b2b
 Section: Tweaks
 Description: AppTools for iOS15-17 Rootless
 Author: aReo
@@ -15315,6 +15379,108 @@ SHA1: c3074badb4f709863394186c3ce05b346a3f18a7
 SHA256: e0176ed13a72d71d56f61f187d0e62a7dd4bfe16b92df33d39846ea255f4b6bd
 Section: Tweaks
 Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 3.1.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 13912
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: debs/com.iosdump.shellx_3.1.1_iphoneos-arm64.deb
+Size: 3076012
+MD5sum: 844dc4986969b71623542fd82eadfc4d
+SHA1: 82bf42c4e8e59638513bbe9502fcde7c91055247
+SHA256: fa09ebb97940aef56217e86742af7888ba79a26e2db252c939a936c0adb24372
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 3.1.1
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 13896
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: debs/com.iosdump.shellx_3.1.1_iphoneos-arm64e.deb
+Size: 3072290
+MD5sum: 26e5153cd456a134ebad7950cbd4e152
+SHA1: de6d0a0868a0e47022d19182268800b96f8b00c1
+SHA256: fbe32de30d021c527f9505e46c0bd34507f79db36df9f1604cfbb83846e476e1
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 3.1.1
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 13912
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: debs/com.iosdump.shellx_3.1.1_iphoneos-arm.deb
+Size: 3077412
+MD5sum: 139f88691a8f8e064a4e33356389aab7
+SHA1: 44aa4fb2ae8c6c60d0c6afcad4292581b00b8d7a
+SHA256: f403c0c2477d7dd165a26c4e368fda0408cc4b6d36f1c5b504ab12c57e576e3b
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 3.2.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 14436
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: debs/com.iosdump.shellx_3.2.1_iphoneos-arm64.deb
+Size: 3204136
+MD5sum: 54bc3d130788208eb9d11165292420b9
+SHA1: 7c6db86d27992cc43fe2401907a3f7e790b202d5
+SHA256: 997a025d2a4e04ac682cb7da70452b36acf9d4a1f147cf163791bd69b548234d
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 3.2.1
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 14436
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: debs/com.iosdump.shellx_3.2.1_iphoneos-arm.deb
+Size: 3199412
+MD5sum: a6a7c1382dac0f04e8ad9bffdc47178c
+SHA1: decf48603a5e4ae3d8e609b6aca29fca71ef09de
+SHA256: 6758167cae13c468e0aab316af8c812a8d8b1c6249f71b64aa1e23a865b2e33c
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 3.2.1
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 14436
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: debs/com.iosdump.shellx_3.2.1_iphoneos-arm64e.deb
+Size: 3201856
+MD5sum: 388040e0e2703bb4aec37bc24d217c57
+SHA1: 2d1a9f37681d5b748f0ab27e40180f3207ca7cc7
+SHA256: 436c1548e82ad581cdbac0fc54749f46c95ae110286ae11956a37b614583414e
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
 Author: iosdump
 Name: SHELLX
 
