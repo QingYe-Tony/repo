@@ -6906,6 +6906,24 @@ Icon: https://axs66.github.io/pro/icon/a-font.png
 Name: AxsFont
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/axsfont/js.json
 
+Package: com.axs.axswidget
+Version: 5.2.0-11
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 348
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.axs.axswidget_5.2.0-11_iphoneos-arm64.deb
+Size: 14192
+MD5sum: e9264ef80b94de2995b7aa0b0a366419
+SHA1: 4005e485c17628990a3178efcf963c6eb8ddae81
+SHA256: 185b597582cbc61fb458fc4e16e72b3038727e169ad9e13d3d0206e54c668c53
+Section: Axs-Tweaks
+Description: 这是一款锁屏小组件移动位置的插件。
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/axswidget.png
+Name: AxsWidget
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/axswidget/js.json
+
 Package: com.axs.bigtime
 Version: 5.2.0-34
 Architecture: iphoneos-arm64
@@ -7287,6 +7305,185 @@ Author: A
 Icon: https://axs66.github.io/pro/icon/contactsfs.png
 Name: ContactsFS 来电全屏显示头像
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/contactsfs/js.json
+
+Package: com.axs.duostatus
+Version: 5.2.0-19
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 464
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.axs.duostatus_5.2.0-19_iphoneos-arm64.deb
+Size: 40600
+MD5sum: c7ff7b3a2ddf56a4265ce61813e1aaea
+SHA1: a121c65cac4f3848996ad5c037749c80756e0842
+SHA256: 2d89bfd693eff79b120bb791a1d816676b554544a6b0e5445548ed419bf6a813
+Section: Axs-Tweaks
+Description: 状态栏信号/网络/电量三合一圆环图标。
+ * 1.圆环=电量、底部圆点=信号、环内=WiFi 或 5G/4G 制式
+ * 2.全部取自系统真实数据，实时刷新（充电闪电、低电量、飞行模式、无服务）
+ * 3.尺寸/位移/线宽/配色可调，改动即时生效，控制中心开合自动刷新
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/duostatus.png
+Name: DuoStatus
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/duostatus/js.json
+
+Package: com.axs.duostatus
+Version: 5.2.0-38
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 464
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.axs.duostatus_5.2.0-38_iphoneos-arm64.deb
+Size: 46052
+MD5sum: e42c32ea76bcc19d617fbf7069815e48
+SHA1: 0a6c426b73755b9c5a20c96e3164ce6aae809f52
+SHA256: f301f2fadc1d4118e92f4aa69c88906b2cd42ba5219d45500d60aba1a9435299
+Section: Axs-Tweaks
+Description: 状态栏信号/网络/电量三合一圆环图标。
+ * 1.圆环=电量、底部圆点=信号、环内=WiFi 或 5G/4G 制式
+ * 2.全部取自系统真实数据，实时刷新（充电闪电、低电量、飞行模式、无服务）
+ * 3.点按图标可展开系统原生图标，保持 3 秒后自动收回，期间再点按即续期
+ * 4.前景色取系统样式对象（与原生图标同色），尺寸/位移/线宽/配色可调，改动即时生效
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/duostatus.png
+Name: DuoStatus
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/duostatus/js.json
+
+Package: com.axs.duostatus
+Version: 5.2.0-62
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 480
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.axs.duostatus_5.2.0-62_iphoneos-arm64.deb
+Size: 47430
+MD5sum: 7262dcd4f8f0c9d994a34300b2515052
+SHA1: 375428667fa02ad93d00388e7e70cf68112b0fa6
+SHA256: 1d6fec1948c1f4efde6ded0470abfcecf787573a0d2f05f5e8268623c19d2604
+Section: Axs-Tweaks
+Description: 状态栏信号/网络/电量三合一圆环图标。
+ * 1.圆环=电量、底部圆点=信号、环内=WiFi 或 5G/4G 制式
+ * 2.全部取自系统真实数据，实时刷新（充电闪电、低电量、飞行模式、无服务）
+ * 3.点按图标可展开系统原生图标，保持 3 秒后自动收回，期间再点按即续期
+ * 4.前景色取系统样式对象（与原生图标同色），尺寸/位移/线宽/配色可调，改动即时生效
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/duostatus.png
+Name: DuoStatus
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/duostatus/js.json
+
+Package: com.axs.duostatus
+Version: 5.2.0-71
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 496
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.axs.duostatus_5.2.0-71_iphoneos-arm64.deb
+Size: 48814
+MD5sum: 8b386446f2bb63064bee12d6c64adff1
+SHA1: c460f5ffec1af5d34827085b9c5bba3cac0738f9
+SHA256: 05c0042fa1b8669a9ef2f7b5570413e9bc441e258e48236056e183ffaed64166
+Section: Axs-Tweaks
+Description: 状态栏信号/网络/电量三合一圆环图标。
+ * 1.圆环=电量、底部圆点=信号、环内=WiFi 或 5G/4G 制式
+ * 2.全部取自系统真实数据，实时刷新（充电闪电、低电量、飞行模式、无服务）
+ * 3.点按图标可展开系统原生图标，保持 2 秒后自动收回，期间再点按即续期
+ * 4.前景色取系统样式对象（与原生图标同色），尺寸/位移/线宽/配色可调，改动即时生效
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/duostatus.png
+Name: DuoStatus
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/duostatus/js.json
+
+Package: com.axs.duostatus
+Version: 5.2.0-75
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 496
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.axs.duostatus_5.2.0-75_iphoneos-arm64.deb
+Size: 49202
+MD5sum: 39a05858883f87475ac12f57f9b77ae5
+SHA1: b9637f9439d4b02345b618ff400e82fac2863bf4
+SHA256: 5d1c6c03be7de0dd10e69207acaadb4e5fc5e694a392a011272068d5d1a92d20
+Section: Axs-Tweaks
+Description: 状态栏信号/网络/电量三合一圆环图标。
+ * 1.圆环=电量、底部圆点=信号、环内=WiFi 或 5G/4G 制式
+ * 2.全部取自系统真实数据，实时刷新（充电闪电、低电量、飞行模式、无服务）
+ * 3.点按图标可展开系统原生图标，保持 2 秒后自动收回，期间再点按即续期
+ * 4.前景色取系统样式对象（与原生图标同色），尺寸/位移/线宽/配色可调，改动即时生效
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/duostatus.png
+Name: DuoStatus
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/duostatus/js.json
+
+Package: com.axs.duostatus
+Version: 5.2.0-82
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 496
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.axs.duostatus_5.2.0-82_iphoneos-arm64.deb
+Size: 51102
+MD5sum: b1b72685e1d624b37b32f4668c362480
+SHA1: 3869dfb40eebe34c478b417f98607908d199440a
+SHA256: 17c4aefa0606fb6f0261a2865917497933f8f4effe73080b626119b4fb188e0c
+Section: Axs-Tweaks
+Description: 状态栏信号/网络/电量三合一圆环图标。
+ * 1.圆环=电量、底部圆点=信号、环内=WiFi 或 5G/4G 制式
+ * 2.全部取自系统真实数据，实时刷新（充电闪电、低电量红/黄、飞行模式、无服务、WiFi 按强度分档）
+ * 3.点按图标可展开系统原生图标，保持 2 秒后自动收回，期间再点按即续期
+ * 4.前景色取系统样式对象（与原生图标同色），尺寸/位移/线宽/配色可调，改动即时生效
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/duostatus.png
+Name: DuoStatus
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/duostatus/js.json
+
+Package: com.axs.duostatus
+Version: 5.2.0-96
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 496
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.axs.duostatus_5.2.0-96_iphoneos-arm64.deb
+Size: 54298
+MD5sum: d4f2bd558457e49952eaa6fa2d26c48c
+SHA1: f2feb731f1b3cd612948a4d9be69572600b70090
+SHA256: 4fc94ade23bca6130d2b2b6e251daf7d0c6c3830c2911e4ccb5e4b04e97c8c65
+Section: Axs-Tweaks
+Description: 状态栏信号/网络/电量三合一圆环图标。
+ * 1.圆环=电量、底部圆点=信号、环内=WiFi 或 5G/4G 制式
+ * 2.全部取自系统真实数据，实时刷新
+ * 3.点按图标可展开系统原生图标，保持 2 秒后自动收回
+ * 4.支持自定义元素的尺寸/位移/线宽/配色等参数，改动即时生效
+ * 5. 支持ios15.0~17.3.1系统
+ * 6. 兼容电话助手
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/duostatus.png
+Name: DuoStatus
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/duostatus/js.json
+
+Package: com.axs.duostatus
+Version: 5.2.0-99
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 532
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.axs.duostatus_5.2.0-99_iphoneos-arm64.deb
+Size: 56618
+MD5sum: 2b74946bf2135bf35429e727bd215ff4
+SHA1: 40724b21303daa24ab96d75b80ad7a9c9d344587
+SHA256: fa6907e95a521f68d9695cba45e9ac44f400e99f0f82d2b36cb1ad9002ce7e42
+Section: Axs-Tweaks
+Description: 状态栏信号/网络/电量三合一圆环图标。
+ * 1.圆环=电量、底部圆点=信号、环内=WiFi 或 5G/4G 制式
+ * 2.全部取自系统真实数据，实时刷新
+ * 3.点按图标可展开系统原生图标，保持 2 秒后自动收回
+ * 4.支持自定义元素的尺寸/位移/线宽/配色等参数，改动即时生效
+ * 5. 支持ios15.0~17.3.1系统
+ * 6. 兼容电话助手
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/duostatus.png
+Name: DuoStatus
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/duostatus/js.json
 
 Package: com.axs.fps
 Version: 5.2.0-8
@@ -8573,6 +8770,30 @@ Icon: https://axs66.github.io/pro/icon/touchtrail.png
 Name: TouchTrail
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/touchtrail/js.json
 
+Package: com.axs.tweakshub
+Version: 5.2.0-58
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 352
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.nightwind.onesettings, com.creaturecoding.shuffle, com.sop.settingsrevamp, com.hk.settingsrevamp, com.dao.settingsrevamp, byg.iosios.net.settingsrevamp
+Filename: debs/com.axs.tweakshub_5.2.0-58_iphoneos-arm64.deb
+Size: 20876
+MD5sum: fb3d870c860f60f220433681d40c2244
+SHA1: e3c77c43293f4616c21ff386097c18e9ded707e5
+SHA256: 2874b6a4b9c36dcfa570f998e34ea86de522f70d717538df595b1f42e760ae98
+Section: Axs-Tweaks
+Description: 集中收纳统一管理越狱插件与第三方 App 设置，一处直达。
+ * 设置首页同组并排两个入口：越狱插件 + 应用软件
+ * 自动隐藏其他插件的首页独立入口，整组收纳系统第三方 App 设置
+ * 越狱插件面板递归聚合所有已装插件设置
+ * 应用软件面板收录第三方 App 设置入口（点击仍进原生设置页）
+ * 支持 Prefs:root=TWEAKS_CELL / TWEAKS_APPS_CELL 深链直达
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/tweakshub.png
+Name: TweaksHub
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/tweakshub/js.json
+
 Package: com.axs.wcplugins.rootless
 Version: 0.1-7
 Architecture: iphoneos-arm64
@@ -9211,6 +9432,76 @@ Description: 灵动岛背景？
 Author: 冰蓝
 Name: DynamicFX
 
+Package: com.binglan.kongzhidiy
+Version: 2.3.3-end
+Architecture: iphoneos-arm64
+Maintainer: binglan
+Installed-Size: 3028
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/com.binglan.kongzhidiy-2.3.3-end-rootless.deb
+Size: 816276
+MD5sum: 9ecfa3ad63167d5203efbedd34cf9e42
+SHA1: 2822d409bccd088b036e1fcbd19df54335c0334b
+SHA256: ca6454dc08a1f9bcdefa0f5d9f68a26d0c4811caeac5e741903647cf7ac279c0
+Section: Tweaks
+Description: 控制中心中心美化？
+Author: binglan
+Icon: https://huayuarc.github.io/icon/binglanKongzhi.png
+Name: CCPrimeX
+
+Package: com.binglan.kongzhidiy
+Version: 2.3.3-end
+Architecture: iphoneos-arm64e
+Maintainer: binglan
+Installed-Size: 3028
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/com.binglan.kongzhidiy-2.3.3-end-roothide.deb
+Size: 813104
+MD5sum: bb6aac981e1a2c708ac4c292fdfb2cd9
+SHA1: 6c04645d4a55c7bb7c3b2b74937cb7820ab99c16
+SHA256: fa6fb01d5d2699f573602a2ee1a204c438a6ffe68ab6f09a5fc779745921bd0c
+Section: Tweaks
+Description: 控制中心中心美化？
+Author: binglan
+Icon: https://huayuarc.github.io/icon/binglanKongzhi.png
+Name: CCPrimeX
+
+Package: com.binglan.kongzhidiy
+Version: 2.3.6-end
+Architecture: iphoneos-arm64e
+Maintainer: binglan
+Installed-Size: 8024
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Filename: debs/com.binglan.kongzhidiy-2.3.6-end-roothide.deb
+Size: 3733296
+MD5sum: 7c881c8b252f9f1a33f909ebbbbe44fb
+SHA1: b28aefac1863a50400846c2fb40805d16be8ae7f
+SHA256: 7fa738c9656cb092ce6d995210025d3110b7ea77466591bca0864936569675e3
+Section: Tweaks
+Description: 控制中心中心美化？
+Author: binglan
+Icon: https://huayuarc.github.io/icon/binglanKongzhi.png
+Name: CCPrimeX
+
+Package: com.binglan.kongzhidiy
+Version: 2.3.6-end
+Architecture: iphoneos-arm64
+Maintainer: binglan
+Installed-Size: 8024
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Filename: debs/com.binglan.kongzhidiy-2.3.6-end-rootless.deb
+Size: 3739616
+MD5sum: 08a71c77d5c704436e811c0e2b48f356
+SHA1: e817b8601f00fb7986c80af574eead5aa124d4a4
+SHA256: 6610555adbb206f8cf6cbab512932eebbdd52c34ceb93a3f4365cd95e6907523
+Section: Tweaks
+Description: 控制中心中心美化？
+Author: binglan
+Icon: https://huayuarc.github.io/icon/binglanKongzhi.png
+Name: CCPrimeX
+
 Package: com.brend0n.qqmusicdesktoplyrics
 Version: 0.3.9~b1
 Architecture: iphoneos-arm64
@@ -9328,6 +9619,22 @@ Author: Dcsyhi <dcsyhi1998@gmail.com>
 Icon: https://bvnrepo999.github.io/icon/tinhchinh.png
 Name: Airaw Split View Standard (Roothide)
 Sileodepiction: https://bvnrepo999.github.io/sileodepictions/splitstandard.json
+
+Package: com.charlieleung.liquidify
+Version: 1.3.7-4
+Architecture: iphoneos-arm64
+Maintainer: Charlie Leung
+Installed-Size: 40120
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/Liquidify_1.3.7-4-rootless.deb
+Size: 10667380
+MD5sum: 0031cb5f36caeb667181a9167f336283
+SHA1: a6ae29ee6e9f673bac0ad715072a16e3bc7027c0
+SHA256: 6eed3794dd21fed9c79b93fa2e0b0b36046ead5de3cb5d818bbcf77f6b0cb5fe
+Section: Tweaks
+Description: 为 iOS 界面注入液态玻璃质感。
+Author: Charlie Leung
+Name: Liquidify
 
 Package: com.charlieleung.openmask
 Version: 0.0.1
@@ -10600,6 +10907,23 @@ Section: Tweaks
 Description: cool
 Author: 🐶
 Name: SystemX
+
+Package: com.hang.zzzj
+Version: 0.0.1-8
+Architecture: iphoneos-arm64e
+Maintainer: hang
+Installed-Size: 180
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/转转找机.deb
+Size: 45136
+MD5sum: fb3971a530855428e9aaaa2b188f2124
+SHA1: ee19330cbb39612acbabde7f92b0b290e6d8a4ea
+SHA256: 2121881516193186337cfe9a84b152e44f622dc895dd639aca1b01807f5b8e74
+Section: Tweaks
+Description: 转转搜索筛选助手：悬浮球面板，按机型/电池/系统版本/成色筛选，带复制链接。温馨提示：直装版Deb安装后要是没有显示悬浮窗就说明插件没有生效，请卸载后改用巨魔注入。
+Author: hang
+Name: 转转找机-Roothide
 
 Package: com.hitori.misaki
 Version: 2.2
@@ -17046,6 +17370,40 @@ Author: mlgm
 Icon: https://mlgm66.github.io/icon/idata.png
 Name: iData
 
+Package: com.mlgm.idata
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 8180
+Depends: firmware (>= 15.0), apt, dpkg
+Filename: debs/com.mlgm.idata-1.2-roothide.deb
+Size: 2450156
+MD5sum: 0f8546880819085458ff9309ad212428
+SHA1: e80a46ca2442317022daa72629196e32592fc1d0
+SHA256: 11142ef2950c2e4321d4af378d4f5ae12e3d41f273e852a453a01c067be3575f
+Section: Tweaks
+Description: 应用、插件数据管理工具，一键备份/恢复
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/idata.png
+Name: iData
+
+Package: com.mlgm.idata
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 8180
+Depends: firmware (>= 15.0), apt, dpkg
+Filename: debs/com.mlgm.idata-1.2-rootless.deb
+Size: 2451368
+MD5sum: 52bb14e3527c0c1f03850bfa7244a4fe
+SHA1: 9438e1187ac05d46a8b1bbfe3b81b9798cfd13e2
+SHA256: 367a1403aad5c71906a14fba83958f535ee10500fbf1d59d5b1e79e74999c0f9
+Section: Tweaks
+Description: 应用、插件数据管理工具，一键备份/恢复
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/idata.png
+Name: iData
+
 Package: com.mlgm.ilog
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -17142,6 +17500,40 @@ Size: 1553652
 MD5sum: ef9fc4b2aa799c06dd3586a5da1e198e
 SHA1: 2257ee3988e32cafa074bfa96bd01ae91393f8ec
 SHA256: 645bd90e9c5792cc6a63bbc68f5a427642fecf6a7763130d8bb2247bffd8677b
+Section: Tweaks
+Description: 查看、预览、分享和清理 iOS 日志
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/ilog.png
+Name: iLog
+
+Package: com.mlgm.ilog
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 2516
+Depends: firmware (>= 15.0)
+Filename: debs/com.mlgm.ilog-1.2-roothide.deb
+Size: 1555468
+MD5sum: 790ed02873386fcdef88f925674694d5
+SHA1: b147af8ed14f7c7a86492e58a783cfd3fa22d859
+SHA256: 388ab19b88630fc08fddb0801be219e506b3c3b5495e6dae06b23803a05cb41b
+Section: Tweaks
+Description: 查看、预览、分享和清理 iOS 日志
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/ilog.png
+Name: iLog
+
+Package: com.mlgm.ilog
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 2516
+Depends: firmware (>= 15.0)
+Filename: debs/com.mlgm.ilog-1.2-rootless.deb
+Size: 1555396
+MD5sum: 2ff4a75bc71bc65d0d28b5bc28bc94d0
+SHA1: 880306e156b093d361ab80849afaeb54ae1c3dff
+SHA256: 91c85671d8448c9a9cd590c8e515f3ef323bed74a04adcef5c80e96a6538409b
 Section: Tweaks
 Description: 查看、预览、分享和清理 iOS 日志
 Author: mlgm
@@ -18640,6 +19032,44 @@ SHA1: 27175c0ec7f68aa08129e89e15129e5f291c8cb9
 SHA256: f8f4fe05d41b1399ea109e5978bed8eb1deb4268b28c919e62ef26dba07b1cb6
 Section: Tweaks
 Description: 修复 bug，新增横屏胶囊开关。
+Author: MoWang
+Name: SB CPU Floating
+
+Package: com.sbcpu.floating
+Version: 4.1.6
+Architecture: iphoneos-arm64e
+Maintainer: MoWang
+Installed-Size: 2100
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/SBCPUFloating-V3.0-roothide.deb
+Size: 277790
+MD5sum: e211670291ed3ffd2a390f7196003c2b
+SHA1: 21069a2d28217a2eea1406507c6b4101b7b67298
+SHA256: b31f462cdd002737ce601c929c44c5c2b87622b9fad65577ae097cf0d3ff3922
+Section: Tweaks
+Description: 新增插件耗电情况，仅供参考
+ 新增长按浮窗显示充电详情、充电器瓦数、实际输入瓦数
+ 修复 120 强制帧率，强行注入每个进程，实现满帧率运行
+ 新增充电历史详情
+Author: MoWang
+Name: SB CPU Floating
+
+Package: com.sbcpu.floating
+Version: 4.1.6
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 2116
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/SBCPUFloating-V3.0-rootless.deb
+Size: 279144
+MD5sum: 3885fe96b0bb3794c6c1f4b5f0a03187
+SHA1: 15b4ace85054300377783e60f0884434160af0a3
+SHA256: 18fbc62eec2878fa65e0f51fda30dfebfd3c5ac5b3614546b9fe4e7f5ad08c9a
+Section: Tweaks
+Description: 新增插件耗电情况，仅供参考
+ 新增长按浮窗显示充电详情、充电器瓦数、实际输入瓦数
+ 修复 120 强制帧率，强行注入每个进程，实现满帧率运行
+ 新增充电历史详情
 Author: MoWang
 Name: SB CPU Floating
 
@@ -20467,11 +20897,63 @@ Maintainer: SuSuDear
 Installed-Size: 684
 Pre-Depends: rootless-compat (>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: debs/com.susudear.themecore-0.2.0-roothide.deb
+Size: 116760
+MD5sum: 09e93c8dbb69219313d5c2b32ba0fde7
+SHA1: 848a442bfd6274e2a922163ac430d7c8032555fc
+SHA256: 3ba9c586b0e933bd21ec2b387bd4061358f253981aaef46d7c9660c351d001c4
+Section: Tweaks
+Description: 轻量化桌面图标主题插件，修改图标及图标阴影如此轻松，覆盖绝大部分区域，时钟日历可动态图标。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/ThemeCore.png
+Name: ThemeCore
+
+Package: com.susudear.themecore
+Version: 0.2.0
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 684
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: debs/com.susudear.themecore-0.2.0-rootless.deb
+Size: 118456
+MD5sum: fda4fa1fdfa3d1dceef89ca4723e7ff8
+SHA1: 6fce782980865a41061d04f73eb71607e3dc504a
+SHA256: a8103ca1e3c64c0d2b77392d536034c791ee61af5007e55e08d750a6111dcdbb
+Section: Tweaks
+Description: 轻量化桌面图标主题插件，修改图标及图标阴影如此轻松，覆盖绝大部分区域，时钟日历可动态图标。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/ThemeCore.png
+Name: ThemeCore
+
+Package: com.susudear.themecore
+Version: 0.2.0
+Architecture: iphoneos-arm64e
+Maintainer: SuSuDear
+Installed-Size: 684
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: debs/com.susudear.themecore_0.2.0_iphoneos-arm64e.deb
 Size: 116788
 MD5sum: 7e7680675d00e47fac94f69197b103a9
 SHA1: beb5be266580d37da1fa8cdf8a2b8ed9fa3585db
 SHA256: 9839bc29a4c318634517f5177e8a31e60bc0980867958b03334f2eeb514ae72b
+Section: Tweaks
+Description: 轻量化桌面图标主题插件，修改图标及图标阴影如此轻松，覆盖绝大部分区域，时钟日历可动态图标。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/ThemeCore.png
+Name: ThemeCore
+
+Package: com.susudear.themecore
+Version: 0.2.1
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 736
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: debs/com.susudear.themecore-0.2.1-rootless.deb
+Size: 128744
+MD5sum: a61c9403dfa8e268cfbd421478b846dd
+SHA1: f92a3dbd3c159786c656e64d70d9495616367343
+SHA256: ab74b445e35d13b7b02ed08d1bd69feb0b019b69b9ad5655beed89dad4e549dc
 Section: Tweaks
 Description: 轻量化桌面图标主题插件，修改图标及图标阴影如此轻松，覆盖绝大部分区域，时钟日历可动态图标。
 Author: SuSuDear
@@ -20514,6 +20996,24 @@ Icon: https://repo.susubaby.cn/icons/ThemeCore.png
 Name: ThemeCore
 
 Package: com.susudear.themecore
+Version: 0.2.1
+Architecture: iphoneos-arm64e
+Maintainer: SuSuDear
+Installed-Size: 736
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: debs/com.susudear.themecore-0.2.1-roothide.deb
+Size: 127080
+MD5sum: f76e90e9c121d4599a65601754e2cd61
+SHA1: 2b44d3a426c77f052dd0ecede8d390b77c2fa199
+SHA256: 358ce39b4032e92e45b19d582fd8d0566ba1e39d121a114ec2e60497a3ec2edc
+Section: Tweaks
+Description: 轻量化桌面图标主题插件，修改图标及图标阴影如此轻松，覆盖绝大部分区域，时钟日历可动态图标。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/ThemeCore.png
+Name: ThemeCore
+
+Package: com.susudear.themecore
 Version: 0.3
 Architecture: iphoneos-arm64
 Maintainer: SuSuDear
@@ -20532,6 +21032,23 @@ Name: ThemeCore
 
 Package: com.susudear.themecore
 Version: 0.3
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 736
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: debs/com.susudear.themecore-0.3-rootless.deb
+Size: 127364
+MD5sum: 7f09d1ebf02d84bec010c537f058b33a
+SHA1: 36b4e1ef13b6aa49cc2aad7fa6d5278650f0aea0
+SHA256: 9dd4c9589a259c3d42d570a2ad86257c314679ff96cdf4fbe375cf12953c4b52
+Section: Tweaks
+Description: 轻量化桌面图标主题插件，修改图标及图标阴影如此轻松，覆盖绝大部分区域，时钟日历可动态图标。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/ThemeCore.png
+Name: ThemeCore
+
+Package: com.susudear.themecore
+Version: 0.3
 Architecture: iphoneos-arm64e
 Maintainer: SuSuDear
 Installed-Size: 736
@@ -20542,6 +21059,24 @@ Size: 125366
 MD5sum: d06b1451b2411af253214fc68219648d
 SHA1: 3ba418dccf52ac6678c05f2f560b06b313fbe570
 SHA256: 0e8656c5771e5a9f61bcd4661ed7dfc606f3cc2f649b4f23aad991e3b041ac57
+Section: Tweaks
+Description: 轻量化桌面图标主题插件，修改图标及图标阴影如此轻松，覆盖绝大部分区域，时钟日历可动态图标。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/ThemeCore.png
+Name: ThemeCore
+
+Package: com.susudear.themecore
+Version: 0.3
+Architecture: iphoneos-arm64e
+Maintainer: SuSuDear
+Installed-Size: 736
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: debs/com.susudear.themecore-0.3-roothide.deb
+Size: 125624
+MD5sum: c8b70b21e4145902dd6aaff1fc393ce4
+SHA1: b72118fd93068917c0d0ccf1ca4f940e3febdd5f
+SHA256: c784a6580e9fa4d2efbb699fe425eb8ad677a211080561db2f620c998dde7a7b
 Section: Tweaks
 Description: 轻量化桌面图标主题插件，修改图标及图标阴影如此轻松，覆盖绝大部分区域，时钟日历可动态图标。
 Author: SuSuDear
