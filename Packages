@@ -19036,40 +19036,34 @@ Author: MoWang
 Name: SB CPU Floating
 
 Package: com.sbcpu.floating
-Version: 4.1.6
+Version: 4.20.0
 Architecture: iphoneos-arm64e
 Maintainer: MoWang
-Installed-Size: 2100
+Installed-Size: 2228
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/SBCPUFloating-V3.0-roothide.deb
-Size: 277790
-MD5sum: e211670291ed3ffd2a390f7196003c2b
-SHA1: 21069a2d28217a2eea1406507c6b4101b7b67298
-SHA256: b31f462cdd002737ce601c929c44c5c2b87622b9fad65577ae097cf0d3ff3922
+Size: 306954
+MD5sum: 7f2c69e2291ba0f9cb2b6c3e79cf57af
+SHA1: a1edc3d415a5aaddb6ce7b8be332d8306143f260
+SHA256: 0bdc2c1306345164d79ef64493e7dfef5f371b0366200318d22042473f40929e
 Section: Tweaks
-Description: 新增插件耗电情况，仅供参考
- 新增长按浮窗显示充电详情、充电器瓦数、实际输入瓦数
- 修复 120 强制帧率，强行注入每个进程，实现满帧率运行
- 新增充电历史详情
+Description: 新增网络频段锁定(Beta)：长按详情-蜂窝详情-网络工具进入，按卡勾选5G NR/4G LTE/3G/2G频段并真实下发基带(setActiveBandInfo)，支持全选/全不选、保存应用、恢复默认，无基带SPI权限时明示错误；另含浮窗信号行增强(运营商+dBm+频段+SA/NSA)与蜂窝详情页(信号质量/基站参数/IMEI)
 Author: MoWang
 Name: SB CPU Floating
 
 Package: com.sbcpu.floating
-Version: 4.1.6
+Version: 4.20.0
 Architecture: iphoneos-arm64
 Maintainer: MoWang
-Installed-Size: 2116
+Installed-Size: 2228
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/SBCPUFloating-V3.0-rootless.deb
-Size: 279144
-MD5sum: 3885fe96b0bb3794c6c1f4b5f0a03187
-SHA1: 15b4ace85054300377783e60f0884434160af0a3
-SHA256: 18fbc62eec2878fa65e0f51fda30dfebfd3c5ac5b3614546b9fe4e7f5ad08c9a
+Size: 310866
+MD5sum: 9cc1e5341b5060497ca0d6fb5a46424f
+SHA1: a96737319389c34ee2e0974de553be7ccf150dc6
+SHA256: bf7faa2c43ddb0ddab2290cb1e43ed903c754e441922d3d0849864a82388c69c
 Section: Tweaks
-Description: 新增插件耗电情况，仅供参考
- 新增长按浮窗显示充电详情、充电器瓦数、实际输入瓦数
- 修复 120 强制帧率，强行注入每个进程，实现满帧率运行
- 新增充电历史详情
+Description: 新增网络频段锁定(Beta)：长按详情-蜂窝详情-网络工具进入，按卡勾选5G NR/4G LTE/3G/2G频段并真实下发基带(setActiveBandInfo)，支持全选/全不选、保存应用、恢复默认，无基带SPI权限时明示错误；另含浮窗信号行增强(运营商+dBm+频段+SA/NSA)与蜂窝详情页(信号质量/基站参数/IMEI)
 Author: MoWang
 Name: SB CPU Floating
 
@@ -21889,6 +21883,132 @@ Size: 381636
 MD5sum: b37576fde0ada7ec3bd4afa1b2a1c1a7
 SHA1: 00ee61d154390b5c235c46cfccf10ed36b856993
 SHA256: 3d3b293e990c86fa78577d80f16b43a19510ccdba6d3452a5f18eac522c2ab1b
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+
+Package: com.tsangbaby.pulloverx
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-2.0.3-rootless.deb
+Size: 400032
+MD5sum: 85ac1158f0e865b8f649d0d6e9df8c58
+SHA1: 9cc67475e868161522a62cd3785139c0c863cd0b
+SHA256: 27f1a8beda73c321e559ac969c35b71ab972d5f2af59638d47e0147018c651fe
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+
+Package: com.tsangbaby.pulloverx
+Version: 2.0.3
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-2.0.3-roothide.deb
+Size: 398248
+MD5sum: 0d5732d34009f014a8fd82b81e1cef6b
+SHA1: 7877c73cb68e63fba2a15ce5d76849a93b8254df
+SHA256: 9e71c6ac60beb9f99d3e3b204b4f7772c5cff8d8d4067b6995a9d8d7fc387953
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+
+Package: com.tsangbaby.pulloverx
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-2.1-rootless.deb
+Size: 616760
+MD5sum: ad8f5313d43b4f29d6edfa54a9abcb3e
+SHA1: 8b036c3ff0a0f834d87ee018df49fcb706c6342f
+SHA256: 5a41a20917beb6084b602e733a760f0abd979825e4b512b8536cea6c5e6371c0
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+
+Package: com.tsangbaby.pulloverx
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-2.1-roothide.deb
+Size: 615308
+MD5sum: 1555aac96b2da4ecf590a38c164b667f
+SHA1: 0ad8e8dfbf857e2bffa553540a45af7ccde34210
+SHA256: eed37dde4149fbb652f5d1bc7f2b421bdbaa007cd5e76126a3a60b4440e8a3d5
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+
+Package: com.tsangbaby.pulloverx
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-2.1.1-rootless.deb
+Size: 623416
+MD5sum: 765c724ed28fb54573c1fd1d8742a0a4
+SHA1: e2eee4aa634e04c43db9eba4d3f67a0105520c3b
+SHA256: 015751cc5b24733ec29d6097e11e699987154253265a668d6d496aca39fc932d
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X 分屏
+Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+
+Package: com.tsangbaby.pulloverx
+Version: 2.1.1
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/com.tsangbaby.pulloverx-2.1.1-roothide.deb
+Size: 621508
+MD5sum: cd778b64baf6a1f3b4c91bbcac0077a8
+SHA1: 2e1e155bf5da280d7b52ff1b341127b7391e8993
+SHA256: 968dd02964ae2e44413ac73db1968024a851ad122ed2ceff6dc6ec1c797a7273
 Section: Tweaks
 Priority: optional
 Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
