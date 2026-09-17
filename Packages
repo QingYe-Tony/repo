@@ -471,6 +471,24 @@ Author: SquidForce, Backup
 Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
+Package: cn.octoforce.squidextender
+Version: 3.7.4+offline.1
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce, Backup
+Installed-Size: 10254
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy, firmware (>= 15.0)
+Conflicts: com.squidforce.squidextender
+Filename: debs/鱿鱼键盘破解版SquidExtender_3.7.4+offline.1_iphoneos-arm64e (1).deb
+Size: 2306804
+MD5sum: 837cfeea16a870753907e5d28c40342f
+SHA1: 76ca44d3d207ae97d1e09154951d657886a495b8
+SHA256: 196952356175289e0cee776d80c486bc7f88c6f32fd876c0813926031db01ce0
+Section: Tweaks
+Description: Local device-bound license recovery for SquidExtender 3.7.4. No activation server required. Device validation pending.
+Author: SquidForce, Backup
+Name: SquidExtender (RootHide Offline Recovery Test)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
 Package: cn.octoforce.squidgesturepro
 Version: 2.7.6-1
 Architecture: iphoneos-arm64e
@@ -523,6 +541,24 @@ Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
 Name: SquidGesturePro(激活码)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
+
+Package: cn.octoforce.squidgesturepro
+Version: 2.7.6-1
+Architecture: iphoneos-arm64e
+Maintainer: 刀哥
+Installed-Size: 6762
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
+Filename: debs/鱿鱼手势破解版cn.octoforce.squidgesturepro_2.7.6-1_iphoneos-arm64e.deb
+Size: 1795530
+MD5sum: 7c6302df4be1663f6f4381156dc17e50
+SHA1: 65f142334cc8b089221e21b1a559de13239594e2
+SHA256: 35c4b0b2cef9bdc2f6ceec0a3c6feb61a2ff9f7dc94da34150fc68a38213f0d7
+Section: Tweaks
+Description: Local device-bound license recovery for SquidGesturePro 2.7.6-1. No activation server required. Device validation pending.
+Author: 刀哥
+Name: SquidGesturePro
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
 
 Package: cn.tinyapps.renets
