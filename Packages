@@ -9621,6 +9621,23 @@ Name: Airaw Split View Standard (Roothide)
 Sileodepiction: https://bvnrepo999.github.io/sileodepictions/splitstandard.json
 
 Package: com.charlieleung.liquidify
+Version: 1.3.5
+Architecture: iphoneos-arm64e
+Maintainer: Charlie Leung
+Installed-Size: 37676
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.charlieleung.liquidify-1.3.5-roothide.deb
+Size: 10046104
+MD5sum: 1e1ca106e5504e6a4788261887feb0b4
+SHA1: e31a4ed5bb09fd4d00fa24b24863036035203be7
+SHA256: 162590e035a2d5267ed957eba6772f5b78b08ae412331119a7e154671bb11ed6
+Section: Tweaks
+Description: 为 iOS 界面注入液态玻璃质感。
+Author: Charlie Leung
+Icon: https://huayuarc.github.io/icon/Liquidify.png
+Name: Liquidify 88 元 液态玻璃
+
+Package: com.charlieleung.liquidify
 Version: 1.3.7-4
 Architecture: iphoneos-arm64
 Maintainer: Charlie Leung
