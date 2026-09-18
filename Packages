@@ -21956,6 +21956,21 @@ Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vedette
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vedette/icon/icon.png
 Name: Vedette
 
+Package: com.unknown.wuzeililiang
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Unknown <unknown@none.local>
+Installed-Size: 822
+Filename: debs/com.unknown.wuzeililiang_1.0_iphoneos-arm64e.deb
+Size: 165444
+MD5sum: 79440aef978d5cd6751a42b3241918f6
+SHA1: 06436e1a6ad4d69622e8e15d0080a4935260f9cc
+SHA256: 2379917d9b06a267de470bc26589006187310f3b95c429ab3a23015f531449a8
+Section: Tweaks
+Priority: optional
+Description: 乌贼三件套通杀插件
+Name: 乌贼本地验证
+
 Package: com.vita.wchook
 Version: 1.0-1
 Architecture: iphoneos-arm
