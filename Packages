@@ -9815,6 +9815,24 @@ Author: BVN
 Icon: https://huayuarc.github.io/icon/squidforcecrack.jpg
 Name: SquidForce Crack
 
+Package: com.bvn.squidforcecrack.rl
+Version: 1.0.1-1
+Architecture: iphoneos-arm64e
+Maintainer: BVN
+Installed-Size: 328
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.bvn.squidforcecrack.rl-1.0.1-1-roothide.deb
+Size: 36928
+MD5sum: bd74b89cf89a6d9c539b97d0179f10e2
+SHA1: 37c840aa29caa4ace11e39fcbb94b969e868adbf
+SHA256: 5ffe9229ec2b0b0d01feab0e08b953b4329ffa227b306b1eb27017352ad72300
+Section: Tweaks
+Description: SquidForce无弹窗解锁VIP
+Author: BVN
+Icon: https://huayuarc.github.io/icon/squidforcecrack.jpg
+Name: SquidForce VIP
+
 Package: com.bvn.squidgesturepro.rl
 Version: 2.7.6K
 Architecture: iphoneos-arm64e
