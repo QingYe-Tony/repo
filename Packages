@@ -4909,15 +4909,63 @@ Maintainer: 冰蓝
 Installed-Size: 2496
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.Axs.qjsy_4.1.6-end_iphoneos-arm64.deb
-Size: 336972
-MD5sum: 5c2dcf8897397584a70429899235348b
-SHA1: 31a0e16e29867856c33c34b79eb9d60dc93aa870
-SHA256: 997ddca7feea124e2d9571ad45acb392bc5bb7aa5c7b4d5108b8797a240b1200
+Size: 337352
+MD5sum: 986721698d40c83e34c786c1041caf2c
+SHA1: 4df33a97134382e131c953a86e6cd895a53e4cf4
+SHA256: 69f8ff7d51719fd5c2f69f8498a9e041fe096c42f7d2a0689f2f9690955f91a7
 Section: Tweaks
-Description: 让简单截图，拥有更多可能。
+Description: 全局水印Pro，截图一键添加水印、套壳与高斯模糊效果
+ .
+ 一、基础指令
+ 1 仅加水印
+ 链接: binglan://sy
+ 效果: 触发截图 -> 添加水印。
+ .
+ 2 仅加套壳
+ 链接: binglan://tk
+ 效果: 触发截图 -> 增加套壳。
+ .
+ 3 套壳 + 水印
+ 链接: binglan://tksy (或 binglan://sytk)
+ 效果: 触发截图 -> 增加套壳 -> 叠加水印。
+ .
+ 4 套壳 + 全覆盖水印
+ 链接: binglan://tkwsy
+ 效果: 触发截图 -> 增加套壳 -> 叠加覆盖整个屏幕的全屏水印。
+ .
+ 二、进阶指令: 指定套壳 (&id=)
+ (注: &id= 和 ?id= 均支持, 不支持中文。)
+ .
+ 1 指定套壳 (无水印)
+ 链接: binglan://tk&id=套壳文件夹名称
+ 示例: binglan://tk&id=1
+ .
+ 2 指定套壳 + 水印
+ 链接: binglan://tksy&id=套壳文件夹名称
+ 示例: binglan://tksy&id=22
+ .
+ 3 指定套壳 + 全覆盖水印
+ 链接: binglan://tkwsy&id=套壳文件夹名称
+ 示例: binglan://tkwsy&id=33
+ .
+ 三、进阶指令: 高斯模糊背景 (&gsmh/)
+ 数值说明: 斜杠 / 后面的数字代表模糊强度
+ .
+ 1 背景模糊 + 水印
+ 链接: binglan://sy&gsmh/50
+ 效果: 将截图模糊 (强度50%) -> 叠加水印。
+ .
+ 2 背景模糊 + 套壳 + 水印
+ 链接: binglan://tksy&gsmh/50 (或 binglan://sytk&gsmh/50)
+ 效果: 将截图模糊 (强度50%) -> 增加套壳 -> 叠加水印。
+ .
+ 3 背景模糊 + 套壳 + 全覆盖水印
+ 链接: binglan://tkwsy&gsmh/50
+ 效果: 将截图模糊 (强度50%) -> 增加套壳 -> 叠加全覆盖水印。
 Author: 冰蓝
 Icon: https://axs66.github.io/pro/icon/screenshellpro.png
 Name: 全局水印Pro
+Rootless: yes
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
 Package: com.Axs.qnsmw
