@@ -9797,42 +9797,6 @@ Author: SquidForce, Backup
 Icon: https://huayuarc.github.io/icon/SquidExtender@2x.png
 Name: SquidExtender VH
 
-Package: com.bvn.squidforcecrack.rl
-Version: 1.0.1
-Architecture: iphoneos-arm64e
-Maintainer: BVN
-Installed-Size: 328
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: debs/com.bvn.squidforcecrack.rl-1.0.1-roothide.deb
-Size: 36924
-MD5sum: 1188536eb6f7771ee445140ab765c4e6
-SHA1: 83d0db8a53fa74d0ec11d7d89ba2a30d77b1e12b
-SHA256: f1729918a21f62c47b533e31cb0851ff332845723109acd1d1b302e83db7ebed
-Section: Tweaks
-Description: Crack All Tweak SquidForce
-Author: BVN
-Icon: https://huayuarc.github.io/icon/squidforcecrack.jpg
-Name: SquidForce Crack
-
-Package: com.bvn.squidforcecrack.rl
-Version: 1.0.1-1
-Architecture: iphoneos-arm64e
-Maintainer: BVN
-Installed-Size: 328
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: debs/com.bvn.squidforcecrack.rl-1.0.1-1-roothide.deb
-Size: 36928
-MD5sum: bd74b89cf89a6d9c539b97d0179f10e2
-SHA1: 37c840aa29caa4ace11e39fcbb94b969e868adbf
-SHA256: 5ffe9229ec2b0b0d01feab0e08b953b4329ffa227b306b1eb27017352ad72300
-Section: Tweaks
-Description: SquidForce无弹窗解锁VIP
-Author: BVN
-Icon: https://huayuarc.github.io/icon/squidforcecrack.jpg
-Name: SquidForce VIP
-
 Package: com.bvn.squidgesturepro.rl
 Version: 2.7.6K
 Architecture: iphoneos-arm64e
@@ -21973,21 +21937,6 @@ Author: udevs
 Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vedette
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vedette/icon/icon.png
 Name: Vedette
-
-Package: com.unknown.wuzeililiang
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: Unknown <unknown@none.local>
-Installed-Size: 822
-Filename: debs/com.unknown.wuzeililiang_1.0_iphoneos-arm64e.deb
-Size: 165444
-MD5sum: 79440aef978d5cd6751a42b3241918f6
-SHA1: 06436e1a6ad4d69622e8e15d0080a4935260f9cc
-SHA256: 2379917d9b06a267de470bc26589006187310f3b95c429ab3a23015f531449a8
-Section: Tweaks
-Priority: optional
-Description: 乌贼三件套通杀插件
-Name: 乌贼本地验证
 
 Package: com.vita.wchook
 Version: 1.0-1
