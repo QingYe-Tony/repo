@@ -435,6 +435,23 @@ Tag: purpose::uikit, compatible::ios14
 Author: 来了老弟
 Name: URL管家-隐根
 
+Package: cn.octoforce.copyvault
+Version: 1.3.0
+Architecture: iphoneos-arm
+Maintainer: SquidForce, Backup
+Installed-Size: 12128
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: debs/cn.octoforce.copyvault_1.3.0_iphoneos-arm.deb
+Size: 3300058
+MD5sum: 8571f443a65cd1f77f3e0fe9b8dc633f
+SHA1: b702139dc7f48dc6ed9b5f9643e77efbd2c73cd0
+SHA256: f1204b9dc44c9a2cca2cd61f1f6280be5ee5e249f33c4ccccc2c191787989e13
+Section: Tweaks
+Description: 非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
+
 Package: cn.octoforce.squidextender
 Version: 3.7.4
 Architecture: iphoneos-arm
@@ -5531,6 +5548,24 @@ Icon: https://axs66.github.io/pro/icon/squidextender.png
 Name: SquidExtender 鱿鱼键盘
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/squidextender/js.json
 
+Package: com.Axs.squidforce
+Version: 1.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: BVN
+Installed-Size: 328
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.Axs.squidforce_1.0.1-1_iphoneos-arm64.deb
+Size: 38056
+MD5sum: d86b30edb4f9713f80db2bd07579a355
+SHA1: a559b5d75dd888a82cfae42cdb9544aed1259bbc
+SHA256: ec35afee73e3c3dd02755140d6c0af9bdd560f8b1ee22553dcd0008cbbfdf7ac
+Section: 破解插件
+Description: 乌贼三件套(squidextender，squidgesturepro，copyvault）通杀插件，安装即可生效。
+Author: BVN
+Icon: https://axs66.github.io/pro/icon/squidforce.png
+Name: SquidForce VIP
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/squidforce/js.json
+
 Package: com.Axs.squidgesturepro
 Version: 2.7.6-2
 Architecture: iphoneos-arm64
@@ -7465,6 +7500,30 @@ Name: ContactsFS 来电全屏显示头像
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/contactsfs/js.json
 
 Package: com.axs.duostatus
+Version: 5.2.0-101
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 548
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.axs.duostatus_5.2.0-101_iphoneos-arm64.deb
+Size: 59356
+MD5sum: a7676a75cb4699cac35c6c69abae0ec5
+SHA1: 50cc44afdd2720a35934ff6306fcba6cfd625b5d
+SHA256: 654d4e6a1e0b7f01d0721827801c3daeb3fe19c6c9c7eee8c246245d420d9ba4
+Section: Axs-Tweaks
+Description: 状态栏信号/网络/电量三合一圆环图标。
+ * 1.圆环=电量、底部圆点=信号、环内=WiFi 或 5G/4G 制式
+ * 2.全部取自系统真实数据，实时刷新
+ * 3.点按图标可展开系统原生图标，保持 2 秒后自动收回
+ * 4.支持自定义元素的尺寸/位移/线宽/配色等参数，改动即时生效
+ * 5. 支持ios15.0~17.3.1系统
+ * 6. 兼容电话助手
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/duostatus.png
+Name: DuoStatus
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/duostatus/js.json
+
+Package: com.axs.duostatus
 Version: 5.2.0-19
 Architecture: iphoneos-arm64
 Maintainer: Axs
@@ -7701,6 +7760,27 @@ Author: Axs
 Icon: https://axs66.github.io/pro/icon/dynamicnotland.png
 Name: ios16~17动态岛
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/ios16dao/js.json
+
+Package: com.axs.keyboardtools
+Version: 5.2.0-27
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 424
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.axs.keyboardtools_5.2.0-27_iphoneos-arm64.deb
+Size: 32770
+MD5sum: b8e8623c1b553392d5d0f39f18678682
+SHA1: 92d17a5a48811fb3954f7b3c46ddf1fc59a2d6ca
+SHA256: 3b74eb374d09608e592f8bba57e40179ed67647ac88a2e79a00a51ac3c912da0
+Section: Axs-Tweaks
+Description: 键盘文本编辑工具栏，在键盘上方提供复制/粘贴/剪切/撤销/全选/光标移动等快捷操作。
+ * 1. 10 个功能按钮：全选、复制、粘贴、剪贴板、剪切、撤销、光标左移、光标右移、换行、收起键盘
+ * 2. 剪贴板需要安装Clipboard 插件，才能调出的面板
+ * 3. 设置面板可逐项开关功能、自定义按钮顺序，改动立即生效，无需注销
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/keyboardtools.png
+Name: KeyboardTools
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/keyboardtools/js.json
 
 Package: com.axs.lockplayer
 Version: 3.22
@@ -9697,6 +9777,23 @@ Icon: https://axs66.github.io/pro/icon/qqmusicdesktoplyrics.png
 Name: DesktopLyrics 桌面歌词
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/qqmusicdesktoplyrics/js.json
 
+Package: com.bvm.wuzeililiang
+Version: 1.0.1-1
+Architecture: iphoneos-arm64e
+Maintainer: BVN
+Installed-Size: 328
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.bvm.wuzeililiang-1.0.1-1-roothide.deb
+Size: 38100
+MD5sum: 04a86be5dacc7b092396fad0149d354a
+SHA1: 0d3bae08a3d9b5f513e194124fdfc45438385d2b
+SHA256: d74a79f75baae62cf7514a781c9884e5c980c2b5187ca30da3319315710d03be
+Section: Tweaks
+Description: 乌贼三件套通杀插件，内置 DCrack 离线授权（本地生成、绑定设备、无需激活服务器）
+Author: BVN
+Icon: https://huayuarc.github.io/icon/wuzeililiang.jpg
+Name: 乌贼本地离线授权
+
 Package: com.bvn.airaw-r2
 Version: 1.7.0k
 Architecture: iphoneos-arm64e
@@ -9777,25 +9874,6 @@ Author: Dcsyhi <dcsyhi1998@gmail.com>
 Icon: https://bvnrepo999.github.io/icon/tinhchinh.png
 Name: Airaw Split View Standard (Roothide)
 Sileodepiction: https://bvnrepo999.github.io/sileodepictions/splitstandard.json
-
-Package: com.bvn.squidextender.rl
-Version: 3.7.4K
-Architecture: iphoneos-arm64e
-Maintainer: SquidForce, Backup
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy, com.bvn.squidforcecrack.rl
-Conflicts: com.squidforce.squidextender,cn.octoforce.squidextender
-Filename: debs/com.bvn.squidextender.rl-3.7.4K-roothide.deb
-Size: 2569600
-MD5sum: 6f5a37461d9a3b1ca9b233c8f7ee6602
-SHA1: e399fd54841967e765a718fde5ace7017fe33e55
-SHA256: 6db9d60ccdd66e732693522fd2972a1d48d07923f30777e8733024893c3f85f6
-Section: Tweaks
-Description: An immersive, highly customizable interface and functionality with extended keyboard tweak. It will bring a toolbar to your keyboard.
- * 沉浸式、高度可自定义的键盘增强插件，会在键盘上方增加工具栏。
-Author: SquidForce, Backup
-Icon: https://huayuarc.github.io/icon/SquidExtender@2x.png
-Name: SquidExtender VH
 
 Package: com.bvn.squidgesturepro.rl
 Version: 2.7.6K
@@ -11128,18 +11206,20 @@ Author: 🐶
 Name: SystemX
 
 Package: com.hang.squidgesturepro-ios17fix
-Version: 1.0.10
+Version: 2.3
 Architecture: iphoneos-arm64e
 Maintainer: 航
 Installed-Size: 92
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 17.0)
-Filename: debs/com.hang.squidgesturepro-ios17fix-1.0.10-roothide.deb
-Size: 11384
-MD5sum: 714a997bb37f8e6321132cdbd29d49a3
-SHA1: 4c670045ceda3b814a6693c13129e349a43dd5ab
-SHA256: 83007a6abe2b5f286d55a09fa05902274baa223355ebff6f8d4e8930396428ed
+Conflicts: com.codex.squidgesture17fix
+Filename: debs/com.hang.squidgesturepro-ios17fix-2.3-roothide.deb
+Size: 15036
+MD5sum: f64e63681d86479a64a1640d32cfdb45
+SHA1: b3df1bf9b8483e23d436177fc145adc8ef93bd6e
+SHA256: 3d0f4c47fc73d9fa34254e4b6f703d9a67f834a27aba0bdd444bc08ce1f240cb
 Section: Tweaks
-Description: 修复 SquidGesturePro 在 iOS 17 启动快捷指令时导致的安全模式。
+Description: 修复SquidGesturePro在iOS17状态栏不生效与启动快捷指令时导致的安全模式。
+ 不生效就把手势内总开关跟小开关重新开启一下，有问题请卸载。
 Author: 航
 Icon: https://huayuarc.github.io/icon/squidgesturepro.jpg
 Name: 乌贼手势 iOS 17 补丁
@@ -17668,88 +17748,6 @@ Depiction: https://chariz.com/get/cask-3
 Icon: https://img.chariz.cloud/icon/cask-3/icon@3x.png
 Name: Cask 3
 
-Package: com.sbcpu.floating
-Version: 4.70
-Architecture: iphoneos-arm64e
-Maintainer: MoWang
-Installed-Size: 2884
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/sbcpu-v4.70-roothide.deb
-Size: 384234
-MD5sum: 60ff96abfecf7c4956a3ad56054813cd
-SHA1: c4e5a61fe0b616650c95834769ad8d6d5173508f
-SHA256: fd11adebee347beac6ced9e615a1392a85cf4242622c7e3a56f14d931efb52e0
-Section: Tweaks
-Description: 实时悬浮窗硬件监控：CPU 负载与频率、屏幕 FPS、真实电量、硬件温度与充放电电流，附带液态玻璃外观、智能充电、锁频段与温控保护。
- 【本次更新 V4.70】
-  - 新增智能温控限制充电
- 【历史更新】
-  - V4.66：新增设置：莫忘越狱源
-  - V4.65：修复系统设置里设置后又恢复默认 bug
-  - V4.64：修复自动清后台 bug；修复下拉通知中心清后台 bug
- 【核心功能】
-  - CPU/FPS：实时查看 CPU 负载、物理频率与屏幕刷新率
-  - 锁频段：长按浮窗进入详情，点右上角"蜂窝详情"，在里面点选想要锁定的 CPU 频段即可；锁定低档位更省电，锁定高档位可满血发挥
-  - 电池/温度：读取真实电量、硬件级温度与充放电电流
-  - 通知与悬浮聊天：无缝显示微信/QQ 消息，点击直达聊天窗口
-  - 液态玻璃：浮窗材质可自定义强度、折射、厚度、高光、色散、折射率与渲染质量
-  - 充电管理：可手动阻止充电/外部供电；智能充电按上限停充、下限回充，支持保留外部电源与覆盖 OBC，保留满血快充
-  - CPUthermal 温控：高温自动降功耗、熄屏省电，温度恢复后自动还原
- 【手势操作】
-  - 单击浮窗：展开胶囊 / 消息直达
-  - 双击浮窗：进入高级设置中心
-  - 长按浮窗：查看详细硬件状态（右上角"蜂窝详情"可锁频段）
-  - 拖动浮窗：自由移动并自动边缘吸附
- 【使用说明】
-  - 安装后请 Respring 一次
-  - 设置路径：设置 → SBCPU Floating（双击桌面浮窗也可进入高级设置）
-  - 建议先连接有线充电器再启用智能停充，无线充电不执行智能停充
-  - 值守进程 SBCPUChargeDaemon 由 launchd 常驻，请勿手动重复启动
-  - 本包为 RootHide（arm64e）版；标准 Rootless（arm64）请安装对应版本
-Author: MoWang
-Name: SB CPU Floating
-
-Package: com.sbcpu.floating
-Version: 4.70
-Architecture: iphoneos-arm64
-Maintainer: MoWang
-Installed-Size: 2884
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/sbcpu-v4.70-rootless.deb
-Size: 384492
-MD5sum: 5a37dd6a7d829a03315f769f96f96849
-SHA1: f837f7ad94565d1907cb82c493322b76bb8493b2
-SHA256: f078d46ffe606549eb95654f7c597013195c62e6ae255ecc6df2b33eeca6c052
-Section: Tweaks
-Description: 实时悬浮窗硬件监控：CPU 负载与频率、屏幕 FPS、真实电量、硬件温度与充放电电流，附带液态玻璃外观、智能充电、锁频段与温控保护。
- 【本次更新 V4.70】
-  - 新增智能温控限制充电
- 【历史更新】
-  - V4.66：新增设置：莫忘越狱源
-  - V4.65：修复系统设置里设置后又恢复默认 bug
-  - V4.64：修复自动清后台 bug；修复下拉通知中心清后台 bug
- 【核心功能】
-  - CPU/FPS：实时查看 CPU 负载、物理频率与屏幕刷新率
-  - 锁频段：长按浮窗进入详情，点右上角"蜂窝详情"，在里面点选想要锁定的 CPU 频段即可；锁定低档位更省电，锁定高档位可满血发挥
-  - 电池/温度：读取真实电量、硬件级温度与充放电电流
-  - 通知与悬浮聊天：无缝显示微信/QQ 消息，点击直达聊天窗口
-  - 液态玻璃：浮窗材质可自定义强度、折射、厚度、高光、色散、折射率与渲染质量
-  - 充电管理：可手动阻止充电/外部供电；智能充电按上限停充、下限回充，支持保留外部电源与覆盖 OBC，保留满血快充
-  - CPUthermal 温控：高温自动降功耗、熄屏省电，温度恢复后自动还原
- 【手势操作】
-  - 单击浮窗：展开胶囊 / 消息直达
-  - 双击浮窗：进入高级设置中心
-  - 长按浮窗：查看详细硬件状态（右上角"蜂窝详情"可锁频段）
-  - 拖动浮窗：自由移动并自动边缘吸附
- 【使用说明】
-  - 安装后请 Respring 一次
-  - 设置路径：设置 → SBCPU Floating（双击桌面浮窗也可进入高级设置）
-  - 建议先连接有线充电器再启用智能停充，无线充电不执行智能停充
-  - 值守进程 SBCPUChargeDaemon 由 launchd 常驻，请勿手动重复启动
-  - 本包为 Rootless（arm64）版；RootHide（arm64e）请安装对应版本
-Author: MoWang
-Name: SB CPU Floating
-
 Package: com.sergy.immortalizer
 Version: 2.0.0-1
 Architecture: iphoneos-arm64
@@ -19341,24 +19339,6 @@ Author: Spark
 Icon: https://axs66.github.io/pro/icon/snowboard.png
 Name: SnowBoard Icon Masks Extension
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
-
-Package: com.squidforce.copyvault
-Version: 1.9.0
-Architecture: iphoneos-arm64e
-Maintainer: SquidForce
-Installed-Size: 6304
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Filename: debs/com.squidforce.copyvault_1.9.0_iphoneos-arm64e.deb
-Size: 1668856
-MD5sum: b513e40949bad3cf87f35fdb0cbf4fc3
-SHA1: 876b7a8ea573adb1ebe6a9dd01f889a05570c722
-SHA256: 14666bac4586ad18464af72238aa847cc2bb9d6dd03cbb25be533ec7c65c4202
-Section: Tweaks
-Description: Your Copy Vault, Your Pasteboard
-Author: SquidForce
-Icon: https://huayuarc.github.io/icon/CopyVault.png
-Name: CopyVault
 
 Package: com.subdiox.storeswitcher2
 Version: 1.0.1
