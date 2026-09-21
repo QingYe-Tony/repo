@@ -10766,6 +10766,22 @@ Description: 微信主题美化插件 - ThemeLab
 Author: duo
 Name: ThemeLab
 
+Package: com.duo.themelab
+Version: 1.7.5
+Architecture: iphoneos-arm64
+Maintainer: duo
+Installed-Size: 10660
+Depends: mobilesubstrate
+Filename: debs/com.duo.themelab_1.7.5_iphoneos-arm64.deb
+Size: 2637078
+MD5sum: d3fd5a90ce33e1c4555bf11647022ffb
+SHA1: 74670eac91f66132a80096705ff94cda77541253
+SHA256: 63381b58213e9d985ac1814b96495359f7c35df7ae04b76e1eb9ed0157d08b7b
+Section: Tweaks
+Description: 微信主题美化插件 - ThemeLab
+Author: duo
+Name: ThemeLab
+
 Package: com.dvntm.ytlite
 Version: 5.2~b4
 Architecture: iphoneos-arm
