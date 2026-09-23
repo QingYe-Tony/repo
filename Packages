@@ -22140,6 +22140,24 @@ Icon: https://axs66.github.io/pro/icon/o2pro.png
 Name: o2Pro
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
 
+Package: xhs.x
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: 𝙓
+Installed-Size: 5744
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook
+Replaces: com.xx.xhshook
+Filename: debs/xhs.x_2.0.2iphoneos-arm64.deb
+Size: 2283936
+MD5sum: e029f24df746f73839bdf70672c703dc
+SHA1: 5cc4a0f1c0af7e1a2c208a494d97298d435d5682
+SHA256: 78ef9159b51f4f5c48c178e96e5dc19797f77552740d03647a031c4083b9f76a
+Section: Tweaks
+Description: 自用
+Author: 𝙓
+Name: 小红薯
+
 Package: xyz.cypwn.ersatz
 Version: 1.0.1
 Architecture: iphoneos-arm
