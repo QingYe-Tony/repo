@@ -10236,6 +10236,38 @@ Description: 为指定App开启守护后台，将任务角色注册为Inactive(�
 Author: crctdd
 Name: StayAlive Lite
 
+Package: com.crctdd.stayalivelite
+Version: 0.2.3
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 496
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: debs/com.crctdd.stayalivelite_0.2.3_iphoneos-arm64e.deb
+Size: 80576
+MD5sum: 2b854a84bd4bb6a3e8d541ca8f799710
+SHA1: 81321f52c7d9eff37e8a5bf548c2c48c3e2e7c0d
+SHA256: 21f3547c93c84da57c911ee2c18005b799ac51724cf3b0c617994fef6147aace
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Name: StayAlive Lite
+
+Package: com.crctdd.stayalivelite
+Version: 0.2.3
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 1008
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: debs/com.crctdd.stayalivelite_0.2.3_iphoneos-arm64.deb
+Size: 110222
+MD5sum: bcf998b4903603016d2b2ecbf238f0b7
+SHA1: 1581cbcc6233310e3638f3b1d9e05adaa67393ea
+SHA256: ca0f43704bb7722e9de89998a707a26232aa828a1b0a7b3f9c7fca7fd5b8066d
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Name: StayAlive Lite
+
 Package: com.crctdd.surgectl
 Version: 0.0.1
 Architecture: iphoneos-arm64
