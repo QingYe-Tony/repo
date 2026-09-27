@@ -2818,6 +2818,42 @@ Icon: https://axs66.github.io/pro/icon/cr4shed.png
 Name: Cr4shed 崩溃日志
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/cr4shed/js.json
 
+Package: com.Axs.cr4shed
+Version: 5.2.0-30
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 876
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: debs/Cr4shed崩溃日志_5.2.0-30_无根.deb
+Size: 107184
+MD5sum: 5d3ef8078d5d2db243f7652db3eba8ea
+SHA1: af7c7479433e466e3af8b34ffa75b0edf37ee247
+SHA256: 4fc867dac03a0a4076ab05c6ec14b68ee35d6e8a401eb622b0184803357b3481
+Section: Axs-Tweaks
+Description: 这是一款记录与分析iOS崩溃报告的工具,每一份报告最前面含有原因分析。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/cr4shed.png
+Name: Cr4shed 崩溃日志
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/cr4shed/js.json
+
+Package: com.Axs.cr4shed
+Version: 5.2.0-30
+Architecture: iphoneos-arm64e
+Maintainer: Axs
+Installed-Size: 876
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: debs/Cr4shed崩溃日志_5.2.0-30_隐根.deb
+Size: 106828
+MD5sum: d996316d764a6710e10ece131799760f
+SHA1: 322d7f8d1aab0cd8a8f06879d172dea82aad33df
+SHA256: 9e25bfb1af90df95475edf175fd79bf528a70599390e54bb5ec9fb2a21336f3e
+Section: Axs-Tweaks
+Description: 这是一款记录与分析iOS崩溃报告的工具,每一份报告最前面含有原因分析。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/cr4shed.png
+Name: Cr4shed 崩溃日志
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/cr4shed/js.json
+
 Package: com.Axs.daynightswitch
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -9033,6 +9069,96 @@ Description: 这是一款截图工具。
  * 设置页里的「图标风格」= 素材目录下的文件夹名，文件夹改名/新增会立刻同步；
  * 该目录下的素材不会被本包升级/重装覆盖或恢复（包内不含该目录的任何文件）；
  * 包内自带蓝珀 / 透光 / 玻璃三套，缺的图标自动回退原版。
+ * 五、扩展功能
+ * 1、截图标记：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制；
+ * 2、URL 触发：支持手势插件通过 prefs:root=snapper4_freeze（冻结）/ prefs:root=snapper4_long（长截图）系统深链触发。
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper 4
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
+
+Package: com.axs.snapper4
+Version: 5.2.0-47
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 2548
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
+Filename: debs/com.axs.snapper4_5.2.0-47_无根rootless_图标皮肤.deb
+Size: 1015090
+MD5sum: fa20f683b76098ce351971b7bd5f7ccd
+SHA1: ba6f437ced3e476bf982f5628f69bfc337b7211d
+SHA256: 266b4d876db92dd029e613c1bc82a66fd85a7b7c7223056a0a9b417b80dc5f49
+Section: Axs-Tweaks
+Description: 这是一款截图工具。
+ * 一、基本设置
+ * 1、移动标记：开启后标注内容可拖动调整位置；
+ * 2、功能开关与排序：设置面板内可开关并拖拽排序全部功能。
+ * 二、触发方式
+ * 1、音量增+电源键=：可选系统截图或插件截图；
+ * 2、长按音量减→插件截图：开启后长按音量减约 0.2 秒调出冻结模式。
+ * 三、截图设置
+ * 1、截图仅复制：截图后仅复制到剪贴板；
+ * 2、长截图方式：滚动拼接 / 一镜到底，智能帧匹配自动拼接；
+ * 四、AI 服务（识别与翻译）
+ * 1、Sileo：Sileo 描述页长按翻译纯文本，翻译方式可选百度翻译或 AI 翻译；
+ * 2、AI 互译与问答：中英文互译与中文问答，支持自定义提示词与 AI 对话模式，半屏浮层展示；
+ * 3、文字识别 (OCR)：模型识别截图文字，半屏浮层展示、涂抹选择、一键复制；
+ * 4、百度翻译：自动检测语言双向翻译（中文↔外语），支持图片翻译 / 文本翻译双通道。
+ * 六、图标皮肤（本包新增，无根rootless 版）
+ * 素材目录：<jbroot>/Library/Application Support/Snapper4/Snapper4Resources.bundle/Skins
+ * 设置页里的「图标风格」= 素材目录下的文件夹名，文件夹改名/新增会立刻同步；
+ * 该目录下的素材不会被本包升级/重装覆盖或恢复（包内不含该目录的任何文件）；
+ * 包内自带蓝珀 / 透光 / 玻璃三套，缺的图标自动回退原版；
+ * 「图标风格」下面新增两个按钮：在 Filza 中打开素材文件夹 / 复制素材文件夹路径。
+ * 七、修复
+ * 「功能开关与排序」里关掉 URL 跳转插件时，它下面那一栏输入框会立刻一起隐藏，
+ * 不用再退回上一级重进页面（开关一动手就把这一页重建 + 重画一遍）。
+ * 五、扩展功能
+ * 1、截图标记：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制；
+ * 2、URL 触发：支持手势插件通过 prefs:root=snapper4_freeze（冻结）/ prefs:root=snapper4_long（长截图）系统深链触发。
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper 4
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
+
+Package: com.axs.snapper4
+Version: 5.2.0-47
+Architecture: iphoneos-arm64e
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 2548
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
+Filename: debs/com.axs.snapper4_5.2.0-47_隐根roothide_图标皮肤.deb
+Size: 1014752
+MD5sum: 11d3eb047fce11baf200dcc7a16302be
+SHA1: 241b1d9cb426740ab72e41460ba2595b3c5626c8
+SHA256: cdd89cad33db45148ef2b745dde1b24cdec9c40fcceacdcb5cadc84ba0479755
+Section: Axs-Tweaks
+Description: 这是一款截图工具。
+ * 一、基本设置
+ * 1、移动标记：开启后标注内容可拖动调整位置；
+ * 2、功能开关与排序：设置面板内可开关并拖拽排序全部功能。
+ * 二、触发方式
+ * 1、音量增+电源键=：可选系统截图或插件截图；
+ * 2、长按音量减→插件截图：开启后长按音量减约 0.2 秒调出冻结模式。
+ * 三、截图设置
+ * 1、截图仅复制：截图后仅复制到剪贴板；
+ * 2、长截图方式：滚动拼接 / 一镜到底，智能帧匹配自动拼接；
+ * 四、AI 服务（识别与翻译）
+ * 1、Sileo：Sileo 描述页长按翻译纯文本，翻译方式可选百度翻译或 AI 翻译；
+ * 2、AI 互译与问答：中英文互译与中文问答，支持自定义提示词与 AI 对话模式，半屏浮层展示；
+ * 3、文字识别 (OCR)：模型识别截图文字，半屏浮层展示、涂抹选择、一键复制；
+ * 4、百度翻译：自动检测语言双向翻译（中文↔外语），支持图片翻译 / 文本翻译双通道。
+ * 六、图标皮肤（本包新增，隐根roothide 版）
+ * 素材目录：<jbroot>/Library/Application Support/Snapper4/Snapper4Resources.bundle/Skins
+ * 设置页里的「图标风格」= 素材目录下的文件夹名，文件夹改名/新增会立刻同步；
+ * 该目录下的素材不会被本包升级/重装覆盖或恢复（包内不含该目录的任何文件）；
+ * 包内自带蓝珀 / 透光 / 玻璃三套，缺的图标自动回退原版；
+ * 「图标风格」下面新增两个按钮：在 Filza 中打开素材文件夹 / 复制素材文件夹路径。
+ * 七、修复
+ * 「功能开关与排序」里关掉 URL 跳转插件时，它下面那一栏输入框会立刻一起隐藏，
+ * 不用再退回上一级重进页面（开关一动手就把这一页重建 + 重画一遍）。
  * 五、扩展功能
  * 1、截图标记：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制；
  * 2、URL 触发：支持手势插件通过 prefs:root=snapper4_freeze（冻结）/ prefs:root=snapper4_long（长截图）系统深链触发。
@@ -15487,6 +15613,63 @@ Section: Tweaks
 Description: iOS 14-17 截图时隐藏状态栏，无设置项。(防止某些人盯着状态栏猜用户)
 Author: iosdump
 Name: ScreenshotNoStatusBar
+
+Package: com.iosdump.sfsymbolreplacer
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 848
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Conflicts: com.zxms.sfsymbolreplacer
+Replaces: com.zxms.sfsymbolreplacer
+Provides: com.zxms.sfsymbolreplacer
+Filename: debs/com.iosdump.sfsymbolreplacer_1.0.9_iphoneos-arm.deb
+Size: 112068
+MD5sum: b2a47b76b521666edb6c484274ad9095
+SHA1: 1fff0618fc7e7886291f42aef0825c97c1f9a8f7
+SHA256: 5a7f7a51e61b93bf9cca0a2e8d8acca78de9676f32686cc2f5e63ffdf91791bf
+Section: Tweaks
+Description: 替换系统 SF 图标。
+Author: iosdump
+Name: SF 图标替换
+
+Package: com.iosdump.sfsymbolreplacer
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 848
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Conflicts: com.zxms.sfsymbolreplacer
+Replaces: com.zxms.sfsymbolreplacer
+Provides: com.zxms.sfsymbolreplacer
+Filename: debs/com.iosdump.sfsymbolreplacer_1.0.9_iphoneos-arm64.deb
+Size: 111884
+MD5sum: 3b566ede351cf5f165e5ac1d627f53f9
+SHA1: e0add0a9c6d1990cc448b911bfb6b29ec084d4d0
+SHA256: 508a28b0d1586b99475840aef123e31a483cf438e695270a22d484004e3b76c1
+Section: Tweaks
+Description: 替换系统 SF 图标。
+Author: iosdump
+Name: SF 图标替换
+
+Package: com.iosdump.sfsymbolreplacer
+Version: 1.0.9
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 832
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Conflicts: com.zxms.sfsymbolreplacer
+Replaces: com.zxms.sfsymbolreplacer
+Provides: com.zxms.sfsymbolreplacer
+Filename: debs/com.iosdump.sfsymbolreplacer_1.0.9_iphoneos-arm64e.deb
+Size: 109400
+MD5sum: 8955059d9010de126f1ad97422e830d2
+SHA1: 10acbace677e2b6c0648a8a8d0fc51187b63fbe4
+SHA256: 859ac049be942a8b4117fc318b0d1c8a68d68221851bfa2bdc3c94c41ff0b28c
+Section: Tweaks
+Description: 替换系统 SF 图标。
+Author: iosdump
+Name: SF 图标替换
 
 Package: com.iosdump.shellx
 Version: 1.2.1
