@@ -2818,40 +2818,6 @@ Icon: https://axs66.github.io/pro/icon/cr4shed.png
 Name: Cr4shed 崩溃日志
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/cr4shed/js.json
 
-Package: com.Axs.cr4shed
-Version: 5.2.0-32
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: debs/Cr4shed崩溃日志_5.2.0-32_无根.deb
-Size: 107488
-MD5sum: f0435ebd9b65e18d057a18f458b9dc92
-SHA1: a241137a1228f4e996f2b7f0cf14d2de411036f1
-SHA256: 09112fa9bf5bb8a119689d4eb4d6db58e3cf013f287d1ecaedde96d8ed7eb939
-Section: Axs-Tweaks
-Description: 查看崩溃日志，提交给Ai，让它告诉你问题出在哪里。安装此插件前，必须先安装Ldid插件，默认源就有，否则闪退。
-Author: Axs
-Icon: https://axs66.github.io/pro/icon/cr4shed.png
-Name: Cr4shed
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/cr4shed/js.json
-
-Package: com.Axs.cr4shed
-Version: 5.2.0-32
-Architecture: iphoneos-arm64e
-Maintainer: Axs
-Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: debs/Cr4shed崩溃日志_5.2.0-32_隐根.deb
-Size: 107080
-MD5sum: 9fcf05df1627b067eb07dabf5d6c0a5f
-SHA1: 72e8ec0d51b7353dca8fc37c32b431ddd2562b0b
-SHA256: 63a5f8533cd459f8595401a89681908e52e645b34c0736de02def37e47887339
-Section: Axs-Tweaks
-Description: 查看崩溃日志，提交给Ai，让它告诉你问题出在哪里。安装此插件前，必须先安装Ldid插件，默认源就有，否则闪退。
-Author: Axs
-Icon: https://axs66.github.io/pro/icon/cr4shed.png
-Name: Cr4shed
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/cr4shed/js.json
-
 Package: com.Axs.daynightswitch
 Version: 1.2
 Architecture: iphoneos-arm64
