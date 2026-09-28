@@ -2818,42 +2818,6 @@ Icon: https://axs66.github.io/pro/icon/cr4shed.png
 Name: Cr4shed 崩溃日志
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/cr4shed/js.json
 
-Package: com.Axs.cr4shed
-Version: 5.2.0-30
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 876
-Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: debs/Cr4shed崩溃日志_5.2.0-30_无根.deb
-Size: 107184
-MD5sum: 5d3ef8078d5d2db243f7652db3eba8ea
-SHA1: af7c7479433e466e3af8b34ffa75b0edf37ee247
-SHA256: 4fc867dac03a0a4076ab05c6ec14b68ee35d6e8a401eb622b0184803357b3481
-Section: Axs-Tweaks
-Description: 这是一款记录与分析iOS崩溃报告的工具,每一份报告最前面含有原因分析。
-Author: Axs
-Icon: https://axs66.github.io/pro/icon/cr4shed.png
-Name: Cr4shed 崩溃日志
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/cr4shed/js.json
-
-Package: com.Axs.cr4shed
-Version: 5.2.0-30
-Architecture: iphoneos-arm64e
-Maintainer: Axs
-Installed-Size: 876
-Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: debs/Cr4shed崩溃日志_5.2.0-30_隐根.deb
-Size: 106828
-MD5sum: d996316d764a6710e10ece131799760f
-SHA1: 322d7f8d1aab0cd8a8f06879d172dea82aad33df
-SHA256: 9e25bfb1af90df95475edf175fd79bf528a70599390e54bb5ec9fb2a21336f3e
-Section: Axs-Tweaks
-Description: 这是一款记录与分析iOS崩溃报告的工具,每一份报告最前面含有原因分析。
-Author: Axs
-Icon: https://axs66.github.io/pro/icon/cr4shed.png
-Name: Cr4shed 崩溃日志
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/cr4shed/js.json
-
 Package: com.Axs.daynightswitch
 Version: 1.2
 Architecture: iphoneos-arm64
