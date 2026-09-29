@@ -7802,50 +7802,6 @@ Icon: https://axs66.github.io/pro/icon/dynamicnotland.png
 Name: ios16~17动态岛
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/ios16dao/js.json
 
-Package: com.axs.ipslog
-Version: 5.2.0-6
-Architecture: iphoneos-arm64e
-Maintainer: Axs <qiaozhani000@163.com>
-Installed-Size: 616
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.axs.ipslog_5.2.0-6_iphoneos-arm64e.deb
-Size: 78268
-MD5sum: 45492296f0a3b9ee0253e185353dae58
-SHA1: a7f80ffe3c58e7e5d70f6bf4dcf26b3aba9c425f
-SHA256: 4ca4955a2be8eefbcee0c907b8e9cee749c74faa38f99dd96a5c4b90dc0c9dd9
-Section: Axs-Tweaks
-Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
- * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索
- * 解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像
- * 支持查看完整原文、复制任意字段、分享导出、删除单条与清空
- * 新崩溃未读数角标提醒（可关闭）
-Author: Axs <qiaozhani000@163.com>
-Icon: https://axs66.github.io/pro/icon/ips.png
-Name: IPSLog
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
-
-Package: com.axs.ipslog
-Version: 5.2.0-6
-Architecture: iphoneos-arm64
-Maintainer: Axs <qiaozhani000@163.com>
-Installed-Size: 616
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.axs.ipslog_5.2.0-6_iphoneos-arm64.deb
-Size: 78310
-MD5sum: 22c19964a3e68c9b0dcb6aa819176caa
-SHA1: 677efa67e872ae2b57b7c70bd3d7c82608cf62dd
-SHA256: 70955efb4a4c1b5efed6cf2d85af8f6dfe8b7bc6156f549519721cc1fc583236
-Section: Axs-Tweaks
-Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
- * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索
- * 解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像
- * 支持查看完整原文、复制任意字段、分享导出、删除单条与清空
- * 新崩溃未读数角标提醒（可关闭）
-Author: Axs <qiaozhani000@163.com>
-Icon: https://axs66.github.io/pro/icon/ips.png
-Name: IPSLog
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
-
 Package: com.axs.keyboardtools
 Version: 5.2.0-118
 Architecture: iphoneos-arm64
