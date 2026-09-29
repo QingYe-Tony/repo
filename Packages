@@ -7542,6 +7542,35 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/contactsfs/js.json
 
 Package: com.axs.cr4shed
 Version: 5.2.0-31
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1204
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: debs/com.axs.cr4shed_5.2.0-31_iphoneos-arm64.deb
+Size: 158372
+MD5sum: a834fe45ebd046aaa531e06d9e05b164
+SHA1: 67153fe65cb7f8848a2a56af6e061c6cc72515b3
+SHA256: 06ee81ddb9487b7ce3309de24da2fe2ffa6a58186661519b983da370968f67dd
+Section: Axs-Tweaks
+Description: 崩溃报告记录与分析工具：抓未捕获异常、Mach/信号崩溃与内存超限，并可用大模型生成中文分析。
+ 记录三类事件：未捕获的 Objective-C 异常、Mach 与信号崩溃、内存及资源超限（Jetsam）。报告包含符号化
+ 调用栈，并给出责任模块判定（第三方插件 / 系统框架 / App 自身）；系统自己不生成 .ips 的异常也会留档。
+ .
+ 报告保存在 /var/mobile/Library/Cr4shed，可在设置面板按分类浏览、搜索、分享与删除。自带进程黑名单，
+ 黑名单只能从已有报告里挑选，免得手输进程名打错。
+ .
+ 内置 AI 分析，可接任意 OpenAI 兼容接口（默认 DeepSeek）：通用分析、调用栈定位、内存专项、issue 文本
+ 四种视角，支持流式输出，也能直接从接口拉取模型列表；报告落盘后自动分析，也可在详情页手动触发。
+ 还能把一批报告一起汇总，得到责任模块排行、高频模式与处理建议。API 密钥只保存在本机。
+ .
+ 适用于 iOS 15.0 及以上的越狱设备。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/cr4shed.png
+Name: Cr4shed
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/cr4shed/js.json
+
+Package: com.axs.cr4shed
+Version: 5.2.0-31
 Architecture: iphoneos-arm64e
 Maintainer: Axs
 Installed-Size: 1204
