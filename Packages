@@ -7802,6 +7802,28 @@ Icon: https://axs66.github.io/pro/icon/dynamicnotland.png
 Name: ios16~17动态岛
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/ios16dao/js.json
 
+Package: com.axs.ipslog
+Version: 5.2.0-11
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 664
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.axs.ipslog_5.2.0-11_iphoneos-arm64.deb
+Size: 86284
+MD5sum: 3a42d3a44122ce23c9fa091fe2c30dca
+SHA1: 2948fbd9b0136bf2cf8618ec2ad79fc42a839ece
+SHA256: 0797a9d18032a707c3e0ecd169c5a6c2075c8e6fa7ccd6029306bf7ab93b082c
+Section: Axs-Tweaks
+Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
+ * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索
+ * 解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像
+ * 支持查看完整原文、复制任意字段、分享导出、删除单条与清空
+ * 新崩溃未读数角标提醒（可关闭）
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/ips.png
+Name: IPSLog
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
+
 Package: com.axs.keyboardtools
 Version: 5.2.0-118
 Architecture: iphoneos-arm64
@@ -10716,6 +10738,38 @@ Size: 155136
 MD5sum: c76610f2b6603cd8d7eb43c7e9252763
 SHA1: 2d904f69f2a76a1067258d2e7141731569f213e5
 SHA256: 819e2723d15438df346426aa054ab92fa37e34c922bcfd72e93d95593c1e70ca
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Name: StayAlive Lite
+
+Package: com.crctdd.stayalivelite
+Version: 0.3.2
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 692
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: debs/com.crctdd.stayalivelite_0.3.2_iphoneos-arm64e.deb
+Size: 110504
+MD5sum: 58716350ef8df0ea3d8267a02ce9e01e
+SHA1: 1f7b6df713b9b966158423b015fc2cdbcee9c725
+SHA256: ed291303ee6fedb3683de8175e54c799f01c5e73ff885340cdb4000d1f00c8b2
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Name: StayAlive Lite
+
+Package: com.crctdd.stayalivelite
+Version: 0.3.2
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 1408
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: debs/com.crctdd.stayalivelite_0.3.2_iphoneos-arm64.deb
+Size: 157864
+MD5sum: cb478413e72625f06582edb73b50e1bd
+SHA1: 0082df8f726a64393834e76a34285919967173f9
+SHA256: ce82f9cd1803195835ba65b0a72fc34139a6d4356cfc31646c040b613d628289
 Section: Tweaks
 Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
 Author: crctdd
