@@ -6743,6 +6743,42 @@ Author: ColorBlack
 Icon: https://huayuarc.github.io/icon/AdLayer.png
 Name: Flex 4 Beta
 
+Package: com.afn
+Version: 3.6.0
+Architecture: iphoneos-arm
+Maintainer: AFN Team
+Installed-Size: 8132
+Depends: mobilesubstrate, firmware (>= 12.0), firmware (<< 15.0)
+Conflicts: com.tencent.xin.dkhelper, com.dkjone.dkhelper, com.afn.helper, com.xiaoxin.helper
+Filename: debs/com.afn_3.6.0_iphoneos-arm.deb
+Size: 2775682
+MD5sum: 8406ddb2b9ae0487de46254cd13667c9
+SHA1: 62a8c9a47960affe77671babf0d9288b43ea0fd3
+SHA256: 36c41c2ae8707610b5b9289ff866af48af6d8ba79a8831763096871415ad26fd
+Section: Tweaks
+Description: AFN(有根版本)
+ 适用于 iOS 12-14。
+Author: AFN Team
+Name: AFN(有根)
+
+Package: com.afn
+Version: 3.6.0-8
+Architecture: iphoneos-arm64
+Maintainer: AFN Team
+Installed-Size: 7936
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.tencent.xin.dkhelper, com.dkjone.dkhelper, com.afn.helper, com.xiaoxin.helper
+Filename: debs/com.afn_3.6.0_iphoneos-arm64.deb
+Size: 2744456
+MD5sum: 7bd0e7ada2fc1122cac62f41599f7cf6
+SHA1: c43b24441efc50359525536a7b6d93676b929912
+SHA256: 649c27dd11b138d10d941478e1e10f43e54465d3e90a43553cec5fa2e2ba4502
+Section: Tweaks
+Description: AFN(无根版本)
+ 适用于 iOS 15.0 及以上的无根越狱环境。
+Author: AFN Team
+Name: AFN(无根)
+
 Package: com.anthopak.pancake-rootless
 Version: 2.3
 Architecture: iphoneos-arm64
@@ -18809,6 +18845,60 @@ Description: 录像暂停 Pause/resume video recording in iOS Camera app.
 Author: PoomSmart
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/camera.png
 Name: 录像暂停 RecordPause
+
+Package: com.qimiao.WCRefine
+Version: 2.1-9
+Architecture: iphoneos-arm64
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: debs/WCRefine_2.1-9_无根.deb
+Size: 10796132
+MD5sum: 1351b2a2c72876805b19a4cd76a9fe84
+SHA1: fca924ffd4947c85a6ce9e32a413854df79385ac
+SHA256: aa312b1d412ede8e6297259ea4e087ff3bba32102d852dee0bc8785719c3ab4f
+Section: Tweaks
+Priority: optional
+Description: 微信优化的重制版，上百种功能优化你的微信。
+Author: 热心网友
+Dev: 君临
+Icon: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/eb/b5/a8/ebb5a892-c161-c79f-ba51-2089219fb833/source/512x512bb.jpg
+Name: WCRefine
+
+Package: com.qimiao.WCRefine
+Version: 2.1-9
+Architecture: iphoneos-arm
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: debs/WCRefine_2.1-9_有根.deb
+Size: 10794544
+MD5sum: 34492fa01d7eaea38855e1eb92955ca7
+SHA1: aa057fe4cb77abe9135589487fd48f67d6a85e02
+SHA256: 97c350ec49393a7c553f74156a26c75889111ce0ffa077337f8a7ed5e3780ec7
+Section: Tweaks
+Priority: optional
+Description: 微信优化的重制版，上百种功能优化你的微信。
+Author: 热心网友
+Dev: 君临
+Icon: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/eb/b5/a8/ebb5a892-c161-c79f-ba51-2089219fb833/source/512x512bb.jpg
+Name: WCRefine
+
+Package: com.qimiao.WCRefine
+Version: 2.1-9
+Architecture: iphoneos-arm64e
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: debs/WCRefine_2.1-9_隐根.deb
+Size: 10801292
+MD5sum: 4aa005fc0b3dad44e63714cc54e9a4be
+SHA1: e75d8ef0e1a47ac80048008891f346ff11691b83
+SHA256: 48f3d4a695bc0ffeababef6d70a1c28fe2cf79c0161a0af55b0fc8d0424562ca
+Section: Tweaks
+Priority: optional
+Description: 微信优化的重制版，上百种功能优化你的微信。
+Author: 热心网友
+Dev: 君临
+Icon: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/eb/b5/a8/ebb5a892-c161-c79f-ba51-2089219fb833/source/512x512bb.jpg
+Name: WCRefine
 
 Package: com.rain.wallpapergenerator
 Version: 1.0.0-15+debug
