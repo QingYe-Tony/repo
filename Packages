@@ -7926,10 +7926,10 @@ Maintainer: Axs <qiaozhani000@163.com>
 Installed-Size: 846
 Depends: preferenceloader
 Filename: debs/com.axs.ipslog_5.2.0-31_iphoneos-arm64e_隐根.deb
-Size: 139386
-MD5sum: 6d9817d308d2994f3d6f6deee07df85f
-SHA1: f56097c88f618948f7a99c3265e13eea1323f470
-SHA256: 1c38069f682f5a7cf798245908bd061be02c2e7ef5945f6b47454a31ee6c5ac0
+Size: 139332
+MD5sum: 2faf73dbf49ca1922eaeedd41a5b73a0
+SHA1: 15bfdedade05b4ada0d069aee5bcd3ec01ca6a9f
+SHA256: fb61b3d597e2081615beb6d64a3104b59956b2bb16a4b1256e17d6f6e0c1bd89
 Section: Axs-Tweaks
 Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
  * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
@@ -7948,10 +7948,10 @@ Maintainer: Axs <qiaozhani000@163.com>
 Installed-Size: 846
 Depends: preferenceloader
 Filename: debs/com.axs.ipslog_5.2.0-31_iphoneos-arm64_无根.deb
-Size: 139276
-MD5sum: 2c3b776e1c00435b88a4793a5f846ba2
-SHA1: 39d797588bddf9692ff7175c972ac2b16613b6ee
-SHA256: 4097384591ed475b4df74625a9b14fa057211964a70748106d3b17e4b449ab2a
+Size: 139530
+MD5sum: 3576fad277b95fce1f2683c2ecb86c9f
+SHA1: 9cfb9baa5a07a8c425dfe3bd0804d74169055343
+SHA256: 0cb5a236e5b74ba46b7c51b1723fa9b27e5fd0f58ab68a4f542d2047e8e4d242
 Section: Axs-Tweaks
 Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
  * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
