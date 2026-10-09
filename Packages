@@ -7884,114 +7884,6 @@ Name: ios16~17动态岛
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/ios16dao/js.json
 
 Package: com.axs.ipslog
-Version: 5.2.0-11
-Architecture: iphoneos-arm64
-Maintainer: Axs <qiaozhani000@163.com>
-Installed-Size: 664
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.axs.ipslog_5.2.0-11_iphoneos-arm64.deb
-Size: 86284
-MD5sum: 3a42d3a44122ce23c9fa091fe2c30dca
-SHA1: 2948fbd9b0136bf2cf8618ec2ad79fc42a839ece
-SHA256: 0797a9d18032a707c3e0ecd169c5a6c2075c8e6fa7ccd6029306bf7ab93b082c
-Section: Axs-Tweaks
-Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
- * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索
- * 解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像
- * 支持查看完整原文、复制任意字段、分享导出、删除单条与清空
- * 新崩溃未读数角标提醒（可关闭）
-Author: Axs <qiaozhani000@163.com>
-Icon: https://axs66.github.io/pro/icon/ips.png
-Name: IPSLog
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
-
-Package: com.axs.ipslog
-Version: 5.2.0-12
-Architecture: iphoneos-arm64
-Maintainer: Axs <qiaozhani000@163.com>
-Installed-Size: 680
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.axs.ipslog_5.2.0-12_iphoneos-arm64.deb
-Size: 91194
-MD5sum: 6896949cc66fdd8c424d1e62fab0921e
-SHA1: 4783cf75c1a46d1e4c0530949de95761ecf4d574
-SHA256: 71e95f8f886ab547d11e6dfb5482eeaef65413b80dbc12cf4d970918840dc673
-Section: Axs-Tweaks
-Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
- * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
- * 解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像
- * 支持查看完整原文、复制任意字段、分享导出、删除单条与清空
- * 新崩溃未读数角标提醒（可关闭）
-Author: Axs <qiaozhani000@163.com>
-Icon: https://axs66.github.io/pro/icon/ips.png
-Name: IPSLog
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
-
-Package: com.axs.ipslog
-Version: 5.2.0-12
-Architecture: iphoneos-arm64e
-Maintainer: Axs <qiaozhani000@163.com>
-Installed-Size: 680
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.axs.ipslog_5.2.0-12_iphoneos-arm64e.deb
-Size: 91096
-MD5sum: a461ac0f6022a78cde3689162bb5f5dd
-SHA1: 51b25d9a50e6f2d08a7faa04c7785fd0cd170486
-SHA256: 73e6db55e4fa7f91f9e6dd46227847cb86a627999ee75bb2ab220266ac3da684
-Section: Axs-Tweaks
-Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
- * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
- * 解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像
- * 支持查看完整原文、复制任意字段、分享导出、删除单条与清空
- * 新崩溃未读数角标提醒（可关闭）
-Author: Axs <qiaozhani000@163.com>
-Icon: https://axs66.github.io/pro/icon/ips.png
-Name: IPSLog
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
-
-Package: com.axs.ipslog
-Version: 5.2.0-15
-Architecture: iphoneos-arm64e
-Maintainer: Axs <qiaozhani000@163.com>
-Installed-Size: 712
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.axs.ipslog_5.2.0-15_iphoneos-arm64e.deb
-Size: 97376
-MD5sum: df0cf69e233a092ec529cd503fffd0dc
-SHA1: a81aa84c9b20abb62b7925084f0de8e8f639e4be
-SHA256: c7ccef1c3b09757e6cb552936bfc1f7d50007d337a6f516a99bd6be12adad77d
-Section: Axs-Tweaks
-Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
- * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
- * 解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像
- * 支持查看完整原文、复制任意字段、分享导出、删除单条与清空
-Author: Axs <qiaozhani000@163.com>
-Icon: https://axs66.github.io/pro/icon/ips.png
-Name: IPSLog
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
-
-Package: com.axs.ipslog
-Version: 5.2.0-27
-Architecture: iphoneos-arm64
-Maintainer: Axs <qiaozhani000@163.com>
-Installed-Size: 480
-Depends: preferenceloader
-Filename: debs/com.axs.ipslog_5.2.0-27_iphoneos-arm64.deb
-Size: 80646
-MD5sum: 24e6fec94d017dc3652343f95b11877b
-SHA1: fb6f94c118c83187f366a4718f4e022e0e926902
-SHA256: 1495ebe4d20d2319ccc28ef41de0864e77f8776e47ff8c9229ab680a441761f9
-Section: Axs-Tweaks
-Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
- * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
- * 解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像
- * 支持查看完整原文、复制任意字段、分享导出、删除单条与清空
-Author: Axs <qiaozhani000@163.com>
-Icon: https://axs66.github.io/pro/icon/ips.png
-Name: IPSLog
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
-
-Package: com.axs.ipslog
 Version: 5.2.0-30
 Architecture: iphoneos-arm64e
 Maintainer: Axs <qiaozhani000@163.com>
@@ -8007,6 +7899,50 @@ Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快�
  * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
  * 解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像
  * 支持查看完整原文、复制任意字段、分享导出、删除单条与清空
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/ips.png
+Name: IPSLog
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
+
+Package: com.axs.ipslog
+Version: 5.2.0-31
+Architecture: iphoneos-arm64e
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 846
+Depends: preferenceloader
+Filename: debs/com.axs.ipslog_5.2.0-31_iphoneos-arm64e_隐根.deb
+Size: 139386
+MD5sum: 6d9817d308d2994f3d6f6deee07df85f
+SHA1: f56097c88f618948f7a99c3265e13eea1323f470
+SHA256: 1c38069f682f5a7cf798245908bd061be02c2e7ef5945f6b47454a31ee6c5ac0
+Section: Axs-Tweaks
+Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
+ * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
+ * 解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像
+ * 支持查看完整原文、复制任意字段、分享导出、删除单条与清空
+ * 内置 AI 分析：填入自己的接口地址与 API Key，打开崩溃日志即自动分析（可关闭），也可随时手动重新分析；内置资深 iOS 崩溃日志分析规范（类型判定 / 专项规则 / 固定六节输出），支持从接口拉取模型列表、自定义附加提示词
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/ips.png
+Name: IPSLog
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
+
+Package: com.axs.ipslog
+Version: 5.2.0-31
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 846
+Depends: preferenceloader
+Filename: debs/com.axs.ipslog_5.2.0-31_iphoneos-arm64_无根.deb
+Size: 139276
+MD5sum: 2c3b776e1c00435b88a4793a5f846ba2
+SHA1: 39d797588bddf9692ff7175c972ac2b16613b6ee
+SHA256: 4097384591ed475b4df74625a9b14fa057211964a70748106d3b17e4b449ab2a
+Section: Axs-Tweaks
+Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
+ * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
+ * 解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像
+ * 支持查看完整原文、复制任意字段、分享导出、删除单条与清空
+ * 内置 AI 分析：填入自己的接口地址与 API Key，打开崩溃日志即自动分析（可关闭），也可随时手动重新分析；内置资深 iOS 崩溃日志分析规范（类型判定 / 专项规则 / 固定六节输出），支持从接口拉取模型列表、自定义附加提示词
 Author: Axs <qiaozhani000@163.com>
 Icon: https://axs66.github.io/pro/icon/ips.png
 Name: IPSLog
