@@ -12003,6 +12003,23 @@ Description: AppTools for iOS15-17 Rootless
 Author: aReo
 Name: AppTools15-17(Rootless)
 
+Package: com.fluoxetine.jumor
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: Fluoxetine <1103945342@qq.com>
+Installed-Size: 1361
+Depends: ldid, ellekit
+Replaces: com.opa334.trollstorelite
+Filename: debs/com.fluoxetine.jumor_1.0.4_iphoneos-arm64e.deb
+Size: 592146
+MD5sum: 20794d003aada8d04e7184672c35d9d8
+SHA1: 9a1cfa18fc748317a351dbdfaba15f1e2dd41e8e
+SHA256: 1b706cc5a3209f0eebf6e4b14508757eac11919d4b7de1174575721c34e94e97
+Section: Applications
+Description: 巨魔R由Fluoxetine为Relaxin越狱特别制作。支持免签安装IPA,Tipa应用。支持注入任意dylib和deb插件。Bug反馈及意见建议:1103945342@qq.com。感谢Relaxin越狱，感谢opa334。
+Author: Fluoxetine为Relaxin越狱特别制作
+Name: 巨魔R
+
 Package: com.ginsu.ytmusicultimate
 Version: 2.3.1
 Architecture: iphoneos-arm64e
