@@ -18209,6 +18209,36 @@ Author: SuSuDear
 Icon: https://repo.susubaby.cn/icons/ThemeCore.png
 Name: ThemeCore
 
+Package: com.tencent.themebox
+Version: 3.0.7
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/主题盒子3.0.7_roothide（隐根）.deb
+Size: 9707848
+MD5sum: 8deea4031ac82cb9491a0db37f613ed4
+SHA1: 1dca3744c75be5725996ab8454eb829ebb548407
+SHA256: 82d0027a40e9efb912705988ecc4b4d1acb5570542cf1ccd2ed16d9fdc639571
+Section: Tweaks
+Description: 微信主题盒子
+Author: Mao
+Name: 主题盒子
+
+Package: com.tencent.themebox
+Version: 3.0.7
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/主题盒子3.0.7_rootless（无根）.deb
+Size: 9702440
+MD5sum: 8c99d2f0cb33efa45b161164bd03c398
+SHA1: 83d6200bd13f8985595ab45550df3faa35f88b9e
+SHA256: e455e5b5f03b8202fff18594c131f27c18efb9695641a41d9fdce56874230e9a
+Section: Tweaks
+Description: 微信主题盒子
+Author: Mao
+Name: 主题盒子
+
 Package: com.thefool.ccaudioplay
 Version: 0.0.1-7+debug
 Architecture: iphoneos-arm64
