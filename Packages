@@ -10549,6 +10549,38 @@ Description: 给Choicy增加已设置置顶 / 进程页面本地缓存。(支持
 Author: crctdd
 Name: Choicy Patch
 
+Package: com.crctdd.disablecallpop
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.disablecallpop_0.0.1_iphoneos-arm64e.deb
+Size: 3266
+MD5sum: e10f15a2d46972af2975b18a36892027
+SHA1: 9bcf9fed1ae1eed754793b80b870dcc080bf579e
+SHA256: 3768c56e6504c32c4bc78ac12fade2524c84f8357a6dc3b6977980e0144bd138
+Section: Tweaks
+Description: 禁用闪信弹窗通知；无设置项。(支持iOS 15-17)
+Author: crctdd
+Name: Disable CallPoP
+
+Package: com.crctdd.disablecallpop
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.disablecallpop_0.0.1_iphoneos-arm64.deb
+Size: 4024
+MD5sum: 1d0dfa85e9129e9d6a50b831fa74a374
+SHA1: ad9d46ec8cf02fb02984dad81d75f33d49630b3c
+SHA256: e76704cfb5b6bad41be51c8fa1e9e4cc9b862f0173dd706b8d9c040b8f345727
+Section: Tweaks
+Description: 禁用闪信弹窗通知；无设置项。(支持iOS 15-17)
+Author: crctdd
+Name: Disable CallPoP
+
 Package: com.crctdd.disablecutpop
 Version: 0.0.1
 Architecture: iphoneos-arm64
