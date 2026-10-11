@@ -10581,6 +10581,38 @@ Description: 设备互通粘贴时禁用弹窗，无设置项。(支持iOS 15-17
 Author: crctdd
 Name: Disable CutPoP
 
+Package: com.crctdd.disabledynamicisland
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 76
+Depends: mobilesubstrate, firmware (>= 16.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.disabledynamicisland_0.0.2_iphoneos-arm64e.deb
+Size: 6948
+MD5sum: c534387214c121cdc899f0e3f0003778
+SHA1: ceb208cac86fd9f4bb884d096ab26ffac7c9634b
+SHA256: fae46d2624dce4091d5b63017621d09e8cb40e78cdee2c4109df1d0f2ee08ac0
+Section: Tweaks
+Description: 跟灵动岛说再见！禁用上岛行为，除了时钟 / 电话 / 身份验证 不禁用；无设置项。(支持iOS 16-17 带灵动岛的设备)
+Author: crctdd
+Name: Disable Dynamic Island
+
+Package: com.crctdd.disabledynamicisland
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 16.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.disabledynamicisland_0.0.2_iphoneos-arm64.deb
+Size: 9248
+MD5sum: 9aedd3280c1821cf0d28c16a6661f11e
+SHA1: 0bef31c82fcd2bfe81e70856c1dcd527f8676f7b
+SHA256: 2a7a552e5070c33220f73a6c711c6f97485c80ea5e08fa6c5117a743507048ae
+Section: Tweaks
+Description: 跟灵动岛说再见！禁用上岛行为，除了时钟 / 电话 / 身份验证 不禁用；无设置项。(支持iOS 16-17 带灵动岛的设备)
+Author: crctdd
+Name: Disable Dynamic Island
+
 Package: com.crctdd.filzarename
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -11240,6 +11272,38 @@ Size: 162052
 MD5sum: 9917ecc2e7b82d01c0a7a2b16b38c10b
 SHA1: 1cd7634986c1ef854283d1cde276cd1addf1dfde
 SHA256: 7176bff7e391fe048c4ba218afa4237f1965561117e1e9f2718e3d0bf25ebd71
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Name: StayAlive Lite
+
+Package: com.crctdd.stayalivelite
+Version: 0.4.1
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 1272
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: debs/com.crctdd.stayalivelite_0.4.1_iphoneos-arm64e.deb
+Size: 188524
+MD5sum: 3fab3c10374a4ebd001a8e7bd10dedc0
+SHA1: 8a46cf937c6c39efcb292b9209967bf812d24eb1
+SHA256: 854f2626019702e59b7a93d3dfdb4bacbf53fba67987651b0121e5422d9c98b7
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Name: StayAlive Lite
+
+Package: com.crctdd.stayalivelite
+Version: 0.4.1
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 2568
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: debs/com.crctdd.stayalivelite_0.4.1_iphoneos-arm64.deb
+Size: 280160
+MD5sum: bc3481e91f6dbd2f951e15032e24daad
+SHA1: 7c9de8bd369fce70001c6cff78b5eaf4a78cf704
+SHA256: c461432292217c9a22103107fdb8ea16f792a9f48345461747165efe18c89777
 Section: Tweaks
 Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
 Author: crctdd
