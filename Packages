@@ -10517,6 +10517,76 @@ Description: TrollOpen 的越狱版本，支持 ios16 及以上，免费公开�
 Author: Charlie Leung
 Name: TrollOpen
 
+Package: com.crctdd.choicy-patch
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 208
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, com.opa334.choicy (>= 1.4), com.opa334.altlist (>= 1.0.4)
+Filename: debs/com.crctdd.choicy-patch_0.0.2_iphoneos-arm64.deb
+Size: 17364
+MD5sum: 5cc7dcf9902fe5e52d445dd1b009cdce
+SHA1: 5414a448df2c6ba89a7aae33c0dcb051cb7d01b1
+SHA256: 7f6f3388bc94f7e7cb868e23b73cc0fc3dbff1d876c6a35baf9ab680641ea304
+Section: Tweaks
+Description: 给Choicy增加已设置置顶 / 进程页面本地缓存。(支持iOS 15-17)
+Author: crctdd
+Name: Choicy Patch
+
+Package: com.crctdd.choicy-patch
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 96
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, com.opa334.choicy (>= 1.4), com.opa334.altlist (>= 1.0.4)
+Filename: debs/com.crctdd.choicy-patch_0.0.2_iphoneos-arm64e.deb
+Size: 13342
+MD5sum: ff5474b5214367a8a9d5dd796853f4c8
+SHA1: 867684810d26bf47a051cdf68c08cb593b111d46
+SHA256: 62cceb0fd744056a193957923b665d19a983b5936d3b05a9a476d7d019817836
+Section: Tweaks
+Description: 给Choicy增加已设置置顶 / 进程页面本地缓存。(支持iOS 15-17)
+Author: crctdd
+Name: Choicy Patch
+
+Package: com.crctdd.filzarename
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 208
+Depends: firmware (>= 15.0), firmware (<< 18.0)
+Conflicts: com.crctdd.filzadebname
+Replaces: com.crctdd.filzadebname
+Filename: debs/com.crctdd.filzarename_0.0.1_iphoneos-arm64.deb
+Size: 22888
+MD5sum: 61ab625133c4787e2810871bde34cc49
+SHA1: db431f40079e4598e2c4badb8e9d65586be4a3f4
+SHA256: cface8d07dac3a77bc3776e6379540f6639c6f840a13bfb0e850297e7402e191
+Section: Tweaks
+Priority: optional
+Description: 在Filza内的.deb/.ipa/.tipa安装包长按可规范命名。
+Author: crctdd
+Name: Filza Rename
+
+Package: com.crctdd.filzarename
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 96
+Depends: firmware (>= 15.0), firmware (<< 18.0)
+Conflicts: com.crctdd.filzadebname
+Replaces: com.crctdd.filzadebname
+Filename: debs/com.crctdd.filzarename_0.0.1_iphoneos-arm64e.deb
+Size: 17000
+MD5sum: 6f6a337ba2b043aa4bf58ce471438506
+SHA1: d6f9b48b659a22967d8cf833fbfdf11893bcdfd9
+SHA256: bc41f7acdae11db2ea806950267dfaa0e506214aa3732924dc6a20d12bae0a63
+Section: Tweaks
+Priority: optional
+Description: 在Filza内的.deb/.ipa/.tipa安装包长按可规范命名。
+Author: crctdd
+Name: Filza Rename
+
 Package: com.crctdd.gifmake
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -10582,6 +10652,22 @@ Homepage: https://crctdd.github.io/repo/
 Description: 优化并释放部分运行内存。(支持iOS 15-17)
 Author: crctdd
 Name: MemTrim
+
+Package: com.crctdd.sbtrim
+Version: 0.0.15
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 524
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.sbtrim_0.0.15_iphoneos-arm64e.deb
+Size: 73022
+MD5sum: 0d5b656fc9e24bc5a386c51be26407a1
+SHA1: 6eba604d3fed08474758db7bd72ddcd41dfb66a9
+SHA256: 2339320c5fb22abe8142510dda562070b0e85703a74acc98c75d33c427908b50
+Section: Tweaks
+Description: 当SpringBoard的Phys占用阈值超过一定数值，自动轻量优化回收。(支持iOS 15-17)
+Author: crctdd
+Name: SBTrim
 
 Package: com.crctdd.shorbar
 Version: 0.0.6
