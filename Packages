@@ -10613,6 +10613,38 @@ Description: 跟灵动岛说再见！禁用上岛行为，除了时钟 / 电话 
 Author: crctdd
 Name: Disable Dynamic Island
 
+Package: com.crctdd.disabledynamicisland
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 76
+Depends: mobilesubstrate, firmware (>= 16.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.disabledynamicisland_0.0.3_iphoneos-arm64e.deb
+Size: 6786
+MD5sum: 4a58ceaec8a37d37c3387ebbbc2088e7
+SHA1: b856816fc7f532382aae02189e9a3a60010f8a2e
+SHA256: ba885aa25a3b3737283bb4d19d6ccdebc785830e2fa136ef702542e6e817fa73
+Section: Tweaks
+Description: 跟灵动岛说再见！禁用部分上岛行为；无设置项。(支持iOS 16-17 带灵动岛的设备)
+Author: crctdd
+Name: Disable Dynamic Island
+
+Package: com.crctdd.disabledynamicisland
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 16.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.disabledynamicisland_0.0.3_iphoneos-arm64.deb
+Size: 8928
+MD5sum: 1183fefdaa00bc77f58c34467df874ee
+SHA1: e5b23a61baaa423dbeeb559531ffac696d6e4303
+SHA256: c6d475249cbb8c9e7e9574f8e242e84af9fa4efd3cf615f3ea6b7653ac567508
+Section: Tweaks
+Description: 跟灵动岛说再见！禁用部分上岛行为；无设置项。(支持iOS 16-17 带灵动岛的设备)
+Author: crctdd
+Name: Disable Dynamic Island
+
 Package: com.crctdd.filzarename
 Version: 0.0.1
 Architecture: iphoneos-arm64
