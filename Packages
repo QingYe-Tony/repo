@@ -10549,6 +10549,22 @@ Description: 给Choicy增加已设置置顶 / 进程页面本地缓存。(支持
 Author: crctdd
 Name: Choicy Patch
 
+Package: com.crctdd.disablecutpop
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.disablecutpop_0.0.1_iphoneos-arm64.deb
+Size: 4074
+MD5sum: c1403b9e1a1785c9de6c94d87b749b5e
+SHA1: 46e8669863563bf437e25d5e2752792c903f971c
+SHA256: 52cb325607a9eb788f7d43ae49a6d5ed46dc221c01df0c0fd2a338dfc00d1864
+Section: Tweaks
+Description: 设备互通粘贴时禁用弹窗，无设置项。(支持iOS 15-17)
+Author: crctdd
+Name: Disable CutPoP
+
 Package: com.crctdd.filzarename
 Version: 0.0.1
 Architecture: iphoneos-arm64
