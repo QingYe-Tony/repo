@@ -10565,6 +10565,22 @@ Description: 设备互通粘贴时禁用弹窗，无设置项。(支持iOS 15-17
 Author: crctdd
 Name: Disable CutPoP
 
+Package: com.crctdd.disablecutpop
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.disablecutpop_0.0.1_iphoneos-arm64e.deb
+Size: 3284
+MD5sum: 058717c716637bfe2fa1f3f06df0996a
+SHA1: 4dbd0533d5d6aef8dad14e98559e132024724839
+SHA256: 8233155936c8762ee5c7fc1615bbed05639bcd799d3e3ac6486dfd9b5782bd4b
+Section: Tweaks
+Description: 设备互通粘贴时禁用弹窗，无设置项。(支持iOS 15-17)
+Author: crctdd
+Name: Disable CutPoP
+
 Package: com.crctdd.filzarename
 Version: 0.0.1
 Architecture: iphoneos-arm64
