@@ -16726,13 +16726,13 @@ Package: com.qingye.plrename
 Version: 6.6.6
 Architecture: iphoneos-arm64
 Maintainer: qingye
-Installed-Size: 5520
+Installed-Size: 5508
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.qingye.plrename_6.6.6_iphoneos-arm64.deb
-Size: 3633618
-MD5sum: 72f5aa14c3269023865987c8ffce5daa
-SHA1: 86f108004f9069d5338661fa54ef0251045a8a74
-SHA256: 176a284b0aec0d85d3de4fa8636bbbe8c851f7b3f12f1e071cff87a0a078a5a5
+Size: 3634342
+MD5sum: 47e86e77d1871165cfbe38bd45b3d47e
+SHA1: 90938f5d59a93058b96e39bdef69638ae976a981
+SHA256: c2b9d369339f2d188528744e9aca2ae4c0dcd0c0a32231bb91af304ef4eb400d
 Section: Tweaks
 Description: 在「设置」里直接修改越狱插件入口显示的名称与图标，全部改动即时生效、只改运行时、不动任何插件自身文件。功能：① 改名 —— 逐个改，也可勾选多个入口一次性统一改名（一次写盘，中途失败则全部不生效），同样可一键全部恢复默认；② 换图标 —— 从相册或图标文件夹选取，支持 GIF / WebP / APNG 动图（在设置列表里真的会动）、内置 146 个常用图标与表情动图，装完即可直接选用；③ 排序 —— 拖动调整插件入口在设置主列表里的先后顺序；④ 图标大小 —— 插件行图标可切换标准 29pt / 较小 22pt / 很小 16pt 三档；⑤ 诊断 —— 一键导出完整的自检报告（图标目录、动图帧数、每一行的渲染几何、hook 状态），出问题不用猜。兼容性：已适配 rootless 与 roothide 越狱（arm64 / arm64e 双架构）。
 Author: qingye
@@ -16743,13 +16743,13 @@ Package: com.qingye.plrename
 Version: 6.6.6
 Architecture: iphoneos-arm64e
 Maintainer: qingye
-Installed-Size: 5520
+Installed-Size: 5508
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.qingye.plrename_6.6.6_iphoneos-arm64e.deb
-Size: 3633530
-MD5sum: 0d48d3336aaeee0599e639e448059035
-SHA1: 1ae9429c7886687f7880d52af1ac425ef66cb45c
-SHA256: f6d51102610f0ddee84277a67ac0a1e7d1278d357da3c57d390df380463323c0
+Size: 3634958
+MD5sum: 117f54cdaa201c7dcf44fbe1c0c1a54b
+SHA1: 93ff32d85a208b138c9791684d1e0269a1a29ef0
+SHA256: 474e9bf8fd257c7c05947ff9cf8bc835ad7c2e33f52283a99ad98a12ca5c3a2a
 Section: Tweaks
 Description: 在「设置」里直接修改越狱插件入口显示的名称与图标，全部改动即时生效、只改运行时、不动任何插件自身文件。功能：① 改名 —— 逐个改，也可勾选多个入口一次性统一改名（一次写盘，中途失败则全部不生效），同样可一键全部恢复默认；② 换图标 —— 从相册或图标文件夹选取，支持 GIF / WebP / APNG 动图（在设置列表里真的会动）、内置 146 个常用图标与表情动图，装完即可直接选用；③ 排序 —— 拖动调整插件入口在设置主列表里的先后顺序；④ 图标大小 —— 插件行图标可切换标准 29pt / 较小 22pt / 很小 16pt 三档；⑤ 诊断 —— 一键导出完整的自检报告（图标目录、动图帧数、每一行的渲染几何、hook 状态），出问题不用猜。兼容性：已适配 rootless 与 roothide 越狱（arm64 / arm64e 双架构）。
 Author: qingye
