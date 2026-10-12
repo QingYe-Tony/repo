@@ -10581,6 +10581,38 @@ Description: 禁用闪信弹窗通知；无设置项。(支持iOS 15-17)
 Author: crctdd
 Name: Disable CallPoP
 
+Package: com.crctdd.disablecarrierpop
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.disablecarrierpop_0.0.1_iphoneos-arm64e.deb
+Size: 3504
+MD5sum: acb51dafab8a2c83b5c8b1ac863bda32
+SHA1: 2dbc4295b3650aa871b20df0a53cc731d36bc7d1
+SHA256: e506d3d96a18664a632322eeb2f08e428833ab8c52275bd69fe107add47d6796
+Section: Tweaks
+Description: 禁用运营商弹窗；无设置项。(支持iOS 15-17)
+Author: crctdd
+Name: Disable CarrierPoP
+
+Package: com.crctdd.disablecarrierpop
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.disablecarrierpop_0.0.1_iphoneos-arm64.deb
+Size: 4370
+MD5sum: 016c7f8f0e0c9f15c32760cd6b5dd553
+SHA1: d985b9be650377187318c06b67a47c0c2bcf7771
+SHA256: 02347c242889589e36373862a8a7d16699b35c1d0f16ad4081f7fb93db328cbc
+Section: Tweaks
+Description: 禁用运营商弹窗；无设置项。(支持iOS 15-17)
+Author: crctdd
+Name: Disable CarrierPoP
+
 Package: com.crctdd.disablecutpop
 Version: 0.0.1
 Architecture: iphoneos-arm64
