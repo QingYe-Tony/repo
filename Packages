@@ -20301,6 +20301,22 @@ Icon: https://axs66.github.io/pro/icon/translux.png
 Name: TransLux 翻译
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/translux/js.json
 
+Package: hongguofn
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: 5hux1n
+Installed-Size: 552
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/红果净化_1.0.3_无根.deb
+Size: 102750
+MD5sum: afbfffa99b8b3b20ca7337e4ee29058d
+SHA1: 3e80406a1fdd5e06db806bcfe59aac75e85cce53
+SHA256: b55cb13b308d5a72465234119da137eebb5011dc14e5981413e4dd5566f00d2b
+Section: Tweaks
+Homepage: https://hongguo.goforit.si
+Description: 红果短剧界面净化、短剧广告控制、原生独立设置开关、时长显示及原生下载
+Name: 红果净化
+
 Package: im.mjh.fakeperm
 Version: 8.6.0
 Architecture: iphoneos-arm64
@@ -20353,6 +20369,26 @@ Description: 针对任意 App 单独配置虚拟权限，防止隐私被过度�
   其他设备请自行测试
 Author: Junhong
 Name: 虚拟权限 · Fake Permission (Roothide)
+
+Package: im.mjh.xianyuadblock
+Version: 3.0.0
+Architecture: iphoneos-arm64
+Maintainer: junhong
+Installed-Size: 488
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: im.mjh.xianyuhelper, im.mjh.xianyuhelper.roothide
+Replaces: im.mjh.xianyuhelper, im.mjh.xianyuhelper.roothide
+Filename: debs/闲鱼助手_3.0.0_无根.deb
+Size: 82542
+MD5sum: 9e8b896222364564ed9bcaa797f261a2
+SHA1: 4df6b7f7a25ae497161cbd1da71088377173ea2d
+SHA256: 3af6dd88273dc9de0c90bc7702d470383d8e973ae0e7b23bdc66243638c54084
+Section: Tweaks
+Homepage: https://xianyu.goforit.si
+Description: 闲鱼广告与页面净化、后台原样编辑商品、会员经验领取、任务控制及逐件运行记录。
+Author: junhong
+Icon: https://apt.mjh.im/assets/im.mjh.xianyuadblock/icon.png
+Name: 闲鱼助手
 
 Package: jp.dcsyhi.zetsu
 Version: 1.6.2
