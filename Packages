@@ -1234,6 +1234,22 @@ Icon: https://axs66.github.io/pro/icon/singlevpn.png
 Name: Single VPN
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.82flex.touchvis
+Version: 4.1.1
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 4416
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/手势轨迹Touch-Viz-4.1.1-cracked.deb
+Size: 939642
+MD5sum: 76f76d9afe849c733f49b84eb02a9cc4
+SHA1: 5f8b56df2e3f501c784615c8d4fea61b66532b8c
+SHA256: d92f748c68433c7dd381982b068ac3db4f96b7004dd6f1663e38fd060c0f11dd
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Name: Touch-Viz
+
 Package: com.82flex.unseen
 Version: 0.0.1
 Architecture: iphoneos-arm
