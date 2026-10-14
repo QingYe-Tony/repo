@@ -6833,6 +6833,24 @@ Description: AFN(无根版本)
 Author: AFN Team
 Name: AFN(无根)
 
+Package: com.afn
+Version: 3.6.1
+Architecture: iphoneos-arm64
+Maintainer: AFN Team
+Installed-Size: 7968
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.tencent.xin.dkhelper, com.dkjone.dkhelper, com.afn.helper, com.xiaoxin.helper
+Filename: debs/com.afn_3.6.1_iphoneos-arm64.deb
+Size: 2763236
+MD5sum: 9d316fec1c2776cc4ebf0404dd518d3c
+SHA1: 888a1b60fa80ab7efc1fe277e1dcde92af4f7404
+SHA256: 9580158dd523447c2a952ddaa1f6753d43b571435c7510a80e4881ec2d58e9ab
+Section: Tweaks
+Description: AFN(无根版本)
+ 适用于 iOS 15.0 及以上的无根越狱环境。
+Author: AFN Team
+Name: AFN(无根)
+
 Package: com.anthopak.pancake-rootless
 Version: 2.3
 Architecture: iphoneos-arm64
