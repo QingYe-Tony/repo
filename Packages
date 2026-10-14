@@ -10568,6 +10568,38 @@ Description: TrollOpen 的越狱版本，支持 ios16 及以上，免费公开�
 Author: Charlie Leung
 Name: TrollOpen
 
+Package: com.crctdd.autocopyverify
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 300
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.autocopyverify_0.0.3_iphoneos-arm64e.deb
+Size: 36576
+MD5sum: e8b72157b42b605ec2861dea9657d342
+SHA1: 5d9bd4856a8385d419eb060f3874a3647186a595
+SHA256: 748ce2829405a704cb4478808a3cd232bfea72bce1fab46648b01fdc9f47483e
+Section: Tweaks
+Description: 自动复制短信、系统邮件、部分主流第三方邮件的验证码到剪切板，第三方邮件只能从临时通知框内获取，获取不到则无法复制；无设置项。（支持iOS 15-17）
+Author: crctdd
+Name: Auto Copy Verify
+
+Package: com.crctdd.autocopyverify
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 652
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.autocopyverify_0.0.3_iphoneos-arm64.deb
+Size: 52344
+MD5sum: bf22fb775cdb2727d142a1e0575f9e30
+SHA1: f6317c29cceb59c9a7fc1ceed7d65b13cfaf2331
+SHA256: 241a20887df2c9fd13af02d5d629e33b50f40010b916b75bfb4a95eb328c2c3e
+Section: Tweaks
+Description: 自动复制短信、系统邮件、部分主流第三方邮件的验证码到剪切板，第三方邮件只能从临时通知框内获取，获取不到则无法复制；无设置项。（支持iOS 15-17）
+Author: crctdd
+Name: Auto Copy Verify
+
 Package: com.crctdd.choicy-patch
 Version: 0.0.2
 Architecture: iphoneos-arm64
@@ -15512,6 +15544,22 @@ Author: mikifp
 Icon: https://TrollStoreX.Github.io/sileodepiction/Griddy/icon.png
 Name: Griddy
 
+Package: com.minis.lockscreengradientclock
+Version: 2.0.21
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 992
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.minis.lockscreengradientclock_2.0.21_iphoneos-arm64.deb
+Size: 462032
+MD5sum: 8e60982f86c2af8e6fb82428b23a7e94
+SHA1: bd71d445d505e4704ce93446a6836e87edded286
+SHA256: 523eebd4b0505ebde5244be1b606691f5aa2b7f43d1c2f6416186dfd080c850b
+Section: Tweaks
+Description: 新增隐藏原生日期和农历
+Author: MoWang
+Name: 独立锁屏时间渐变
+
 Package: com.miro.libmiroshared
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -16888,6 +16936,22 @@ SHA1: 3caf5ba3983cace8437fbac7f1d0b677ac4c0b44
 SHA256: 35177072183374e9af4107a9ffff3952cefe9d99af41b70c1473174e07088de5
 Section: Tweaks
 Description: 灵动监测：CPU、帧率、电池和系统状态浮窗；长按查看详细数据，支持充电管理、插件注入规则扫描与功能分类。保留系统与硬件热安全保护。
+Author: MoWang
+Name: 灵动监测
+
+Package: com.sbcpu.floating
+Version: 6.5
+Architecture: iphoneos-arm64e
+Maintainer: MoWang
+Installed-Size: 3544
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.sbcpu.floating_6.5_iphoneos-arm64e.deb
+Size: 1204314
+MD5sum: bbd47c43c55f36579f39f4e022a21eb4
+SHA1: a9ce0cbbf2ecd2a6ad107c485099fdbfd20db2ea
+SHA256: 375f7161ad4a07d9753a789eedbff21f87df6bbf77dca98323e1e2782ff5e658
+Section: Tweaks
+Description: 灵动监测：CPU、帧率、电池和系统状态浮窗；长按查看详细数据，支持充电管理、插件注入规则扫描与功能分类。保留系统与硬件热安全保护。（修复部分机型无法读取 cpu 频率）
 Author: MoWang
 Name: 灵动监测
 
