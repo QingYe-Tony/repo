@@ -7495,6 +7495,29 @@ Icon: https://axs66.github.io/pro/icon/bigtime.png
 Name: BigTime
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
 
+Package: com.axs.bigtime
+Version: 5.2.0-68
+Architecture: iphoneos-arm64e
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 948
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: debs/com.axs.bigtime_5.2.0-68_iphoneos-arm64e.deb
+Size: 132852
+MD5sum: 547290fece7e8fc83d7241626ef9e59c
+SHA1: 0d0a9ee5d40c4389b5f6af41b1fc8b20de65e8f7
+SHA256: 491927c7ec37304e2b9a119340e66d11e84485b8f806247a1f9772cc26318b78
+Section: Axs-Tweaks
+Description: 一个简单的锁屏时钟插件，需要在“/var/mobile/Axs/字体素材”文件夹里面放入“axs66.otf"字体素材，才能生效。
+ * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
+ * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
+ * 3.支持玻璃边缘、模糊、厚度、折射、高光和壁纸采样质量调节;
+ * 4.支持浅色/深色染色强度与深浅模式覆盖;
+ * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/bigtime.png
+Name: BigTime
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
+
 Package: com.axs.clipboard
 Version: 5.2.0-110
 Architecture: iphoneos-arm64
@@ -7988,50 +8011,6 @@ Icon: https://axs66.github.io/pro/icon/ips.png
 Name: IPSLog
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
 
-Package: com.axs.ipslog
-Version: 5.2.0-31
-Architecture: iphoneos-arm64e
-Maintainer: Axs <qiaozhani000@163.com>
-Installed-Size: 846
-Depends: preferenceloader
-Filename: debs/com.axs.ipslog_5.2.0-31_iphoneos-arm64e_隐根.deb
-Size: 139332
-MD5sum: 2faf73dbf49ca1922eaeedd41a5b73a0
-SHA1: 15bfdedade05b4ada0d069aee5bcd3ec01ca6a9f
-SHA256: fb61b3d597e2081615beb6d64a3104b59956b2bb16a4b1256e17d6f6e0c1bd89
-Section: Axs-Tweaks
-Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
- * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
- * 解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像
- * 支持查看完整原文、复制任意字段、分享导出、删除单条与清空
- * 内置 AI 分析：填入自己的接口地址与 API Key，打开崩溃日志即自动分析（可关闭），也可随时手动重新分析；内置资深 iOS 崩溃日志分析规范（类型判定 / 专项规则 / 固定六节输出），支持从接口拉取模型列表、自定义附加提示词
-Author: Axs <qiaozhani000@163.com>
-Icon: https://axs66.github.io/pro/icon/ips.png
-Name: IPSLog
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
-
-Package: com.axs.ipslog
-Version: 5.2.0-31
-Architecture: iphoneos-arm64
-Maintainer: Axs <qiaozhani000@163.com>
-Installed-Size: 846
-Depends: preferenceloader
-Filename: debs/com.axs.ipslog_5.2.0-31_iphoneos-arm64_无根.deb
-Size: 139530
-MD5sum: 3576fad277b95fce1f2683c2ecb86c9f
-SHA1: 9cfb9baa5a07a8c425dfe3bd0804d74169055343
-SHA256: 0cb5a236e5b74ba46b7c51b1723fa9b27e5fd0f58ab68a4f542d2047e8e4d242
-Section: Axs-Tweaks
-Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
- * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
- * 解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像
- * 支持查看完整原文、复制任意字段、分享导出、删除单条与清空
- * 内置 AI 分析：填入自己的接口地址与 API Key，打开崩溃日志即自动分析（可关闭），也可随时手动重新分析；内置资深 iOS 崩溃日志分析规范（类型判定 / 专项规则 / 固定六节输出），支持从接口拉取模型列表、自定义附加提示词
-Author: Axs <qiaozhani000@163.com>
-Icon: https://axs66.github.io/pro/icon/ips.png
-Name: IPSLog
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
-
 Package: com.axs.keyboardtools
 Version: 5.2.0-118
 Architecture: iphoneos-arm64
@@ -8234,6 +8213,50 @@ Author: A
 Icon: https://raw.githubusercontent.com/axs66/ReachMyAbility/refs/heads/main/Resources/icon.png
 Name: ReachMyAbility
 Sileodepiction: https://raw.githubusercontent.com/axs66/ReachMyAbility/main/Resources/depiction.json
+
+Package: com.axs.screenlocktime
+Version: 5.2.0-7
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 496
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.axs.screenlocktime_5.2.0-7_iphoneos-arm64.deb
+Size: 62134
+MD5sum: d8fca2a7c255ef9ad02d1f77d1262d58
+SHA1: a649a80d165e2138837c884da1eca2515a1308f9
+SHA256: b90d7dabd241e7fe46a833c24dca324d6d8a4bc3cce560fe037ff78898ecea0d
+Section: Axs-Tweaks
+Description: 为原生锁屏时间添加五色渐变，沿用系统字体。
+ * 支持自定义五种颜色，固定从左到右渐变。
+ * 可选日期与农历渐变，使用系统显示的文字。
+ * 支持调整时间大小与上下位置，设置即时生效。
+ * 支持兼容BigTime插件。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/screenlocktime.png
+Name: Screen lock time
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/screenlocktime/js.json
+
+Package: com.axs.screenlocktime
+Version: 5.2.0-8
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 496
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.axs.screenlocktime_5.2.0-8_iphoneos-arm64.deb
+Size: 62246
+MD5sum: 19f5fb5010d60de52393c8b954ab171f
+SHA1: b7fabdafe90324f4d7709b490967dd78fbbb599e
+SHA256: 0ec6b866e4aceeb88f22b796b07cebc3cdca6929bd7e5b914b2c041bbe6f4ac6
+Section: Axs-Tweaks
+Description: 为原生锁屏时间添加五色渐变，沿用系统字体。
+ * 支持自定义五种颜色，固定从左到右渐变。
+ * 可选日期与农历渐变，使用系统显示的文字。
+ * 支持调整时间大小与上下位置，设置即时生效。
+ * 支持兼容BigTime插件。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/screenlocktime.png
+Name: ScreenLock Time
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/screenlocktime/js.json
 
 Package: com.axs.screenshellpro
 Version: 5.2.0-61
@@ -10640,6 +10663,38 @@ Size: 52344
 MD5sum: bf22fb775cdb2727d142a1e0575f9e30
 SHA1: f6317c29cceb59c9a7fc1ceed7d65b13cfaf2331
 SHA256: 241a20887df2c9fd13af02d5d629e33b50f40010b916b75bfb4a95eb328c2c3e
+Section: Tweaks
+Description: 自动复制短信、系统邮件、部分主流第三方邮件的验证码到剪切板，第三方邮件只能从临时通知框内获取，获取不到则无法复制；无设置项。（支持iOS 15-17）
+Author: crctdd
+Name: Auto Copy Verify
+
+Package: com.crctdd.autocopyverify
+Version: 0.0.5
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 740
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.autocopyverify_0.0.5_iphoneos-arm64e.deb
+Size: 77884
+MD5sum: 57577047708f37ac35850896edc2b82b
+SHA1: 19c0462ea790dafc10ed15bb38d3db986c1428e0
+SHA256: 1a220ff5406933c519d28f8a0924ca1d6513ad6ce1507cdf5dae9825b620d53e
+Section: Tweaks
+Description: 自动复制短信、系统邮件、部分主流第三方邮件的验证码到剪切板，第三方邮件只能从临时通知框内获取，获取不到则无法复制；无设置项。（支持iOS 15-17）
+Author: crctdd
+Name: Auto Copy Verify
+
+Package: com.crctdd.autocopyverify
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 1524
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.autocopyverify_0.0.5_iphoneos-arm64.deb
+Size: 100532
+MD5sum: 25a432a2df8b0cbb8ea78ea39d2c695f
+SHA1: 6838f9e055fa73084a5843dc96fcd91539cb11a2
+SHA256: 0e028e419b7fe0eefc6d9b834adb9bde73e5071fcdc6e94df4c74b89532cab90
 Section: Tweaks
 Description: 自动复制短信、系统邮件、部分主流第三方邮件的验证码到剪切板，第三方邮件只能从临时通知框内获取，获取不到则无法复制；无设置项。（支持iOS 15-17）
 Author: crctdd
