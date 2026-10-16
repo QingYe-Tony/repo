@@ -11628,23 +11628,6 @@ Dev: lucaluca86
 Name: 通知不亮屏幕 (白名单)
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: com.dao.apptools15
-Version: 2.9.1
-Architecture: iphoneos-arm64e
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
-Filename: debs/AppTools15-17_2.9.1_crack.deb
-Size: 2386688
-MD5sum: f4fe21ce0d538cf3cfe547a6b67b5e3e
-SHA1: 6c3d0035e55aa21c30383018debd56ef501241bf
-SHA256: f0dc76517fc48060524cbe92bef8a5d327a3970d401b6324093c53d969a87d6d
-Section: 嗨-付费
-Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
-Author: aReo
-Name: AppTools15-17(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
-
 Package: com.dao.axon
 Version: 2.3.1
 Architecture: iphoneos-arm
