@@ -623,6 +623,57 @@ Icon: https://apt.002599.xyz/web/icon/cn.zqbb.ccatop.png
 Name: CocoaTop
 Sileodepiction: https://apt.002599.xyz/web/cn.zqbb.ccatop
 
+Package: cn.zqbb.fix120hz
+Version: 3.3.3-3
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
+Filename: debs/cn.zqbb.fix120hz_3.3.3-3_iphoneos-arm64.deb
+Size: 60574
+MD5sum: 93aa5b31f0be0504cb7daf8481b010b1
+SHA1: 08d06129cda079b7c5705029545a25bdf5ef410c
+SHA256: 71b8b3f6e6bb26494c00161ff0587df706de2641290a016d0a482aa5cc067c35
+Section: Tweaks
+Description: Unlock dynamic refresh rate from 80Hz to 120Hz.
+Author: zqbb
+Name: Hello 120Hz
+
+Package: cn.zqbb.fix120hz
+Version: 3.3.3-3
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
+Filename: debs/cn.zqbb.fix120hz_3.3.3-3_iphoneos-arm64e.deb
+Size: 44502
+MD5sum: 3751f6f73bcd71d143be6f8324aa93c8
+SHA1: d7f555f704281c8ccd569b13fa918579cf2e2c0d
+SHA256: 358f066736d65a6a0491ef41f0532fd6e970c5a3c6a68b8b4182d34a922cbe07
+Section: Tweaks
+Description: Unlock dynamic refresh rate from 80Hz to 120Hz.
+Author: zqbb
+Name: Hello 120Hz
+
+Package: cn.zqbb.hello.bundleid
+Version: 1.6.1-5
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 10780
+Filename: debs/cn.zqbb.hello.bundleid_1.6.1-5_iphoneos-arm64e.deb
+Size: 2962200
+MD5sum: b7c82b74436c4f6f8d48a1c5e1ba4296
+SHA1: 03c10edd63dc35e68c584bdcd6538b2cca294aed
+SHA256: 90bb548545c8c7398cce4828ac8ffb79fca9902e943d0abea2bd55a4243af200
+Section: zqbb Tweaks
+Description: 伪装越狱和巨魔应用，让商店应用更难检测越狱!
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.bundleid
+Name: HelloBundleID
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.bundleid
+
 Package: cn.zqbb.hello.diagnosticdata
 Version: 1.2
 Architecture: iphoneos-arm64e
@@ -690,6 +741,25 @@ Description: 强兼 iOS16 快捷指令!
 Author: zqbb
 Name: Hello Shortcut 17
 Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.fix.shortcut
+
+Package: cn.zqbb.hello.keyboard.ai
+Version: 6.6.6-3
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 11100
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.zqbb.hello.keyboard.ai
+Filename: debs/cn.zqbb.hello.keyboard.ai_6.6.6-3_iphoneos-arm64e.deb
+Size: 2812288
+MD5sum: ca14c1e720358597e634ef3507b327de
+SHA1: f199bc5abbc73677d1d049da9a5414646ccdc0d6
+SHA256: 4760db713f0d7920df143d435bf8631616f0c67b5523971ec0bdf64850ed1f5e
+Section: zqbb Tweaks
+Description: Quickly activate AI mode.
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.keyboard.ai.png
+Name: Hello 键盘侠 (roothide)
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.keyboard.ai
 
 Package: cn.zqbb.hello.memorystatus
 Version: 3.6.0-6
@@ -834,6 +904,60 @@ Author: zqbb
 Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.memorystatus.png
 Name: Hello Memory Status
 Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.memorystatus
+
+Package: cn.zqbb.hello.memorystatus
+Version: 3.9.0-6
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 11476
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 14.0), preferenceloader, launchctl
+Filename: debs/cn.zqbb.hello.memorystatus_3.9.0-6_iphoneos-arm64e.deb
+Size: 3067422
+MD5sum: 2e7492c9d464414ae9b606a96ac53321
+SHA1: 155a8815d4ed6815522393c6a9136dc118ff40f4
+SHA256: 97b86c1b2a5128670765e5f0b658171f6fec522d90c5b242570351ce46378c2b
+Section: zqbb Tweaks
+Description: Set memorystatus to avoid being killed by the system
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.memorystatus.png
+Name: Hello Memory Status
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.memorystatus
+
+Package: cn.zqbb.hello.qactions
+Version: 1.3.0-1
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 2480
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Filename: debs/cn.zqbb.hello.qactions_1.3.0-1_iphoneos-arm64e.deb
+Size: 667232
+MD5sum: 1dc668bac51f743707763182fecd44ee
+SHA1: 5a99e0704d3b46b4b54ea49035fe180558ff0a95
+SHA256: 6b47aeebbb202564cf0b393dc11a0fb93037a6e0acb1db1d3d36b53d5afe2fb9
+Section: Tweaks
+Description: 通过锁屏界面的手电筒和相机快速调用指定APP快捷操作，体验一键直达。
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.qactions
+Name: Hello QActions
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.qactions
+
+Package: cn.zqbb.hello.quick.panel
+Version: 1.0.0-5
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 5488
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/cn.zqbb.hello.quick.panel_1.0.0-5_iphoneos-arm64e.deb
+Size: 1498688
+MD5sum: 677002f21733799860208de00798c6dd
+SHA1: fd03c8aa72c5d0a16a0ad695ce19ebea366486c5
+SHA256: b1f984eb377d2eb244ca4cdcf735ab97f8f811050e2ef2d9664f8715fa1ad30e
+Section: zqbb Tweaks
+Description: 快捷面板~
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.quick.panel.png
+Name: Hello QuickPanel
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.quick.panel
 
 Package: cn.zqbb.hello.varjb
 Version: 1.0
@@ -7265,6 +7389,30 @@ Icon: https://axs66.github.io/pro/icon/axswidget.png
 Name: AxsWidget
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/axswidget/js.json
 
+Package: com.axs.bigtime
+Version: 5.2.0-74
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 980
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
+Conflicts: com.axs.screenlocktime
+Filename: debs/com.axs.bigtime_5.2.0-74_iphoneos-arm64.deb
+Size: 135688
+MD5sum: df1e59309a6165cb14b27f40ac9de9b9
+SHA1: ceb6f946049029899426e74529c6807026389557
+SHA256: e16fa5b5a56beaf199c4ed4e72ab626cb45f7ccb7e55c983529831cb5414cd86
+Section: Axs-Tweaks
+Description: 一个简单的锁屏时钟插件，需要在“/var/mobile/Axs/字体素材”文件夹里面放入“axs66.otf"字体素材，才能生效。
+ * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
+ * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
+ * 3.支持玻璃边缘、模糊、厚度和折射调节;
+ * 4.支持浅色/深色染色强度与深浅模式覆盖;
+ * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/bigtime.png
+Name: BigTime
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
+
 Package: com.axs.clipboard
 Version: 5.2.0-110
 Architecture: iphoneos-arm64
@@ -11479,6 +11627,23 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shynotific
 Dev: lucaluca86
 Name: 通知不亮屏幕 (白名单)
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.dao.apptools15
+Version: 2.9.1
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
+Filename: debs/AppTools15-17_2.9.1_crack.deb
+Size: 2386688
+MD5sum: f4fe21ce0d538cf3cfe547a6b67b5e3e
+SHA1: 6c3d0035e55aa21c30383018debd56ef501241bf
+SHA256: f0dc76517fc48060524cbe92bef8a5d327a3970d401b6324093c53d969a87d6d
+Section: 嗨-付费
+Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Author: aReo
+Name: AppTools15-17(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
 Package: com.dao.axon
 Version: 2.3.1
