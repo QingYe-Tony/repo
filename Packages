@@ -12079,6 +12079,22 @@ Description: 刀刀补充汉化，并在插件列表左侧增加架构指示器(
 Author: Amy While
 Name: Sileo(RootHide)
 
+Package: com.dao.sileo
+Version: 2.5.1-13.1
+Architecture: iphoneos-arm64e
+Maintainer: 刀刀
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Replaces: org.coolstar.sileo
+Filename: debs/Sileo_RootHide__2.5.1-13.1.deb
+Size: 3007048
+MD5sum: 31df0c5cefd67626c22634520bd7e3a1
+SHA1: 34808339258c47de96390badc9331c0c01f45cd6
+SHA256: 3aa1b5e8d47ed8cd844ff83b43f9a387dbedf82e3fcc523a06964c108d97dd36
+Section: 嗨-系统
+Description: 刀刀补充汉化，并在插件列表左侧增加架构指示器(arm64e → 绿色、arm64 → 蓝色、arm → 橙色、all → 灰色)，可识别刀刀源内的 RootHidePatcher 中文版，转换插件一条龙。
+Author: Amy While
+Name: Sileo(RootHide)
+
 Package: com.developlab.appbadge
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -20605,6 +20621,26 @@ Description: 闲鱼广告与页面净化、后台原样编辑商品、会员经�
 Author: junhong
 Icon: https://apt.mjh.im/assets/im.mjh.xianyuadblock/icon.png
 Name: 闲鱼助手
+
+Package: im.mjh.xianyuadblock
+Version: 3.2.1
+Architecture: iphoneos-arm
+Maintainer: junhong
+Installed-Size: 1580
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: im.mjh.xianyuhelper, im.mjh.xianyuhelper.roothide
+Replaces: im.mjh.xianyuhelper, im.mjh.xianyuhelper.roothide
+Filename: debs/XianYuHelperRootful_3.2.1_arm64.deb
+Size: 570494
+MD5sum: c5fde29f2b391f8522bb59db3c584fae
+SHA1: decedcc410eb259ea727ba6aa0f36b5f833aa1ad
+SHA256: 6137da153d4ada975f92123b6e4627fc029f1f681178b98b537c236e65d79621
+Section: Tweaks
+Homepage: https://xianyu.goforit.si
+Description: 闲鱼广告与页面净化、后台原样编辑商品、会员经验领取、任务控制及逐件运行记录。
+Author: junhong
+Icon: https://apt.mjh.im/assets/im.mjh.xianyuadblock/icon.png
+Name: 闲鱼助手 Rootful
 
 Package: jp.dcsyhi.zetsu
 Version: 1.6.2
