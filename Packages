@@ -16923,35 +16923,35 @@ Icon: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/eb/b5/a8/ebb5a892-c1
 Name: WCRefine
 
 Package: com.qingye.plrename
-Version: 6.6.6
+Version: 6.6.10
 Architecture: iphoneos-arm64
 Maintainer: qingye
-Installed-Size: 5572
+Installed-Size: 5728
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.qingye.plrename_6.6.6_iphoneos-arm64.deb
-Size: 3643850
-MD5sum: 352cdce7e7f1c2d2e1baeb45518cab5e
-SHA1: e5b060521bb1296b801ce7b953559c7a7e348694
-SHA256: b9a86cafd0ed22f8d3f08a1aaed331622ba373722b9be4f7b816b4c1fe61aed0
+Filename: debs/com.qingye.plrename_6.6.10_iphoneos-arm64.deb
+Size: 3651062
+MD5sum: 21358c7e2ed2a05b3b79d71c54364a3a
+SHA1: 0d8ae9c852441d696c573c5075f0e509edd7232e
+SHA256: 2ed88d2fadfcfb4b06990e9fedfcdedc2c5c5fc7829ca5bb3e9d59e5914ad294
 Section: Tweaks
-Description: 在「设置」里直接修改越狱插件入口显示的名称与图标，全部改动即时生效、只改运行时、不动任何插件自身文件。功能：① 改名 —— 逐个改，也可勾选多个入口一次性统一改名（一次写盘，中途失败则全部不生效），同样可一键全部恢复默认；② 换图标 —— 从相册或图标文件夹选取，支持 GIF / WebP / APNG 动图（在设置列表里真的会动）、内置 146 个常用图标与表情动图，装完即可直接选用；③ 排序 —— 拖动调整插件入口在设置主列表里的先后顺序；④ 图标大小 —— 插件行图标可切换标准 29pt / 较小 22pt / 很小 16pt 三档；⑤ 诊断 —— 一键导出完整的自检报告（图标目录、动图帧数、每一行的渲染几何、hook 状态），出问题不用猜。兼容性：已适配 rootless 与 roothide 越狱（arm64 / arm64e 双架构）。
+Description: 在「设置」里直接修改越狱插件入口显示的名称与图标，全部改动即时生效、只改运行时、不动任何插件自身文件。功能：① 改名 —— 逐个改，也可勾选多个入口一次性统一改名（一次写盘，中途失败则全部不生效）；② 换图标 —— 从相册或图标文件夹选取，支持 GIF / WebP / APNG 动图（在设置列表里真的会动）、内置 146 个常用图标与表情动图，装完即可直接选用；③ 排序 —— 拖动调整插件入口在设置主列表里的先后顺序；④ 图标大小 —— 插件行图标可切换标准 29pt / 较小 22pt / 很小 16pt 三档；⑤ 恢复默认 —— **名称与图标分开恢复**：只想让名字回到原名时，你挑的图标不会被一起清掉（详情页、全部、批量三处都是两行，各清各的）；⑥ 诊断 —— 一键导出完整的自检报告（图标目录、动图帧数、每一行的渲染几何、hook 状态），报告里的每个计数都标注了口径，出问题不用猜。兼容性：已适配 rootless 与 roothide 越狱（arm64 / arm64e 双架构）。
 Author: qingye
 Icon: file:///var/mobile/Library/Caches/com.qingye.plrename/icon.png
 Name: 改头换面
 
 Package: com.qingye.plrename
-Version: 6.6.6
+Version: 6.6.10
 Architecture: iphoneos-arm64e
 Maintainer: qingye
-Installed-Size: 5572
+Installed-Size: 5728
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.qingye.plrename_6.6.6_iphoneos-arm64e.deb
-Size: 3644018
-MD5sum: ba6883a05e8c557540d8f1da75dd87bc
-SHA1: c6332ab117925bfa9b952ca60d3b48aeb331a285
-SHA256: eb45f4bd68e4301ecac7d9ff6b74b23cca8438596896ba73baa8ebd11ad48d9a
+Filename: debs/com.qingye.plrename_6.6.10_iphoneos-arm64e.deb
+Size: 3650932
+MD5sum: c29549c65a262dd115b276f0b1b6c50a
+SHA1: 4477b5f548949011199cd65bc5fadf4c58140673
+SHA256: 19b04097b83da4e463d292295e4c16635aabd2f6fefc641f618552a0150da6a4
 Section: Tweaks
-Description: 在「设置」里直接修改越狱插件入口显示的名称与图标，全部改动即时生效、只改运行时、不动任何插件自身文件。功能：① 改名 —— 逐个改，也可勾选多个入口一次性统一改名（一次写盘，中途失败则全部不生效），同样可一键全部恢复默认；② 换图标 —— 从相册或图标文件夹选取，支持 GIF / WebP / APNG 动图（在设置列表里真的会动）、内置 146 个常用图标与表情动图，装完即可直接选用；③ 排序 —— 拖动调整插件入口在设置主列表里的先后顺序；④ 图标大小 —— 插件行图标可切换标准 29pt / 较小 22pt / 很小 16pt 三档；⑤ 诊断 —— 一键导出完整的自检报告（图标目录、动图帧数、每一行的渲染几何、hook 状态），出问题不用猜。兼容性：已适配 rootless 与 roothide 越狱（arm64 / arm64e 双架构）。
+Description: 在「设置」里直接修改越狱插件入口显示的名称与图标，全部改动即时生效、只改运行时、不动任何插件自身文件。功能：① 改名 —— 逐个改，也可勾选多个入口一次性统一改名（一次写盘，中途失败则全部不生效）；② 换图标 —— 从相册或图标文件夹选取，支持 GIF / WebP / APNG 动图（在设置列表里真的会动）、内置 146 个常用图标与表情动图，装完即可直接选用；③ 排序 —— 拖动调整插件入口在设置主列表里的先后顺序；④ 图标大小 —— 插件行图标可切换标准 29pt / 较小 22pt / 很小 16pt 三档；⑤ 恢复默认 —— **名称与图标分开恢复**：只想让名字回到原名时，你挑的图标不会被一起清掉（详情页、全部、批量三处都是两行，各清各的）；⑥ 诊断 —— 一键导出完整的自检报告（图标目录、动图帧数、每一行的渲染几何、hook 状态），报告里的每个计数都标注了口径，出问题不用猜。兼容性：已适配 rootless 与 roothide 越狱（arm64 / arm64e 双架构）。
 Author: qingye
 Icon: file:///var/mobile/Library/Caches/com.qingye.plrename/icon.png
 Name: 改头换面
