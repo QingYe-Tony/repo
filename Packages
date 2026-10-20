@@ -18416,6 +18416,25 @@ Author: Ivano Bilenchi
 Icon: https://sini921.github.io/repo/sileodepiction/icon/icleanerpro.png
 Name: iCleaner Pro(rootless)
 
+Package: com.sini.lynxtwo
+Version: 2.5.4
+Architecture: iphoneos-arm64e
+Maintainer: MTAC
+Installed-Size: 2952
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: debs/com.sini.lynxtwo-2.5.4-roothide.deb
+Size: 654756
+MD5sum: db763725175030729df2acaf4a918870
+SHA1: abd7352934ac1aad4bb9075c70243259466d01cf
+SHA256: b74ee8cbd917bea336036fcef604e466cb2bcb3b00e67d14d84204cbe1b3bc0a
+Section: Tweaks
+Description: 大杂烩
+Author: MTAC
+Icon: https://sini921.github.io/repo/sileodepiction/icon/lynxtwo.png
+Name: Lynx 2
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/lynxtwo/js.json
+
 Package: com.sini.tweaksettings
 Version: 1.0.8
 Architecture: iphoneos-arm64e
