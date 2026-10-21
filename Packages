@@ -12494,6 +12494,24 @@ Name: VisibleIsland
 Sileodepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland.json
 Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
 
+Package: com.example.wifileasekeeper
+Version: 1.0.12
+Architecture: iphoneos-arm64e
+Maintainer: colorblack
+Installed-Size: 1088
+Depends: firmware (>= 15.0), preferenceloader, mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.example.wifileasekeeper-1.0.12-roothide.deb
+Size: 310576
+MD5sum: 2e0da20cd95f763d4915c4a9b9a85525
+SHA1: 70f75c6e721e63da30dd9d4786559541290d2fb9
+SHA256: 31720db751dcc74ac29a3c6e6d81eee9d9f44d6a1e4313958d902e202abf6eeb
+Section: Tweaks
+Priority: optional
+Description: 仅为白名单 Wi-Fi 防休眠,锁屏8小时耗电4%左右,(本插件实际为解决 连安卓热点苹果锁屏会断开 wifi的痛点) QQ群 205928931
+Author: colorblack
+Icon: https://huayuarc.github.io/icon/wifi.jpg
+Name: wifi 锁屏不断连
+
 Package: com.exile90.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64
