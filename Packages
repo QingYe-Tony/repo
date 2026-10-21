@@ -1053,6 +1053,25 @@ Author: zqbb
 Name: Hello 3Q
 Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.stopautolaunchapps
 
+Package: cn.zqbb.stopautolaunchapps
+Version: 2.5
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 1120
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
+Conflicts: zp.stopautolaunchapps
+Filename: debs/cn.zqbb.stopautolaunchapps_2.5_iphoneos-arm64e.deb
+Size: 254952
+MD5sum: 10ecfd412cf9df7f3d643bc574f4a3f2
+SHA1: 2ec33e856e953fcde5347dc9eb831e03acee04ec
+SHA256: 0b7d5c67b6ea9c97cdb34418c21ce47e312ad166465d33fbb5332aaa892d3dfa
+Section: zqbb Tweaks
+Description: 别在后台热加载app咯!
+ - 优点:节约内存,少杀后台.
+Author: zqbb
+Name: Hello 3Q
+Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.stopautolaunchapps
+
 Package: co.dynastic.ios.lib.flora
 Version: 1.0
 Architecture: iphoneos-arm64
