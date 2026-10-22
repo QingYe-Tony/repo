@@ -10828,6 +10828,24 @@ Description: Choicy白名单 (支持iOS 15-17 roothide)
 Author: crctdd
 Name: Choicy-Whitelist
 
+Package: com.crctdd.choicy-whitelist
+Version: 1.5.4-8
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 700
+Depends: mobilesubstrate, com.opa334.altlist (>= 1.0.4), preferenceloader
+Conflicts: com.opa334.choicy, com.crctdd.choicy-patch
+Replaces: com.opa334.choicy, com.crctdd.choicy-patch
+Filename: debs/com.crctdd.choicy-whitelist_1.5.4-8_iphoneos-arm64e.deb
+Size: 143896
+MD5sum: a8b0f19002c386b4ccc843d1db53803f
+SHA1: 5732c2167ea49b3f07829c08265e038d3c1bd3f7
+SHA256: 816d5e9f6786d814033300e8ef1f32c01e5ddb6b4e5a93a62bb248974968f275
+Section: Tweaks
+Description: Choicy白名单 (支持iOS 15-17 roothide)
+Author: crctdd
+Name: Choicy-Whitelist
+
 Package: com.crctdd.disablecallpop
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -11715,6 +11733,38 @@ Section: Tweaks
 Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
 Author: crctdd
 Name: StayAlive Lite
+
+Package: com.crctdd.surgeactive
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 236
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.crctdd.surgeactive_0.0.3_iphoneos-arm64.deb
+Size: 15904
+MD5sum: 855922ecd2753cdc58939570e4c1ee78
+SHA1: 5b73129651ec0a4b0d9f0d3be617f57c1740dc37
+SHA256: 731d57920d938a91a223e02fbf2cfc87e6184a8c3c888d461fe66cb127da929c
+Section: Tweaks
+Description: 锁屏时保持 Surge-iOS-NE 的活跃性。(支持iOS 15-17)
+Author: crctdd
+Name: SurgeActive
+
+Package: com.crctdd.surgeactive
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 108
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.crctdd.surgeactive_0.0.3_iphoneos-arm64e.deb
+Size: 11410
+MD5sum: e021feac18dec356382bad74fb7ac43d
+SHA1: 9f126f478ee9c346f3ab7b96672c92aa326296b1
+SHA256: f5d25b1506fce0b4894665dc17206ee3407c108aef8ef08a3b32e85f475a6ee9
+Section: Tweaks
+Description: 锁屏时保持 Surge-iOS-NE 的活跃性。(支持iOS 15-17)
+Author: crctdd
+Name: SurgeActive
 
 Package: com.crctdd.surgectl
 Version: 0.0.1
