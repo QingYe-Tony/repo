@@ -11142,6 +11142,48 @@ Description: 优化并释放部分运行内存。(支持iOS 15-17)
 Author: crctdd
 Name: MemTrim
 
+Package: com.crctdd.pyvideo
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 2968
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy (>= 1.1.6)
+Filename: debs/com.crctdd.pyvideo_0.0.3_iphoneos-arm64e.deb
+Size: 1325546
+MD5sum: c6540ed560da922cd5580eceda9dd984
+SHA1: fc7cb7d25aab0e9986a4cfd9930ce20477b5bc3b
+SHA256: 8f2c65c584cf8a5113e6b59676e5782e0b4e4745c4458c8cc017f1f907abfa32
+Section: Tweaks
+Description: 获取当前页面的视频并下载，仅Safari浏览器可用；无设置项。（支持iOS 15-17）\
+ \
+ 长按Safari右下角菜单键 或者\
+ ↓使用以下URL Scheme触发↓\
+ \
+ pyvideo://video-downloader
+Author: crctdd
+Name: PyVideo
+
+Package: com.crctdd.pyvideo
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 5848
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy (>= 1.1.6)
+Filename: debs/com.crctdd.pyvideo_0.0.3_iphoneos-arm64.deb
+Size: 2625268
+MD5sum: 12593f2e3677e838fb3c1c704d415e12
+SHA1: 518a9c7db9988c32c6ca5c51290184d9c747c56b
+SHA256: 113e592b56142a9b4fad6840c546973683af4d6321f5cb345c7c79f0b07526f4
+Section: Tweaks
+Description: 获取当前页面的视频并下载，仅Safari浏览器可用；无设置项。（支持iOS 15-17）\
+ \
+ 长按Safari右下角菜单键 或者\
+ ↓使用以下URL Scheme触发↓\
+ \
+ pyvideo://video-downloader
+Author: crctdd
+Name: PyVideo
+
 Package: com.crctdd.sbtrim
 Version: 0.0.15
 Architecture: iphoneos-arm64e
