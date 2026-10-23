@@ -9624,6 +9624,152 @@ Icon: https://axs66.github.io/pro/icon/snapper.png
 Name: Snapper 4
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
 
+Package: com.axs.snapper4
+Version: 5.2.0-49
+Architecture: iphoneos-arm64e
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 2656
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
+Filename: debs/com.axs.snapper4_5.2.0-49_隐根roothide_图标皮肤.deb
+Size: 1035140
+MD5sum: 43f63d54bc5b83215121a96582d96dfa
+SHA1: 084bb1293e975a85ae552569dfb6110f01898cbf
+SHA256: 6488627fea37296ad028b06b9b6b0b723b5d99f66c6f1c0779346e1779193610
+Section: Axs-Tweaks
+Description: 这是一款截图工具。
+ * 一、基本设置
+ * 1、移动标记：开启后标注内容可拖动调整位置；
+ * 2、功能开关与排序：设置面板内可开关并拖拽排序全部功能。
+ * 二、触发方式
+ * 1、音量增+电源键=：可选系统截图或插件截图；
+ * 2、长按音量减→插件截图：开启后长按音量减约 0.2 秒调出冻结模式。
+ * 三、截图设置
+ * 1、截图仅复制：截图后仅复制到剪贴板；
+ * 2、长截图方式：滚动拼接 / 一镜到底，智能帧匹配自动拼接；
+ * 四、AI 服务（识别与翻译）
+ * 1、Sileo：Sileo 描述页长按翻译纯文本，翻译方式可选百度翻译或 AI 翻译；
+ * 2、AI 互译与问答：中英文互译与中文问答，支持自定义提示词与 AI 对话模式，半屏浮层展示；
+ * 3、文字识别 (OCR)：模型识别截图文字，半屏浮层展示、涂抹选择、一键复制；
+ * 4、百度翻译：自动检测语言双向翻译（中文↔外语），支持图片翻译 / 文本翻译双通道。
+ * 六、图标皮肤（本包新增，隐根roothide 版）
+ * 素材目录：<jbroot>/Library/Application Support/Snapper4/Snapper4Resources.bundle/Skins
+ * 设置页里的「图标风格」= 素材目录下的文件夹名，文件夹改名/新增会立刻同步；
+ * 该目录下的素材不会被本包升级/重装覆盖或恢复（包内不含该目录的任何文件）；
+ * 包内自带蓝珀 / 透光 / 玻璃三套，缺的图标自动回退原版；
+ * 「图标风格」下面新增两个按钮：在 Filza 中打开素材文件夹 / 复制素材文件夹路径。
+ * 七、修复
+ * 「功能开关与排序」里关掉 URL 跳转插件时，它下面那一栏输入框会立刻一起隐藏，
+ * 不用再退回上一级重进页面（开关一动手就把这一页重建 + 重画一遍）。
+ * 八、iPad 横屏裁剪工具栏（真正的根因）
+ * 症状：截图本身是横的（正确），但点截屏弹出的那一条工具栏是竖的/躺倒的。
+ * 反汇编宿主 -[SSCropOverlayController] 发现它自己把方向锁死了：
+ *   supportedInterfaceOrientations → mov w0,#2 ; ret   （= 只允许竖屏）
+ *   shouldAutorotate               → mov w0,#0 ; ret   （= 不跟随旋转）
+ * iPad 横屏时系统只能按竖屏 768x1024 摆这一层，工具栏自然躺倒；而截图数据走的是
+ * _UICreateScreenUIImageWithRotation，另一条路，所以图是横的。
+ * 修复：把这两个方法放开成 All / YES（AxsResultRootViewController 一并放开）。
+ * 它的 -viewDidLayoutSubviews 是自适应的（toolbarView=(0,H,W,54)，按钮横排），
+ * 所以方向一旦放对，工具栏就会自己横回来。
+ * 另修：资源 bundle 路径识别只认「以 Snapper4Resources.bundle 结尾」的路径，
+ * 之前宿主送进来的子目录会把路径污染成 SkinsSeed/BoLi 之类并导致日志刷屏。
+ * 说明：iPad 横屏下标注编辑器（AxsAnnotationViewController）也一并做了兜底校正。
+ * 本版为正式版：诊断浮层已关闭，日志照常保留在 Snapper4Skins.log。
+ * 九、标注编辑器横屏（5.2.0-49）
+ * 修正目标尺寸的选取：SpringBoard 的 UIWindowScene 坐标空间在横屏下未必是横的，
+ * 之前无脑优先 scene 会把标注编辑器窗口反过来掰成竖屏；
+ * 现在按当前界面方向（3/4=横屏）挑尺寸，并用长边/短边摆正后再套用。
+ * 5.2.0-50：日志实测 scene 坐标空间在横屏下报的仍是 768x1024，而屏幕是
+ * 1024x768；窗口层有两处「按 scene bounds 摆正」的旧逻辑会把它改回竖屏，
+ * 与新逻辑来回拉锯。现统一成一个 SSTargetSize() 口径：scene 方向与界面方向
+ * 一致才采信，否则以屏幕为准，再按长边/短边摆正。
+ *
+ * 本版为正式版（版本号 5.2.0-49）：功能与 5.2.0-50 完全一致（已实测通过），
+ * 仅作正式交付。安装时若本机已装更高版本，需用 dpkg -i --force-downgrade 覆盖安装，
+ * 切勿 dpkg -r 卸载（包名即宿主包名，卸载会连 Snapper4 本体一起删掉）。
+ * 至此 iPad 横屏下两处界面均已适配：① 截屏后的裁剪工具栏与插件按钮条；
+ * ② 点「标注」进入的标注编辑器（画布、工具栏、保存结果）。
+ * 五、扩展功能
+ * 1、截图标记：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制；
+ * 2、URL 触发：支持手势插件通过 prefs:root=snapper4_freeze（冻结）/ prefs:root=snapper4_long（长截图）系统深链触发。
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper 4
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
+
+Package: com.axs.snapper4
+Version: 5.2.0-49
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 2655
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
+Filename: debs/com.axs.snapper4_5.2.0-49_无根rootless_图标皮肤.deb
+Size: 1034890
+MD5sum: 6c0b32a2aa61d29180bfa46c54331b26
+SHA1: f83167c3450db9464ac93a6075a1019ec85d7c97
+SHA256: 4ac98d34d1990b1af3a47463a134b77f0ae0ae06fc58abe08c7c11f8bb626e4f
+Section: Axs-Tweaks
+Description: 这是一款截图工具。
+ * 一、基本设置
+ * 1、移动标记：开启后标注内容可拖动调整位置；
+ * 2、功能开关与排序：设置面板内可开关并拖拽排序全部功能。
+ * 二、触发方式
+ * 1、音量增+电源键=：可选系统截图或插件截图；
+ * 2、长按音量减→插件截图：开启后长按音量减约 0.2 秒调出冻结模式。
+ * 三、截图设置
+ * 1、截图仅复制：截图后仅复制到剪贴板；
+ * 2、长截图方式：滚动拼接 / 一镜到底，智能帧匹配自动拼接；
+ * 四、AI 服务（识别与翻译）
+ * 1、Sileo：Sileo 描述页长按翻译纯文本，翻译方式可选百度翻译或 AI 翻译；
+ * 2、AI 互译与问答：中英文互译与中文问答，支持自定义提示词与 AI 对话模式，半屏浮层展示；
+ * 3、文字识别 (OCR)：模型识别截图文字，半屏浮层展示、涂抹选择、一键复制；
+ * 4、百度翻译：自动检测语言双向翻译（中文↔外语），支持图片翻译 / 文本翻译双通道。
+ * 六、图标皮肤（本包新增，无根rootless 版）
+ * 素材目录：<jbroot>/Library/Application Support/Snapper4/Snapper4Resources.bundle/Skins
+ * 设置页里的「图标风格」= 素材目录下的文件夹名，文件夹改名/新增会立刻同步；
+ * 该目录下的素材不会被本包升级/重装覆盖或恢复（包内不含该目录的任何文件）；
+ * 包内自带蓝珀 / 透光 / 玻璃三套，缺的图标自动回退原版；
+ * 「图标风格」下面新增两个按钮：在 Filza 中打开素材文件夹 / 复制素材文件夹路径。
+ * 七、修复
+ * 「功能开关与排序」里关掉 URL 跳转插件时，它下面那一栏输入框会立刻一起隐藏，
+ * 不用再退回上一级重进页面（开关一动手就把这一页重建 + 重画一遍）。
+ * 八、iPad 横屏裁剪工具栏（真正的根因）
+ * 症状：截图本身是横的（正确），但点截屏弹出的那一条工具栏是竖的/躺倒的。
+ * 反汇编宿主 -[SSCropOverlayController] 发现它自己把方向锁死了：
+ *   supportedInterfaceOrientations → mov w0,#2 ; ret   （= 只允许竖屏）
+ *   shouldAutorotate               → mov w0,#0 ; ret   （= 不跟随旋转）
+ * iPad 横屏时系统只能按竖屏 768x1024 摆这一层，工具栏自然躺倒；而截图数据走的是
+ * _UICreateScreenUIImageWithRotation，另一条路，所以图是横的。
+ * 修复：把这两个方法放开成 All / YES（AxsResultRootViewController 一并放开）。
+ * 它的 -viewDidLayoutSubviews 是自适应的（toolbarView=(0,H,W,54)，按钮横排），
+ * 所以方向一旦放对，工具栏就会自己横回来。
+ * 另修：资源 bundle 路径识别只认「以 Snapper4Resources.bundle 结尾」的路径，
+ * 之前宿主送进来的子目录会把路径污染成 SkinsSeed/BoLi 之类并导致日志刷屏。
+ * 说明：iPad 横屏下标注编辑器（AxsAnnotationViewController）也一并做了兜底校正。
+ * 本版为正式版：诊断浮层已关闭，日志照常保留在 Snapper4Skins.log。
+ * 九、标注编辑器横屏（5.2.0-49）
+ * 修正目标尺寸的选取：SpringBoard 的 UIWindowScene 坐标空间在横屏下未必是横的，
+ * 之前无脑优先 scene 会把标注编辑器窗口反过来掰成竖屏；
+ * 现在按当前界面方向（3/4=横屏）挑尺寸，并用长边/短边摆正后再套用。
+ * 5.2.0-50：日志实测 scene 坐标空间在横屏下报的仍是 768x1024，而屏幕是
+ * 1024x768；窗口层有两处「按 scene bounds 摆正」的旧逻辑会把它改回竖屏，
+ * 与新逻辑来回拉锯。现统一成一个 SSTargetSize() 口径：scene 方向与界面方向
+ * 一致才采信，否则以屏幕为准，再按长边/短边摆正。
+ *
+ * 本版为正式版（版本号 5.2.0-49）：功能与 5.2.0-50 完全一致（已实测通过），
+ * 仅作正式交付。安装时若本机已装更高版本，需用 dpkg -i --force-downgrade 覆盖安装，
+ * 切勿 dpkg -r 卸载（包名即宿主包名，卸载会连 Snapper4 本体一起删掉）。
+ * 至此 iPad 横屏下两处界面均已适配：① 截屏后的裁剪工具栏与插件按钮条；
+ * ② 点「标注」进入的标注编辑器（画布、工具栏、保存结果）。
+ * 五、扩展功能
+ * 1、截图标记：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制；
+ * 2、URL 触发：支持手势插件通过 prefs:root=snapper4_freeze（冻结）/ prefs:root=snapper4_long（长截图）系统深链触发。
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper 4
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
+
 Package: com.axs.switchicon
 Version: 5.2.0-131
 Architecture: iphoneos-arm64
