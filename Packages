@@ -1433,6 +1433,22 @@ Icon: https://axs66.github.io/pro/icon/singlevpn.png
 Name: Single VPN
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.82flex.touchvis
+Version: 4.1.1
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 4416
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.82flex.touchvis_4.1.1_iphoneos-arm.deb
+Size: 939210
+MD5sum: 758c7fcc75adfec45bc72af01f5b3804
+SHA1: 1d67ed96ee18cef4f6f674f1671528e7f17355cb
+SHA256: 44b55d46e10cb630b3fc2758dc76434d0824f13527428462ae55e7906cb0ac58
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Name: Touch-Viz
+
 Package: com.82flex.unseen
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -17358,6 +17374,36 @@ Section: Tweaks
 Description: 灵动监测：CPU、帧率、电池和系统状态浮窗；长按查看详细数据，支持充电管理、插件注入规则扫描与功能分类。保留系统与硬件热安全保护。（修复了一下浮窗文字排版）
 Author: MoWang
 Name: 灵动监测
+
+Package: com.sbcpu.floating.ipadfix
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 清野
+Depends: mobilesubstrate
+Filename: debs/com.sbcpu.floating.ipadfix_0.0.1_iphoneos-arm64e.deb
+Size: 21138
+MD5sum: 496b7cb21fd3918c2c0ce59b48ec5074
+SHA1: 834eb8e8d5e9a90f6890b111c2b096270b59b293
+SHA256: 02ae4bce480740b56ce83ad871b824c5fbc0f82e3a0011844cf7dac82a33781d
+Section: Tweaks
+Description: 为「灵动监测」(SBCPU Floating) 增加 iPad 横屏适配：让悬浮窗在横屏下正立显示，并在展开后于设定时间（默认 2 秒）自动收起贴边。需配合原版灵动监测(com.sbcpu.floating)一起使用。（隐根/RootHide 版）
+Author: 清野
+Name: SBCPU Floating iPad 横屏修复
+
+Package: com.sbcpu.floating.ipadfix
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 清野
+Depends: mobilesubstrate
+Filename: debs/com.sbcpu.floating.ipadfix_0.0.1_iphoneos-arm64.deb
+Size: 21208
+MD5sum: 9ec94ea85bba33ce25e026693b0e0d25
+SHA1: 88eb0ac591099a9352353a8dbc6f86b2c367faaf
+SHA256: d2cd45a132c5c8bef97e54f2fe8f4c78ff26d6779d6c4a6ae001c7dc42ba0c1f
+Section: Tweaks
+Description: 为「灵动监测」(SBCPU Floating) 增加 iPad 横屏适配：让悬浮窗在横屏下正立显示，并在展开后于设定时间（默认 2 秒）自动收起贴边。需配合原版灵动监测(com.sbcpu.floating)一起使用。
+Author: 清野
+Name: SBCPU Floating iPad 横屏修复
 
 Package: com.sensetechlab.duodash
 Version: 1.1.3
