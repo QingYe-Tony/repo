@@ -9770,6 +9770,270 @@ Icon: https://axs66.github.io/pro/icon/snapper.png
 Name: Snapper 4
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
 
+Package: com.axs.snapper4
+Version: 5.2.0-50
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 2691
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
+Filename: debs/com.axs.snapper4_5.2.0-50_无根rootless_图标皮肤.deb
+Size: 1043960
+MD5sum: 0e02e2aa8a6ab5355bccf0c5c2a7a778
+SHA1: 910d781a0637c438c5ce8a7528a973cec6870320
+SHA256: 8190c49140387a68bc112f04949ac32f6f51473262bfd865d6e038dd5af64da3
+Section: Axs-Tweaks
+Description: 这是一款截图工具。
+ * 一、基本设置
+ * 1、移动标记：开启后标注内容可拖动调整位置；
+ * 2、功能开关与排序：设置面板内可开关并拖拽排序全部功能。
+ * 二、触发方式
+ * 1、音量增+电源键=：可选系统截图或插件截图；
+ * 2、长按音量减→插件截图：开启后长按音量减约 0.2 秒调出冻结模式。
+ * 三、截图设置
+ * 1、截图仅复制：截图后仅复制到剪贴板；
+ * 2、长截图方式：滚动拼接 / 一镜到底，智能帧匹配自动拼接；
+ * 四、AI 服务（识别与翻译）
+ * 1、Sileo：Sileo 描述页长按翻译纯文本，翻译方式可选百度翻译或 AI 翻译；
+ * 2、AI 互译与问答：中英文互译与中文问答，支持自定义提示词与 AI 对话模式，半屏浮层展示；
+ * 3、文字识别 (OCR)：模型识别截图文字，半屏浮层展示、涂抹选择、一键复制；
+ * 4、百度翻译：自动检测语言双向翻译（中文↔外语），支持图片翻译 / 文本翻译双通道。
+ * 六、图标皮肤（本包新增，无根rootless 版）
+ * 素材目录：<jbroot>/Library/Application Support/Snapper4/Snapper4Resources.bundle/Skins
+ * 设置页里的「图标风格」= 素材目录下的文件夹名，文件夹改名/新增会立刻同步；
+ * 该目录下的素材不会被本包升级/重装覆盖或恢复（包内不含该目录的任何文件）；
+ * 包内自带蓝珀 / 透光 / 玻璃三套，缺的图标自动回退原版；
+ * 「图标风格」下面新增两个按钮：在 Filza 中打开素材文件夹 / 复制素材文件夹路径。
+ * 七、修复
+ * 「功能开关与排序」里关掉 URL 跳转插件时，它下面那一栏输入框会立刻一起隐藏，
+ * 不用再退回上一级重进页面（开关一动手就把这一页重建 + 重画一遍）。
+ * 八、iPad 横屏裁剪工具栏（真正的根因）
+ * 症状：截图本身是横的（正确），但点截屏弹出的那一条工具栏是竖的/躺倒的。
+ * 反汇编宿主 -[SSCropOverlayController] 发现它自己把方向锁死了：
+ *   supportedInterfaceOrientations → mov w0,#2 ; ret   （= 只允许竖屏）
+ *   shouldAutorotate               → mov w0,#0 ; ret   （= 不跟随旋转）
+ * iPad 横屏时系统只能按竖屏 768x1024 摆这一层，工具栏自然躺倒；而截图数据走的是
+ * _UICreateScreenUIImageWithRotation，另一条路，所以图是横的。
+ * 修复：把这两个方法放开成 All / YES（AxsResultRootViewController 一并放开）。
+ * 它的 -viewDidLayoutSubviews 是自适应的（toolbarView=(0,H,W,54)，按钮横排），
+ * 所以方向一旦放对，工具栏就会自己横回来。
+ * 另修：资源 bundle 路径识别只认「以 Snapper4Resources.bundle 结尾」的路径，
+ * 之前宿主送进来的子目录会把路径污染成 SkinsSeed/BoLi 之类并导致日志刷屏。
+ * 说明：iPad 横屏下标注编辑器（AxsAnnotationViewController）也一并做了兜底校正。
+ * 本版为正式版：诊断浮层已关闭，日志照常保留在 Snapper4Skins.log。
+ * 九、标注编辑器横屏（5.2.0-49）
+ * 修正目标尺寸的选取：SpringBoard 的 UIWindowScene 坐标空间在横屏下未必是横的，
+ * 之前无脑优先 scene 会把标注编辑器窗口反过来掰成竖屏；
+ * 现在按当前界面方向（3/4=横屏）挑尺寸，并用长边/短边摆正后再套用。
+ * 5.2.0-50：日志实测 scene 坐标空间在横屏下报的仍是 768x1024，而屏幕是
+ * 1024x768；窗口层有两处「按 scene bounds 摆正」的旧逻辑会把它改回竖屏，
+ * 与新逻辑来回拉锯。现统一成一个 SSTargetSize() 口径：scene 方向与界面方向
+ * 一致才采信，否则以屏幕为准，再按长边/短边摆正。
+ *
+ * 十、iPhone 横屏（本版新增，手机与 iPad 现在共用同一套判定）
+ * 手机和 iPad 在 SpringBoard 里报方向的方式根本不同：iPhone 的 scene 恒为竖屏，
+ * 但 UIScreen.bounds 会随横竖变化；iPad 反过来（scene 会转，屏幕常量不变）。
+ * 所以原来那套「scene → statusBar → 屏幕宽高比」在手机上会把界面掰回竖屏。
+ * 现在手机按「物理方向」判定（实测 物理=1/3 与界面方向完全一致），
+ * 平放在桌上（FaceUp）时才用刚截的图的宽高兜底。
+ * 另：iPhone 放开方向为 AllButUpsideDown（不开倒置竖屏）。
+ * 下面 5.2.0-51～5.2.0-58 是内部调试号，正式版统一记为 5.2.0-50。
+ *
+ * 5.2.0-53 修正：52 曾在手机上调用 attemptRotationToDeviceOrientation，
+ * 它会在 SpringBoard 里触发全局重新判向，导致系统 UI 被渲染成竖屏倒置、
+ * 壁纸却不跟着转（画面错乱）。该调用已彻底移除。
+ *
+ * 5.2.0-54 修正（关键，来自真机日志）：
+ * 日志显示 iPhone 上宿主的标注编辑器窗口本来就是正确的 844x390、transform 也是
+ * 单位矩阵，我们的「摆正」全程等于空操作；唯一真正动手的几次反而把窗口改坏了——
+ * 截图方向信号有 20 秒有效期，横屏截完图转回竖屏继续标注时，过期那一瞬间会把
+ * 窗口从 844x390 改成 390x844（日志：窗口改为 390x844），编辑器当场错乱。
+ * ⇒ 现在手机上不再改任何窗口几何（frame/bounds/transform 一律不碰），
+ *   几何全交给系统和宿主；我们只负责放开方向掩码 + 判定方向 + 图片烘正。
+ * 同时不再对截图浮层窗口（SSCaptureWindow / SSCropOverlayController）动手。
+ * 新增诊断：手机每次截屏后把窗口层次（类名/根控制器/尺寸/层级）写进日志。
+ *
+ * 5.2.0-55 修正（真机日志定位到「直接乱了」的元凶）：
+ * 点「标注」时传进来的往往是**框选后的裁切图**（日志实测 226x128、313x141、395x223），
+ * 旧代码把它也当成「整屏截图」记进全局方向，于是一块横着的小裁片就把竖屏判成横屏，
+ * 紧接着几何逻辑把竖屏编辑器掰成 844x390（日志：编辑器设置源图 226x128 → 截图方向变化 横
+ * → 编辑器几何 目标=844x390 → 窗口改为 844x390），画面当场错乱。
+ * ⇒ 现在方向只认 -[SSScreenCaptureService captureScreen] 的返回值，
+ *   并加了一道「尺寸必须接近整屏」的校验，裁切图/缩略图一律丢弃。
+ *
+ * 5.2.0-56：裁剪浮层窗口尺寸校正 + 布局诊断
+ * 反汇编 -[SSCoordinator beginCaptureWithMode:] 可见，宿主是用
+ *   [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds]
+ * 现建裁剪浮层窗口（SSCaptureWindow），而 UIScreen.bounds 在转屏瞬间会滞后
+ * （实测：设备已竖屏，它还给 844x390）。转屏后立刻截图，窗口尺寸就是错的，
+ * 工具栏随之错位。现在截屏后 0.1/0.35/0.6/0.85 秒各校正一次：
+ * 只认 SSCaptureWindow、只在该窗口可见且 transform 为单位矩阵时动手，
+ * 拿「桌面窗口的实际 bounds」当真实界面尺寸（比 UIScreen 可靠）。
+ * 同时挂上 -[SSCropOverlayController viewDidLayoutSubviews]，把实际的
+ * 视图/窗口/工具栏/底部条尺寸写进日志，确认横屏下工具栏是否真的横过来。
+ *
+ * 5.2.0-58：撤销 56 的裁剪浮层窗口尺寸校正（那是错的）
+ * 真机日志证明：iPhone 的 SBHomeScreenWindow 恒为 390x844（桌面窗口不跟着转），
+ * 而 ControlCenter / FloatingDock / CoverSheet 都是 844x390。56 拿桌面窗口
+ * 当「真实界面尺寸」，把宿主本来正确的 844x390 裁剪窗口改成了 390x844，
+ * 导致工具栏 844 宽塞进 390 宽的视图里溢出。该逻辑已整段删除。
+ * 日志同时证明：横屏下裁剪浮层本来就是对的（视图=窗口=844x390，工具栏 844x54），
+ * 手机上不需要任何额外的窗口摆正。
+ *
+ * 5.2.0-57：新增「诊断摘要」文件，方便直接贴出来
+ * 路径：/var/mobile/Library/Preferences/Snapper4Skins-summary.txt
+ * 内容只有二十来行：版本、设备、每次截屏的方向判定、裁剪浮层的实际布局
+ * （视图/窗口/工具栏/底部条尺寸）、以及窗口尺寸被改正的记录。
+ * 排查横屏问题时把这个文件的内容贴出来即可，不必再传整份日志。
+ *
+ * 本版即正式版 5.2.0-50，内容等同于内部迭代至 5.2.0-58 的最终形态，
+ * iPad 与 iPhone 横屏均已实测通过。
+ * 使用前提：iPhone 横屏需先关闭「系统旋转锁定」。锁定开启后系统会冻结方向报表
+ * （windowScene.interfaceOrientation 与 UIDevice.orientation 都停住），而宿主是
+ * 按 [UIScreen mainScreen].bounds 现建裁剪浮层窗口的，那个值不横，窗口就不会横。
+ * 这不是插件能绕过的，也不该绕过——硬掰方向会让系统 UI 整体错乱。
+ * 安装时若本机已装更高版本号，需用 dpkg -i --force-downgrade 覆盖安装，
+ * 切勿 dpkg -r 卸载（包名即宿主包名，卸载会连 Snapper4 本体一起删掉）。
+ * 五、扩展功能
+ * 1、截图标记：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制；
+ * 2、URL 触发：支持手势插件通过 prefs:root=snapper4_freeze（冻结）/ prefs:root=snapper4_long（长截图）系统深链触发。
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper 4
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
+
+Package: com.axs.snapper4
+Version: 5.2.0-50
+Architecture: iphoneos-arm64e
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 2691
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
+Filename: debs/com.axs.snapper4_5.2.0-50_隐根roothide_图标皮肤.deb
+Size: 1044458
+MD5sum: 4bd57eefccf2dde9e96b048c37e3cd86
+SHA1: c41449da279b27f18b28b0c7f39224a055f4d579
+SHA256: 6a953522304ac35acd36af8346642e778e7305741f9cce8e795ac9c204af8c4e
+Section: Axs-Tweaks
+Description: 这是一款截图工具。
+ * 一、基本设置
+ * 1、移动标记：开启后标注内容可拖动调整位置；
+ * 2、功能开关与排序：设置面板内可开关并拖拽排序全部功能。
+ * 二、触发方式
+ * 1、音量增+电源键=：可选系统截图或插件截图；
+ * 2、长按音量减→插件截图：开启后长按音量减约 0.2 秒调出冻结模式。
+ * 三、截图设置
+ * 1、截图仅复制：截图后仅复制到剪贴板；
+ * 2、长截图方式：滚动拼接 / 一镜到底，智能帧匹配自动拼接；
+ * 四、AI 服务（识别与翻译）
+ * 1、Sileo：Sileo 描述页长按翻译纯文本，翻译方式可选百度翻译或 AI 翻译；
+ * 2、AI 互译与问答：中英文互译与中文问答，支持自定义提示词与 AI 对话模式，半屏浮层展示；
+ * 3、文字识别 (OCR)：模型识别截图文字，半屏浮层展示、涂抹选择、一键复制；
+ * 4、百度翻译：自动检测语言双向翻译（中文↔外语），支持图片翻译 / 文本翻译双通道。
+ * 六、图标皮肤（本包新增，隐根roothide 版）
+ * 素材目录：<jbroot>/Library/Application Support/Snapper4/Snapper4Resources.bundle/Skins
+ * 设置页里的「图标风格」= 素材目录下的文件夹名，文件夹改名/新增会立刻同步；
+ * 该目录下的素材不会被本包升级/重装覆盖或恢复（包内不含该目录的任何文件）；
+ * 包内自带蓝珀 / 透光 / 玻璃三套，缺的图标自动回退原版；
+ * 「图标风格」下面新增两个按钮：在 Filza 中打开素材文件夹 / 复制素材文件夹路径。
+ * 七、修复
+ * 「功能开关与排序」里关掉 URL 跳转插件时，它下面那一栏输入框会立刻一起隐藏，
+ * 不用再退回上一级重进页面（开关一动手就把这一页重建 + 重画一遍）。
+ * 八、iPad 横屏裁剪工具栏（真正的根因）
+ * 症状：截图本身是横的（正确），但点截屏弹出的那一条工具栏是竖的/躺倒的。
+ * 反汇编宿主 -[SSCropOverlayController] 发现它自己把方向锁死了：
+ *   supportedInterfaceOrientations → mov w0,#2 ; ret   （= 只允许竖屏）
+ *   shouldAutorotate               → mov w0,#0 ; ret   （= 不跟随旋转）
+ * iPad 横屏时系统只能按竖屏 768x1024 摆这一层，工具栏自然躺倒；而截图数据走的是
+ * _UICreateScreenUIImageWithRotation，另一条路，所以图是横的。
+ * 修复：把这两个方法放开成 All / YES（AxsResultRootViewController 一并放开）。
+ * 它的 -viewDidLayoutSubviews 是自适应的（toolbarView=(0,H,W,54)，按钮横排），
+ * 所以方向一旦放对，工具栏就会自己横回来。
+ * 另修：资源 bundle 路径识别只认「以 Snapper4Resources.bundle 结尾」的路径，
+ * 之前宿主送进来的子目录会把路径污染成 SkinsSeed/BoLi 之类并导致日志刷屏。
+ * 说明：iPad 横屏下标注编辑器（AxsAnnotationViewController）也一并做了兜底校正。
+ * 本版为正式版：诊断浮层已关闭，日志照常保留在 Snapper4Skins.log。
+ * 九、标注编辑器横屏（5.2.0-49）
+ * 修正目标尺寸的选取：SpringBoard 的 UIWindowScene 坐标空间在横屏下未必是横的，
+ * 之前无脑优先 scene 会把标注编辑器窗口反过来掰成竖屏；
+ * 现在按当前界面方向（3/4=横屏）挑尺寸，并用长边/短边摆正后再套用。
+ * 5.2.0-50：日志实测 scene 坐标空间在横屏下报的仍是 768x1024，而屏幕是
+ * 1024x768；窗口层有两处「按 scene bounds 摆正」的旧逻辑会把它改回竖屏，
+ * 与新逻辑来回拉锯。现统一成一个 SSTargetSize() 口径：scene 方向与界面方向
+ * 一致才采信，否则以屏幕为准，再按长边/短边摆正。
+ *
+ * 十、iPhone 横屏（本版新增，手机与 iPad 现在共用同一套判定）
+ * 手机和 iPad 在 SpringBoard 里报方向的方式根本不同：iPhone 的 scene 恒为竖屏，
+ * 但 UIScreen.bounds 会随横竖变化；iPad 反过来（scene 会转，屏幕常量不变）。
+ * 所以原来那套「scene → statusBar → 屏幕宽高比」在手机上会把界面掰回竖屏。
+ * 现在手机按「物理方向」判定（实测 物理=1/3 与界面方向完全一致），
+ * 平放在桌上（FaceUp）时才用刚截的图的宽高兜底。
+ * 另：iPhone 放开方向为 AllButUpsideDown（不开倒置竖屏）。
+ * 下面 5.2.0-51～5.2.0-58 是内部调试号，正式版统一记为 5.2.0-50。
+ *
+ * 5.2.0-53 修正：52 曾在手机上调用 attemptRotationToDeviceOrientation，
+ * 它会在 SpringBoard 里触发全局重新判向，导致系统 UI 被渲染成竖屏倒置、
+ * 壁纸却不跟着转（画面错乱）。该调用已彻底移除。
+ *
+ * 5.2.0-54 修正（关键，来自真机日志）：
+ * 日志显示 iPhone 上宿主的标注编辑器窗口本来就是正确的 844x390、transform 也是
+ * 单位矩阵，我们的「摆正」全程等于空操作；唯一真正动手的几次反而把窗口改坏了——
+ * 截图方向信号有 20 秒有效期，横屏截完图转回竖屏继续标注时，过期那一瞬间会把
+ * 窗口从 844x390 改成 390x844（日志：窗口改为 390x844），编辑器当场错乱。
+ * ⇒ 现在手机上不再改任何窗口几何（frame/bounds/transform 一律不碰），
+ *   几何全交给系统和宿主；我们只负责放开方向掩码 + 判定方向 + 图片烘正。
+ * 同时不再对截图浮层窗口（SSCaptureWindow / SSCropOverlayController）动手。
+ * 新增诊断：手机每次截屏后把窗口层次（类名/根控制器/尺寸/层级）写进日志。
+ *
+ * 5.2.0-55 修正（真机日志定位到「直接乱了」的元凶）：
+ * 点「标注」时传进来的往往是**框选后的裁切图**（日志实测 226x128、313x141、395x223），
+ * 旧代码把它也当成「整屏截图」记进全局方向，于是一块横着的小裁片就把竖屏判成横屏，
+ * 紧接着几何逻辑把竖屏编辑器掰成 844x390（日志：编辑器设置源图 226x128 → 截图方向变化 横
+ * → 编辑器几何 目标=844x390 → 窗口改为 844x390），画面当场错乱。
+ * ⇒ 现在方向只认 -[SSScreenCaptureService captureScreen] 的返回值，
+ *   并加了一道「尺寸必须接近整屏」的校验，裁切图/缩略图一律丢弃。
+ *
+ * 5.2.0-56：裁剪浮层窗口尺寸校正 + 布局诊断
+ * 反汇编 -[SSCoordinator beginCaptureWithMode:] 可见，宿主是用
+ *   [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds]
+ * 现建裁剪浮层窗口（SSCaptureWindow），而 UIScreen.bounds 在转屏瞬间会滞后
+ * （实测：设备已竖屏，它还给 844x390）。转屏后立刻截图，窗口尺寸就是错的，
+ * 工具栏随之错位。现在截屏后 0.1/0.35/0.6/0.85 秒各校正一次：
+ * 只认 SSCaptureWindow、只在该窗口可见且 transform 为单位矩阵时动手，
+ * 拿「桌面窗口的实际 bounds」当真实界面尺寸（比 UIScreen 可靠）。
+ * 同时挂上 -[SSCropOverlayController viewDidLayoutSubviews]，把实际的
+ * 视图/窗口/工具栏/底部条尺寸写进日志，确认横屏下工具栏是否真的横过来。
+ *
+ * 5.2.0-58：撤销 56 的裁剪浮层窗口尺寸校正（那是错的）
+ * 真机日志证明：iPhone 的 SBHomeScreenWindow 恒为 390x844（桌面窗口不跟着转），
+ * 而 ControlCenter / FloatingDock / CoverSheet 都是 844x390。56 拿桌面窗口
+ * 当「真实界面尺寸」，把宿主本来正确的 844x390 裁剪窗口改成了 390x844，
+ * 导致工具栏 844 宽塞进 390 宽的视图里溢出。该逻辑已整段删除。
+ * 日志同时证明：横屏下裁剪浮层本来就是对的（视图=窗口=844x390，工具栏 844x54），
+ * 手机上不需要任何额外的窗口摆正。
+ *
+ * 5.2.0-57：新增「诊断摘要」文件，方便直接贴出来
+ * 路径：/var/mobile/Library/Preferences/Snapper4Skins-summary.txt
+ * 内容只有二十来行：版本、设备、每次截屏的方向判定、裁剪浮层的实际布局
+ * （视图/窗口/工具栏/底部条尺寸）、以及窗口尺寸被改正的记录。
+ * 排查横屏问题时把这个文件的内容贴出来即可，不必再传整份日志。
+ *
+ * 本版即正式版 5.2.0-50，内容等同于内部迭代至 5.2.0-58 的最终形态，
+ * iPad 与 iPhone 横屏均已实测通过。
+ * 使用前提：iPhone 横屏需先关闭「系统旋转锁定」。锁定开启后系统会冻结方向报表
+ * （windowScene.interfaceOrientation 与 UIDevice.orientation 都停住），而宿主是
+ * 按 [UIScreen mainScreen].bounds 现建裁剪浮层窗口的，那个值不横，窗口就不会横。
+ * 这不是插件能绕过的，也不该绕过——硬掰方向会让系统 UI 整体错乱。
+ * 安装时若本机已装更高版本号，需用 dpkg -i --force-downgrade 覆盖安装，
+ * 切勿 dpkg -r 卸载（包名即宿主包名，卸载会连 Snapper4 本体一起删掉）。
+ * 五、扩展功能
+ * 1、截图标记：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制；
+ * 2、URL 触发：支持手势插件通过 prefs:root=snapper4_freeze（冻结）/ prefs:root=snapper4_long（长截图）系统深链触发。
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper 4
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
+
 Package: com.axs.switchicon
 Version: 5.2.0-131
 Architecture: iphoneos-arm64
