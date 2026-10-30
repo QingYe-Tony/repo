@@ -19345,6 +19345,42 @@ Depiction: https://axs66.github.io/pro
 Icon: https://img.chariz.cloud/icon/akara/icon@3x.png
 Name: Akara
 
+Package: com.tsangbaby.galaxy
+Version: 5.2.0-6
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Installed-Size: 2152
+Depends: firmware (>= 15.0), preferenceloader
+Filename: debs/com.tsangbaby.galaxy_5.2.0-6_iphoneos-arm64.deb
+Size: 427748
+MD5sum: ad6907324c4e401d07aad45e400d96c3
+SHA1: 26210086cd1c8cdffdb4677b7ec88f764df0b9b1
+SHA256: 11e2dd6d81aba5bb8f2f6b5d96f301bdb4183c7912aac8fcb41ea0df7ad1b273
+Section: Tweaks
+Description: 适用于 iOS 15 及更高版本的独立圆形应用启动器，支持Split Screen、PullOver X、Myrtle、FloatingView分屏打开。
+Author: Tsangbaby
+Icon: https://axs66.github.io/pro/icon/galaxy.png
+Name: Galaxy 启动器
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/galaxy/js.json
+
+Package: com.tsangbaby.galaxy
+Version: 5.2.0-6
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Installed-Size: 2152
+Depends: firmware (>= 15.0), preferenceloader
+Filename: debs/com.tsangbaby.galaxy_5.2.0-6_iphoneos-arm64e.deb
+Size: 427600
+MD5sum: 8e7b9df6d51d510bab9340f6ee90c10c
+SHA1: 014363b9a713e7603ee9f96b93c79f0a870bac91
+SHA256: 916b8b2571399a579d64d8fe144978905fa7787a9a3343a2dc4680f119e0987a
+Section: Tweaks
+Description: 适用于 iOS 15 及更高版本的独立圆形应用启动器，支持Split Screen、PullOver X、Myrtle、FloatingView分屏打开。
+Author: Tsangbaby
+Icon: https://axs66.github.io/pro/icon/galaxy.png
+Name: Galaxy 启动器
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/galaxy/js.json
+
 Package: com.tsangbaby.pulloverx
 Version: 1.4.6
 Architecture: iphoneos-arm64
