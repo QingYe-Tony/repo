@@ -7580,13 +7580,12 @@ Maintainer: Axs & kanuo
 Installed-Size: 356
 Depends: firmware (>= 15.0)
 Filename: debs/com.axs.clean_5.2.0-10_iphoneos-arm64.deb
-Size: 53890
-MD5sum: 71a3eca9d597548bc2e1e550806caf19
-SHA1: 19d7dcc709f2cad326655f493de05e3dbf1151b0
-SHA256: b465395c18931255b23c82d6a51d7346168e6a4f812abd5724fa8a736dcdef32
+Size: 53826
+MD5sum: 7c641c3571a510e352306aba2b36baa0
+SHA1: 3b8d0af19a8f7f64fb22b908e470174bd74cb5a0
+SHA256: 53605fb524f9ee8f365943475299ac4253116beb0a24d35ea927fe7a3090956c
 Section: Axs-Tweaks
 Description: 这是一款系统快速清理缓存工具。
- 超出 1024 装 12 版本，没有就用 10 版本。
 Author: Axs & kanuo
 Icon: https://axs66.github.io/pro/icon/clean.png
 Name: AxsClean
@@ -7599,13 +7598,12 @@ Maintainer: Axs & kanuo
 Installed-Size: 356
 Depends: firmware (>= 15.0)
 Filename: debs/com.axs.clean_5.2.0-10_iphoneos-arm64e.deb
-Size: 53684
-MD5sum: dcf296545f519a73d4e2a2e23ee68e07
-SHA1: f310a302be57b1c5f05720b9f4f2e43566d043a4
-SHA256: 5c640c6f70a47292ecdee5e2fd403faef8092db8eb30c3cbfd35974e6f2688ac
+Size: 53652
+MD5sum: 0dbebb214077b26eb1d860fcefc61028
+SHA1: a1122e3352a371937ecc65d9b1d46879c59ef536
+SHA256: afc2d5d01ca13891762d0f8a8561a356efea24757f67b050cc08144063e05414
 Section: Axs-Tweaks
 Description: 这是一款系统快速清理缓存工具。
- 超出 1024 装 12 版本，没有就用 10 版本。
 Author: Axs & kanuo
 Icon: https://axs66.github.io/pro/icon/clean.png
 Name: AxsClean
@@ -7618,12 +7616,12 @@ Maintainer: Axs & kanuo
 Installed-Size: 356
 Depends: firmware (>= 15.0)
 Filename: debs/com.axs.clean_5.2.0-12_iphoneos-arm64e.deb
-Size: 55454
-MD5sum: 068bfcea7bb1917babe6bca106b3d011
-SHA1: d884206d15c3ad2a4b9862d7298a8159fcf2a737
-SHA256: 64b8ad89245a32ede57253778f893cbac3a1a0475fcbae23101e02e39fc3e4d7
+Size: 55602
+MD5sum: 3141d35b6e7048807d43bf5ad3c8615d
+SHA1: 922924e26dca46c5239785c88eacbe98a3bd7526
+SHA256: f1165734b68128cd031e4d5cf5f2044708ab82f73781863a9c3958c4569363f2
 Section: Axs-Tweaks
-Description: 这是一款系统快速清理缓存工具。超出 1024 请安装 12 版本，没有 12 版本则用 10 版本。
+Description: 这是一款系统快速清理缓存工具。
 Author: Axs & kanuo
 Icon: https://axs66.github.io/pro/icon/clean.png
 Name: AxsClean
@@ -7636,12 +7634,48 @@ Maintainer: Axs & kanuo
 Installed-Size: 356
 Depends: firmware (>= 15.0)
 Filename: debs/com.axs.clean_5.2.0-12_iphoneos-arm64.deb
-Size: 55618
-MD5sum: 846726d17a35358e3515546f3c2c8fbf
-SHA1: 3c87764189939529cb175ad6b3c4e6c656e8b789
-SHA256: 86634b19604a015184500896ecf9690db09e5ce3dd2584b00d43520f15ce3732
+Size: 55808
+MD5sum: 068c8768928798bb02b5169e05912db1
+SHA1: 222eea2baca4d1d70725088a6e4cbcd3bc3d15c0
+SHA256: ed635244a267007927b46344aceb5e7d5fd2638447c116b4a71aa0db20022a2d
 Section: Axs-Tweaks
-Description: 这是一款系统快速清理缓存工具。超出 1024 请安装 12 版本，没有 12 版本则用 10 版本。
+Description: 这是一款系统快速清理缓存工具。
+Author: Axs & kanuo
+Icon: https://axs66.github.io/pro/icon/clean.png
+Name: AxsClean
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/clean/js.json
+
+Package: com.axs.clean
+Version: 5.2.0-14
+Architecture: iphoneos-arm64
+Maintainer: Axs & kanuo
+Installed-Size: 356
+Depends: firmware (>= 15.0)
+Filename: debs/com.axs.clean_5.2.0-14_iphoneos-arm64.deb
+Size: 54426
+MD5sum: db72cafd4d9907082b37e7ff7ab70571
+SHA1: 2430887dce89ca6754566215449081a1e136f36b
+SHA256: 9a5ca48a9a9a6e3423ab54aef9ffe83a44201007aa7fc5c25e0b3663336417d8
+Section: Axs-Tweaks
+Description: 这是一款系统快速清理缓存工具，如果遇见清理失败的请去https://axs66.github.io/pro 越狱源长按“获取”选择V5.2.0-12版本安装，执行清理一次之后，再更新新版本。
+Author: Axs & kanuo
+Icon: https://axs66.github.io/pro/icon/clean.png
+Name: AxsClean
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/clean/js.json
+
+Package: com.axs.clean
+Version: 5.2.0-14
+Architecture: iphoneos-arm64e
+Maintainer: Axs & kanuo
+Installed-Size: 356
+Depends: firmware (>= 15.0)
+Filename: debs/com.axs.clean_5.2.0-14_iphoneos-arm64e.deb
+Size: 54518
+MD5sum: 4d5b9babb8a08a6ffcf3744b090e9df9
+SHA1: 62009572ee558b1d326deb8bf0a5b51e4be86afc
+SHA256: 0ac8db758b5e44d6efc45a425a7ca4455541678c6bfe3d0689cd2f296b15a956
+Section: Axs-Tweaks
+Description: 这是一款系统快速清理缓存工具，如果遇见清理失败的请去https://axs66.github.io/pro 越狱源长按“获取”选择V5.2.0-12版本安装，执行清理一次之后，再更新新版本。
 Author: Axs & kanuo
 Icon: https://axs66.github.io/pro/icon/clean.png
 Name: AxsClean
