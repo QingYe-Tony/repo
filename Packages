@@ -11308,6 +11308,74 @@ Description: 优化并释放部分运行内存。(支持iOS 15-17)
 Author: crctdd
 Name: MemTrim
 
+Package: com.crctdd.memtrim
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 464
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.memtrim_0.0.3_iphoneos-arm64e.deb
+Size: 76796
+MD5sum: 6ca6a0e2013f64fb48c775efe7bf8148
+SHA1: cb3d01e50c34796d8cdfdbb65ec279e171563b1a
+SHA256: 091d748d203b96bf62bfe3a9b53c8b78897c7ce0725ba8f0dd948617adbfe5ca
+Section: Tweaks
+Homepage: https://crctdd.github.io/repo/
+Description: 优化并释放部分运行内存。(支持iOS 15-17)
+Author: crctdd
+Name: MemTrim
+
+Package: com.crctdd.memtrim
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 992
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.memtrim_0.0.3_iphoneos-arm64.deb
+Size: 136268
+MD5sum: c72548cd66ccb53f1aae6756bc252994
+SHA1: da94cb103676fbafa5cbc5d23d057bfeb846f29a
+SHA256: ecbf1ed2e67bd591ae44dd798033ad4abb79406a374768e678dc166f63ddcab7
+Section: Tweaks
+Homepage: https://crctdd.github.io/repo/
+Description: 优化并释放部分运行内存。(支持iOS 15-17)
+Author: crctdd
+Name: MemTrim
+
+Package: com.crctdd.memtrim
+Version: 0.0.5
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 992
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.memtrim_0.0.5_iphoneos-arm64e.deb
+Size: 151558
+MD5sum: 9b5a66931c13627a41181a8fc03d7ca7
+SHA1: 665450ff29de525f235309f163e127d93818a062
+SHA256: 30e3d55b7e2600f2a34cd0377ca91bc279d8b4028140c73b268658846c322d52
+Section: Tweaks
+Homepage: https://crctdd.github.io/repo/
+Description: 优化并释放部分运行内存。(支持iOS 15-17) 已内置「自动优化」[RootHide 版]：可用内存低于设定阈值时自动触发优化，设置内含「立即优化」测试按钮，并通过主程序 memtrim:// URL 联动。
+Author: crctdd
+Name: MemTrim
+
+Package: com.crctdd.memtrim
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 992
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.memtrim_0.0.5_iphoneos-arm64.deb
+Size: 152382
+MD5sum: b4f38d79b5be0368d4f3f7feecdbeebf
+SHA1: bae684565e07cfb00e442963b2fe00f7ab0ec4d6
+SHA256: 2a41245feadedfb70d5570d38348ac2d36cc5cdb3bddf432e1be372b7184fe27
+Section: Tweaks
+Homepage: https://crctdd.github.io/repo/
+Description: 优化并释放部分运行内存。(支持iOS 15-17) 已内置「自动优化」：可用内存低于设定阈值时自动触发优化，设置内含「立即优化」测试按钮，并通过主程序 memtrim:// URL 联动。
+Author: crctdd
+Name: MemTrim
+
 Package: com.crctdd.pyvideo
 Version: 0.0.3
 Architecture: iphoneos-arm64
@@ -21346,6 +21414,42 @@ Section: Tweaks
 Homepage: https://hongguo.goforit.si
 Description: 红果短剧界面净化、短剧广告控制、原生独立设置开关、时长显示及原生下载
 Name: 红果净化
+
+Package: hongguofn
+Version: 2.2.1
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Installed-Size: 5164
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/红果净化_2.2.1_arm64.deb
+Size: 2228732
+MD5sum: 49fe8eb00ee943caffcd34688a60f6c5
+SHA1: 6cd0c71e57f4a54694471c8eb0ed04e81c80103c
+SHA256: c810e9fed8d98d3d6a2c306aab9036ead6d99eaa84e7dd5fa1645c9ecfc1178d
+Section: Tweaks
+Homepage: https://hongguo.goforit.si
+Description: 兼容红果短剧与红果漫剧 7.4.1，提供界面净化、广告控制、倍速清屏与视频保存。
+ 兼容红果短剧与红果漫剧，版本适配7.4.1，低版本可能存在兼容问题不再适配，请更新至7.4.1版本使用。
+Author: Junhong
+Name: 红果净化
+
+Package: hongguofn.roothide
+Version: 2.2.1
+Architecture: iphoneos-arm64e
+Maintainer: Junhong
+Installed-Size: 5164
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/红果净化_2.2.1_arm64e.deb
+Size: 2236244
+MD5sum: e1c2aaf3007f578c8ebf450fdb6e13e9
+SHA1: 7c9a245213142bc912bbb99700856462bf0b6b01
+SHA256: 266f6d9d3ad0262c08522c6c420e78159a831cd133f7f8cd259704108e443748
+Section: Tweaks
+Homepage: https://hongguo.goforit.si
+Description: 兼容红果短剧与红果漫剧 7.4.1，提供界面净化、广告控制、倍速清屏与视频保存。
+ 兼容红果短剧与红果漫剧，版本适配7.4.1，低版本可能存在兼容问题不再适配，请更新至7.4.1版本使用。
+Author: Junhong
+Name: 红果净化 (Roothide)
 
 Package: im.mjh.fakeperm
 Version: 8.6.0
