@@ -11342,40 +11342,6 @@ Description: 优化并释放部分运行内存。(支持iOS 15-17)
 Author: crctdd
 Name: MemTrim
 
-Package: com.crctdd.memtrim
-Version: 0.0.5
-Architecture: iphoneos-arm64e
-Maintainer: crctdd
-Installed-Size: 992
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
-Filename: debs/com.crctdd.memtrim_0.0.5_iphoneos-arm64e.deb
-Size: 151558
-MD5sum: 9b5a66931c13627a41181a8fc03d7ca7
-SHA1: 665450ff29de525f235309f163e127d93818a062
-SHA256: 30e3d55b7e2600f2a34cd0377ca91bc279d8b4028140c73b268658846c322d52
-Section: Tweaks
-Homepage: https://crctdd.github.io/repo/
-Description: 优化并释放部分运行内存。(支持iOS 15-17) 已内置「自动优化」[RootHide 版]：可用内存低于设定阈值时自动触发优化，设置内含「立即优化」测试按钮，并通过主程序 memtrim:// URL 联动。
-Author: crctdd
-Name: MemTrim
-
-Package: com.crctdd.memtrim
-Version: 0.0.5
-Architecture: iphoneos-arm64
-Maintainer: crctdd
-Installed-Size: 992
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
-Filename: debs/com.crctdd.memtrim_0.0.5_iphoneos-arm64.deb
-Size: 152382
-MD5sum: b4f38d79b5be0368d4f3f7feecdbeebf
-SHA1: bae684565e07cfb00e442963b2fe00f7ab0ec4d6
-SHA256: 2a41245feadedfb70d5570d38348ac2d36cc5cdb3bddf432e1be372b7184fe27
-Section: Tweaks
-Homepage: https://crctdd.github.io/repo/
-Description: 优化并释放部分运行内存。(支持iOS 15-17) 已内置「自动优化」：可用内存低于设定阈值时自动触发优化，设置内含「立即优化」测试按钮，并通过主程序 memtrim:// URL 联动。
-Author: crctdd
-Name: MemTrim
-
 Package: com.crctdd.pyvideo
 Version: 0.0.3
 Architecture: iphoneos-arm64
