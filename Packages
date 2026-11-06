@@ -11342,44 +11342,6 @@ Description: 优化并释放部分运行内存。(支持iOS 15-17)
 Author: crctdd
 Name: MemTrim
 
-Package: com.crctdd.memtrim
-Version: 0.0.9
-Architecture: iphoneos-arm64
-Maintainer: crctdd
-Installed-Size: 1362
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
-Conflicts: com.crctdd.memtrim.auto
-Replaces: com.crctdd.memtrim.auto
-Filename: debs/com.crctdd.memtrim_0.0.9-single_iphoneos-arm64.deb
-Size: 207872
-MD5sum: e1359e33e78cedb6a83fc539c8a8621b
-SHA1: 493e042ed93c1609a0fa59198402021daa79c940
-SHA256: ce5e4e48543405ec1928444bf87815fd04dd02617248e06715bb452816a76e3f
-Section: Tweaks
-Homepage: https://crctdd.github.io/repo/
-Description: 优化并释放运行内存，支持自动优化（可用内存低于阈值时自动触发，默认深度优化）。(iOS 15-17)
-Author: crctdd
-Name: MemTrim
-
-Package: com.crctdd.memtrim
-Version: 0.0.9
-Architecture: iphoneos-arm64e
-Maintainer: crctdd
-Installed-Size: 834
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
-Conflicts: com.crctdd.memtrim.auto
-Replaces: com.crctdd.memtrim.auto
-Filename: debs/com.crctdd.memtrim_0.0.9-single_iphoneos-arm64e.deb
-Size: 149260
-MD5sum: 0a8b70e087a3738a930d3bf1bd177e1e
-SHA1: 176668ef47ef28a84293b4c4758589136552deb6
-SHA256: 9f8453cec2eaeb75c59ebcf84231cc867bd49485ee346bd54a87e5409d5d4ae2
-Section: Tweaks
-Homepage: https://crctdd.github.io/repo/
-Description: 优化并释放运行内存，支持自动优化（可用内存低于阈值时自动触发，默认深度优化）。(iOS 15-17)
-Author: crctdd
-Name: MemTrim
-
 Package: com.crctdd.pyvideo
 Version: 0.0.3
 Architecture: iphoneos-arm64
@@ -17568,6 +17530,42 @@ Description: 在「设置」里直接修改越狱插件入口显示的名称与�
 Author: qingye
 Icon: file:///var/mobile/Library/Caches/com.qingye.plrename/icon.png
 Name: 改头换面
+
+Package: com.qy.freememory
+Version: 0.0.6
+Architecture: iphoneos-arm64
+Maintainer: 清野
+Installed-Size: 1407
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Conflicts: com.crctdd.memtrim, com.crctdd.memtrim.auto
+Replaces: com.crctdd.memtrim, com.crctdd.memtrim.auto
+Filename: debs/com.qy.freememory_0.0.6_iphoneos-arm64.deb
+Size: 224550
+MD5sum: 3325d798c2c70506286ce9951d822999
+SHA1: 81d71b041c373a42bc8c432bca763bfdb6a44254
+SHA256: 95b68d066c75b821e283b5c77de0307669df3f23950b3feebf18da3c39d5da69
+Section: Tweaks
+Description: 一键结束后台 App 释放物理内存，只在设置页点「立即回收」时执行。(iOS 15-17)
+Author: 清野
+Name: free memory
+
+Package: com.qy.freememory
+Version: 0.0.6
+Architecture: iphoneos-arm64e
+Maintainer: 清野
+Installed-Size: 1119
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Conflicts: com.crctdd.memtrim, com.crctdd.memtrim.auto
+Replaces: com.crctdd.memtrim, com.crctdd.memtrim.auto
+Filename: debs/com.qy.freememory_0.0.6_iphoneos-arm64e.deb
+Size: 205924
+MD5sum: f7d378ce11bb16aa58000f8e6c44b4a3
+SHA1: 4d3a593a782471b21b19d8170a7305522f6d5ac5
+SHA256: 3dbed36b673a3aed142f2932ff792ea6908e6cad61891ed37f851728b5a4fae2
+Section: Tweaks
+Description: 一键结束后台 App 释放物理内存，只在设置页点「立即回收」时执行。(iOS 15-17)
+Author: 清野
+Name: free memory
 
 Package: com.rain.wallpapergenerator
 Version: 1.0.0-15+debug
