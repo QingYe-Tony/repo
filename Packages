@@ -1434,16 +1434,32 @@ Name: Single VPN
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
 Package: com.82flex.touchvis
-Version: 4.1.1
-Architecture: iphoneos-arm
+Version: 4.2
+Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 4416
+Installed-Size: 3644
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: debs/com.82flex.touchvis_4.1.1_iphoneos-arm.deb
-Size: 939210
-MD5sum: 758c7fcc75adfec45bc72af01f5b3804
-SHA1: 1d67ed96ee18cef4f6f674f1671528e7f17355cb
-SHA256: 44b55d46e10cb630b3fc2758dc76434d0824f13527428462ae55e7906cb0ac58
+Filename: debs/com.82flex.touchvis_4.2_iphoneos-arm64.deb
+Size: 729358
+MD5sum: 4ae937680595c18a17e205aa36b2dfd3
+SHA1: f80be4036565dda5f39c8d19713c12a6190e4a3c
+SHA256: d8446ae9362f912a02f653f12907049b7fa2670afe0a5c44c2e3c9194d5e7513
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Name: Touch-Viz
+
+Package: com.82flex.touchvis
+Version: 4.2
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 3644
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/com.82flex.touchvis_4.2_iphoneos-arm64e.deb
+Size: 729794
+MD5sum: 61a99aed4ac50889348a90f5344973cf
+SHA1: 94eaf2fac2c57846354202bc9152eebd2f1bc78d
+SHA256: 1eafc4f1393d624ea7cd685fc749c7b7fd95dc81292433ac523f695e0ea78b44
 Section: Tweaks
 Description: Display your touch interactions!
 Author: Lessica <82flex@gmail.com>
@@ -1939,6 +1955,42 @@ Depiction: Axs
 Icon: https://axs66.github.io/pro/icon/analytics.png
 Name: OSAnalytics
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+
+Package: com.Axs.animations
+Version: 1.4.7
+Architecture: iphoneos-arm64
+Maintainer: bazik1337
+Installed-Size: 240
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/iOS 27 Animations_1.4.7_无根.deb
+Size: 32416
+MD5sum: 51468acf54389b1546c17b236f6d0e0c
+SHA1: 8c2196f3686f446f19964cf5a75475b7e5a9489d
+SHA256: f1f71556645a7838bfce7e3089ff2d21ff4e66f89ebf85cc47b5e41642a623bc
+Section: Tweaks
+Description: 仿ios27过渡动画，无设置项，安装生效
+Author: bazik1337
+Icon: https://axs66.github.io/pro/icon/animations.png
+Name: iOS 27 Animations
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/animations/js.json
+
+Package: com.Axs.animations
+Version: 1.4.7
+Architecture: iphoneos-arm64e
+Maintainer: bazik1337
+Installed-Size: 240
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/iOS 27 Animations_1.4.7_隐根.deb
+Size: 33088
+MD5sum: 18c3d74b2e19026cabb6d2fd7f7f6ba9
+SHA1: 56c2893e1abaeecd5f25aea8ce4efa94cd4ec6b6
+SHA256: 8feedfd4ffd4cc93036b7dd103a0cdd812232d289e669c5ba52490bfcfc34556
+Section: Tweaks
+Description: 仿ios27过渡动画，无设置项，安装生效
+Author: bazik1337
+Icon: https://axs66.github.io/pro/icon/animations.png
+Name: iOS 27 Animations
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/animations/js.json
 
 Package: com.Axs.anthocrack2
 Version: 1.0.0
