@@ -17651,6 +17651,42 @@ Description: 一键结束后台 App 释放物理内存，只在设置页点「�
 Author: 清野
 Name: free memory
 
+Package: com.qy.freememory
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Maintainer: 清野
+Installed-Size: 1012
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Conflicts: com.crctdd.memtrim, com.crctdd.memtrim.auto
+Replaces: com.crctdd.memtrim, com.crctdd.memtrim.auto
+Filename: debs/com.qy.freememory_0.1.0_iphoneos-arm64e.deb
+Size: 197798
+MD5sum: 4a8a29bc26e7ea7b60f296baa8e713f5
+SHA1: 824b65dce42ed1240b58414661f4319a0adaa259
+SHA256: f40f148b9e98d0ca9192aaf20382040a3bd14fe699da9ed7d14b8f92a5e4c2be
+Section: Tweaks
+Description: 一键结束后台 App 释放物理内存，只在设置页点「立即回收」时执行。(iOS 15-17)
+Author: 清野
+Name: free memory
+
+Package: com.qy.freememory
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: 清野
+Installed-Size: 1108
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Conflicts: com.crctdd.memtrim, com.crctdd.memtrim.auto
+Replaces: com.crctdd.memtrim, com.crctdd.memtrim.auto
+Filename: debs/com.qy.freememory_0.1.0_iphoneos-arm64.deb
+Size: 202620
+MD5sum: 83dfb94e458b4e533ba15e2d915c333d
+SHA1: 0611e343a9deedf3fe2c6a39345358e685ebe525
+SHA256: b8ca0d6f9de772fe7cf8053ce84efda400279cdfc2633b2582344e8c7eaa9aa2
+Section: Tweaks
+Description: 一键结束后台 App 释放物理内存，只在设置页点「立即回收」时执行。(iOS 15-17)
+Author: 清野
+Name: free memory
+
 Package: com.rain.wallpapergenerator
 Version: 1.0.0-15+debug
 Architecture: iphoneos-arm64
