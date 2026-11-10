@@ -12600,6 +12600,57 @@ Author: daodao
 Name: PicoBanner(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
 
+Package: com.dao.pogr
+Version: 0.5.5
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 452
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: debs/com.dao.pogr_0.5.5_iphoneos-arm64.deb
+Size: 76026
+MD5sum: 054ed98342d0f15b97a5ad44f8bfff38
+SHA1: b4797ce8e28125df8081a1f9056ee24f1063e15b
+SHA256: c83a528c76b0e46ec31031079cbacea7a1e11d1bd8296696af99abba2e13a9e7
+Section: 嗨-工具
+Description: 将AirPodsPro2伪装成AirPodsPro，让其在旧iOS系统上更好地运行；支持 iOS16和USB-C版AirPodsPro2；支持AirPods4；自行实测！
+Author: Ruphane
+Name: PodsGrant(rootless)
+
+Package: com.dao.pogr
+Version: 0.5.5
+Architecture: iphoneos-arm64e
+Maintainer: Ruphane
+Installed-Size: 620
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: debs/com.dao.pogr_0.5.5_iphoneos-arm64e.deb
+Size: 79714
+MD5sum: 456ce6951fcc8a9bab38617bd147fc49
+SHA1: 1095894beec5dcbc2134933f47669e13f3a00cf8
+SHA256: c152573e89618d426a03ab746c8f5a3a6293e1861c2fd83b83f429c9bf363f66
+Section: 嗨-工具
+Description: 将AirPodsPro2伪装成AirPodsPro，让其在旧iOS系统上更好地运行；支持 iOS16和USB-C版AirPodsPro2；支持AirPods4；自行实测！
+Author: Ruphane
+Name: PodsGrant(RootHide)
+
+Package: com.dao.pogr
+Version: 0.5.5
+Architecture: iphoneos-arm
+Maintainer: Ruphane
+Installed-Size: 624
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: debs/com.dao.pogr_0.5.5_iphoneos-arm.deb
+Size: 82360
+MD5sum: d1a0b0521a38ecf423b951271af52a24
+SHA1: 2110c2f3a33783eadbd0bb0759d9a4991ab38068
+SHA256: 8507bd77f71746e53750d4de537aa8a4323402ddc15c2b6349ed0901a20c4e5a
+Section: 嗨-工具
+Description: 将AirPodsPro2伪装成AirPodsPro，让其在旧iOS系统上更好地运行；支持 iOS16和USB-C版AirPodsPro2；支持AirPods4；自行实测！
+Author: Ruphane
+Name: PodsGrant
+
 Package: com.dao.sileo
 Version: 2.5.1-13
 Architecture: iphoneos-arm64e
