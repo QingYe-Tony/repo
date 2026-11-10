@@ -7230,6 +7230,24 @@ Icon: https://axs66.github.io/pro/icon/ahsfilter.png
 Name: AhsFilter
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/ahsfilter/js.json
 
+Package: com.axs.animate
+Version: 5.2.0-7
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 536
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/com.axs.animate_5.2.0-7_iphoneos-arm64.deb
+Size: 70402
+MD5sum: e5aec1b94501e7f5c0d394e8dc74e6bc
+SHA1: 621a57d60ab7c2b414c8bc8d9c2929e6ac44e9d4
+SHA256: 4770793e747ec67233a8850b5e4ba79b63f789343749166e86ed52cb4a2c6d33
+Section: Axs-Tweaks
+Description: 为 iOS 15 及以上系统带来 iOS 27 风格的应用切换和通知中心动画，支持自定义动画效果、速度与强度。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/animate.png
+Name: Animate
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/animate/js.json
+
 Package: com.axs.appdata
 Version: 5.2.0-104
 Architecture: iphoneos-arm64
@@ -13166,6 +13184,22 @@ Description: AppTools for iOS15-17 Roothide
 Author: aReo
 Name: AppTools15-17(Roothide)
 
+Package: com.flex2areo.apptools15roothide
+Version: 2.9.3
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 5552
+Depends: mobilesubstrate
+Filename: debs/com.flex2areo.apptools15roothide_2.9.3_iphoneos-arm64e.deb
+Size: 2395564
+MD5sum: ac12f3e699b563c03db521dc4c8872a7
+SHA1: 39dfa3fc860320337f897bc5d0951ce95fd2ec06
+SHA256: 1d4103cefe95d1ed2db89a2de71637178ecdfc8608cef2f0f2df0bdd5c77677e
+Section: Tweaks
+Description: AppTools for iOS15-17 Roothide
+Author: aReo
+Name: AppTools15-17(Roothide)
+
 Package: com.flex2areo.apptools15rootless
 Version: 2.9.2
 Architecture: iphoneos-arm64
@@ -13177,6 +13211,22 @@ Size: 2396690
 MD5sum: afa9296eaf317ab25876237799441f43
 SHA1: 7121e340cd50471bc1fa3823bfd5a195faefe180
 SHA256: 3ac24e62d82dd731f51e5db18273aa2c9a7192b510d39b19c93149b80ce8b6b0
+Section: Tweaks
+Description: AppTools for iOS15-17 Rootless
+Author: aReo
+Name: AppTools15-17(Rootless)
+
+Package: com.flex2areo.apptools15rootless
+Version: 2.9.3
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 5632
+Depends: mobilesubstrate
+Filename: debs/com.flex2areo.apptools15rootless_2.9.3_iphoneos-arm64.deb
+Size: 2403090
+MD5sum: 8964009c35d831c8bb3021d52ee4ca81
+SHA1: 29ad726ca5a98a494c66598799b59071f1de71a0
+SHA256: e0cd834b510a19feb9aa90fa36836a257c94bab2ea03870866f59178238c85d5
 Section: Tweaks
 Description: AppTools for iOS15-17 Rootless
 Author: aReo
