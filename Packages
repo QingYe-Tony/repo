@@ -21658,6 +21658,43 @@ Icon: https://axs66.github.io/pro/icon/translux.png
 Name: TransLux 翻译
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/translux/js.json
 
+Package: fanqiefn
+Version: 3.4.0
+Architecture: iphoneos-arm64
+Maintainer: junhong
+Installed-Size: 4496
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/番茄净化_3.4.0_arm64.deb
+Size: 1975188
+MD5sum: aae35ad6a91861e723d8f87e30981eef
+SHA1: bdc4d8fa2fb2da32998565407bffc9299fb25db2
+SHA256: 725fc040fa06a357e43add3652362e113a5db4bb03a6bdb474658bf211870ec8
+Section: Tweaks
+Homepage: https://fanqie.goforit.si
+Description: 净化阅读、听书及页面推广内容；支持章末入口管理、底部导航玻璃效果与插件配置备份。
+Author: junhong
+Name: 番茄净化
+
+Package: fanqiefn.roothide
+Version: 3.4.0
+Architecture: iphoneos-arm64e
+Maintainer: junhong
+Installed-Size: 4480
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: fanqiefn
+Replaces: fanqiefn
+Provides: fanqiefn
+Filename: debs/番茄净化_3.4.0_arm64e.deb
+Size: 1966770
+MD5sum: 7c6a458add44a6864f66ce2e551b9133
+SHA1: 91fcd9366d0defefb6268716e6270ca001e223ee
+SHA256: 43d26314cfb243405279796ed5a255612c513bdc8acbd5f58c9c3f1d53e0fa3a
+Section: Tweaks
+Homepage: https://fanqie.goforit.si
+Description: 净化阅读、听书及页面推广内容；支持章末入口管理、底部导航玻璃效果与插件配置备份。
+Author: junhong
+Name: 番茄净化 (Roothide)
+
 Package: hongguofn
 Version: 2.2.2
 Architecture: iphoneos-arm64
