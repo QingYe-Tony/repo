@@ -11951,134 +11951,6 @@ Author: crctdd
 Name: StayAlive Lite
 
 Package: com.crctdd.stayalivelite
-Version: 0.3.8
-Architecture: iphoneos-arm64
-Maintainer: crctdd
-Installed-Size: 1924
-Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
-Filename: debs/com.crctdd.stayalivelite_0.3.8_iphoneos-arm64.deb
-Size: 232912
-MD5sum: aec7c190633622690f9a207acdd3e323
-SHA1: a2cb7bbf6ba1ebb6eb52dc085b7037f9241407fc
-SHA256: 37c0f6f28162c3e5e85b9bae7b2cf13036fff21d36722cebebc1f070cfce0680
-Section: Tweaks
-Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
-Author: crctdd
-Name: StayAlive Lite
-
-Package: com.crctdd.stayalivelite
-Version: 0.3.8
-Architecture: iphoneos-arm64e
-Maintainer: crctdd
-Installed-Size: 948
-Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
-Filename: debs/com.crctdd.stayalivelite_0.3.8_iphoneos-arm64e.deb
-Size: 158064
-MD5sum: d606ce58e2f46236f6c65fb89ba6ff2d
-SHA1: 969435006553cbe67728a10fdb23111e0f17817d
-SHA256: 0f0499b0fa7e5f2caf0c31b17857225f792af17f5fbcd7f044a22f1c755e6f8f
-Section: Tweaks
-Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
-Author: crctdd
-Name: StayAlive Lite
-
-Package: com.crctdd.stayalivelite
-Version: 0.3.9
-Architecture: iphoneos-arm64
-Maintainer: crctdd
-Installed-Size: 1928
-Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
-Filename: debs/com.crctdd.stayalivelite_0.3.9_iphoneos-arm64.deb
-Size: 236694
-MD5sum: 76c1bccdb7f1396422d85f37c8c24b85
-SHA1: 8139c6a7c37386ed6e75da7af5323a52f361880d
-SHA256: bb03ef3028ef1e6423de392e924e79125c0aef9ac4afd90fc3aaef0c87ffaa84
-Section: Tweaks
-Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
-Author: crctdd
-Name: StayAlive Lite
-
-Package: com.crctdd.stayalivelite
-Version: 0.3.9
-Architecture: iphoneos-arm64e
-Maintainer: crctdd
-Installed-Size: 984
-Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
-Filename: debs/com.crctdd.stayalivelite_0.3.9_iphoneos-arm64e.deb
-Size: 160458
-MD5sum: 2569ca21ef1fb00ebc22cdfacbc60cdd
-SHA1: 7c4b2e4dbed3da9919b9ad78b10f847513fb829c
-SHA256: 8b415d196652bdef852da5f6b39f4f43d539a4cb93d906c8a5c2d03a8f0db736
-Section: Tweaks
-Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
-Author: crctdd
-Name: StayAlive Lite
-
-Package: com.crctdd.stayalivelite
-Version: 0.4.0
-Architecture: iphoneos-arm64
-Maintainer: crctdd
-Installed-Size: 1944
-Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
-Filename: debs/com.crctdd.stayalivelite_0.4.0_iphoneos-arm64.deb
-Size: 239908
-MD5sum: f512beaebcd9ed88bca98b2459c61ef2
-SHA1: 1acac69fc1f0ccadcd93a55fe44920396352f9a1
-SHA256: ca55a795340ecdbde911e2be4e35abacb20f91d96408b72d1ec75e7eac84b7b1
-Section: Tweaks
-Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
-Author: crctdd
-Name: StayAlive Lite
-
-Package: com.crctdd.stayalivelite
-Version: 0.4.0
-Architecture: iphoneos-arm64e
-Maintainer: crctdd
-Installed-Size: 1000
-Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
-Filename: debs/com.crctdd.stayalivelite_0.4.0_iphoneos-arm64e.deb
-Size: 162052
-MD5sum: 9917ecc2e7b82d01c0a7a2b16b38c10b
-SHA1: 1cd7634986c1ef854283d1cde276cd1addf1dfde
-SHA256: 7176bff7e391fe048c4ba218afa4237f1965561117e1e9f2718e3d0bf25ebd71
-Section: Tweaks
-Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
-Author: crctdd
-Name: StayAlive Lite
-
-Package: com.crctdd.stayalivelite
-Version: 0.4.1
-Architecture: iphoneos-arm64e
-Maintainer: crctdd
-Installed-Size: 1272
-Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
-Filename: debs/com.crctdd.stayalivelite_0.4.1_iphoneos-arm64e.deb
-Size: 188524
-MD5sum: 3fab3c10374a4ebd001a8e7bd10dedc0
-SHA1: 8a46cf937c6c39efcb292b9209967bf812d24eb1
-SHA256: 854f2626019702e59b7a93d3dfdb4bacbf53fba67987651b0121e5422d9c98b7
-Section: Tweaks
-Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
-Author: crctdd
-Name: StayAlive Lite
-
-Package: com.crctdd.stayalivelite
-Version: 0.4.1
-Architecture: iphoneos-arm64
-Maintainer: crctdd
-Installed-Size: 2568
-Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
-Filename: debs/com.crctdd.stayalivelite_0.4.1_iphoneos-arm64.deb
-Size: 280160
-MD5sum: bc3481e91f6dbd2f951e15032e24daad
-SHA1: 7c9de8bd369fce70001c6cff78b5eaf4a78cf704
-SHA256: c461432292217c9a22103107fdb8ea16f792a9f48345461747165efe18c89777
-Section: Tweaks
-Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
-Author: crctdd
-Name: StayAlive Lite
-
-Package: com.crctdd.stayalivelite
 Version: 0.4.3
 Architecture: iphoneos-arm64e
 Maintainer: crctdd
@@ -17820,6 +17692,42 @@ Description: 一键结束后台 App 释放物理内存，只在设置页点「�
 Author: 清野
 Name: free memory
 
+Package: com.qy.freememory
+Version: 4.9.1.7
+Architecture: iphoneos-arm64e
+Maintainer: 清野
+Installed-Size: 1036
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Conflicts: com.crctdd.memtrim, com.crctdd.memtrim.auto
+Replaces: com.crctdd.memtrim, com.crctdd.memtrim.auto
+Filename: debs/com.qy.freememory_4.9.1.7_iphoneos-arm64e.deb
+Size: 233616
+MD5sum: 1481626f888f29dbba598a1604e215ae
+SHA1: c3612f2cc7bbba8afd3b6460b6479a8634a19ae0
+SHA256: e887c42903aa368553e33194605deaecfc89cd802d1aaed10832e4d4614af189
+Section: Tweaks
+Description: 一键结束后台 App 释放物理内存，只在设置页点「立即回收」时执行。(iOS 15-17)
+Author: 清野
+Name: free memory
+
+Package: com.qy.freememory
+Version: 4.9.1.7
+Architecture: iphoneos-arm64
+Maintainer: 清野
+Installed-Size: 1036
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Conflicts: com.crctdd.memtrim, com.crctdd.memtrim.auto
+Replaces: com.crctdd.memtrim, com.crctdd.memtrim.auto
+Filename: debs/com.qy.freememory_4.9.1.7_iphoneos-arm64.deb
+Size: 233656
+MD5sum: f8b73d8670676b836634ceb331660786
+SHA1: 8f4981713fe9c22d142e3f22d61e21b6b0c0253c
+SHA256: 76e64e76fc8381806199406fd72cffe2da89ab6b4d824cee877f26f84e20ea06
+Section: Tweaks
+Description: 一键结束后台 App 释放物理内存，只在设置页点「立即回收」时执行。(iOS 15-17)
+Author: 清野
+Name: free memory
+
 Package: com.rain.wallpapergenerator
 Version: 1.0.0-15+debug
 Architecture: iphoneos-arm64
@@ -21709,16 +21617,16 @@ Name: TransLux 翻译
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/translux/js.json
 
 Package: fanqiefn
-Version: 3.4.0
+Version: 3.5.0
 Architecture: iphoneos-arm64
 Maintainer: junhong
-Installed-Size: 4496
+Installed-Size: 4804
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: debs/番茄净化_3.4.0_arm64.deb
-Size: 1975188
-MD5sum: aae35ad6a91861e723d8f87e30981eef
-SHA1: bdc4d8fa2fb2da32998565407bffc9299fb25db2
-SHA256: 725fc040fa06a357e43add3652362e113a5db4bb03a6bdb474658bf211870ec8
+Filename: debs/番茄净化_3.5.0_arm64.deb
+Size: 2100334
+MD5sum: 455f827321e70b3982fad28e849b524e
+SHA1: 3ad39c43861872d7cd5b1d2e5126b734225ecfcd
+SHA256: 4bd9cf9b57d13247bd94a6f8839263060d865902b12037a22f00514b3cc90577
 Section: Tweaks
 Homepage: https://fanqie.goforit.si
 Description: 净化阅读、听书及页面推广内容；支持章末入口管理、底部导航玻璃效果与插件配置备份。
@@ -21726,19 +21634,19 @@ Author: junhong
 Name: 番茄净化
 
 Package: fanqiefn.roothide
-Version: 3.4.0
+Version: 3.5.0
 Architecture: iphoneos-arm64e
 Maintainer: junhong
-Installed-Size: 4480
+Installed-Size: 4804
 Depends: firmware (>= 15.0), mobilesubstrate
 Conflicts: fanqiefn
 Replaces: fanqiefn
 Provides: fanqiefn
-Filename: debs/番茄净化_3.4.0_arm64e.deb
-Size: 1966770
-MD5sum: 7c6a458add44a6864f66ce2e551b9133
-SHA1: 91fcd9366d0defefb6268716e6270ca001e223ee
-SHA256: 43d26314cfb243405279796ed5a255612c513bdc8acbd5f58c9c3f1d53e0fa3a
+Filename: debs/番茄净化_3.5.0_arm64e.deb
+Size: 2111426
+MD5sum: ddd6425e3509908ebba2a93a804f69de
+SHA1: 2d5bc27e1360bd862d6d275b98e0709545db11de
+SHA256: 0c99c2063168507c77f02fb88148810288ef33b06e4686e7123137624b2dc202
 Section: Tweaks
 Homepage: https://fanqie.goforit.si
 Description: 净化阅读、听书及页面推广内容；支持章末入口管理、底部导航玻璃效果与插件配置备份。
@@ -21746,38 +21654,36 @@ Author: junhong
 Name: 番茄净化 (Roothide)
 
 Package: hongguofn
-Version: 2.2.2
+Version: 2.2.4
 Architecture: iphoneos-arm64
 Maintainer: Junhong
-Installed-Size: 6712
+Installed-Size: 7728
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: debs/红果净化_2.2.2_arm64.deb
-Size: 2928424
-MD5sum: eb2003c21ecab324abdad5cf892f3257
-SHA1: 6b70bafdd366685c731e1886c1a3ded9604ec1e7
-SHA256: 9778ccd20c89537a8158ffad87860b7c2e7083014f7a66243d88dfa7ef8e4fb7
+Filename: debs/红果净化_2.2.4_arm64.deb
+Size: 3343890
+MD5sum: 951d59a126f2321b6f2b66be0b666d6f
+SHA1: 8d845c2fc5bbd890fbe3d4067eedf6fbef63f419
+SHA256: cc237d609abe9a8594c39f758298720d8683ed34c20616135e53c13549996117
 Section: Tweaks
 Homepage: https://hongguo.goforit.si
-Description: 兼容红果短剧与红果漫剧 7.4.1，提供界面净化、广告控制、倍速清屏与视频保存。
- 兼容红果短剧与红果漫剧，版本适配7.4.1，低版本可能存在兼容问题不再适配，请更新至7.4.1版本使用。
+Description: 红果短剧和红果漫剧净化插件，实现 60 多项个性化配置功能。
 Author: Junhong
 Name: 红果净化
 
 Package: hongguofn.roothide
-Version: 2.2.2
+Version: 2.2.4
 Architecture: iphoneos-arm64e
 Maintainer: Junhong
-Installed-Size: 6712
+Installed-Size: 7728
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: debs/红果净化_2.2.2_arm64e.deb
-Size: 2938920
-MD5sum: ab7f753c88af4ac901ed2978d1a741f8
-SHA1: d5a9673b19aeae2e6aa7c4ff41c226d964c00b75
-SHA256: b54c89b9fc2c6628ecc95b699b1e7ee016619d9104ddc242de127177951c33ba
+Filename: debs/红果净化_2.2.4_arm64e.deb
+Size: 3348248
+MD5sum: 7b441e6dea04c83cedbd82cc4d081a06
+SHA1: 1f23220da62914f892e323a21349bec1bd6fedcd
+SHA256: cb640a71cdd5e8c78013f30419ce6500ea3cf27f5d3040bdb8ffbc309442145b
 Section: Tweaks
 Homepage: https://hongguo.goforit.si
-Description: 兼容红果短剧与红果漫剧 7.4.1，提供界面净化、广告控制、倍速清屏与视频保存。
- 兼容红果短剧与红果漫剧，版本适配7.4.1，低版本可能存在兼容问题不再适配，请更新至7.4.1版本使用。
+Description: 红果短剧和红果漫剧净化插件，实现 60 多项个性化配置功能。
 Author: Junhong
 Name: 红果净化 (Roothide)
 
