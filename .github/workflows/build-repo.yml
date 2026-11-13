@@ -1,10 +1,20 @@
 name: Build Cydia Repo
+
 on:
   push:
     branches: [ master ]
+    paths:
+      - 'debs/**'
+      - '.github/workflows/build-repo.yml'
+  workflow_dispatch:
 
 permissions:
   contents: write
+
+# 同一分支串行执行，避免两个 run 同时推送造成 non-fast-forward
+concurrency:
+  group: build-repo-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -54,12 +64,11 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add Packages Packages.gz Release
-          git commit -m "Auto update index" || true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Push commit
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          # 无变化就不推送，避免空 push 撞上远程更新
+          if git diff --cached --quiet; then
+            echo "No index changes, skip push"
+            exit 0
+          fi
+          git commit -m "Auto update index"
+          git pull --rebase -X ours origin master
+          git push origin HEAD:master
