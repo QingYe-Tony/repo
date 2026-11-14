@@ -21617,16 +21617,16 @@ Name: TransLux 翻译
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/translux/js.json
 
 Package: fanqiefn
-Version: 3.5.0
+Version: 3.5.1
 Architecture: iphoneos-arm64
 Maintainer: junhong
-Installed-Size: 4804
+Installed-Size: 5028
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: debs/番茄净化_3.5.0_arm64.deb
-Size: 2100334
-MD5sum: 455f827321e70b3982fad28e849b524e
-SHA1: 3ad39c43861872d7cd5b1d2e5126b734225ecfcd
-SHA256: 4bd9cf9b57d13247bd94a6f8839263060d865902b12037a22f00514b3cc90577
+Filename: debs/番茄净化_3.5.1_arm64.deb
+Size: 2197312
+MD5sum: d38f304a017d0ffdd1e87e5e43b3b7ed
+SHA1: afbbe629379d84790ee41bd5e23ab1a913a591f6
+SHA256: 7552789419e91c72fde77c21be6e18292a8cbdb3f70c08a8d003c553d6d9ed47
 Section: Tweaks
 Homepage: https://fanqie.goforit.si
 Description: 净化阅读、听书及页面推广内容；支持章末入口管理、底部导航玻璃效果与插件配置备份。
@@ -21634,19 +21634,19 @@ Author: junhong
 Name: 番茄净化
 
 Package: fanqiefn.roothide
-Version: 3.5.0
+Version: 3.5.1
 Architecture: iphoneos-arm64e
 Maintainer: junhong
-Installed-Size: 4804
+Installed-Size: 5028
 Depends: firmware (>= 15.0), mobilesubstrate
 Conflicts: fanqiefn
 Replaces: fanqiefn
 Provides: fanqiefn
-Filename: debs/番茄净化_3.5.0_arm64e.deb
-Size: 2111426
-MD5sum: ddd6425e3509908ebba2a93a804f69de
-SHA1: 2d5bc27e1360bd862d6d275b98e0709545db11de
-SHA256: 0c99c2063168507c77f02fb88148810288ef33b06e4686e7123137624b2dc202
+Filename: debs/番茄净化_3.5.1_arm64e.deb
+Size: 2196518
+MD5sum: 8448b17195b610a9a977ab764a5d79a5
+SHA1: b9e38f3fe058b7ec670a95fb79d1a60d03bea4e8
+SHA256: 2d5f4b06a5aaa559c4fb36a6c8db2eb9019c723f7d5cdd4898f87ddd51f9c227
 Section: Tweaks
 Homepage: https://fanqie.goforit.si
 Description: 净化阅读、听书及页面推广内容；支持章末入口管理、底部导航玻璃效果与插件配置备份。
