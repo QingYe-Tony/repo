@@ -20276,6 +20276,24 @@ Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 15+. This v
 Author: TIGI Software
 Name: Filza File Manager 64-bit
 
+Package: com.tigisoftware.filza64bit
+Version: 5.0.1-4
+Architecture: iphoneos-arm64e
+Maintainer: TIGI Software
+Installed-Size: 32452
+Depends: firmware (>= 15.0)
+Recommends: zip, tar
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: debs/com.tigisoftware.filza64bit_5.0.1-4_iphoneos-arm64e.deb
+Size: 12403684
+MD5sum: 04ffba4f80fc367442c3a3ab842fa848
+SHA1: 44aeb5244f2c4cb99e8f1fbb3d4ad230371c288d
+SHA256: fce1bdcef31a121594158ceb169614a0b37a8b98747b32f238f68460ef2d3e60
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 15+. This version only supports 64-bit devices
+Author: TIGI Software
+Name: Filza File Manager 64-bit
+
 Package: com.trifecta.akara
 Version: 2.0.2
 Architecture: iphoneos-arm64
@@ -21825,36 +21843,36 @@ Author: junhong
 Name: 番茄净化 (Roothide)
 
 Package: hongguofn
-Version: 2.2.4
+Version: 2.2.5
 Architecture: iphoneos-arm64
 Maintainer: Junhong
-Installed-Size: 7728
+Installed-Size: 8116
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: debs/红果净化_2.2.4_arm64.deb
-Size: 3343890
-MD5sum: 951d59a126f2321b6f2b66be0b666d6f
-SHA1: 8d845c2fc5bbd890fbe3d4067eedf6fbef63f419
-SHA256: cc237d609abe9a8594c39f758298720d8683ed34c20616135e53c13549996117
+Filename: debs/红果净化_2.2.5_arm64.deb
+Size: 3501426
+MD5sum: 278b80237ce3ffa8b2cbaa803eaded57
+SHA1: e81900756b80c907c9d84afca0b0d8bf317886ed
+SHA256: b802aed77d2fdeb7cd53d033e3dbc995f55ba725fbff7348c3b570194fc69e5e
 Section: Tweaks
 Homepage: https://hongguo.goforit.si
-Description: 红果短剧和红果漫剧净化插件，实现 60 多项个性化配置功能。
+Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
 Author: Junhong
 Name: 红果净化
 
 Package: hongguofn.roothide
-Version: 2.2.4
+Version: 2.2.5
 Architecture: iphoneos-arm64e
 Maintainer: Junhong
-Installed-Size: 7728
+Installed-Size: 8116
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: debs/红果净化_2.2.4_arm64e.deb
-Size: 3348248
-MD5sum: 7b441e6dea04c83cedbd82cc4d081a06
-SHA1: 1f23220da62914f892e323a21349bec1bd6fedcd
-SHA256: cb640a71cdd5e8c78013f30419ce6500ea3cf27f5d3040bdb8ffbc309442145b
+Filename: debs/红果净化_2.2.5_arm64e.deb
+Size: 3491672
+MD5sum: 0d431970e59540c65b31845d8173bfa2
+SHA1: 5c1bf697a88183fe0f048f2f1ae910b8e4f3e6f6
+SHA256: 4f2839159b5a70946bc6428c752f0f977be7130bc16a178762cbcf48fa4f3d08
 Section: Tweaks
 Homepage: https://hongguo.goforit.si
-Description: 红果短剧和红果漫剧净化插件，实现 60 多项个性化配置功能。
+Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
 Author: Junhong
 Name: 红果净化 (Roothide)
 
