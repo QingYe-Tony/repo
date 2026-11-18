@@ -21843,16 +21843,16 @@ Author: junhong
 Name: 番茄净化 (Roothide)
 
 Package: hongguofn
-Version: 2.2.5
+Version: 2.2.6
 Architecture: iphoneos-arm64
 Maintainer: Junhong
-Installed-Size: 8116
+Installed-Size: 8164
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: debs/红果净化_2.2.5_arm64.deb
-Size: 3501426
-MD5sum: 278b80237ce3ffa8b2cbaa803eaded57
-SHA1: e81900756b80c907c9d84afca0b0d8bf317886ed
-SHA256: b802aed77d2fdeb7cd53d033e3dbc995f55ba725fbff7348c3b570194fc69e5e
+Filename: debs/红果净化_2.2.6_arm64.deb
+Size: 3514992
+MD5sum: c9cf25a4237cbfeccfa313b6ee3c6f0c
+SHA1: 99c53511b397cb7432a877e2ede4b5695aea0b1a
+SHA256: 8840502425d753b1708b378f4be73ed5ee6f419010e09881676c956cc8a3bc4e
 Section: Tweaks
 Homepage: https://hongguo.goforit.si
 Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
@@ -21860,16 +21860,16 @@ Author: Junhong
 Name: 红果净化
 
 Package: hongguofn.roothide
-Version: 2.2.5
+Version: 2.2.6
 Architecture: iphoneos-arm64e
 Maintainer: Junhong
-Installed-Size: 8116
+Installed-Size: 8180
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: debs/红果净化_2.2.5_arm64e.deb
-Size: 3491672
-MD5sum: 0d431970e59540c65b31845d8173bfa2
-SHA1: 5c1bf697a88183fe0f048f2f1ae910b8e4f3e6f6
-SHA256: 4f2839159b5a70946bc6428c752f0f977be7130bc16a178762cbcf48fa4f3d08
+Filename: debs/红果净化_2.2.6_arm64e.deb
+Size: 3529992
+MD5sum: a4bec2aeb76de989df3fa2a01fe6836a
+SHA1: 79e7a1f9e58b195475fd0629f40f3cc1133467a3
+SHA256: eedb60eb24bb6d0a8160c379110c89e8b84785abf5fd4d7c5eed4e874a959880
 Section: Tweaks
 Homepage: https://hongguo.goforit.si
 Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
