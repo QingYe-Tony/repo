@@ -12137,6 +12137,44 @@ Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
 Name: Shuffle越狱插件收纳
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
 
+Package: com.custom.ctclient.donk
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: donk
+Filename: debs/电信优化_1.2_隐根.deb
+Size: 367824
+MD5sum: 2027182f6231f1f3862cc13d6e7cbc3c
+SHA1: 7b7a72e0c0d1a34d7741143412b1be436a1a14c6
+SHA256: 6f7f0297dbd9b3327fd3cd4c7a351d3d3e710832ad6ffc54dde12a27f145ea3e
+Section: 软件优化
+Description: 中国电信整页重构：首页换成清爽盖层，只留话费、流量语音与常用入口，开屏广告与原底栏一并去掉。
+ - 话费账单：主卡大字显示，点按直达详细账单
+ - 流量语音：双半卡并排，实时数据自动抓取
+ - 常用入口：搜索、服务大厅、客服、充话费直达
+ - 原版切换：右上角一键互切，原版顶栏搜索旁带圆环的「新版」钮切回（PS：个别机型不显示切回新版按钮，点击搜索按钮旁空白处也可切回新版）
+ - 源内所有插件仅供本人学习交流使用,下载后请于24小时内删除!
+Author: donk
+Name: 电信优化-RootHide
+
+Package: com.custom.ctclient.donk
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: donk
+Filename: debs/电信优化_1.2_无根.deb
+Size: 367876
+MD5sum: cabab63eade6ff6f46792fe40cb451ff
+SHA1: d8dda86bbfb050ae6fb64665bdcc04fc1f0f473c
+SHA256: 8990a10670a4313c706c0b97166dae0e8ac7a4ec6f5f4de834346a24ef302702
+Section: 软件优化
+Description: 中国电信整页重构：首页换成清爽盖层，只留话费、流量语音与常用入口，开屏广告与原底栏一并去掉。
+ - 话费账单：主卡大字显示，点按直达详细账单
+ - 流量语音：双半卡并排，实时数据自动抓取
+ - 常用入口：搜索、服务大厅、客服、充话费直达
+ - 原版切换：右上角一键互切，原版顶栏搜索旁带圆环的「新版」钮切回（PS：个别机型不显示切回新版按钮，点击搜索按钮旁空白处也可切回新版）
+ - 源内所有插件仅供本人学习交流使用,下载后请于24小时内删除!
+Author: donk
+Name: 电信优化-Rootless
+
 Package: com.cydiageek.shynotificationsapps
 Version: 1.0.0
 Architecture: iphoneos-arm64e
@@ -13463,6 +13501,63 @@ Author: huami
 Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: WCPluginsOrder插件排序
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCPluginsOrder/js.json
+
+Package: com.huami.dyyy
+Version: 3.0.2
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 2248
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.huami.dyyy_3.0.2_iphoneos-arm64e.deb
+Size: 479318
+MD5sum: 1fd04421a6a99b4e79751bdb1423ccea
+SHA1: df65e39809db3bf0a336df6c5006278cf76dda0c
+SHA256: 0a118fb99228435d0e5edc2d449a958b3896df2c85dfc5afc7169ca094ce8ef4
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 3.0.2
+Architecture: iphoneos-arm
+Maintainer: huami
+Installed-Size: 2248
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.huami.dyyy_3.0.2_iphoneos-arm.deb
+Size: 477642
+MD5sum: a6e39704f349525035c6afe685ae4625
+SHA1: 23d294b70920ea4a77fe4feee43a2e5b8bad5863
+SHA256: 4bd25ed3d57ac4f6875a8a8e256e69a76ea7369311a2c2c24c319d2f8871d736
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 3.0.2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2248
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.huami.dyyy_3.0.2_iphoneos-arm64.deb
+Size: 477572
+MD5sum: d10197c8912f19775f92689f10035602
+SHA1: c56933df731164d64c5888fee94238f08c027967
+SHA256: 21a8c170200f1f7755dea1594ae28ad9b87f6538bc71279fdbcd2d8ddcb525e1
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
 
 Package: com.huayuarc.cputhermal
 Version: 1.6.2-17
@@ -16903,17 +16998,17 @@ Name: MUtool(roothide)
 Sileodepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
-Version: 2.2.90
+Version: 2.2.96
 Architecture: iphoneos-arm64
 Maintainer: Muzi
-Installed-Size: 6016
+Installed-Size: 7260
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
-Filename: debs/com.muzi.mutool_2.2.90_iphoneos-arm64.deb
-Size: 951086
-MD5sum: f586905a4cc02800c487f20a863dfa8d
-SHA1: 783518b3abcb956be3bb38cb31fa71ba20b2c76a
-SHA256: 0617a4491529f622e0f51df21257bccd7cebcca2b27923592cd115d4504ece42
+Filename: debs/com.muzi.mutool_2.2.96_iphoneos-arm64.deb
+Size: 1230430
+MD5sum: 1e126933b8adaffaaa9c468cc340667b
+SHA1: 506664374cd972176ffb5b34d3410b59b24082c5
+SHA256: ae392d48f12cc3deb4ca4dbf6dafd9d341b34150dbef1bfbd5c3b17bbf28a3db
 Section: Tweaks
 Description: MUtool 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，锁屏充电大字常驻与电源菜单）；定时任务；自动禁用 SIM、卡槽管理与 IPCC 运营商配置；WiFi 永连；充电提示音与 MagSafe 动画；文件夹主题（配色、毛玻璃、大文件夹、网格大小与图标缩放）；温控（阻止降频、CPU 功率锁定、模拟降频）与锁定 120Hz 高刷；系统增强（锁屏增强、主屏幕增强、桌面增强，含 iPad 风格浮动 Dock：最近应用数量 1-3 与资源库图标可配）；录制增强（通话自动录音、录屏去 DRM 静音、锁屏继续录制与轨迹触点）；美化（状态栏前景色、隐藏时间、强制浅深色）；桌面悬浮信息药丸（多悬浮窗独立配置网速/CPU/内存/时间/农历/天气，Liquid Glass 风格）；电池健康与深度信息。全部功能受激活状态门控。
 Author: Muzi
@@ -16922,17 +17017,17 @@ Name: MUtool(rootless)
 Sileodepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
 
 Package: com.muzi.mutool
-Version: 2.2.90
+Version: 2.2.96
 Architecture: iphoneos-arm64e
 Maintainer: Muzi
-Installed-Size: 5968
+Installed-Size: 7260
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.muzi.mutoollite
-Filename: debs/com.muzi.mutool_2.2.90_iphoneos-arm64e.deb
-Size: 945232
-MD5sum: bd29e8e11fd5fa1683f10b64ab591823
-SHA1: ef7081c6e40898c8f9b5edb14a6f4cba384dca6f
-SHA256: 5a0377d0e4c3859a4886d2290200d605353e16f817092e590a06e1895ad318b9
+Filename: debs/com.muzi.mutool_2.2.96_iphoneos-arm64e.deb
+Size: 1221876
+MD5sum: 1c2d92e8e66f9cbf2e71394af6385daf
+SHA1: 7f70e7ee15ec660ef9c4843cd7d1e1555ffe12b6
+SHA256: 88bb391a6c64d2e98e2e5c89bdd06b4078cb62d844e65c84a1f24e9a94b0966e
 Section: Tweaks
 Description: MUtool 多功能工具集：灵动岛电池胶囊（长按状态栏电池弹出完整电池信息，锁屏充电大字常驻与电源菜单）；定时任务；自动禁用 SIM、卡槽管理与 IPCC 运营商配置；WiFi 永连；充电提示音与 MagSafe 动画；文件夹主题（配色、毛玻璃、大文件夹、网格大小与图标缩放）；温控（阻止降频、CPU 功率锁定、模拟降频）与锁定 120Hz 高刷；系统增强（锁屏增强、主屏幕增强、桌面增强，含 iPad 风格浮动 Dock：最近应用数量 1-3 与资源库图标可配）；录制增强（通话自动录音、录屏去 DRM 静音、锁屏继续录制与轨迹触点）；美化（状态栏前景色、隐藏时间、强制浅深色）；桌面悬浮信息药丸（多悬浮窗独立配置网速/CPU/内存/时间/农历/天气，Liquid Glass 风格）；电池健康与深度信息。全部功能受激活状态门控。
 Author: Muzi
