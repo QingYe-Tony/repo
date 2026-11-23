@@ -9386,13 +9386,13 @@ Version: 5.2.0-40
 Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhini000@163.com>
 Installed-Size: 1476
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Depends: mobilesubstrate, preferenceloader
 Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
 Filename: debs/com.axs.snapper4_5.2.0-40_iphoneos-arm64.deb
-Size: 303218
-MD5sum: aa35407c269ac95f69fad332cbff5970
-SHA1: 8e7437e0669a0316403911a94c5ff6d7b9b08f92
-SHA256: 68bc7bd89843cde9d5510eca16815f478d2fe39c4d28a2cb421fd804f86a5929
+Size: 302884
+MD5sum: c7340d605b27ffaf08685183a7c07b80
+SHA1: 600ede7dfa2c9d98ce76b49dc6612fae632bba9c
+SHA256: 5acf6fc623b7d17e387b4cd18de408c064678080509ba97290120c9fbac3490e
 Section: Axs-Tweaks
 Description: 这是一款截图工具。
  * 一、基本设置
@@ -9455,16 +9455,16 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
 
 Package: com.axs.snapper4
 Version: 5.2.0-44
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhini000@163.com>
-Installed-Size: 1476
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Installed-Size: 1620
+Depends: mobilesubstrate, preferenceloader
 Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
-Filename: debs/com.axs.snapper4_5.2.0-44_隐根roothide.deb
-Size: 319824
-MD5sum: fd11529c5d0148db453c0bbc151c3360
-SHA1: 49f2c8de5cbab0756a34c053ce032102d31a8c62
-SHA256: c27e9beec8d450c7d1d3ed5a3e61eb64369b5f38b13ad8df5f2fae70872190c3
+Filename: debs/com.axs.snapper4_5.2.0-44_iphoneos-arm64.deb
+Size: 379776
+MD5sum: 3fde01896e9f58cef8d45a82a6531edb
+SHA1: 4ef68ff26f19bf2792a700823affc6d34e316abb
+SHA256: f48a7c469d96b20c6912dae51d1bb1bb2a10277eb3a6750726b23b1589a92523
 Section: Axs-Tweaks
 Description: 这是一款截图工具。
  * 一、基本设置
@@ -9493,14 +9493,50 @@ Package: com.axs.snapper4
 Version: 5.2.0-44
 Architecture: iphoneos-arm64e
 Maintainer: Axs <qiaozhini000@163.com>
-Installed-Size: 1476
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Installed-Size: 1620
+Depends: mobilesubstrate, preferenceloader
 Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
-Filename: debs/com.axs.snapper4_5.2.0-44_无根rootless.deb
-Size: 320050
-MD5sum: 8c377d6cb30c0b99078533d159612746
-SHA1: d0b7c1e5c8af905f67ebad3378f19dcc19a3f3f7
-SHA256: 3aca9a4b522a0d97f948c3bd6fc3e88d54ab7891ee476fb8284a87aefdd29062
+Filename: debs/com.axs.snapper4_5.2.0-44_iphoneos-arm64e.deb
+Size: 380116
+MD5sum: 60c1d3e714e1c3ad9abaeba56802bcbb
+SHA1: 8b2f8010463c5acee746c1f5b70762f1364ae325
+SHA256: ba19172d88fbdccbe8593639f47b2998ed421819beedecd1c4d19d9696c33fb3
+Section: Axs-Tweaks
+Description: 这是一款截图工具。
+ * 一、基本设置
+ * 1、移动标记：开启后标注内容可拖动调整位置；
+ * 2、功能开关与排序：设置面板内可开关并拖拽排序全部功能。
+ * 二、触发方式
+ * 1、音量增+电源键=：可选系统截图或插件截图；
+ * 2、长按音量减→插件截图：开启后长按音量减约 0.2 秒调出冻结模式。
+ * 三、截图设置
+ * 1、截图仅复制：截图后仅复制到剪贴板；
+ * 2、长截图方式：滚动拼接 / 一镜到底，智能帧匹配自动拼接；
+ * 四、AI 服务（识别与翻译）
+ * 1、Sileo：Sileo 描述页长按翻译纯文本，翻译方式可选百度翻译或 AI 翻译；
+ * 2、AI 互译与问答：中英文互译与中文问答，支持自定义提示词与 AI 对话模式，半屏浮层展示；
+ * 3、文字识别 (OCR)：模型识别截图文字，半屏浮层展示、涂抹选择、一键复制；
+ * 4、百度翻译：自动检测语言双向翻译（中文↔外语），支持图片翻译 / 文本翻译双通道。
+ * 五、扩展功能
+ * 1、截图标记：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制；
+ * 2、URL 触发：支持手势插件通过 prefs:root=snapper4_freeze（冻结）/ prefs:root=snapper4_long（长截图）系统深链触发。
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper 4
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
+
+Package: com.axs.snapper4
+Version: 5.2.0-45
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 1620
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
+Filename: debs/com.axs.snapper4_5.2.0-45_iphoneos-arm64.deb
+Size: 382046
+MD5sum: f06eb5eab52aee1819bd3e67441f0149
+SHA1: 70268ed5a52291705b14a924ef14957911df0ba5
+SHA256: d7354b18e8ae0868bb7f7612510ce8521c6664010435a1842158d63cb0c296b6
 Section: Axs-Tweaks
 Description: 这是一款截图工具。
  * 一、基本设置
@@ -9529,14 +9565,14 @@ Package: com.axs.snapper4
 Version: 5.2.0-45
 Architecture: iphoneos-arm64e
 Maintainer: Axs <qiaozhini000@163.com>
-Installed-Size: 2491
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Installed-Size: 1620
+Depends: mobilesubstrate, preferenceloader
 Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
-Filename: debs/com.axs.snapper4_5.2.0-45_隐根roothide_图标皮肤.deb
-Size: 1003382
-MD5sum: 8388ddeed9a77545ac215c27b97fa1a0
-SHA1: a5a3c5130d33863c9e189e1a3902cb78d9d277a0
-SHA256: 505c982e92095c07f503c514d409ef05e587880f7cdf9ff9154c52056018d68d
+Filename: debs/com.axs.snapper4_5.2.0-45_iphoneos-arm64e.deb
+Size: 381460
+MD5sum: 5881ffe59070b5a084cae8b8a60a75f1
+SHA1: 71d46b684da56e16884d3155f5effd6b2a754922
+SHA256: 6a7baa466654e2ecb4c027198bd73ce40f7d697377baae5deabb138e8c1c49dd
 Section: Axs-Tweaks
 Description: 这是一款截图工具。
  * 一、基本设置
@@ -9553,11 +9589,6 @@ Description: 这是一款截图工具。
  * 2、AI 互译与问答：中英文互译与中文问答，支持自定义提示词与 AI 对话模式，半屏浮层展示；
  * 3、文字识别 (OCR)：模型识别截图文字，半屏浮层展示、涂抹选择、一键复制；
  * 4、百度翻译：自动检测语言双向翻译（中文↔外语），支持图片翻译 / 文本翻译双通道。
- * 六、图标皮肤（本包新增，隐根roothide 版）
- * 素材目录：<jbroot>/Library/Application Support/Snapper4/Snapper4Resources.bundle/Skins
- * 设置页里的「图标风格」= 素材目录下的文件夹名，文件夹改名/新增会立刻同步；
- * 该目录下的素材不会被本包升级/重装覆盖或恢复（包内不含该目录的任何文件）；
- * 包内自带蓝珀 / 透光 / 玻璃三套，缺的图标自动回退原版。
  * 五、扩展功能
  * 1、截图标记：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制；
  * 2、URL 触发：支持手势插件通过 prefs:root=snapper4_freeze（冻结）/ prefs:root=snapper4_long（长截图）系统深链触发。
@@ -9567,17 +9598,17 @@ Name: Snapper 4
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
 
 Package: com.axs.snapper4
-Version: 5.2.0-45
+Version: 5.2.0-60
 Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhini000@163.com>
-Installed-Size: 2491
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Installed-Size: 1712
+Depends: mobilesubstrate, preferenceloader
 Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
-Filename: debs/com.axs.snapper4_5.2.0-45_无根rootless_图标皮肤.deb
-Size: 1002560
-MD5sum: 68d13decfc9465b244c5922732cbff22
-SHA1: ab790b914bf287325b41a53856e4b2a60ad5b89c
-SHA256: f49e86badac5c61aa187f1ac4bee6889cc5fd869fecb6a60c15be8396433361f
+Filename: debs/com.axs.snapper4_5.2.0-60_iphoneos-arm64.deb
+Size: 408558
+MD5sum: a55e78a123c91df9cbdc8f4be2e56a82
+SHA1: c34eb2622e7478b30fadba270ca9ac3c97f04454
+SHA256: e7016a5f5398fd68d72fa27f721c5804b14eccee4ed4eb73abaab717cadba93a
 Section: Axs-Tweaks
 Description: 这是一款截图工具。
  * 一、基本设置
@@ -9594,11 +9625,6 @@ Description: 这是一款截图工具。
  * 2、AI 互译与问答：中英文互译与中文问答，支持自定义提示词与 AI 对话模式，半屏浮层展示；
  * 3、文字识别 (OCR)：模型识别截图文字，半屏浮层展示、涂抹选择、一键复制；
  * 4、百度翻译：自动检测语言双向翻译（中文↔外语），支持图片翻译 / 文本翻译双通道。
- * 六、图标皮肤（本包新增，无根rootless 版）
- * 素材目录：<jbroot>/Library/Application Support/Snapper4/Snapper4Resources.bundle/Skins
- * 设置页里的「图标风格」= 素材目录下的文件夹名，文件夹改名/新增会立刻同步；
- * 该目录下的素材不会被本包升级/重装覆盖或恢复（包内不含该目录的任何文件）；
- * 包内自带蓝珀 / 透光 / 玻璃三套，缺的图标自动回退原版。
  * 五、扩展功能
  * 1、截图标记：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制；
  * 2、URL 触发：支持手势插件通过 prefs:root=snapper4_freeze（冻结）/ prefs:root=snapper4_long（长截图）系统深链触发。
@@ -9608,17 +9634,17 @@ Name: Snapper 4
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
 
 Package: com.axs.snapper4
-Version: 5.2.0-47
+Version: 5.2.0-62
 Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhini000@163.com>
-Installed-Size: 2548
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Installed-Size: 1712
+Depends: mobilesubstrate, preferenceloader
 Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
-Filename: debs/com.axs.snapper4_5.2.0-47_无根rootless_图标皮肤.deb
-Size: 1015090
-MD5sum: fa20f683b76098ce351971b7bd5f7ccd
-SHA1: ba6f437ced3e476bf982f5628f69bfc337b7211d
-SHA256: 266b4d876db92dd029e613c1bc82a66fd85a7b7c7223056a0a9b417b80dc5f49
+Filename: debs/com.axs.snapper4_5.2.0-62_iphoneos-arm64.deb
+Size: 408212
+MD5sum: ceeb3f7b4198b74901dd096f5a6955f8
+SHA1: eaae894901e7c92da56f6f40f5ee3a72cc9353fb
+SHA256: 37b95d3f8b4fb76d9ff1f1404013d5c72daf9d795ce0f18122f704e821455e30
 Section: Axs-Tweaks
 Description: 这是一款截图工具。
  * 一、基本设置
@@ -9635,60 +9661,6 @@ Description: 这是一款截图工具。
  * 2、AI 互译与问答：中英文互译与中文问答，支持自定义提示词与 AI 对话模式，半屏浮层展示；
  * 3、文字识别 (OCR)：模型识别截图文字，半屏浮层展示、涂抹选择、一键复制；
  * 4、百度翻译：自动检测语言双向翻译（中文↔外语），支持图片翻译 / 文本翻译双通道。
- * 六、图标皮肤（本包新增，无根rootless 版）
- * 素材目录：<jbroot>/Library/Application Support/Snapper4/Snapper4Resources.bundle/Skins
- * 设置页里的「图标风格」= 素材目录下的文件夹名，文件夹改名/新增会立刻同步；
- * 该目录下的素材不会被本包升级/重装覆盖或恢复（包内不含该目录的任何文件）；
- * 包内自带蓝珀 / 透光 / 玻璃三套，缺的图标自动回退原版；
- * 「图标风格」下面新增两个按钮：在 Filza 中打开素材文件夹 / 复制素材文件夹路径。
- * 七、修复
- * 「功能开关与排序」里关掉 URL 跳转插件时，它下面那一栏输入框会立刻一起隐藏，
- * 不用再退回上一级重进页面（开关一动手就把这一页重建 + 重画一遍）。
- * 五、扩展功能
- * 1、截图标记：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制；
- * 2、URL 触发：支持手势插件通过 prefs:root=snapper4_freeze（冻结）/ prefs:root=snapper4_long（长截图）系统深链触发。
-Author: Axs <qiaozhini000@163.com>
-Icon: https://axs66.github.io/pro/icon/snapper.png
-Name: Snapper 4
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
-
-Package: com.axs.snapper4
-Version: 5.2.0-47
-Architecture: iphoneos-arm64e
-Maintainer: Axs <qiaozhini000@163.com>
-Installed-Size: 2548
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
-Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
-Filename: debs/com.axs.snapper4_5.2.0-47_隐根roothide_图标皮肤.deb
-Size: 1014752
-MD5sum: 11d3eb047fce11baf200dcc7a16302be
-SHA1: 241b1d9cb426740ab72e41460ba2595b3c5626c8
-SHA256: cdd89cad33db45148ef2b745dde1b24cdec9c40fcceacdcb5cadc84ba0479755
-Section: Axs-Tweaks
-Description: 这是一款截图工具。
- * 一、基本设置
- * 1、移动标记：开启后标注内容可拖动调整位置；
- * 2、功能开关与排序：设置面板内可开关并拖拽排序全部功能。
- * 二、触发方式
- * 1、音量增+电源键=：可选系统截图或插件截图；
- * 2、长按音量减→插件截图：开启后长按音量减约 0.2 秒调出冻结模式。
- * 三、截图设置
- * 1、截图仅复制：截图后仅复制到剪贴板；
- * 2、长截图方式：滚动拼接 / 一镜到底，智能帧匹配自动拼接；
- * 四、AI 服务（识别与翻译）
- * 1、Sileo：Sileo 描述页长按翻译纯文本，翻译方式可选百度翻译或 AI 翻译；
- * 2、AI 互译与问答：中英文互译与中文问答，支持自定义提示词与 AI 对话模式，半屏浮层展示；
- * 3、文字识别 (OCR)：模型识别截图文字，半屏浮层展示、涂抹选择、一键复制；
- * 4、百度翻译：自动检测语言双向翻译（中文↔外语），支持图片翻译 / 文本翻译双通道。
- * 六、图标皮肤（本包新增，隐根roothide 版）
- * 素材目录：<jbroot>/Library/Application Support/Snapper4/Snapper4Resources.bundle/Skins
- * 设置页里的「图标风格」= 素材目录下的文件夹名，文件夹改名/新增会立刻同步；
- * 该目录下的素材不会被本包升级/重装覆盖或恢复（包内不含该目录的任何文件）；
- * 包内自带蓝珀 / 透光 / 玻璃三套，缺的图标自动回退原版；
- * 「图标风格」下面新增两个按钮：在 Filza 中打开素材文件夹 / 复制素材文件夹路径。
- * 七、修复
- * 「功能开关与排序」里关掉 URL 跳转插件时，它下面那一栏输入框会立刻一起隐藏，
- * 不用再退回上一级重进页面（开关一动手就把这一页重建 + 重画一遍）。
  * 五、扩展功能
  * 1、截图标记：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制；
  * 2、URL 触发：支持手势插件通过 prefs:root=snapper4_freeze（冻结）/ prefs:root=snapper4_long（长截图）系统深链触发。
