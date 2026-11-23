@@ -21583,6 +21583,24 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/DYStorage/icon.png
 Name: 抖音插件收纳
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYStorage/js.json
 
+Package: com.xuuz.douyinhelper
+Version: 2.2-9
+Architecture: iphoneos-arm64
+Maintainer: XUUᶻ
+Installed-Size: 17772
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/抖音助手_2.2-9_无根.deb
+Size: 6876620
+MD5sum: a1816774dfd646e7655e4d75ee5bd395
+SHA1: 11e477ff4907ad16c74e5a48462830ab019f4d00
+SHA256: cce9ebd77d51962f1911d2764f75fa4c96003e1d21ed205321bc37a1ec6abff4
+Section: Tweaks
+Priority: optional
+Homepage: https://tc.uddz.cc/xuuz
+Description: 三指长按/设置页面/长按视频/聊天界面➕菜单 调出！
+Author: XUUᶻ
+Name: 抖音助手
+
 Package: com.xybp888.noapplemobilerepair
 Version: 0.0.1-103
 Architecture: iphoneos-arm64
@@ -21972,6 +21990,21 @@ Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、�
 Author: Junhong
 Name: 红果净化
 
+Package: hongguofn
+Version: 2.2.7
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Installed-Size: 14536
+Filename: debs/红果净化_2.2.7_arm64.deb
+Size: 7324942
+MD5sum: 5bb9957a52bf13fa02f9567f35ff68c8
+SHA1: 933dce794c09d08d4cc110b630a59cbba983734e
+SHA256: b60140f4a3b40c48ec3c0f238e4f21bf9813f4f23ddc29a8ebb1b60559ad4e3f
+Section: Tweaks
+Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
+Author: Junhong
+Name: 红果净化
+
 Package: hongguofn.roothide
 Version: 2.2.6
 Architecture: iphoneos-arm64e
@@ -21985,6 +22018,21 @@ SHA1: 79e7a1f9e58b195475fd0629f40f3cc1133467a3
 SHA256: eedb60eb24bb6d0a8160c379110c89e8b84785abf5fd4d7c5eed4e874a959880
 Section: Tweaks
 Homepage: https://hongguo.goforit.si
+Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
+Author: Junhong
+Name: 红果净化 (Roothide)
+
+Package: hongguofn.roothide
+Version: 2.2.7
+Architecture: iphoneos-arm64e
+Maintainer: Junhong
+Installed-Size: 14664
+Filename: debs/红果净化_2.2.7_arm64e.deb
+Size: 7374604
+MD5sum: 26eef0aa2d1ea86bddb95152a68631f5
+SHA1: d678c34bf1e8fa95cd3e19a23210b6f811934a5f
+SHA256: fa6a2cedad832622fcdc95c83406e112074ccc4848feaa37155c28edd3b83200
+Section: Tweaks
 Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
 Author: Junhong
 Name: 红果净化 (Roothide)
