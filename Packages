@@ -21977,6 +21977,21 @@ Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、�
 Author: Junhong
 Name: 红果净化
 
+Package: hongguofn
+Version: 2.2.8
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Installed-Size: 15004
+Filename: debs/红果净化_2.2.8_arm64.deb
+Size: 7556982
+MD5sum: 0fc03b3f152b0106b18226c4ea06d4b1
+SHA1: 5c91df0f1adda829a2f09bb62013eab7b7f3f0c5
+SHA256: fd5594c94a39c29c017ca97a3f9fd17b0755c471497915bcc55dcd2c8f137aaf
+Section: Tweaks
+Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
+Author: Junhong
+Name: 红果净化
+
 Package: hongguofn.roothide
 Version: 2.2.6
 Architecture: iphoneos-arm64e
@@ -22004,6 +22019,21 @@ Size: 7374604
 MD5sum: 26eef0aa2d1ea86bddb95152a68631f5
 SHA1: d678c34bf1e8fa95cd3e19a23210b6f811934a5f
 SHA256: fa6a2cedad832622fcdc95c83406e112074ccc4848feaa37155c28edd3b83200
+Section: Tweaks
+Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
+Author: Junhong
+Name: 红果净化 (Roothide)
+
+Package: hongguofn.roothide
+Version: 2.2.8
+Architecture: iphoneos-arm64e
+Maintainer: Junhong
+Installed-Size: 14632
+Filename: debs/红果净化_2.2.8_arm64e.deb
+Size: 7385024
+MD5sum: 75cc62ac5bd7fc151b82815bfed201b7
+SHA1: f0d04695f3966c748f69acf53cf84089e2a21847
+SHA256: 8d27bf882f5e33a742a51c70aa7176190563b74ab151db17b9087ab0c25e65ad
 Section: Tweaks
 Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
 Author: Junhong
