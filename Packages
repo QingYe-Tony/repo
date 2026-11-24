@@ -17877,6 +17877,24 @@ Icon: file:///var/mobile/Library/Caches/com.qingye.plrename/icon.png
 Name: 改头换面
 
 Package: com.qingye.screenshot
+Filename: debs/com.qingye.screenshot_4.9.1.6_iphoneos-arm64e.deb
+Size: 698928
+MD5sum: a4f9a69c4b5ec6eb0f6681658fe927e3
+SHA1: e774505636870a5f0a0fafc08dda28063fd0a616
+SHA256: bb0d1917f83bc3a4d58a0dd48ff1151be2aa1dadbf56c83d34b3647b33b3b80a
+Description: 一款集截图、冻结、长截图、标注、OCR、翻译与 AI 于一体的越狱截图插件。
+Name: Screenshot
+
+Package: com.qingye.screenshot
+Filename: debs/com.qingye.screenshot_4.9.1.6_iphoneos-arm64.deb
+Size: 698810
+MD5sum: 4bf6c579734230eb62d92dd6ce69a26f
+SHA1: 369b8e168dffdf12b6d40f4a14d7aad8b6242ed8
+SHA256: 1d1a6d15ba22425a55dc225a4e8626a40fd963e6cf8e1eed1739d426a116c004
+Description: 一款集截图、冻结、长截图、标注、OCR、翻译与 AI 于一体的越狱截图插件。
+Name: Screenshot
+
+Package: com.qingye.screenshot
 Version: 4.9.1.5
 Architecture: iphoneos-arm64
 Maintainer: 清野 <qingye@localhost>
