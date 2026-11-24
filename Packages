@@ -17876,6 +17876,88 @@ Author: 清野
 Icon: file:///var/mobile/Library/Caches/com.qingye.plrename/icon.png
 Name: 改头换面
 
+Package: com.qingye.screenshot
+Version: 4.9.1.5
+Architecture: iphoneos-arm64
+Maintainer: 清野 <qingye@localhost>
+Installed-Size: 1883
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.jontelang.snapper3, com.susudear.stayshot, com.axs.snapper3tag, com.iosdump.shellx, com.axs.snapper4
+Filename: debs/com.qingye.screenshot_4.9.1.5_iphoneos-arm64.deb
+Size: 677672
+MD5sum: 32bb9dfa2ecec9455ed5e975c59d55e3
+SHA1: bfe24700457496024e7e87ad78fc5a17dac1c35d
+SHA256: 29fc66d3a64bfb8693ac54a769bb8ca642d3e478c77b6fed92404221d9789137
+Section: QingYe-Tweaks
+Description: 这是一款截图工具。
+ * 一、基本设置
+ * 1、启用插件：总开关；
+ * 2、移动标记：开启后标注内容可拖动调整位置；
+ * 3、固定七标：工具栏固定七个标记位；
+ * 4、选择自定义图标：切换动作图标主题；
+ * 5、功能开关与排序：可开关并拖拽排序全部功能。
+ * 二、触发方式
+ * 1、音量增+电源键=：可选系统截图或插件截图；
+ * 2、长按音量减→插件截图：长按音量减约 0.2 秒调出冻结模式；
+ * 3、URL 链接：供手势插件用系统深链触发，点按设置页「URL 链接」里的条目即复制该链接：
+ * prefs:root=qingye_freeze（插件截图）、prefs:root=qingye_long（长截图）。
+ * 三、截图设置
+ * 1、截图仅复制：截图后仅复制到剪贴板；
+ * 2、截图延时：无延时 ~ 1s 可选；
+ * 3、长截图方式：滚动拼接 / 一镜到底，智能帧匹配自动拼接；
+ * 4、长截图清晰度：低 1.0x（省内存）/ 中 1.5x / 高 2.0x / 原生 3.0x。
+ * 四、AI 服务（识别与翻译）
+ * 1、Sileo：Sileo 描述页长按描述文字即可翻译其中的纯文本，翻译方式可选翻译引擎或 AI 翻译；
+ * 2、AI 互译与问答：自填 Base URL / API Key / 模型，支持自定义提示词与 AI 对话模式，半屏浮层展示；
+ * 3、文字识别 (OCR)：默认 PP-OCRv6 云服务，也可选 PaddleOCR-VL 或改用 AI 视觉模型，半屏浮层展示、涂抹选择、一键复制；
+ * 4、翻译引擎：Apple 系统翻译（免密钥）/ 百度 / 有道 / DeepL，百度另支持图片翻译通道。
+ * 五、扩展功能
+ * 1、插件：长截图、OCR、翻译、互译、问答、标记、URL；
+ * 2、截图标注：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制。
+Author: 清野 <qingye@localhost>
+Name: Screenshot
+
+Package: com.qingye.screenshot
+Version: 4.9.1.5
+Architecture: iphoneos-arm64e
+Maintainer: 清野 <qingye@localhost>
+Installed-Size: 1883
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.jontelang.snapper3, com.susudear.stayshot, com.axs.snapper3tag, com.iosdump.shellx, com.axs.snapper4
+Filename: debs/com.qingye.screenshot_4.9.1.5_iphoneos-arm64e.deb
+Size: 677262
+MD5sum: f3d8fd3f9a6382ad87c81ab5318612da
+SHA1: 503c941b77f5cf999fb6050227820cb3d9a2401a
+SHA256: eb666cd51ba4803ada974355371c581d000cf8ad6d426d3b47682afb43831915
+Section: QingYe-Tweaks
+Description: 这是一款截图工具。
+ * 一、基本设置
+ * 1、启用插件：总开关；
+ * 2、移动标记：开启后标注内容可拖动调整位置；
+ * 3、固定七标：工具栏固定七个标记位；
+ * 4、选择自定义图标：切换动作图标主题；
+ * 5、功能开关与排序：可开关并拖拽排序全部功能。
+ * 二、触发方式
+ * 1、音量增+电源键=：可选系统截图或插件截图；
+ * 2、长按音量减→插件截图：长按音量减约 0.2 秒调出冻结模式；
+ * 3、URL 链接：供手势插件用系统深链触发，点按设置页「URL 链接」里的条目即复制该链接：
+ * prefs:root=qingye_freeze（插件截图）、prefs:root=qingye_long（长截图）。
+ * 三、截图设置
+ * 1、截图仅复制：截图后仅复制到剪贴板；
+ * 2、截图延时：无延时 ~ 1s 可选；
+ * 3、长截图方式：滚动拼接 / 一镜到底，智能帧匹配自动拼接；
+ * 4、长截图清晰度：低 1.0x（省内存）/ 中 1.5x / 高 2.0x / 原生 3.0x。
+ * 四、AI 服务（识别与翻译）
+ * 1、Sileo：Sileo 描述页长按描述文字即可翻译其中的纯文本，翻译方式可选翻译引擎或 AI 翻译；
+ * 2、AI 互译与问答：自填 Base URL / API Key / 模型，支持自定义提示词与 AI 对话模式，半屏浮层展示；
+ * 3、文字识别 (OCR)：默认 PP-OCRv6 云服务，也可选 PaddleOCR-VL 或改用 AI 视觉模型，半屏浮层展示、涂抹选择、一键复制；
+ * 4、翻译引擎：Apple 系统翻译（免密钥）/ 百度 / 有道 / DeepL，百度另支持图片翻译通道。
+ * 五、扩展功能
+ * 1、插件：长截图、OCR、翻译、互译、问答、标记、URL；
+ * 2、截图标注：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制。
+Author: 清野 <qingye@localhost>
+Name: Screenshot
+
 Package: com.qy.freememory
 Version: 4.9.1.3
 Architecture: iphoneos-arm64e
