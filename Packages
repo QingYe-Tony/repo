@@ -5750,7 +5750,7 @@ Section: Tweaks
 Description: Small Notification Banners. Support iOS15+
 Author: Netskao
 Icon: https://axs66.github.io/pro/icon/SmallBanners.png
-Name: SmallBanners 小通知横�
+Name: SmallBanners 小通知横�
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
 Package: com.Axs.smallboards
@@ -6003,7 +6003,7 @@ MD5sum: f495d3cd5869934cb86d576d3705e2de
 SHA1: 1f5ba3a99dbb2172eace1de06c156da8021de27e
 SHA256: 2b5bf298ba39de17284777000d633465efe724edce7fbdc00fa01b4ae5448d3c
 Section: 系统增强
-Description: Spoof your steps!使用巨魔注入器TrollFools注入要修改运动步数的APP，当然也可以sileo直接安�
+Description: Spoof your steps!使用巨魔注入器TrollFools注入要修改运动步数的APP，当然也可以sileo直接安�
 Author: uz.ra
 Icon: https://axs66.github.io/pro/icon/steppy.png
 Name: Steppy 步数修改器
@@ -10749,10 +10749,10 @@ Installed-Size: 12000
 Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), ws.hbang.common,com.opa334.ccsupport
 Replaces: jp.dcsyhi.airaw
 Filename: debs/com.bvn.airaw-r2.qy_1.7.0k_iphoneos-arm64.deb
-Size: 8490696
-MD5sum: 0f5ce03f6b5e2d9811a163fc962f1e85
-SHA1: e7ff7f4644842b68053dcc64d788e08a4afe822c
-SHA256: f037fdfffdc43a37e418369cb4922149e5486b568a02f43d3d66342a56c23593
+Size: 8494408
+MD5sum: dca7b0b0e062bee4af05217cca79318a
+SHA1: 98844e53dcfddc898b46daa127f2a12b3c9534ac
+SHA256: 0422b252529a6e27293b83e07b944e43cb48930ba41536f7bafd99876f93996c
 Section: 车机专用
 Description: CarPlay 增强插件（无根·中文介绍）
  自定义 CarPlay 图标布局与壁纸、状态栏，添加小部件、全屏视图与应用选择，并支持备份/恢复。
@@ -10771,10 +10771,10 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), ws.hbang.common,com.opa334.ccsupport
 Replaces: jp.dcsyhi.airaw
 Filename: debs/com.bvn.airaw-r2.qy_1.7.0k_iphoneos-arm64e.deb
-Size: 8473760
-MD5sum: bbef79d52936fa452e06e62bff7b835a
-SHA1: 2b16f348e80bbb52ed457510cbc0e61ec74c740e
-SHA256: c7da4fe336b9302b1c285f4d30eedadfe6a9ebba3f1654c6c3ea172a28073412
+Size: 8477436
+MD5sum: 5bc4a1db5b63db3e684c29ad361d88db
+SHA1: dfc6de35ed452dfdc7095dad23a7c32991505489
+SHA256: fba27a7a2f635d58422cfebaee9f66611d2b6ef7bf76716c96f7731f2094cf84
 Section: 车机专用
 Description: CarPlay 增强插件（无根·中文介绍）
  自定义 CarPlay 图标布局与壁纸、状态栏，添加小部件、全屏视图与应用选择，并支持备份/恢复。
@@ -19943,11 +19943,11 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  - 一键备份全部已安装插件（现场重打包为 .deb）+ 软件源列表 + 插件偏好配置 plist
  - 两种备份模式：轻量清单备份 / 完整离线备份（含 deb 安装包）
  - 选择性备份：可勾选要备份的插件与配置，自动标记「设置有界面」的插件
- - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
+ - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
  .
  【恢复流程】
  - 独立 root helper 校验备份完整性、包元数据与架构，依赖由 Sileo 处理
- - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
+ - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
  - 备份结果支持多选恢复，自动处理 Sileo 获取及本地重新安装入队
  - 可跳过已安装插件，独立入口批量选择本地 deb 加入 Sileo 队列
  - 失败插件可单独重试并补入原备份，支持查看与复制工具错误日志
@@ -19962,8 +19962,8 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  .
  【操作流程】
  ① 备份：主页 →「一键备份」→ 选模式（全部插件 / 勾选的插件+配置 / 仅配置）→ 等待完成，备份存于 /var/mobile/Documents/SnapBackup/
- ② 恢复配置：主页 →「恢复配置」→ 选备份�
- ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
+ ② 恢复配置：主页 →「恢复配置」→ 选备份�
+ ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
  .
  RootHide 隐根专门适配：正确读取隐根容器 apt 数据库、动态解析真实 jbroot、不受 .jbroot-xxxx 隔离目录干扰。
  备份目录：/var/mobile/Documents/SnapBackup/；后台不常驻，打开才执行，不耗电。
@@ -19992,11 +19992,11 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  - 一键备份全部已安装插件（现场重打包为 .deb）+ 软件源列表 + 插件偏好配置 plist
  - 两种备份模式：轻量清单备份 / 完整离线备份（含 deb 安装包）
  - 选择性备份：可勾选要备份的插件与配置，自动标记「设置有界面」的插件
- - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
+ - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
  .
  【恢复流程】
  - 独立 root helper 校验备份完整性、包元数据与架构，依赖由 Sileo 处理
- - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
+ - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
  - 备份结果支持多选恢复，自动处理 Sileo 获取及本地重新安装入队
  - 可跳过已安装插件，独立入口批量选择本地 deb 加入 Sileo 队列
  - 失败插件可单独重试并补入原备份，支持查看与复制工具错误日志
@@ -20011,8 +20011,8 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  .
  【操作流程】
  ① 备份：主页 →「一键备份」→ 选模式（全部插件 / 勾选的插件+配置 / 仅配置）→ 等待完成，备份存于 /var/mobile/Documents/SnapBackup/
- ② 恢复配置：主页 →「恢复配置」→ 选备份�
- ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
+ ② 恢复配置：主页 →「恢复配置」→ 选备份�
+ ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
  .
  RootHide 隐根专门适配：正确读取隐根容器 apt 数据库、动态解析真实 jbroot、不受 .jbroot-xxxx 隔离目录干扰。
  备份目录：/var/mobile/Documents/SnapBackup/；后台不常驻，打开才执行，不耗电。
@@ -20041,11 +20041,11 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  - 一键备份全部已安装插件（现场重打包为 .deb）+ 软件源列表 + 插件偏好配置 plist
  - 两种备份模式：轻量清单备份 / 完整离线备份（含 deb 安装包）
  - 选择性备份：可勾选要备份的插件与配置，自动标记「设置有界面」的插件
- - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
+ - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
  .
  【恢复流程】
  - 独立 root helper 校验备份完整性、包元数据与架构，依赖由 Sileo 处理
- - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
+ - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
  - 备份结果支持多选恢复，自动处理 Sileo 获取及本地重新安装入队
  - 可跳过已安装插件，独立入口批量选择本地 deb 加入 Sileo 队列
  - Sileo 内仍支持多选 deb、导入文件夹与 SnapBackup 待恢复任务
@@ -20055,8 +20055,8 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  .
  【操作流程】
  ① 备份：主页 →「一键备份」→ 选模式（全部插件 / 勾选的插件+配置 / 仅配置）→ 等待完成，备份存于 /var/mobile/Documents/SnapBackup/
- ② 恢复配置：主页 →「恢复配置」→ 选备份�
- ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
+ ② 恢复配置：主页 →「恢复配置」→ 选备份�
+ ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
  .
  RootHide 隐根专门适配：正确读取隐根容器 apt 数据库、动态解析真实 jbroot、不受 .jbroot-xxxx 隔离目录干扰。
  备份目录：/var/mobile/Documents/SnapBackup/；后台不常驻，打开才执行，不耗电。
@@ -20085,11 +20085,11 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  - 一键备份全部已安装插件（现场重打包为 .deb）+ 软件源列表 + 插件偏好配置 plist
  - 两种备份模式：轻量清单备份 / 完整离线备份（含 deb 安装包）
  - 选择性备份：可勾选要备份的插件与配置，自动标记「设置有界面」的插件
- - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
+ - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
  .
  【恢复流程】
  - 独立 root helper 校验备份完整性、包元数据与架构，依赖由 Sileo 处理
- - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
+ - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
  - 备份结果支持多选恢复，自动处理 Sileo 获取及本地重新安装入队
  - 可跳过已安装插件，独立入口批量选择本地 deb 加入 Sileo 队列
  - Sileo 内仍支持多选 deb、导入文件夹与 SnapBackup 待恢复任务
@@ -20099,8 +20099,8 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  .
  【操作流程】
  ① 备份：主页 →「一键备份」→ 选模式（全部插件 / 勾选的插件+配置 / 仅配置）→ 等待完成，备份存于 /var/mobile/Documents/SnapBackup/
- ② 恢复配置：主页 →「恢复配置」→ 选备份�
- ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
+ ② 恢复配置：主页 →「恢复配置」→ 选备份�
+ ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
  .
  RootHide 隐根专门适配：正确读取隐根容器 apt 数据库、动态解析真实 jbroot、不受 .jbroot-xxxx 隔离目录干扰。
  备份目录：/var/mobile/Documents/SnapBackup/；后台不常驻，打开才执行，不耗电。
