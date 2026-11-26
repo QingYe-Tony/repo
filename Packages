@@ -18008,6 +18008,58 @@ Author: 清野
 Icon: /var/mobile/Library/Application Support/AirDropBoost/icon.png
 Name: AirDrop-pro
 
+Package: com.qingye.lynxdock
+Version: 4.9.1.1
+Architecture: iphoneos-arm64
+Maintainer: 清野
+Installed-Size: 408
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: debs/com.qingye.lynxdock_4.9.1.1_iphoneos-arm64.deb
+Size: 48808
+MD5sum: b90a422f1696106c413dc1935b7b7770
+SHA1: b78668c8a5ea8097100d393c794735a630fd3bdc
+SHA256: 3d6e9b9fc5cf96b2584312e31a70680adf0c05926dfa80c2a47bf5080d775279
+Section: Tweaks
+Description: Dock 增强：隐藏、背景样式、图标数量、布局微调、浮动 Dock、运行指示器。
+ 功能一览
+ .
+ · 完全隐藏 Dock：一键收起系统 Dock，桌面只留图标。
+ · 背景样式：默认 / 透明 / 深色 / 浅色，透明模式直接去掉 Dock 底板。
+ · Dock 图标数量：4 ~ 10 个，改完立即重排。
+ · 布局微调：上 / 下 / 左 / 右内缩与水平图标间距，支持负值，单位与系统间距一致。
+ · 浮动 Dock：让 iPhone 也能用带「最近应用」的浮动 Dock，可单独关闭分隔线、边框、应用库与最近。
+ · 最近图标数量：0 ~ 10 个，随浮动 Dock 一起生效。
+ · Dock 运行指示器：在图标下方显示圆点或横条，颜色支持深色 / 浅色 / 自动 / 图标主色。
+ · 不依赖 libsubstrate，rootless 与 RootHide 共用同一份二进制。
+Author: 清野
+Name: Dock
+
+Package: com.qingye.lynxdock
+Version: 4.9.1.1
+Architecture: iphoneos-arm64e
+Maintainer: 清野
+Installed-Size: 408
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: debs/com.qingye.lynxdock_4.9.1.1_iphoneos-arm64e.deb
+Size: 48724
+MD5sum: bda7d55f86e11f82b7ff0d4b4d84d4d0
+SHA1: ca75f8f384025cc7ce4b2db927ad8116875fe1fa
+SHA256: 97f64fb30523d866555870e6d246dfc4f61b3867ec4d3633509b86b0d548f222
+Section: Tweaks
+Description: Dock 增强：隐藏、背景样式、图标数量、布局微调、浮动 Dock、运行指示器。
+ 功能一览
+ .
+ · 完全隐藏 Dock：一键收起系统 Dock，桌面只留图标。
+ · 背景样式：默认 / 透明 / 深色 / 浅色，透明模式直接去掉 Dock 底板。
+ · Dock 图标数量：4 ~ 10 个，改完立即重排。
+ · 布局微调：上 / 下 / 左 / 右内缩与水平图标间距，支持负值，单位与系统间距一致。
+ · 浮动 Dock：让 iPhone 也能用带「最近应用」的浮动 Dock，可单独关闭分隔线、边框、应用库与最近。
+ · 最近图标数量：0 ~ 10 个，随浮动 Dock 一起生效。
+ · Dock 运行指示器：在图标下方显示圆点或横条，颜色支持深色 / 浅色 / 自动 / 图标主色。
+ · 不依赖 libsubstrate，rootless 与 RootHide 共用同一份二进制。
+Author: 清野
+Name: Dock
+
 Package: com.qingye.plrename
 Version: 4.9.1.12
 Architecture: iphoneos-arm64e
