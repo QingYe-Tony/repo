@@ -19842,6 +19842,42 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
 Name: AppStoreTroller(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
 
+Package: com.sini921.appstoretroller
+Version: 0.1.2-8
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 1140
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.ccsupport
+Filename: debs/com.sini921.appstoretroller_0.1.2-8_iphoneos-arm64e.deb
+Size: 235606
+MD5sum: 1879fd6724088418459e76367851387b
+SHA1: f4b4758b490e936b865365b91ea290ad3ba8bdfa
+SHA256: 7fd943bc9b80e24caa3d99ec6e3dc8724e804736104cf2255a745890ff7e22f2
+Section: 越狱插件
+Description: 在AppStore中安装应用程序时伪装系统版本以安装需要更高系统版本的应用程序
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
+Name: AppStoreTroller(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
+
+Package: com.sini921.appstoretroller
+Version: 0.1.2-8
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 1140
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.ccsupport
+Filename: debs/com.sini921.appstoretroller_0.1.2-8_iphoneos-arm64.deb
+Size: 239554
+MD5sum: 740b870e9087262a20ef5a39b2f628b9
+SHA1: b5d8d20ceced9434234dca03189e892ebdbaf9a0
+SHA256: 76b70ea5e93c637bb9606a7c448b53aa3fcb8fd612a6885f628bf7d5a04fc067
+Section: 越狱插件
+Description: 在AppStore中安装应用程序时伪装系统版本以安装需要更高系统版本的应用程序
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
+Name: AppStoreTroller(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
+
 Package: com.sini921.disabledwarning
 Version: 0.0.1-2
 Architecture: iphoneos-arm64e
