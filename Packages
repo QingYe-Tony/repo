@@ -5750,7 +5750,7 @@ Section: Tweaks
 Description: Small Notification Banners. Support iOS15+
 Author: Netskao
 Icon: https://axs66.github.io/pro/icon/SmallBanners.png
-Name: SmallBanners 小通知横�
+Name: SmallBanners 小通知横�
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
 Package: com.Axs.smallboards
@@ -6003,7 +6003,7 @@ MD5sum: f495d3cd5869934cb86d576d3705e2de
 SHA1: 1f5ba3a99dbb2172eace1de06c156da8021de27e
 SHA256: 2b5bf298ba39de17284777000d633465efe724edce7fbdc00fa01b4ae5448d3c
 Section: 系统增强
-Description: Spoof your steps!使用巨魔注入器TrollFools注入要修改运动步数的APP，当然也可以sileo直接安�
+Description: Spoof your steps!使用巨魔注入器TrollFools注入要修改运动步数的APP，当然也可以sileo直接安�
 Author: uz.ra
 Icon: https://axs66.github.io/pro/icon/steppy.png
 Name: Steppy 步数修改器
@@ -10748,7 +10748,7 @@ Maintainer: BVN Repo
 Installed-Size: 12000
 Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), ws.hbang.common,com.opa334.ccsupport
 Replaces: jp.dcsyhi.airaw
-Filename: debs/Airaw VH (无根·中文)-1.7.0k.deb
+Filename: debs/com.bvn.airaw-r2.qy_1.7.0k_iphoneos-arm64.deb
 Size: 8490396
 MD5sum: 7315cb1192c25806cdecf3e93fc7b6c0
 SHA1: bc04bfc23ae72702288a2853f57000450231b11b
@@ -10770,7 +10770,7 @@ Installed-Size: 12000
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), ws.hbang.common,com.opa334.ccsupport
 Replaces: jp.dcsyhi.airaw
-Filename: debs/Airaw VH (隐根·中文)-1.7.0k.deb
+Filename: debs/com.bvn.airaw-r2.qy_1.7.0k_iphoneos-arm64e.deb
 Size: 8473444
 MD5sum: 1bc0d82cdf34f61d3301ff85fce48529
 SHA1: c4726c25d77e273fa0bb49f46a67d232214770f1
@@ -10792,7 +10792,7 @@ Installed-Size: 2374
 Depends: mobilesubstrate, preferenceloader, firmware (>=16.0), com.bvn.airaw-r2.qy (>=1.7.0)
 Conflicts: com.leftyfl1p.carbridge13
 Replaces: jp.dcsyhi.carcast
-Filename: debs/CarCast VH (无根·中文)-1.0.deb
+Filename: debs/com.bvn.carcast.r2.qy_1.0_iphoneos-arm64.deb
 Size: 1520300
 MD5sum: a251541dd3fc4b55d618f47d7f25c063
 SHA1: bdd3012d5a9e990d917a6d43ec90cab2fd35cb53
@@ -10815,7 +10815,7 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, firmware (>=16.0), com.bvn.airaw-r2.qy (>=1.7.0)
 Conflicts: com.leftyfl1p.carbridge13
 Replaces: jp.dcsyhi.carcast
-Filename: debs/CarCast VH (隐根·中文)-1.0.deb
+Filename: debs/com.bvn.carcast.r2.qy_1.0_iphoneos-arm64e.deb
 Size: 1518400
 MD5sum: a1493e90e1e8a25a37268ea9b40908e6
 SHA1: e21fae6f85e8aba01660013f87fca7838f260ca3
@@ -10837,7 +10837,7 @@ Installed-Size: 442
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>=16.0), com.bvn.airaw-r2.qy (>=1.7.0)
 Replaces: jp.dcsyhi.airaw.splitnative
-Filename: debs/Airaw Split View Native (隐根·中文)-1.0.deb
+Filename: debs/com.bvn.splitnative.r2.qy_1.0_iphoneos-arm64e.deb
 Size: 30260
 MD5sum: 2f5589e3f9a486d9bb58013917165305
 SHA1: f6bd3b1224969a8e50cce7fcc0a397b1920f8794
@@ -10858,7 +10858,7 @@ Maintainer: BVN
 Installed-Size: 442
 Depends: mobilesubstrate, firmware (>=16.0), com.bvn.airaw-r2.qy (>=1.7.0)
 Replaces: jp.dcsyhi.airaw.splitnative
-Filename: debs/Airaw Split View Native (无根·中文)-1.0.deb
+Filename: debs/com.bvn.splitnative.r2.qy_1.0_iphoneos-arm64.deb
 Size: 31216
 MD5sum: b6d9baee29eae2dc98d877f0adb94f61
 SHA1: 91dd672b42a9b35f30fda38c4f3d9429c435a73f
@@ -10880,7 +10880,7 @@ Installed-Size: 408
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>=16.0), com.bvn.airaw-r2.qy (>=1.7.0)
 Replaces: jp.dcsyhi.airaw.splitstandard
-Filename: debs/Airaw Split View Standard (隐根·中文)-1.0.deb
+Filename: debs/com.bvn.splitstandard.r2.qy_1.0_iphoneos-arm64e.deb
 Size: 21308
 MD5sum: 9425d0e68c44e7feb9c25a9c5344e913
 SHA1: c1bc1eea4bb64db60f9b2b75e7afb62bd42149e1
@@ -10901,7 +10901,7 @@ Maintainer: BVN Repo
 Installed-Size: 408
 Depends: mobilesubstrate, firmware (>=16.0), com.bvn.airaw-r2.qy (>=1.7.0)
 Replaces: jp.dcsyhi.airaw.splitstandard
-Filename: debs/Airaw Split View Standard (无根·中文)-1.0.deb
+Filename: debs/com.bvn.splitstandard.r2.qy_1.0_iphoneos-arm64.deb
 Size: 21992
 MD5sum: ec62a3248d92c7d56c50271262bbf9f1
 SHA1: fb662714df22c3a399e3890c44c9b434a7023ae6
@@ -19943,11 +19943,11 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  - 一键备份全部已安装插件（现场重打包为 .deb）+ 软件源列表 + 插件偏好配置 plist
  - 两种备份模式：轻量清单备份 / 完整离线备份（含 deb 安装包）
  - 选择性备份：可勾选要备份的插件与配置，自动标记「设置有界面」的插件
- - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
+ - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
  .
  【恢复流程】
  - 独立 root helper 校验备份完整性、包元数据与架构，依赖由 Sileo 处理
- - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
+ - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
  - 备份结果支持多选恢复，自动处理 Sileo 获取及本地重新安装入队
  - 可跳过已安装插件，独立入口批量选择本地 deb 加入 Sileo 队列
  - 失败插件可单独重试并补入原备份，支持查看与复制工具错误日志
@@ -19962,8 +19962,8 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  .
  【操作流程】
  ① 备份：主页 →「一键备份」→ 选模式（全部插件 / 勾选的插件+配置 / 仅配置）→ 等待完成，备份存于 /var/mobile/Documents/SnapBackup/
- ② 恢复配置：主页 →「恢复配置」→ 选备份�
- ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
+ ② 恢复配置：主页 →「恢复配置」→ 选备份�
+ ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
  .
  RootHide 隐根专门适配：正确读取隐根容器 apt 数据库、动态解析真实 jbroot、不受 .jbroot-xxxx 隔离目录干扰。
  备份目录：/var/mobile/Documents/SnapBackup/；后台不常驻，打开才执行，不耗电。
@@ -19992,11 +19992,11 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  - 一键备份全部已安装插件（现场重打包为 .deb）+ 软件源列表 + 插件偏好配置 plist
  - 两种备份模式：轻量清单备份 / 完整离线备份（含 deb 安装包）
  - 选择性备份：可勾选要备份的插件与配置，自动标记「设置有界面」的插件
- - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
+ - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
  .
  【恢复流程】
  - 独立 root helper 校验备份完整性、包元数据与架构，依赖由 Sileo 处理
- - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
+ - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
  - 备份结果支持多选恢复，自动处理 Sileo 获取及本地重新安装入队
  - 可跳过已安装插件，独立入口批量选择本地 deb 加入 Sileo 队列
  - 失败插件可单独重试并补入原备份，支持查看与复制工具错误日志
@@ -20011,8 +20011,8 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  .
  【操作流程】
  ① 备份：主页 →「一键备份」→ 选模式（全部插件 / 勾选的插件+配置 / 仅配置）→ 等待完成，备份存于 /var/mobile/Documents/SnapBackup/
- ② 恢复配置：主页 →「恢复配置」→ 选备份�
- ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
+ ② 恢复配置：主页 →「恢复配置」→ 选备份�
+ ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
  .
  RootHide 隐根专门适配：正确读取隐根容器 apt 数据库、动态解析真实 jbroot、不受 .jbroot-xxxx 隔离目录干扰。
  备份目录：/var/mobile/Documents/SnapBackup/；后台不常驻，打开才执行，不耗电。
@@ -20041,11 +20041,11 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  - 一键备份全部已安装插件（现场重打包为 .deb）+ 软件源列表 + 插件偏好配置 plist
  - 两种备份模式：轻量清单备份 / 完整离线备份（含 deb 安装包）
  - 选择性备份：可勾选要备份的插件与配置，自动标记「设置有界面」的插件
- - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
+ - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
  .
  【恢复流程】
  - 独立 root helper 校验备份完整性、包元数据与架构，依赖由 Sileo 处理
- - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
+ - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
  - 备份结果支持多选恢复，自动处理 Sileo 获取及本地重新安装入队
  - 可跳过已安装插件，独立入口批量选择本地 deb 加入 Sileo 队列
  - Sileo 内仍支持多选 deb、导入文件夹与 SnapBackup 待恢复任务
@@ -20055,8 +20055,8 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  .
  【操作流程】
  ① 备份：主页 →「一键备份」→ 选模式（全部插件 / 勾选的插件+配置 / 仅配置）→ 等待完成，备份存于 /var/mobile/Documents/SnapBackup/
- ② 恢复配置：主页 →「恢复配置」→ 选备份�
- ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
+ ② 恢复配置：主页 →「恢复配置」→ 选备份�
+ ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
  .
  RootHide 隐根专门适配：正确读取隐根容器 apt 数据库、动态解析真实 jbroot、不受 .jbroot-xxxx 隔离目录干扰。
  备份目录：/var/mobile/Documents/SnapBackup/；后台不常驻，打开才执行，不耗电。
@@ -20085,11 +20085,11 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  - 一键备份全部已安装插件（现场重打包为 .deb）+ 软件源列表 + 插件偏好配置 plist
  - 两种备份模式：轻量清单备份 / 完整离线备份（含 deb 安装包）
  - 选择性备份：可勾选要备份的插件与配置，自动标记「设置有界面」的插件
- - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
+ - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
  .
  【恢复流程】
  - 独立 root helper 校验备份完整性、包元数据与架构，依赖由 Sileo 处理
- - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
+ - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
  - 备份结果支持多选恢复，自动处理 Sileo 获取及本地重新安装入队
  - 可跳过已安装插件，独立入口批量选择本地 deb 加入 Sileo 队列
  - Sileo 内仍支持多选 deb、导入文件夹与 SnapBackup 待恢复任务
@@ -20099,8 +20099,8 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  .
  【操作流程】
  ① 备份：主页 →「一键备份」→ 选模式（全部插件 / 勾选的插件+配置 / 仅配置）→ 等待完成，备份存于 /var/mobile/Documents/SnapBackup/
- ② 恢复配置：主页 →「恢复配置」→ 选备份�
- ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
+ ② 恢复配置：主页 →「恢复配置」→ 选备份�
+ ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
  .
  RootHide 隐根专门适配：正确读取隐根容器 apt 数据库、动态解析真实 jbroot、不受 .jbroot-xxxx 隔离目录干扰。
  备份目录：/var/mobile/Documents/SnapBackup/；后台不常驻，打开才执行，不耗电。
