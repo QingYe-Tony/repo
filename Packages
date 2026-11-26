@@ -5750,7 +5750,7 @@ Section: Tweaks
 Description: Small Notification Banners. Support iOS15+
 Author: Netskao
 Icon: https://axs66.github.io/pro/icon/SmallBanners.png
-Name: SmallBanners 小通知横�
+Name: SmallBanners 小通知横�
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
 Package: com.Axs.smallboards
@@ -6003,7 +6003,7 @@ MD5sum: f495d3cd5869934cb86d576d3705e2de
 SHA1: 1f5ba3a99dbb2172eace1de06c156da8021de27e
 SHA256: 2b5bf298ba39de17284777000d633465efe724edce7fbdc00fa01b4ae5448d3c
 Section: 系统增强
-Description: Spoof your steps!使用巨魔注入器TrollFools注入要修改运动步数的APP，当然也可以sileo直接安�
+Description: Spoof your steps!使用巨魔注入器TrollFools注入要修改运动步数的APP，当然也可以sileo直接安�
 Author: uz.ra
 Icon: https://axs66.github.io/pro/icon/steppy.png
 Name: Steppy 步数修改器
@@ -10776,7 +10776,7 @@ MD5sum: b689b7643f15d8ca787aa9cc15f27e54
 SHA1: ae2641fb6135de24c11ffd03ae3651863213034f
 SHA256: 7156a18eb1275f31d6c44953eb32f87a52b50917488c4386b88fa7371562b182
 Section: 车机专用
-Description: CarPlay 增强插件（无根·中文介绍）
+Description: CarPlay 增强插件（隐根·中文介绍）
  自定义 CarPlay 图标布局与壁纸、状态栏，添加小部件、全屏视图与应用选择，并支持备份/恢复。
  需要 iOS 14 以上；依赖 Cephei（ws.hbang.common）与 CCSupport。
  本包为隐根（roothide）版本，介绍已汉化。
@@ -10786,44 +10786,44 @@ Name: Airaw VH(隐根)
 
 Package: com.bvn.airaw-r2.qy
 Version: 1.7.1k
-Architecture: iphoneos-arm64
-Section: 车机专用
-Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
-Author: 清野
-Installed-Size: 12029
-Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), com.opa334.ccsupport
-Name: Airaw VH(无根)
-Filename: debs/com.bvn.airaw-r2.qy_1.7.1k_iphoneos-arm64.deb
-Size: 8546888
-MD5sum: 528f71d81559ab7e263dd0821ac1b0a3
-SHA1: 99365574519d035b2a85e2e38fe580c13ce5fef3
-SHA256: f6550dfe72b2fca21d8162a6831ced73f0fa251458c891a7976254ec76a9521d
-Description: CarPlay 增强插件（无根·中文介绍）
- 自定义 CarPlay 图标布局与壁纸、状态栏，添加小部件、全屏视图与应用选择，并支持备份/恢复。
- 需要 iOS 14 以上；依赖 CCSupport；分屏与 CarCast 为可选附加组件。
- 本包为无根（rootless）版本，介绍已汉化。
-Icon: https://bvnrepo999.github.io/icon/tinhchinh.png
-
-Package: com.bvn.airaw-r2.qy
-Version: 1.7.1k
 Architecture: iphoneos-arm64e
-Section: 车机专用
 Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
-Author: 清野
 Installed-Size: 12029
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), com.opa334.ccsupport
-Name: Airaw VH(隐根)
 Filename: debs/com.bvn.airaw-r2.qy_1.7.1k_iphoneos-arm64e.deb
 Size: 8530948
 MD5sum: 86df0d982924e921780673ad96ba5aba
 SHA1: 78d9d082e31d427c1c1dc51d87d7b7e44b116ede
 SHA256: 1400d8a78cecea37765935e0e274ee5a86ed3acec033c95a3f33f6e4b0bb0560
+Section: 车机专用
 Description: CarPlay 增强插件（隐根·中文介绍）
  自定义 CarPlay 图标布局与壁纸、状态栏，添加小部件、全屏视图与应用选择，并支持备份/恢复。
  需要 iOS 14 以上；依赖 CCSupport；分屏与 CarCast 为可选附加组件。
  本包为隐根（roothide）版本，介绍已汉化。
+Author: 清野
 Icon: https://bvnrepo999.github.io/icon/tinhchinh.png
-Pre-Depends: rootless-compat(>= 0.9)
+Name: Airaw VH(隐根)
+
+Package: com.bvn.airaw-r2.qy
+Version: 1.7.1k
+Architecture: iphoneos-arm64
+Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
+Installed-Size: 12029
+Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), com.opa334.ccsupport
+Filename: debs/com.bvn.airaw-r2.qy_1.7.1k_iphoneos-arm64.deb
+Size: 8546888
+MD5sum: 528f71d81559ab7e263dd0821ac1b0a3
+SHA1: 99365574519d035b2a85e2e38fe580c13ce5fef3
+SHA256: f6550dfe72b2fca21d8162a6831ced73f0fa251458c891a7976254ec76a9521d
+Section: 车机专用
+Description: CarPlay 增强插件（无根·中文介绍）
+ 自定义 CarPlay 图标布局与壁纸、状态栏，添加小部件、全屏视图与应用选择，并支持备份/恢复。
+ 需要 iOS 14 以上；依赖 CCSupport；分屏与 CarCast 为可选附加组件。
+ 本包为无根（rootless）版本，介绍已汉化。
+Author: 清野
+Icon: https://bvnrepo999.github.io/icon/tinhchinh.png
+Name: Airaw VH(无根)
 
 Package: com.bvn.carcast.r2.qy
 Version: 1.0
@@ -10873,47 +10873,47 @@ Name: CarCast VH(隐根)
 Package: com.bvn.carcast.r2.qy
 Version: 1.2
 Architecture: iphoneos-arm64
-Section: 车机专用
 Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
-Author: 清野
 Installed-Size: 2359
 Depends: mobilesubstrate, preferenceloader, firmware (>=17.0), com.bvn.airaw-r2.qy (>=1.7.0)
 Conflicts: com.leftyfl1p.carbridge13, com.repobvn.carbridge13.qy
-Name: CarCast VH(无根)
+Replaces: jp.dcsyhi.carcast
 Filename: debs/com.bvn.carcast.r2.qy_1.2_iphoneos-arm64.deb
 Size: 1520460
 MD5sum: 85f341036fd76a10b9f7add10cfd3848
 SHA1: adc451fa9cbe5105d6fc079397a93ad66443d0a1
 SHA256: d326167d7b3e7aba8516abac4e28c50bc9829e3d35769b0fe187f3914f09a243
+Section: 车机专用
 Description: 把非 CarPlay 应用添加到车机主屏幕（需要 Airaw）
  将非 CarPlay 应用固定到 CarPlay 仪表盘主屏幕，支持分屏与图标主题。
  需要 Airaw，要求 iOS 17 以上；已在 iOS 17、iOS 18 和 iOS 26 上测试。
  本包为无根（rootless）版本，介绍已汉化。
-Replaces: jp.dcsyhi.carcast 
+Author: 清野
 Icon: https://bvnrepo999.github.io/icon/tinhchinh.png
+Name: CarCast VH(无根)
 
 Package: com.bvn.carcast.r2.qy
 Version: 1.2
 Architecture: iphoneos-arm64e
-Section: 车机专用
 Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
-Author: 清野
 Installed-Size: 2359
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, firmware (>=17.0), com.bvn.airaw-r2.qy (>=1.7.0)
 Conflicts: com.leftyfl1p.carbridge13, com.repobvn.carbridge13.qy
-Name: CarCast VH(隐根)
+Replaces: jp.dcsyhi.carcast
 Filename: debs/com.bvn.carcast.r2.qy_1.2_iphoneos-arm64e.deb
 Size: 1518632
 MD5sum: 8fa35e754e06ea023ac08eadd7650ecd
 SHA1: 52c04f708b19521fdba814d8263a9cc21c43baa3
 SHA256: 98a14dc95525b20efe7bd31cc2bcccb128ca7f8e820ffa4090dbd559a7ca02e0
+Section: 车机专用
 Description: 把非 CarPlay 应用添加到车机主屏幕（需要 Airaw）
  将非 CarPlay 应用固定到 CarPlay 仪表盘主屏幕，支持分屏与图标主题。
  需要 Airaw，要求 iOS 17 以上；已在 iOS 17、iOS 18 和 iOS 26 上测试。
  本包为隐根（roothide）版本，介绍已汉化。
-Replaces: jp.dcsyhi.carcast 
+Author: 清野
 Icon: https://bvnrepo999.github.io/icon/tinhchinh.png
-Pre-Depends: rootless-compat(>= 0.9)
+Name: CarCast VH(隐根)
 
 Package: com.bvn.splitnative.r2.qy
 Version: 1.0
@@ -18359,47 +18359,47 @@ Author: Rain
 Name: Rain的锁屏壁纸
 
 Package: com.repobvn.carbridge13.qy
-Name: CarBridge VH(无根)
-Filename: debs/com.repobvn.carbridge13.qy_2.0.16k_iphoneos-arm64.deb
-Size: 403808
-MD5sum: 14e6ac9fadf2c3e050341528ec398189
-SHA1: 6fbd58aa01f04412623427282b4cdf6643f1ae8e
-SHA256: 78252e594d4700beb4577370bf799803570249f998ddf4cb12fedd8fd8ef973f
-Description: 让任意应用在 CarPlay 上运行（无根·中文介绍）
- CarPlay 第三方应用加载器：把任意已安装应用投送到车机屏幕，支持逐应用设置与图标列数调整。
- 需要 iOS 13 以上；依赖 AltList（com.opa334.altlist）。与 CarCast 互斥，二者只能装其一。
- 本包为无根（rootless）版本，介绍已汉化。
-Maintainer: leftyfl1p
-Author: 清野
-Section: 车机专用
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
-Icon: https://bvnrepo.xyz/icon/tinhchinh.png
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable, com.bvn.carbridge13, com.leftyfl1p.carbridge13, com.tqm-mos.carbridge13, com.repobvn.carbridge13-roothide, com.bvn.carcast.r2.qy
-Architecture: iphoneos-arm64
 Version: 2.0.16k
+Architecture: iphoneos-arm64e
+Maintainer: leftyfl1p
 Installed-Size: 7344
-
-Package: com.repobvn.carbridge13.qy
-Name: CarBridge VH(隐根)
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable, com.bvn.carbridge13, com.leftyfl1p.carbridge13, com.tqm-mos.carbridge13, com.repobvn.carbridge13-roothide, com.bvn.carcast.r2.qy
 Filename: debs/com.repobvn.carbridge13.qy_2.0.16k_iphoneos-arm64e.deb
 Size: 404148
 MD5sum: 365afccc8ce42b49cdbc17c28aa40f08
 SHA1: a8e9041d2431c93e6cb3f600a268fa97926f2cc3
 SHA256: 1f4473f89e4090b3781cd74d2eb3973a1586b145035fcb9c1309bedcf76c8877
+Section: 车机专用
 Description: 让任意应用在 CarPlay 上运行（隐根·中文介绍）
  CarPlay 第三方应用加载器：把任意已安装应用投送到车机屏幕，支持逐应用设置与图标列数调整。
  需要 iOS 13 以上；依赖 AltList（com.opa334.altlist）。与 CarCast 互斥，二者只能装其一。
  本包为隐根（roothide）版本，介绍已汉化。
-Maintainer: leftyfl1p
 Author: 清野
-Section: 车机专用
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
 Icon: https://bvnrepo.xyz/icon/tinhchinh.png
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable, com.bvn.carbridge13, com.leftyfl1p.carbridge13, com.tqm-mos.carbridge13, com.repobvn.carbridge13-roothide, com.bvn.carcast.r2.qy
-Architecture: iphoneos-arm64e
+Name: CarBridge VH(隐根)
+
+Package: com.repobvn.carbridge13.qy
 Version: 2.0.16k
+Architecture: iphoneos-arm64
+Maintainer: leftyfl1p
 Installed-Size: 7344
-Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable, com.bvn.carbridge13, com.leftyfl1p.carbridge13, com.tqm-mos.carbridge13, com.repobvn.carbridge13-roothide, com.bvn.carcast.r2.qy
+Filename: debs/com.repobvn.carbridge13.qy_2.0.16k_iphoneos-arm64.deb
+Size: 403808
+MD5sum: 14e6ac9fadf2c3e050341528ec398189
+SHA1: 6fbd58aa01f04412623427282b4cdf6643f1ae8e
+SHA256: 78252e594d4700beb4577370bf799803570249f998ddf4cb12fedd8fd8ef973f
+Section: 车机专用
+Description: 让任意应用在 CarPlay 上运行（无根·中文介绍）
+ CarPlay 第三方应用加载器：把任意已安装应用投送到车机屏幕，支持逐应用设置与图标列数调整。
+ 需要 iOS 13 以上；依赖 AltList（com.opa334.altlist）。与 CarCast 互斥，二者只能装其一。
+ 本包为无根（rootless）版本，介绍已汉化。
+Author: 清野
+Icon: https://bvnrepo.xyz/icon/tinhchinh.png
+Name: CarBridge VH(无根)
 
 Package: com.roothide.lockdown
 Version: 1.0.1
@@ -20196,11 +20196,11 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  - 一键备份全部已安装插件（现场重打包为 .deb）+ 软件源列表 + 插件偏好配置 plist
  - 两种备份模式：轻量清单备份 / 完整离线备份（含 deb 安装包）
  - 选择性备份：可勾选要备份的插件与配置，自动标记「设置有界面」的插件
- - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
+ - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
  .
  【恢复流程】
  - 独立 root helper 校验备份完整性、包元数据与架构，依赖由 Sileo 处理
- - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
+ - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
  - 备份结果支持多选恢复，自动处理 Sileo 获取及本地重新安装入队
  - 可跳过已安装插件，独立入口批量选择本地 deb 加入 Sileo 队列
  - 失败插件可单独重试并补入原备份，支持查看与复制工具错误日志
@@ -20215,8 +20215,8 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  .
  【操作流程】
  ① 备份：主页 →「一键备份」→ 选模式（全部插件 / 勾选的插件+配置 / 仅配置）→ 等待完成，备份存于 /var/mobile/Documents/SnapBackup/
- ② 恢复配置：主页 →「恢复配置」→ 选备份�
- ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
+ ② 恢复配置：主页 →「恢复配置」→ 选备份�
+ ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
  .
  RootHide 隐根专门适配：正确读取隐根容器 apt 数据库、动态解析真实 jbroot、不受 .jbroot-xxxx 隔离目录干扰。
  备份目录：/var/mobile/Documents/SnapBackup/；后台不常驻，打开才执行，不耗电。
@@ -20245,11 +20245,11 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  - 一键备份全部已安装插件（现场重打包为 .deb）+ 软件源列表 + 插件偏好配置 plist
  - 两种备份模式：轻量清单备份 / 完整离线备份（含 deb 安装包）
  - 选择性备份：可勾选要备份的插件与配置，自动标记「设置有界面」的插件
- - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
+ - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
  .
  【恢复流程】
  - 独立 root helper 校验备份完整性、包元数据与架构，依赖由 Sileo 处理
- - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
+ - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
  - 备份结果支持多选恢复，自动处理 Sileo 获取及本地重新安装入队
  - 可跳过已安装插件，独立入口批量选择本地 deb 加入 Sileo 队列
  - 失败插件可单独重试并补入原备份，支持查看与复制工具错误日志
@@ -20264,8 +20264,8 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  .
  【操作流程】
  ① 备份：主页 →「一键备份」→ 选模式（全部插件 / 勾选的插件+配置 / 仅配置）→ 等待完成，备份存于 /var/mobile/Documents/SnapBackup/
- ② 恢复配置：主页 →「恢复配置」→ 选备份�
- ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
+ ② 恢复配置：主页 →「恢复配置」→ 选备份�
+ ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
  .
  RootHide 隐根专门适配：正确读取隐根容器 apt 数据库、动态解析真实 jbroot、不受 .jbroot-xxxx 隔离目录干扰。
  备份目录：/var/mobile/Documents/SnapBackup/；后台不常驻，打开才执行，不耗电。
@@ -20294,11 +20294,11 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  - 一键备份全部已安装插件（现场重打包为 .deb）+ 软件源列表 + 插件偏好配置 plist
  - 两种备份模式：轻量清单备份 / 完整离线备份（含 deb 安装包）
  - 选择性备份：可勾选要备份的插件与配置，自动标记「设置有界面」的插件
- - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
+ - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
  .
  【恢复流程】
  - 独立 root helper 校验备份完整性、包元数据与架构，依赖由 Sileo 处理
- - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
+ - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
  - 备份结果支持多选恢复，自动处理 Sileo 获取及本地重新安装入队
  - 可跳过已安装插件，独立入口批量选择本地 deb 加入 Sileo 队列
  - Sileo 内仍支持多选 deb、导入文件夹与 SnapBackup 待恢复任务
@@ -20308,8 +20308,8 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  .
  【操作流程】
  ① 备份：主页 →「一键备份」→ 选模式（全部插件 / 勾选的插件+配置 / 仅配置）→ 等待完成，备份存于 /var/mobile/Documents/SnapBackup/
- ② 恢复配置：主页 →「恢复配置」→ 选备份�
- ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
+ ② 恢复配置：主页 →「恢复配置」→ 选备份�
+ ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
  .
  RootHide 隐根专门适配：正确读取隐根容器 apt 数据库、动态解析真实 jbroot、不受 .jbroot-xxxx 隔离目录干扰。
  备份目录：/var/mobile/Documents/SnapBackup/；后台不常驻，打开才执行，不耗电。
@@ -20338,11 +20338,11 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  - 一键备份全部已安装插件（现场重打包为 .deb）+ 软件源列表 + 插件偏好配置 plist
  - 两种备份模式：轻量清单备份 / 完整离线备份（含 deb 安装包）
  - 选择性备份：可勾选要备份的插件与配置，自动标记「设置有界面」的插件
- - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
+ - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
  .
  【恢复流程】
  - 独立 root helper 校验备份完整性、包元数据与架构，依赖由 Sileo 处理
- - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
+ - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
  - 备份结果支持多选恢复，自动处理 Sileo 获取及本地重新安装入队
  - 可跳过已安装插件，独立入口批量选择本地 deb 加入 Sileo 队列
  - Sileo 内仍支持多选 deb、导入文件夹与 SnapBackup 待恢复任务
@@ -20352,8 +20352,8 @@ Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐�
  .
  【操作流程】
  ① 备份：主页 →「一键备份」→ 选模式（全部插件 / 勾选的插件+配置 / 仅配置）→ 等待完成，备份存于 /var/mobile/Documents/SnapBackup/
- ② 恢复配置：主页 →「恢复配置」→ 选备份�
- ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
+ ② 恢复配置：主页 →「恢复配置」→ 选备份�
+ ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
  .
  RootHide 隐根专门适配：正确读取隐根容器 apt 数据库、动态解析真实 jbroot、不受 .jbroot-xxxx 隔离目录干扰。
  备份目录：/var/mobile/Documents/SnapBackup/；后台不常驻，打开才执行，不耗电。
@@ -23372,3 +23372,4 @@ Section: Tweaks
 Description: 屏蔽快捷指令自动化通知!
 Author: zqbb
 Name: 屏蔽快捷指令自动化通知
+
