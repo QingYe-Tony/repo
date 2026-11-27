@@ -17680,6 +17680,66 @@ Description: Dock 增强：隐藏、背景样式、图标数量、布局微调�
 Author: 清野
 Name: Dock
 
+Package: com.qingye.lynxdock
+Version: 4.9.1.2
+Architecture: iphoneos-arm64e
+Maintainer: 清野
+Installed-Size: 472
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: debs/com.qingye.lynxdock_4.9.1.2_iphoneos-arm64e.deb
+Size: 54904
+MD5sum: 37d49f674d6bd1dfd7b3e1fcf42a7689
+SHA1: fc6f264fb9128008488d050cfa411672910b72af
+SHA256: a76db8c54590ad9990c0e770fdb19a1c9eacd39222af746736b3a0b583eadd4a
+Section: Tweaks
+Description: Dock 增强：透明背景、图标数量、布局微调、浮动 Dock。
+ 功能
+ .
+ · 背景样式：默认 / 透明。透明模式直接去掉 Dock 底板，连投影一起。
+ · Dock 图标数量：4 ~ 10 个，改完立即重排。
+ · 布局微调：上 / 下 / 左 / 右内缩与水平图标间距。拖滑块调，也可以点右侧的数字精确输入（−30 ~ +30），1:1 生效。
+ · 浮动 Dock：让 iPhone 也能用带「最近应用」的浮动 Dock，可单独关闭分隔线、边框、应用库与最近。
+ · 最近图标数量：0 ~ 10 个，随浮动 Dock 一起生效。
+ 本版改动
+ .
+ · 布局微调的数字可以点：滑块右侧那个数值点一下弹输入框，敲完即生效，不用再跟滑块较劲。
+ · 数值右移、滑轨右端收短：点数字不会再误触到滑轨，把值一下顶到最大。
+ · 去掉三项用不上的功能（完全隐藏 Dock、深色 / 浅色背景、运行指示器），以及本来就不生效的「在应用切换器中禁用」。
+ · 清掉多余代码：删掉 4 个没用的函数，以及 4 处只做计数、不改任何行为的钩子；挂钩点剩 18 处，自检日志保留。
+ · 不依赖 libsubstrate，rootless 与 RootHide 共用同一份二进制。
+Author: 清野
+Name: Dock
+
+Package: com.qingye.lynxdock
+Version: 4.9.1.2
+Architecture: iphoneos-arm64
+Maintainer: 清野
+Installed-Size: 472
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: debs/com.qingye.lynxdock_4.9.1.2_iphoneos-arm64.deb
+Size: 57148
+MD5sum: 9cb0b5fd8c615e9600a4a129f7df7e90
+SHA1: 5a97802aaed79defdf43daaf3eb4d00fd0242e26
+SHA256: 135c4682025f7bac05e173a68c56ed29c6bccb14a3edebb95450715511f02a49
+Section: Tweaks
+Description: Dock 增强：透明背景、图标数量、布局微调、浮动 Dock。
+ 功能
+ .
+ · 背景样式：默认 / 透明。透明模式直接去掉 Dock 底板，连投影一起。
+ · Dock 图标数量：4 ~ 10 个，改完立即重排。
+ · 布局微调：上 / 下 / 左 / 右内缩与水平图标间距。拖滑块调，也可以点右侧的数字精确输入（−30 ~ +30），1:1 生效。
+ · 浮动 Dock：让 iPhone 也能用带「最近应用」的浮动 Dock，可单独关闭分隔线、边框、应用库与最近。
+ · 最近图标数量：0 ~ 10 个，随浮动 Dock 一起生效。
+ 本版改动
+ .
+ · 布局微调的数字可以点：滑块右侧那个数值点一下弹输入框，敲完即生效，不用再跟滑块较劲。
+ · 数值右移、滑轨右端收短：点数字不会再误触到滑轨，把值一下顶到最大。
+ · 去掉三项用不上的功能（完全隐藏 Dock、深色 / 浅色背景、运行指示器），以及本来就不生效的「在应用切换器中禁用」。
+ · 清掉多余代码：删掉 4 个没用的函数，以及 4 处只做计数、不改任何行为的钩子；挂钩点剩 18 处，自检日志保留。
+ · 不依赖 libsubstrate，rootless 与 RootHide 共用同一份二进制。
+Author: 清野
+Name: Dock
+
 Package: com.qingye.plrename
 Version: 4.9.1.12
 Architecture: iphoneos-arm64e
@@ -19286,34 +19346,16 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/tweaksett.png
 Name: TweakSettings(rootless)
 
 Package: com.sini921.appstoretroller
-Version: 0.1.2-6
-Architecture: iphoneos-arm64
-Maintainer: SINI
-Installed-Size: 1140
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.ccsupport
-Filename: debs/com.sini921.appstoretroller_0.1.2-6_iphoneos-arm64.deb
-Size: 238296
-MD5sum: 25c49cdabfaa2999c07fe62cefd8b572
-SHA1: 97cfe03d71f4fdc338833f340316186f72548e4d
-SHA256: f4cae0a2dd5e2f3912461de139de7b1de634008700bd928e9c83db86450b09a8
-Section: 越狱插件
-Description: 在AppStore中安装应用程序时伪装系统版本以安装需要更高系统版本的应用程序
-Author: SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
-Name: AppStoreTroller(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
-
-Package: com.sini921.appstoretroller
-Version: 0.1.2-6
+Version: 0.1.2-10
 Architecture: iphoneos-arm64e
 Maintainer: SINI
-Installed-Size: 1140
+Installed-Size: 1596
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.ccsupport
-Filename: debs/com.sini921.appstoretroller_0.1.2-6_iphoneos-arm64e.deb
-Size: 235864
-MD5sum: ae1fcaf65828f39b130222f1e441acad
-SHA1: b12c51f2edd5ec32189c522b5c720d695bdd06a7
-SHA256: 70cc112042adedcb9f8c454fe94431081512bd76c767f6df414206c78b0e0a97
+Filename: debs/com.sini921.appstoretroller_0.1.2-10_iphoneos-arm64e.deb
+Size: 262532
+MD5sum: becda4c8409adf7b950d8d402c216090
+SHA1: 6f2c839570c7757d6a03738a68b01e16bee149af
+SHA256: 93fcd1868aea5e36f2e5f9556a09600d9668dc15a201165a9c0a4c909a4658e7
 Section: 越狱插件
 Description: 在AppStore中安装应用程序时伪装系统版本以安装需要更高系统版本的应用程序
 Author: SINI
@@ -19322,106 +19364,16 @@ Name: AppStoreTroller(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
 
 Package: com.sini921.appstoretroller
-Version: 0.1.2-7
-Architecture: iphoneos-arm64e
-Maintainer: SINI
-Installed-Size: 1140
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.ccsupport
-Filename: debs/com.sini921.appstoretroller_0.1.2-7_iphoneos-arm64e.deb
-Size: 235388
-MD5sum: 8f6d3789e39e45e62631a8ad9e12cc1f
-SHA1: 30d477b0200cc52f218e29ef5d2ba87901f717c8
-SHA256: e0b2eaaa8de6cece4682f4a588c4663cc8b3a3f9b8ece02dcc2db7e84d474885
-Section: 越狱插件
-Description: 在AppStore中安装应用程序时伪装系统版本以安装需要更高系统版本的应用程序
-Author: SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
-Name: AppStoreTroller(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
-
-Package: com.sini921.appstoretroller
-Version: 0.1.2-7
+Version: 0.1.2-10
 Architecture: iphoneos-arm64
 Maintainer: SINI
-Installed-Size: 1140
+Installed-Size: 1648
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.ccsupport
-Filename: debs/com.sini921.appstoretroller_0.1.2-7_iphoneos-arm64.deb
-Size: 238724
-MD5sum: 1c14ef43f62509457d03e48319c24721
-SHA1: 7e4194067fd9f3eb16b0f311af8a7de8a040eab0
-SHA256: e34d545cc6fad040b61410f7a47eb00c55bb3d002a10b1db75ac4d6ab037816d
-Section: 越狱插件
-Description: 在AppStore中安装应用程序时伪装系统版本以安装需要更高系统版本的应用程序
-Author: SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
-Name: AppStoreTroller(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
-
-Package: com.sini921.appstoretroller
-Version: 0.1.2-8
-Architecture: iphoneos-arm64e
-Maintainer: SINI
-Installed-Size: 1140
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.ccsupport
-Filename: debs/com.sini921.appstoretroller_0.1.2-8_iphoneos-arm64e.deb
-Size: 235606
-MD5sum: 1879fd6724088418459e76367851387b
-SHA1: f4b4758b490e936b865365b91ea290ad3ba8bdfa
-SHA256: 7fd943bc9b80e24caa3d99ec6e3dc8724e804736104cf2255a745890ff7e22f2
-Section: 越狱插件
-Description: 在AppStore中安装应用程序时伪装系统版本以安装需要更高系统版本的应用程序
-Author: SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
-Name: AppStoreTroller(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
-
-Package: com.sini921.appstoretroller
-Version: 0.1.2-8
-Architecture: iphoneos-arm64
-Maintainer: SINI
-Installed-Size: 1140
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.ccsupport
-Filename: debs/com.sini921.appstoretroller_0.1.2-8_iphoneos-arm64.deb
-Size: 239554
-MD5sum: 740b870e9087262a20ef5a39b2f628b9
-SHA1: b5d8d20ceced9434234dca03189e892ebdbaf9a0
-SHA256: 76b70ea5e93c637bb9606a7c448b53aa3fcb8fd612a6885f628bf7d5a04fc067
-Section: 越狱插件
-Description: 在AppStore中安装应用程序时伪装系统版本以安装需要更高系统版本的应用程序
-Author: SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
-Name: AppStoreTroller(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
-
-Package: com.sini921.appstoretroller
-Version: 0.1.2-9
-Architecture: iphoneos-arm64e
-Maintainer: SINI
-Installed-Size: 1156
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.ccsupport
-Filename: debs/com.sini921.appstoretroller_0.1.2-9_iphoneos-arm64e.deb
-Size: 238938
-MD5sum: 4cad2b237f7123c40047602d1e3ae2dc
-SHA1: 0a29215695da03a57032a6abe57e58b631971792
-SHA256: 3ab26c5491724dc759d0922336531d1d6bc2852dea0ac96297e6a9d08c248581
-Section: 越狱插件
-Description: 在AppStore中安装应用程序时伪装系统版本以安装需要更高系统版本的应用程序
-Author: SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
-Name: AppStoreTroller(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
-
-Package: com.sini921.appstoretroller
-Version: 0.1.2-9
-Architecture: iphoneos-arm64
-Maintainer: SINI
-Installed-Size: 1176
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.ccsupport
-Filename: debs/com.sini921.appstoretroller_0.1.2-9_iphoneos-arm64.deb
-Size: 241936
-MD5sum: d47df9693dd8434b1045cda054e44877
-SHA1: c29fb7088c9baf9e2168299344f0078798bd1fe0
-SHA256: 7674d6f65b18c0324413f500fd7d29f399e0f249571707b1f093197d00394b3b
+Filename: debs/com.sini921.appstoretroller_0.1.2-10_iphoneos-arm64.deb
+Size: 264818
+MD5sum: 0ce9c20082f52da0aa7345f23476a5fd
+SHA1: f001206d4116bd161dd8d9d6c8c2bc08f92fac1d
+SHA256: 56c8256ff2af0cb522fc04d0bc25ffb5158acfa9375c3e316f5be7c4f0ef054b
 Section: 越狱插件
 Description: 在AppStore中安装应用程序时伪装系统版本以安装需要更高系统版本的应用程序
 Author: SINI
@@ -21805,21 +21757,6 @@ Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、�
 Author: Junhong
 Name: 红果净化
 
-Package: hongguofn
-Version: 2.2.9
-Architecture: iphoneos-arm64
-Maintainer: Junhong
-Installed-Size: 15904
-Filename: debs/红果净化_2.2.9_arm64.deb
-Size: 8055998
-MD5sum: c44b82124e7e2acdcb2bfcefc6f20722
-SHA1: b203e7b8e7ddb2d886290128cceb4f9424ee8078
-SHA256: 8410de224d7a580a3675de83e86ae3f72c8403cd5dbd84b2f318433570399706
-Section: Tweaks
-Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
-Author: Junhong
-Name: 红果净化
-
 Package: hongguofn.roothide
 Version: 2.2.10
 Architecture: iphoneos-arm64e
@@ -21830,21 +21767,6 @@ Size: 8030248
 MD5sum: 986285107093898db84f104deb4a36a0
 SHA1: 7a06017b6f99b527f157de462f70477f2e336f6e
 SHA256: 20b88d29f477bd9eae7fc74219cf919787502ee1a5533f0c7e5b0b2ab9be3f62
-Section: Tweaks
-Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
-Author: Junhong
-Name: 红果净化 (Roothide)
-
-Package: hongguofn.roothide
-Version: 2.2.9
-Architecture: iphoneos-arm64e
-Maintainer: Junhong
-Installed-Size: 15696
-Filename: debs/红果净化_2.2.9_arm64e.deb
-Size: 7971302
-MD5sum: e63cf9ca4b71064aecc9d410c7a2276a
-SHA1: f060c97cea2db3295f6aeffc2ce5672a1c8df494
-SHA256: f19b7521c96e21ebe7eca820b6e9537aea9799c56a4771f2fd990c958fd56459
 Section: Tweaks
 Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、界面净化、广告控制、播放增强与视频保存。
 Author: Junhong
