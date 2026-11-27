@@ -13775,6 +13775,40 @@ Author: huami
 Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: DYYY
 
+Package: com.huami.xhsnative
+Version: 1.7
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 652
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/com.huami.xhsnative_1.7_iphoneos-arm64e.deb
+Size: 145484
+MD5sum: 82d38937347df8f2b4f53d09c9e041aa
+SHA1: e99971f9c4872105954a71c3fad161ded294f5f3
+SHA256: 638b4cf864f77f7998b5ea5bf080a633f0a84c59f15d08ccfccf1f9893a1f521
+Section: Tweaks
+Homepage: https://github.com/huami1314/XHSNative
+Description: 小红书液态玻璃插件。iOS 26 及以上用系统的液态玻璃，更早的系统用仿玻璃。
+Author: huami
+Name: XHSNative
+
+Package: com.huami.xhsnative
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 652
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/com.huami.xhsnative_1.7_iphoneos-arm64.deb
+Size: 145912
+MD5sum: b116a7c608d2ec556241b49610021eaf
+SHA1: 805a3c2ff5953c32a4c8696313451cc8c0d858fc
+SHA256: 22b053e662af9f1de434ca7a8ef56382a0ca4f84c70c2588eb64324b4ed841a8
+Section: Tweaks
+Homepage: https://github.com/huami1314/XHSNative
+Description: 小红书液态玻璃插件。iOS 26 及以上用系统的液态玻璃，更早的系统用仿玻璃。
+Author: huami
+Name: XHSNative
+
 Package: com.huayuarc.cputhermal
 Version: 1.6.2-17
 Architecture: iphoneos-arm64e
@@ -22590,6 +22624,64 @@ Description: 针对任意 App 单独配置虚拟权限，防止隐私被过度�
   其他设备请自行测试
 Author: Junhong
 Name: 虚拟权限 · Fake Permission (Roothide)
+
+Package: im.mjh.icbcjailbreakbypass
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Installed-Size: 168
+Filename: debs/工商银行越狱检测屏蔽_1.0.0_arm64.deb
+Size: 22682
+MD5sum: 8836dbc21ded4e0c5522a7b94db04ff9
+SHA1: f7c79b0539669d8d12613c474a9aba16d7442757
+SHA256: 03bea7d33c177eadcff96fa266b6839f02669c48b2be0cf1d892d8227cf55861
+Section: Tweaks
+Description: 中国工商银行 App 屏蔽越狱检测，阻止「安全提示」弹窗及退出进程。
+Author: Junhong
+Name: 工商银行越狱检测屏蔽
+
+Package: im.mjh.icbcjailbreakbypass.roothide
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: Junhong
+Installed-Size: 200
+Filename: debs/工商银行越狱检测屏蔽_1.0.0_arm64e.deb
+Size: 28316
+MD5sum: bc57c3f04671a2b675f82773a5285cf5
+SHA1: beccb2d79645c4bbef5a21b49a9533afc5a228f2
+SHA256: 7f044d8042d1282be0f0d7fae464afa0d457a750da20c6992379a1978c3e8a61
+Section: Tweaks
+Description: 中国工商银行 App 屏蔽越狱检测，阻止「安全提示」弹窗及退出进程。
+Author: Junhong
+Name: 工商银行越狱检测屏蔽 (Roothide)
+
+Package: im.mjh.qqmusicadkiller
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Filename: debs/QQ 音乐去开屏广告_0.1.0_arm64.deb
+Size: 7776
+MD5sum: 4e7482aeba23c70755784088ed74c07b
+SHA1: 485f2c9844da3b9fd6b52088d60cd53e036827dd
+SHA256: 714b256ad532bdf09e4e7d7cf6cbab61d7e4c035ae2563e60908ae98a803a4fc
+Section: Tweaks
+Description: 屏蔽开屏广告与播放页封面广告。
+Author: Junhong
+Name: QQ 音乐去开屏广告
+
+Package: im.mjh.qqmusicadkiller.roothide
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Junhong
+Filename: debs/QQ 音乐去开屏广告_0.1.0_arm64e.deb
+Size: 7756
+MD5sum: 0a9fe1ef692843c667eab22daf443b62
+SHA1: b0b4eac4c760a15a8a756f714a0bc8f3ade68c6e
+SHA256: b3fdf08f394a1f2be3b542884a40a459e0445284aa3fcccadad6fa5f93c5e2f5
+Section: Tweaks
+Description: 屏蔽开屏广告与播放页封面广告。
+Author: Junhong
+Name: QQ 音乐去开屏广告 (Roothide)
 
 Package: im.mjh.xianyuadblock
 Version: 3.0.0
