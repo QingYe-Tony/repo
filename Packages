@@ -5065,137 +5065,6 @@ Icon: https://axs66.github.io/pro/icon/promotion120.png
 Name: ProMotion 120Hz
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/promotion120hz/js.json
 
-Package: com.Axs.qjsy
-Version: 4.1.6-end
-Architecture: iphoneos-arm64
-Maintainer: 冰蓝
-Installed-Size: 2496
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.Axs.qjsy_4.1.6-end_iphoneos-arm64.deb
-Size: 337352
-MD5sum: 986721698d40c83e34c786c1041caf2c
-SHA1: 4df33a97134382e131c953a86e6cd895a53e4cf4
-SHA256: 69f8ff7d51719fd5c2f69f8498a9e041fe096c42f7d2a0689f2f9690955f91a7
-Section: Tweaks
-Description: 全局水印Pro，截图一键添加水印、套壳与高斯模糊效果
- .
- 一、基础指令
- 1 仅加水印
- 链接: binglan://sy
- 效果: 触发截图 -> 添加水印。
- .
- 2 仅加套壳
- 链接: binglan://tk
- 效果: 触发截图 -> 增加套壳。
- .
- 3 套壳 + 水印
- 链接: binglan://tksy (或 binglan://sytk)
- 效果: 触发截图 -> 增加套壳 -> 叠加水印。
- .
- 4 套壳 + 全覆盖水印
- 链接: binglan://tkwsy
- 效果: 触发截图 -> 增加套壳 -> 叠加覆盖整个屏幕的全屏水印。
- .
- 二、进阶指令: 指定套壳 (&id=)
- (注: &id= 和 ?id= 均支持, 不支持中文。)
- .
- 1 指定套壳 (无水印)
- 链接: binglan://tk&id=套壳文件夹名称
- 示例: binglan://tk&id=1
- .
- 2 指定套壳 + 水印
- 链接: binglan://tksy&id=套壳文件夹名称
- 示例: binglan://tksy&id=22
- .
- 3 指定套壳 + 全覆盖水印
- 链接: binglan://tkwsy&id=套壳文件夹名称
- 示例: binglan://tkwsy&id=33
- .
- 三、进阶指令: 高斯模糊背景 (&gsmh/)
- 数值说明: 斜杠 / 后面的数字代表模糊强度
- .
- 1 背景模糊 + 水印
- 链接: binglan://sy&gsmh/50
- 效果: 将截图模糊 (强度50%) -> 叠加水印。
- .
- 2 背景模糊 + 套壳 + 水印
- 链接: binglan://tksy&gsmh/50 (或 binglan://sytk&gsmh/50)
- 效果: 将截图模糊 (强度50%) -> 增加套壳 -> 叠加水印。
- .
- 3 背景模糊 + 套壳 + 全覆盖水印
- 链接: binglan://tkwsy&gsmh/50
- 效果: 将截图模糊 (强度50%) -> 增加套壳 -> 叠加全覆盖水印。
-Author: 冰蓝
-Icon: https://axs66.github.io/pro/icon/screenshellpro.png
-Name: 全局水印Pro
-Rootless: yes
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
-
-Package: com.Axs.qjsy
-Version: 4.1.6-end
-Architecture: iphoneos-arm64e
-Maintainer: 冰蓝
-Installed-Size: 2496
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.Axs.qjsy_4.1.6-end_iphoneos-arm64e.deb
-Size: 337624
-MD5sum: 29102925bc32cd7399e2bcdb2c6d36da
-SHA1: 2f235597c9b4b444795fb78e6f74845e1e9d36cd
-SHA256: 5a490ddc26f95d0164535d09a6721c1de159e9aeb222ae4d37bdb6b7e4a95a4b
-Section: Tweaks
-Description: 全局水印Pro，截图一键添加水印、套壳与高斯模糊效果
- .
- 一、基础指令
- 1 仅加水印
- 链接: binglan://sy
- 效果: 触发截图 -> 添加水印。
- .
- 2 仅加套壳
- 链接: binglan://tk
- 效果: 触发截图 -> 增加套壳。
- .
- 3 套壳 + 水印
- 链接: binglan://tksy (或 binglan://sytk)
- 效果: 触发截图 -> 增加套壳 -> 叠加水印。
- .
- 4 套壳 + 全覆盖水印
- 链接: binglan://tkwsy
- 效果: 触发截图 -> 增加套壳 -> 叠加覆盖整个屏幕的全屏水印。
- .
- 二、进阶指令: 指定套壳 (&id=)
- (注: &id= 和 ?id= 均支持, 不支持中文。)
- .
- 1 指定套壳 (无水印)
- 链接: binglan://tk&id=套壳文件夹名称
- 示例: binglan://tk&id=1
- .
- 2 指定套壳 + 水印
- 链接: binglan://tksy&id=套壳文件夹名称
- 示例: binglan://tksy&id=22
- .
- 3 指定套壳 + 全覆盖水印
- 链接: binglan://tkwsy&id=套壳文件夹名称
- 示例: binglan://tkwsy&id=33
- .
- 三、进阶指令: 高斯模糊背景 (&gsmh/)
- 数值说明: 斜杠 / 后面的数字代表模糊强度
- .
- 1 背景模糊 + 水印
- 链接: binglan://sy&gsmh/50
- 效果: 将截图模糊 (强度50%) -> 叠加水印。
- .
- 2 背景模糊 + 套壳 + 水印
- 链接: binglan://tksy&gsmh/50 (或 binglan://sytk&gsmh/50)
- 效果: 将截图模糊 (强度50%) -> 增加套壳 -> 叠加水印。
- .
- 3 背景模糊 + 套壳 + 全覆盖水印
- 链接: binglan://tkwsy&gsmh/50
- 效果: 将截图模糊 (强度50%) -> 增加套壳 -> 叠加全覆盖水印。
-Author: 冰蓝
-Icon: https://axs66.github.io/pro/icon/screenshellpro.png
-Name: 全局水印Pro
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
-
 Package: com.Axs.qnsmw
 Version: 1.0.0-8
 Architecture: iphoneos-arm64
@@ -8276,28 +8145,6 @@ Author: A
 Icon: https://raw.githubusercontent.com/axs66/ReachMyAbility/refs/heads/main/Resources/icon.png
 Name: ReachMyAbility
 Sileodepiction: https://raw.githubusercontent.com/axs66/ReachMyAbility/main/Resources/depiction.json
-
-Package: com.axs.screenshellpro
-Version: 5.2.0-61
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 540
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: debs/ScreenShell Pro_录屏 截图套壳无根.deb
-Size: 51668
-MD5sum: 235d9f38c13d2f1388f980dc6d1d09ca
-SHA1: fcf984b726e5baead72c1e9634f22cbed321ca5a
-SHA256: faa5bd43435012d5a27520c3fb450047d475f03f5b32f27b658d7c79c1fe835c
-Section: Tweaks
-Description: 专业的 iOS 全局水印&套壳『截屏.录屏』增强工具。插件需要授权才能使用。授权请联系微信：VCR66T
- * 1. 录屏套壳渲染极快。
- * 2. 渲染过程中手机不发烫。
- * 3. 插件不需要任何依赖。
- * 4. 本插件是目前市面上最好的录屏套壳渲染工具。
-Author: Axs
-Icon: https://axs66.github.io/pro/icon/screenshellpro.png
-Name: ScreenShell Pro
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/screenshellpro/js.json
 
 Package: com.axs.snapper3tag
 Version: 5.2.0-18
@@ -17730,6 +17577,62 @@ Description: 在「设置」里修改越狱插件入口的显示名称与图标�
 Author: 清野
 Icon: file:///var/mobile/Library/Caches/com.qingye.plrename/icon.png
 Name: 改头换面
+
+Package: com.qingye.qjsy
+Version: 4.1.6
+Architecture: iphoneos-arm64
+Maintainer: 冰蓝
+Installed-Size: 2496
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.qingye.qjsy_4.1.6_iphoneos-arm64.deb
+Size: 357200
+MD5sum: 7ad35d939329da9ef2b09864f541e79a
+SHA1: 242d7bf2bcec0124018d3736ab8df6443cf468ab
+SHA256: dffbc3de5b895e7882ce3506642e3db8f76f0d6a8edd7d88f0b655ab609ad811
+Section: Tweaks
+Description: 截图/录屏一键添加水印与套壳的增强插件。
+ .
+ 主要功能：
+ - 截图与录屏自动叠加水印、套壳，支持高斯模糊背景、套壳内全覆盖水印。
+ - 多种截图手势：摇晃、双指长按、双击、下滑、单指画圆、屏幕角落截图。
+ - 水印管理：单/双重/三重水印、随机水印、叠加模式与透明度可调、素材目录自定义。
+ - 套壳管理：浅色/暗黑套壳、随机套壳、cfg 点位可视化编辑。
+ - 拼图功能：连续截图自动拼图，横/竖/九宫格/高斯模糊等模式。
+ - 一键出图：从相册选图套用水印，支持成品预览与导出到相册。
+ - 手势设置项新增「URL 链接」入口：点击可查看并复制全部 binglan:// 指令。
+Author: 冰蓝
+Icon: https://axs66.github.io/pro/icon/screenshellpro.png
+Name: 全局水印Pro
+Rootless: yes
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+
+Package: com.qingye.qjsy
+Version: 4.1.6
+Architecture: iphoneos-arm64e
+Maintainer: 冰蓝
+Installed-Size: 2496
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.qingye.qjsy_4.1.6_iphoneos-arm64e.deb
+Size: 356868
+MD5sum: 2a2c3e3c6dbd5c14f2c4f5b4efdfb013
+SHA1: 767fcb46980c51677681ea14bef82cfa7ff1e985
+SHA256: a10aec9494c66021a9447bca2e24315d3fcc7eabfa8799c945d00c9b8ebc3bd2
+Section: Tweaks
+Description: 截图/录屏一键添加水印与套壳的增强插件。
+ .
+ 主要功能：
+ - 截图与录屏自动叠加水印、套壳，支持高斯模糊背景、套壳内全覆盖水印。
+ - 多种截图手势：摇晃、双指长按、双击、下滑、单指画圆、屏幕角落截图。
+ - 水印管理：单/双重/三重水印、随机水印、叠加模式与透明度可调、素材目录自定义。
+ - 套壳管理：浅色/暗黑套壳、随机套壳、cfg 点位可视化编辑。
+ - 拼图功能：连续截图自动拼图，横/竖/九宫格/高斯模糊等模式。
+ - 一键出图：从相册选图套用水印，支持成品预览与导出到相册。
+ - 手势设置项新增「URL 链接」入口：点击可查看并复制全部 binglan:// 指令。
+Author: 冰蓝
+Icon: https://axs66.github.io/pro/icon/screenshellpro.png
+Name: 全局水印Pro
+Rootless: yes
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
 Package: com.qingye.screenshot
 Version: 4.9.1.6
