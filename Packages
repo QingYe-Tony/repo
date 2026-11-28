@@ -17585,10 +17585,10 @@ Maintainer: 冰蓝
 Installed-Size: 2496
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.qingye.qjsy_4.1.6_iphoneos-arm64.deb
-Size: 357200
-MD5sum: 7ad35d939329da9ef2b09864f541e79a
-SHA1: 242d7bf2bcec0124018d3736ab8df6443cf468ab
-SHA256: dffbc3de5b895e7882ce3506642e3db8f76f0d6a8edd7d88f0b655ab609ad811
+Size: 357176
+MD5sum: 7cb8861434e1535f2097621ad9799140
+SHA1: 64ba2ae1ecd9d99844e4cd8769070f91f3541df8
+SHA256: a3bc56a5a61dbed7c04f544426a1141785342a9af0595fa10e6603aba2c7f2ed
 Section: Tweaks
 Description: 截图/录屏一键添加水印与套壳的增强插件。
  .
@@ -17604,7 +17604,6 @@ Author: 冰蓝
 Icon: https://axs66.github.io/pro/icon/screenshellpro.png
 Name: 全局水印Pro
 Rootless: yes
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
 Package: com.qingye.qjsy
 Version: 4.1.6
@@ -17613,10 +17612,10 @@ Maintainer: 冰蓝
 Installed-Size: 2496
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.qingye.qjsy_4.1.6_iphoneos-arm64e.deb
-Size: 356868
-MD5sum: 2a2c3e3c6dbd5c14f2c4f5b4efdfb013
-SHA1: 767fcb46980c51677681ea14bef82cfa7ff1e985
-SHA256: a10aec9494c66021a9447bca2e24315d3fcc7eabfa8799c945d00c9b8ebc3bd2
+Size: 357148
+MD5sum: ee08de1b7c6e0b949b03f87844c9004f
+SHA1: 95482ef597a3796c8c4e568d709c96fbf13c8406
+SHA256: ce4a4522b531ffe5141e71669ea29dabee433f75e90c691e13351a39b3195840
 Section: Tweaks
 Description: 截图/录屏一键添加水印与套壳的增强插件。
  .
@@ -17632,7 +17631,6 @@ Author: 冰蓝
 Icon: https://axs66.github.io/pro/icon/screenshellpro.png
 Name: 全局水印Pro
 Rootless: yes
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
 Package: com.qingye.screenshot
 Version: 4.9.1.6
