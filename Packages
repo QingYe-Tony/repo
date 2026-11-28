@@ -22128,6 +22128,25 @@ Description: RootHide Dynamic Patches For Filza
 Author: roothide
 Name: Patches for Filza 64bit
 
+Package: roothide.patches.filza
+Version: 0.6-1
+Architecture: iphoneos-arm64e
+Maintainer: roothide
+Installed-Size: 284
+Depends: com.roothide.patchloader
+Recommends: com.tigisoftware.filza64bit(= 4.0.1-4~roothide)
+Conflicts: com.tigisoftware.filza64bit(>> 4.0.1-4~roothide), com.tigisoftware.filza64bit(<< 4.0.1-4~roothide)
+Provides: patches-com.tigisoftware.filza64bit(= 4.0.1-4~roothide)
+Filename: debs/roothide.patches.filza_0.6-1_iphoneos-arm64e.deb
+Size: 36152
+MD5sum: 5b86e8a09e6e4b703495d064a17ea358
+SHA1: 73bbdfcc347db7ce7a5516bfd5fef9f52fa682fb
+SHA256: e2793dbcd4e2cdc6aaa4eea5787430b2330d997013aba423584f4591bf9dc752
+Section: RootHide Patches
+Description: RootHide Dynamic Patches For Filza
+Author: roothide
+Name: Patches for Filza 64bit
+
 Package: wiki.qaq.colorfulwallpaperx
 Version: 4.6
 Architecture: iphoneos-arm64
