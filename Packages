@@ -21696,6 +21696,36 @@ Description: 适用于红果短剧与红果漫剧，支持液态玻璃底栏、�
 Author: Junhong
 Name: 红果净化 (Roothide)
 
+Package: im.mjh.abcjailbreakbypass
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Installed-Size: 236
+Filename: debs/农行越狱检测屏蔽_1.0.0_arm64.deb
+Size: 62384
+MD5sum: 34810069eba70cddce7c31050d8bb016
+SHA1: 120f85665360daa461f82e0599f49714a326a00e
+SHA256: de179d3b34e969b99a5ebff2cc1447839111f7bba38bda403047e187909fc409
+Section: Tweaks
+Description: 中国农业银行 App 屏蔽越狱检测，阻止越狱风险提示与异常终止。
+Author: Junhong
+Name: 农行越狱检测屏蔽
+
+Package: im.mjh.abcjailbreakbypass.roothide
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: Junhong
+Installed-Size: 236
+Filename: debs/农行越狱检测屏蔽_1.0.0_arm64e.deb
+Size: 57372
+MD5sum: 3006179754e78412463a1cc1dc829e8a
+SHA1: eced672b807f14fff670b3d7d526154696975600
+SHA256: db2980994115b461a34d4210081822fc45ae5f38df06f60c78809bafbf42e737
+Section: Tweaks
+Description: 中国农业银行 App 屏蔽越狱检测，阻止越狱风险提示与异常终止。
+Author: Junhong
+Name: 农行越狱检测屏蔽 (Roothide)
+
 Package: im.mjh.fakeperm
 Version: 8.6.0
 Architecture: iphoneos-arm64
@@ -21933,6 +21963,36 @@ Description: 闲鱼广告与页面净化、后台原样编辑商品、会员经�
 Author: junhong
 Name: 闲鱼助手
 
+Package: im.mjh.xianyuadblock
+Version: 3.2.6
+Architecture: iphoneos-arm
+Maintainer: junhong
+Installed-Size: 2584
+Filename: debs/闲鱼助手Rootful_3.2.6_arm64.deb
+Size: 864430
+MD5sum: ea2839fe638cbb74b83d11d6c33d5013
+SHA1: 941213248b220555357981b85bcf448cfe2ef4a9
+SHA256: 6020486511cb5321546533d2326335193efa151101d58bcb290a7f79615f17ff
+Section: Tweaks
+Description: 闲鱼广告与页面净化、后台原样编辑商品、会员经验领取、任务控制及逐件运行记录。
+Author: junhong
+Name: 闲鱼助手 Rootful
+
+Package: im.mjh.xianyuadblock
+Version: 3.2.6
+Architecture: iphoneos-arm64
+Maintainer: junhong
+Installed-Size: 2584
+Filename: debs/闲鱼助手_3.2.6_arm64.deb
+Size: 864206
+MD5sum: b799b51e1ffd8069631f7783da1574ac
+SHA1: d6faa9eb377a0d21975689fc95c93e9c85200842
+SHA256: b3751a4c867aa03d983d5cf835d3f009e7a16f305a2d323a484a18735851c484
+Section: Tweaks
+Description: 闲鱼广告与页面净化、后台原样编辑商品、会员经验领取、任务控制及逐件运行记录。
+Author: junhong
+Name: 闲鱼助手
+
 Package: im.mjh.xianyuadblock.roothide
 Version: 3.2.3
 Architecture: iphoneos-arm64e
@@ -21963,6 +22023,21 @@ Size: 857928
 MD5sum: 15b818c412205c32e4250bab8776cea5
 SHA1: f715d6957fc59cad482506188902a462e8a5da9c
 SHA256: e386d443166adc46ebdb5b74167a5a0cdbb70950ee76d5471598e42d991c285d
+Section: Tweaks
+Description: 闲鱼广告与页面净化、后台原样编辑商品、会员经验领取、任务控制及逐件运行记录。
+Author: junhong
+Name: 闲鱼助手 (Roothide)
+
+Package: im.mjh.xianyuadblock.roothide
+Version: 3.2.6
+Architecture: iphoneos-arm64e
+Maintainer: junhong
+Installed-Size: 2584
+Filename: debs/闲鱼助手_3.2.6_arm64e.deb
+Size: 864968
+MD5sum: e4a16c44d4a4a853e4a69d99c331b4e2
+SHA1: 884a528a15d012ec3961bf0ed0ee3748030eb032
+SHA256: 1c126ffc5eeba4cf5816fc2c3aee98e9813ddc7dd8ab44ee0f733dfbac65bbbc
 Section: Tweaks
 Description: 闲鱼广告与页面净化、后台原样编辑商品、会员经验领取、任务控制及逐件运行记录。
 Author: junhong
